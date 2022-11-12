@@ -13,6 +13,6 @@ My name is Patrick D'appollonio, I'm a technical architect and a staff engineer 
 
 ### Additional stats 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=patrickdappollonio&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=patrickdappollonio&show_icons=true&theme=transparent)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdappollonio&theme=blue-green)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdappollonio&theme=transparent)
