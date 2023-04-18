@@ -10,9 +10,3 @@ My name is Patrick D'appollonio, I'm a technical architect and a staff engineer 
 * [`tgen`](https://github.com/patrickdappollonio/tgen) - a standalone `consul-template` or mini `helm` tool to render Go templates... Without the complexity of either.
 * [`dotenv`](https://github.com/patrickdappollonio/dotenv) - with `dotenv` you can quickly run commands with environment variables set from files, like `dotenv -e sample 'echo $HELLO'` where `sample` is a `sample.env` file with `HELLO=world` in it.
 * [`wait-for`](https://github.com/patrickdappollonio/wait-for) - my own personal attempt at creating a typical init container application for Kubernetes that waits before running the main container until a service is available on a given endpoint.
-
-### Additional stats 📈
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=patrickdappollonio&show_icons=true&theme=transparent)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdappollonio&theme=transparent)
