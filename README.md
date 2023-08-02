@@ -2,6 +2,11 @@
 
 My name is Patrick D'appollonio, I'm a technical architect and a staff engineer for [Netlify](https://www.netlify.com/). I work mostly with Go and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve personal itches. If you see them valuable or have any feedback, please do not hesitate and create an issue or message me on Twitter: [@marlex](https://twitter.com/marlex)
 
+### Noteworthy sites
+
+* [`patrickdap.com`](https://www.patrickdap.com) My personal website, with all my stories and technology notes (with some notes in Spanish)
+* [`www.headers.live`](https://headers.live) Get the headers, WHOIS and Certificate information of any website.
+
 ### Noteworthy projects 🧑‍💻
 
 * [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) - have you ever seen a YAML with those triple-dash separators and hoped there would be a tool to split them into individual YAML files? `kubectl-slice` is a `krew` plugin (or a standalone app if you prefer) that can split multi-YAML files into individual files.
