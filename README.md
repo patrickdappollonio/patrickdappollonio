@@ -10,30 +10,16 @@ I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefi
 *(Some content might be written in Spanish)*
 
 
-* [Cultural differences between Chile and USA (and North America)](https://www.patrickdap.com/post/cultural-differences-chile-usa/) *(published on January 21, 2024)*
-* [Benchmarking is Hard: Caddy vs Nginx Edition](https://www.patrickdap.com/post/benchmarking-is-hard/) *(published on September 23, 2023)*
-* [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/) *(published on August 18, 2023)*
-* [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/) *(published on January 27, 2023)*
-* [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/) *(published on October 31, 2022)*
-* [Six things I wish I would've known when I started working with Istio](https://www.patrickdap.com/post/things-to-know-istio/) *(published on April 22, 2022)*
-* [ArgoCD and Health Checks, or how to avoid Kubernetes "eventual consistency"](https://www.patrickdap.com/post/argocd-health-checks/) *(published on January 24, 2022)*
-* ["wait-for", a tiny utility to wait for TCP resources to be ready](https://www.patrickdap.com/post/wait-for/) *(published on January 23, 2022)*
-* [Bienvenido de vuelta!](https://www.patrickdap.com/post/bienvenido-de-vuelta/) *(published on January 16, 2022)*
-* [Usa las fuentes de Google Web Fonts localmente](https://www.patrickdap.com/post/google-fonts-local/) *(published on April 05, 2015)*
-
-### ⭐ Projects that recently caught my attention
-
-
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from zen-browser with 5,447 ⭐️
-* [twpayne/go-sse](https://github.com/twpayne/go-sse) from twpayne with 4 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from caarlos0 with 30 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from astral-sh with 17,491 ⭐️
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from masonr with 4,095 ⭐️
-* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from JamesWoolfenden with 24 ⭐️
-* [moderato-app/approf](https://github.com/moderato-app/approf) from moderato-app with 174 ⭐️
-* [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from konstructio with 4 ⭐️
-* [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from emberstack with 1,012 ⭐️
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from kubernetes with 109,358 ⭐️
+* [Cultural differences between Chile and USA (and North America)](https://www.patrickdap.com/post/cultural-differences-chile-usa/?ref=github-profile) *(published on January 21, 2024)*
+* [Benchmarking is Hard: Caddy vs Nginx Edition](https://www.patrickdap.com/post/benchmarking-is-hard/?ref=github-profile) *(published on September 23, 2023)*
+* [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/?ref=github-profile) *(published on August 18, 2023)*
+* [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
+* [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
+* [Six things I wish I would've known when I started working with Istio](https://www.patrickdap.com/post/things-to-know-istio/?ref=github-profile) *(published on April 22, 2022)*
+* [ArgoCD and Health Checks, or how to avoid Kubernetes "eventual consistency"](https://www.patrickdap.com/post/argocd-health-checks/?ref=github-profile) *(published on January 24, 2022)*
+* ["wait-for", a tiny utility to wait for TCP resources to be ready](https://www.patrickdap.com/post/wait-for/?ref=github-profile) *(published on January 23, 2022)*
+* [Bienvenido de vuelta!](https://www.patrickdap.com/post/bienvenido-de-vuelta/?ref=github-profile) *(published on January 16, 2022)*
+* [Usa las fuentes de Google Web Fonts localmente](https://www.patrickdap.com/post/google-fonts-local/?ref=github-profile) *(published on April 05, 2015)*
 
 ### ✍️ Recent Contributions
 
@@ -48,3 +34,17 @@ I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefi
 * [#4 - Fix incorrect path inside sub-job.](https://github.com/konstructio/charts-mirror/pull/4) *(merged)*
 * [#3 - Patch commit on lack of changes](https://github.com/konstructio/charts-mirror/pull/3) *(merged)*
 * [#2 - Add support for uploading downloaded charts to a remote museum.](https://github.com/konstructio/charts-mirror/pull/2) *(merged)*
+
+### ⭐ Projects that recently caught my attention
+
+
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from zen-browser with 5,450 ⭐️
+* [twpayne/go-sse](https://github.com/twpayne/go-sse) from twpayne with 4 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from caarlos0 with 30 ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from astral-sh with 17,491 ⭐️
+* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from masonr with 4,095 ⭐️
+* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from JamesWoolfenden with 24 ⭐️
+* [moderato-app/approf](https://github.com/moderato-app/approf) from moderato-app with 174 ⭐️
+* [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from konstructio with 4 ⭐️
+* [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from emberstack with 1,012 ⭐️
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from kubernetes with 109,358 ⭐️
