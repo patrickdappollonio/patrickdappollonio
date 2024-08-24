@@ -26,6 +26,8 @@ jobs:
 
       - name: Update README with latest information
         run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           patrickdappollonio > README.md
           git add README.md || echo "No changes to add"
           git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
