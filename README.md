@@ -1,9 +1,10 @@
 ### Hello! 👋 Welcome to my Github Profile!
 
-I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefirst.io). I work mostly with Go and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve *personal itches*. If you see them valuable or have any feedback, please do not hesitate and create an issue or message me on Twitter: [`@marlex`](https://twitter.com/marlex)
+I'm [Patrick D'appollonio](https://www.patrickdap.com), I'm a Principal Engineer at [Kubefirst](https://kubefirst.io). I work mostly with Go and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve *personal itches*. You should also see some Rust here and there. If you see them valuable or have any feedback, please do not hesitate to create an issue or message me on Twitter: [@marlex](https://twitter.com/marlex).
 
-> [!TIP]
-> Feel free to take a look at any of the projects below. Any feedback, recommendation or improvement is always welcome!
+If you want to know more about me, you can visit my [personal website](https://www.patrickdap.com) (some of the most recent articles I've written are listed below!), follow me on [Twitter/X](https://twitter.com/marlex) or add me on [LinkedIn](https://www.linkedin.com/in/patrickdappollonio/).
+
+My own favourite projects are 📌 pinned below!
 
 ### 📚 Latest Blog Posts
 
@@ -15,13 +16,10 @@ I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefi
 * [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/?ref=github-profile) *(published on August 18, 2023)*
 * [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
 * [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
-* [Six things I wish I would've known when I started working with Istio](https://www.patrickdap.com/post/things-to-know-istio/?ref=github-profile) *(published on April 22, 2022)*
-* [ArgoCD and Health Checks, or how to avoid Kubernetes "eventual consistency"](https://www.patrickdap.com/post/argocd-health-checks/?ref=github-profile) *(published on January 24, 2022)*
-* ["wait-for", a tiny utility to wait for TCP resources to be ready](https://www.patrickdap.com/post/wait-for/?ref=github-profile) *(published on January 23, 2022)*
-* [Bienvenido de vuelta!](https://www.patrickdap.com/post/bienvenido-de-vuelta/?ref=github-profile) *(published on January 16, 2022)*
-* [Usa las fuentes de Google Web Fonts localmente](https://www.patrickdap.com/post/google-fonts-local/?ref=github-profile) *(published on April 05, 2015)*
 
 ### ✍️ Recent Contributions
+
+*Pull Requests I've opened or contributed to recently.*
 
 
 * [#400 - Fix minor inconsistencies with the API.](https://github.com/konstructio/kubefirst-api/pull/400) *(merged)*
@@ -37,14 +35,18 @@ I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefi
 
 ### ⭐ Projects that recently caught my attention
 
+*Repositories I've starred recently because they were interesting, cool, or useful.*
 
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from zen-browser with 5,450 ⭐️
-* [twpayne/go-sse](https://github.com/twpayne/go-sse) from twpayne with 4 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from caarlos0 with 30 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from astral-sh with 17,491 ⭐️
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from masonr with 4,095 ⭐️
-* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from JamesWoolfenden with 24 ⭐️
-* [moderato-app/approf](https://github.com/moderato-app/approf) from moderato-app with 174 ⭐️
-* [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from konstructio with 4 ⭐️
-* [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from emberstack with 1,012 ⭐️
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from kubernetes with 109,358 ⭐️
+
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from @zen-browser with 5,475 ⭐️
+* [twpayne/go-sse](https://github.com/twpayne/go-sse) from @twpayne with 4 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from @caarlos0 with 30 ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from @astral-sh with 17,493 ⭐️
+* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from @masonr with 4,095 ⭐️
+* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from @JamesWoolfenden with 24 ⭐️
+* [moderato-app/approf](https://github.com/moderato-app/approf) from @moderato-app with 174 ⭐️
+* [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from @konstructio with 4 ⭐️
+* [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from @emberstack with 1,012 ⭐️
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from @kubernetes with 109,359 ⭐️
+
+(Last updated: August 24, 2024 at 00:56:04 UTC)
