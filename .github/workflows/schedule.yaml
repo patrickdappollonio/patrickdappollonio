@@ -2,7 +2,7 @@ name: "Update READMEs contents"
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0,12 * * *" # every day at midnight and noon
   workflow_dispatch:
 
 permissions:
@@ -26,6 +26,11 @@ jobs:
           uri: "https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
           name: "patrickdappollonio"
           version: "${{ env.VERSION }}"
+
+      - name: Configure timezone
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: "America/New_York"
 
       - name: Update README with latest information
         run: |
