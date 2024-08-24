@@ -19,3 +19,10 @@ jobs:
 
       - name: Test application
         run: go test -v ./...
+
+      - name: Dry-run goreleaser application
+        uses: goreleaser/goreleaser-action@v6
+        with:
+          distribution: goreleaser
+          version: latest
+          args: release --snapshot --skip=publish --clean
