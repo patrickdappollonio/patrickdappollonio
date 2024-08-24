@@ -19,7 +19,7 @@ My own favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently.*
 
 {{ range .PullRequests }}
-* [#{{ .ID }} - {{ .Title }}]({{ .URL }}) {{ if .Draft }}*(in draft)*{{ end }}{{ if .Merged }}*(merged)*{{ end }}
+* [#{{ .ID }} - {{ .Title }}]({{ .URL }}) on `{{ .ProjectOrg }}` {{ if .Draft }}*(in draft)*{{ end }}{{ if .Merged }}*(merged)*{{ end }}
 {{- end }}
 
 ### ⭐ Projects that recently caught my attention
@@ -27,7 +27,7 @@ My own favourite projects are 📌 pinned below!
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 {{ range .StarredRepos }}
-* [{{ .Name }}]({{ .URL }}) from @{{ .Owner.User }} with {{ .Stars | formatNumber }} ⭐️
+* [{{ .Name }}]({{ .URL }}) from [@{{ .Owner.User }}](https://github.com/{{ .Owner.User }}) with {{ .Stars | formatNumber }} ⭐️
 {{- end }}
 
 (Last updated: {{ now | formatDateTime }})

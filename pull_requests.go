@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
+	"strings"
 	"time"
 )
 
@@ -14,20 +15,29 @@ type PullRequestResponse struct {
 }
 
 type PullRequest struct {
-	URL         string    `json:"html_url"`
-	ID          int64     `json:"number"`
-	Title       string    `json:"title"`
-	State       string    `json:"state"`
-	Locked      bool      `json:"locked"`
-	Comments    int       `json:"comments"`
-	CreatedAt   time.Time `json:"created_at"`
-	UpdatedAt   time.Time `json:"updated_at"`
-	ClosedAt    time.Time `json:"closed_at"`
-	Draft       bool      `json:"draft"`
-	Body        string    `json:"body"`
-	PullRequest struct {
+	URL              string    `json:"html_url"`
+	RepositoryAPIURL string    `json:"repository_url"`
+	ID               int64     `json:"number"`
+	Title            string    `json:"title"`
+	State            string    `json:"state"`
+	Locked           bool      `json:"locked"`
+	Comments         int       `json:"comments"`
+	CreatedAt        time.Time `json:"created_at"`
+	UpdatedAt        time.Time `json:"updated_at"`
+	ClosedAt         time.Time `json:"closed_at"`
+	Draft            bool      `json:"draft"`
+	Body             string    `json:"body"`
+	PullRequest      struct {
 		MergedAt time.Time `json:"merged_at"`
 	} `json:"pull_request"`
+}
+
+func (p *PullRequest) ProjectOrg() string {
+	return strings.TrimPrefix(p.RepositoryAPIURL, "https://api.github.com/repos/")
+}
+
+func (p *PullRequest) RepositoryURL() string {
+	return strings.ReplaceAll(p.RepositoryAPIURL, "https://api.github.com/repos", "https://github.com")
 }
 
 func (p *PullRequest) Merged() bool {
