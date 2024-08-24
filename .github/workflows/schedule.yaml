@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  VERSION: "0.1.1"
+
 jobs:
   update-readme:
     name: "Update README"
@@ -20,8 +23,9 @@ jobs:
       - name: Install application to render the template
         uses: supplypike/setup-bin@v4
         with:
-          uri: https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v0.1.1/patrickdappollonio_linux_x86_64.tar.gz
-          name: patrickdappollonio
+          uri: "https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
+          name: "patrickdappollonio"
+          version: "${{ env.VERSION }}"
 
       - name: Update README with latest information
         run: |
