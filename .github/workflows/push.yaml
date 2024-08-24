@@ -22,6 +22,9 @@ jobs:
       - name: Test application
         run: go test -v ./...
 
+      - name: Dry-run the application itself
+        run: go run .
+
       - name: Dry-run goreleaser application
         uses: goreleaser/goreleaser-action@v6
         with:
