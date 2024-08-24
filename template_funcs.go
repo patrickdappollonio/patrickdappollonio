@@ -11,12 +11,12 @@ var fncs = template.FuncMap{
 	"formatDate": func(date time.Time) string {
 		return date.Format("January 02, 2006")
 	},
+	"formatDateTime": func(date time.Time) string {
+		return date.Format("January 02, 2006 at 15:04:05 MST")
+	},
 	"formatNumber": formatNumber,
 	"now": func() time.Time {
 		return time.Now()
-	},
-	"formatDateCustom": func(date time.Time, layout string) string {
-		return date.Format(layout)
 	},
 }
 
