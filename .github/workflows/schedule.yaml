@@ -20,9 +20,8 @@ jobs:
       - name: Install application to render the template
         uses: supplypike/setup-bin@v4
         with:
-          uri: https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v0.1.0/patrickdappollonio_linux_x86_64.tar.gz
+          uri: https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v0.1.1/patrickdappollonio_linux_x86_64.tar.gz
           name: patrickdappollonio
-          version: '0.1.1'
 
       - name: Update README with latest information
         run: |
