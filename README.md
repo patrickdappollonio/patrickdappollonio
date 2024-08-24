@@ -24,10 +24,10 @@ I'm Patrick D'appollonio, I'm a Principal Engineer at [Kubefirst](https://kubefi
 ### ⭐ Projects that recently caught my attention
 
 
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from zen-browser with 5,429 ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from zen-browser with 5,447 ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from twpayne with 4 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from caarlos0 with 30 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from astral-sh with 17,486 ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from astral-sh with 17,491 ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from masonr with 4,095 ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from JamesWoolfenden with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from moderato-app with 174 ⭐️
