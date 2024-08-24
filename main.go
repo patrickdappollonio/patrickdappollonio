@@ -21,7 +21,9 @@ var (
 	username     = envdefault("GITHUB_USERNAME", "patrickdappollonio")
 	rssfeed      = envdefault("RSS_FEED", "https://www.patrickdap.com/index.xml")
 	templateFile = envdefault("TEMPLATE_FILE", "template.md.gotmpl")
-	maxItems     = envintdefault("MAX_ITEMS", 10)
+	maxPRs       = envintdefault("MAX_PULL_REQUESTS", 10)
+	maxStarred   = envintdefault("MAX_STARRED_REPOS", 10)
+	maxArticles  = envintdefault("MAX_ARTICLES", 5)
 )
 
 func run() error {
@@ -43,7 +45,7 @@ func run() error {
 
 	eg.Go(func() error {
 		var err error
-		prs, err = getPullRequests(username, maxItems)
+		prs, err = getPullRequests(username, maxPRs)
 		if err != nil {
 			return fmt.Errorf("failed to get pull requests: %w", err)
 		}
@@ -52,7 +54,7 @@ func run() error {
 
 	eg.Go(func() error {
 		var err error
-		starredRepos, err = getStarredRepos(username, maxItems)
+		starredRepos, err = getStarredRepos(username, maxStarred)
 		if err != nil {
 			return fmt.Errorf("failed to get starred repos: %w", err)
 		}
@@ -61,7 +63,7 @@ func run() error {
 
 	eg.Go(func() error {
 		var err error
-		articles, err = getArticles(rssfeed, maxItems)
+		articles, err = getArticles(rssfeed, maxArticles)
 		if err != nil {
 			return fmt.Errorf("failed to read feed %q %w", rssfeed, err)
 		}
