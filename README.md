@@ -19,7 +19,7 @@ My personal favourite projects are 📌 pinned below!
 * [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
 * [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
 
-And several other articles available [on my blog](https://www.patrickdap.com/).
+... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
 
 ### ✍️ Recent Public Contributions
 
@@ -37,12 +37,12 @@ And several other articles available [on my blog](https://www.patrickdap.com/).
 * [#3 - Patch commit on lack of changes](https://github.com/konstructio/charts-mirror/pull/3) on `konstructio/charts-mirror` *(merged)*
 * [#2 - Add support for uploading downloaded charts to a remote museum.](https://github.com/konstructio/charts-mirror/pull/2) on `konstructio/charts-mirror` *(merged)*
 
-### ⭐ Projects that recently caught my attention
+### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 5,678 ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 5,680 ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 4 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 31 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 17,521 ⭐️
@@ -53,4 +53,4 @@ And several other articles available [on my blog](https://www.patrickdap.com/).
 * [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from [@emberstack](https://github.com/emberstack) with 1,013 ⭐️
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from [@kubernetes](https://github.com/kubernetes) with 109,362 ⭐️
 
-*(Last updated: August 24, 2024 at 00:16:32 EDT)*
+*(Last updated: August 24, 2024 at 00:20:15 EDT)*
