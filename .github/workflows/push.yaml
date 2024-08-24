@@ -7,7 +7,8 @@ jobs:
   test:
     name: "Test application"
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '[ci skip]')"
+    if: |
+      !contains(github.event.head_commit.message, '[ci skip]')
     steps:
 
       - name: "Checkout repository"
