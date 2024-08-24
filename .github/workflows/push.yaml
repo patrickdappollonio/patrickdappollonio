@@ -1,0 +1,21 @@
+name: "Test application on push"
+
+on:
+  push:
+
+jobs:
+  test:
+    name: "Test application"
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Test application
+        run: go test -v ./...

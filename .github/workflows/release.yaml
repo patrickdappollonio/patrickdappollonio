@@ -1,0 +1,34 @@
+name: "Release application"
+
+on:
+  release:
+    types: [created]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: "Release application"
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Test application
+        run: go test -v ./...
+
+      - name: Release application to Github
+        uses: goreleaser/goreleaser-action@v6
+        with:
+          distribution: goreleaser
+          version: latest
+          args: release --clean
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
