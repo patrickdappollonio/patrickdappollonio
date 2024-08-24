@@ -1,0 +1,32 @@
+name: "Update README with updated information"
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: "Update README"
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: Install application to render the template
+        uses: supplypike/setup-bin@v4
+        with:
+          uri: https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v0.1.0/patrickdappollonio_linux_x86_64.tar.gz
+          name: patrickdappollonio
+          version: '0.1.0'
+
+      - name: Update README with latest information
+        run: |
+          patrickdappollonio > README.md
+          git add README.md
+          git commit -m "[ci skip] Updating README with latest information"
+          git push
