@@ -42,15 +42,15 @@ My personal favourite projects are 📌 pinned below!
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 6,156 ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 6,649 ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 4 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 31 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 17,590 ⭐️
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4,095 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 32 ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 17,671 ⭐️
+* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4,096 ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
-* [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 174 ⭐️
+* [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 175 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 4 ⭐️
 * [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from [@emberstack](https://github.com/emberstack) with 1,013 ⭐️
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from [@kubernetes](https://github.com/kubernetes) with 109,369 ⭐️
 
-<sup><sub>Last updated: August 24, 2024 at 08:01:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 24, 2024 at 20:03:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
