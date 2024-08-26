@@ -39,7 +39,7 @@ func humanizeBigNumber(n int) string {
 		if decimal == 0 {
 			return fmt.Sprintf("%dK", n/1000)
 		}
-		return fmt.Sprintf("%d,%dK", n/1000, decimal)
+		return fmt.Sprintf("%d.%dK", n/1000, decimal)
 	}
 
 	remainder := n % 1000000
@@ -50,7 +50,7 @@ func humanizeBigNumber(n int) string {
 	if decimal == 0 {
 		return fmt.Sprintf("%dM", n/1000000)
 	}
-	return fmt.Sprintf("%d,%dM", n/1000000, decimal)
+	return fmt.Sprintf("%d.%dM", n/1000000, decimal)
 }
 
 func formatNumber(n int) string {
