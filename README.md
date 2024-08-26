@@ -43,7 +43,7 @@ My personal favourite projects are 📌 pinned below!
 
 
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 7.9K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 8.4K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 4 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 34 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 17.9K ⭐️
@@ -53,4 +53,4 @@ My personal favourite projects are 📌 pinned below!
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 4 ⭐️
 * [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from [@emberstack](https://github.com/emberstack) with 1K ⭐️
 
-<sup><sub>Last updated: August 26, 2024 at 00:51:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 26, 2024 at 08:01:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
