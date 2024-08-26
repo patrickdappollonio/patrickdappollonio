@@ -31,7 +31,7 @@ My personal favourite projects are 📌 pinned below!
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 {{ range .StarredRepos }}
-* [{{ .Name }}]({{ .URL }}) from [@{{ .Owner.User }}](https://github.com/{{ .Owner.User }}) with {{ .Stars | formatNumber }} ⭐️
+* [{{ .Name }}]({{ .URL }}) from [@{{ .Owner.User }}](https://github.com/{{ .Owner.User }}) with {{ .Stars | humanizeBigNumber }} ⭐️
 {{- end }}
 
 <sup><sub>Last updated: {{ now | formatDateTime }}. The content here updates twice daily or when manually triggered.</sup></sub>

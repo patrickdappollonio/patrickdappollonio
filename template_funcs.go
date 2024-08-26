@@ -1,6 +1,8 @@
 package main
 
 import (
+	"fmt"
+	"math"
 	"strconv"
 	"strings"
 	"text/template"
@@ -18,6 +20,37 @@ var fncs = template.FuncMap{
 	"now": func() time.Time {
 		return time.Now()
 	},
+	// humanizeBigNumber takes a number over 1000 and returns
+	// its short, human-readable form. For example, 1000 becomes 1K.
+	"humanizeBigNumber": humanizeBigNumber,
+}
+
+func humanizeBigNumber(n int) string {
+	if n < 1000 {
+		return strconv.Itoa(n)
+	}
+
+	if n < 1000000 {
+		remainder := n % 1000
+		if remainder == 0 {
+			return fmt.Sprintf("%dK", n/1000)
+		}
+		decimal := int(math.Round(float64(remainder) / 100))
+		if decimal == 0 {
+			return fmt.Sprintf("%dK", n/1000)
+		}
+		return fmt.Sprintf("%d,%dK", n/1000, decimal)
+	}
+
+	remainder := n % 1000000
+	if remainder == 0 {
+		return fmt.Sprintf("%dM", n/1000000)
+	}
+	decimal := int(math.Round(float64(remainder) / 100000))
+	if decimal == 0 {
+		return fmt.Sprintf("%dM", n/1000000)
+	}
+	return fmt.Sprintf("%d,%dM", n/1000000, decimal)
 }
 
 func formatNumber(n int) string {
