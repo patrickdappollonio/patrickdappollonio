@@ -45,7 +45,7 @@ My personal favourite projects are 📌 pinned below!
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.5K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 8.7K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 8.9K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 5 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 34 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.1K ⭐️
@@ -53,4 +53,4 @@ My personal favourite projects are 📌 pinned below!
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 177 ⭐️
 
-<sup><sub>Last updated: August 26, 2024 at 23:43:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2024 at 08:01:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
