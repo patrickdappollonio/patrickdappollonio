@@ -26,16 +26,16 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` *(merged)*
+* [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` *(merged)*
+* [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` *(merged)*
+* [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` *(merged)*
+* [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` *(merged)*
 * [#400 - Fix minor inconsistencies with the API.](https://github.com/konstructio/kubefirst-api/pull/400) on `konstructio/kubefirst-api` *(merged)*
 * [#6 - Update release flow to use dynamic Go version](https://github.com/konstructio/dropkick/pull/6) on `konstructio/dropkick` *(merged)*
 * [#391 - Add GolangCI Linter. Run "gofmt" on all files.](https://github.com/konstructio/kubefirst-api/pull/391) on `konstructio/kubefirst-api` *(in draft)*
 * [#5 - Add support for DigitalOcean](https://github.com/konstructio/dropkick/pull/5) on `konstructio/dropkick` *(merged)*
 * [#4 - Improve and allow extendability of current CLI.](https://github.com/konstructio/dropkick/pull/4) on `konstructio/dropkick` *(merged)*
-* [#2253 - Apply gofmt, golangci-lint.](https://github.com/konstructio/kubefirst/pull/2253) on `konstructio/kubefirst` *(merged)*
-* [#2251 - Run Go tests on commits](https://github.com/konstructio/kubefirst/pull/2251) on `konstructio/kubefirst` *(merged)*
-* [#4 - Fix incorrect path inside sub-job.](https://github.com/konstructio/charts-mirror/pull/4) on `konstructio/charts-mirror` *(merged)*
-* [#3 - Patch commit on lack of changes](https://github.com/konstructio/charts-mirror/pull/3) on `konstructio/charts-mirror` *(merged)*
-* [#2 - Add support for uploading downloaded charts to a remote museum.](https://github.com/konstructio/charts-mirror/pull/2) on `konstructio/charts-mirror` *(merged)*
 
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -45,12 +45,12 @@ My personal favourite projects are 📌 pinned below!
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.5K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 8.9K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 9.1K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 5 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 34 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.1K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.2K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 177 ⭐️
 
-<sup><sub>Last updated: August 27, 2024 at 08:01:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2024 at 20:03:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
