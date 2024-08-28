@@ -2,7 +2,7 @@ name: "Update READMEs contents"
 
 on:
   schedule:
-    - cron: "0 0,12 * * *" # every day at midnight and noon
+    - cron: "0 */4 * * *" # every 4 hours
   workflow_dispatch:
 
 permissions:
