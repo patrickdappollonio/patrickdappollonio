@@ -8,30 +8,37 @@ If you want to know more about me, you can visit my [personal website](https://w
 
 My personal favourite projects are 📌 pinned below!
 
+{{- with .Articles }}
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
 
-{{ range .Articles }}
+{{ range . }}
 * [{{ .Title }}]({{ .Link }}?ref=github-profile) *(published on {{ .GoDate | formatDate }})*
 {{- end }}
 
 ... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
+{{- end }}
 
+{{- with .PullRequests }}
 ### ✍️ Recent Public Contributions
 
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
-{{ range .PullRequests }}
+{{ range . }}
 * [#{{ .ID }} - {{ .Title }}]({{ .URL }}) on `{{ .ProjectOrg }}` {{ if .Draft }}*(in draft)*{{ end }}{{ if .Merged }}*(merged)*{{ end }}
 {{- end }}
 
+{{- end }}
+
+{{- with .StarredRepos }}
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
-{{ range .StarredRepos }}
+{{ range . }}
 * [{{ .Name }}]({{ .URL }}) from [@{{ .Owner.User }}](https://github.com/{{ .Owner.User }}) with {{ .Stars | humanizeBigNumber }} ⭐️
+{{- end }}
 {{- end }}
 
 <sup><sub>Last updated: {{ now | formatDateTime }}. The content here updates twice daily or when manually triggered.</sup></sub>

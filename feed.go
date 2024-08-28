@@ -7,6 +7,21 @@ import (
 	"time"
 )
 
+type Articles []Article
+
+func (p Articles) Take(start, limit int) Articles {
+	if start >= len(p) {
+		return nil
+	}
+
+	end := start + limit
+	if end > len(p) {
+		end = len(p)
+	}
+
+	return p[start:end]
+}
+
 type Article struct {
 	Title string `xml:"title"`
 	Link  string `xml:"link"`
