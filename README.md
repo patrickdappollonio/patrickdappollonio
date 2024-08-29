@@ -43,9 +43,9 @@ My personal favourite projects are 📌 pinned below!
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.5K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 9.5K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 9.6K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 35 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 36 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.3K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
@@ -60,4 +60,4 @@ My personal favourite projects are 📌 pinned below!
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 952 ⭐️
 
-<sup><sub>Last updated: August 28, 2024 at 16:04:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 28, 2024 at 20:15:45 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
