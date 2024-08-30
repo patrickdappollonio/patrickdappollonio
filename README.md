@@ -46,7 +46,7 @@ My personal favourite projects are 📌 pinned below!
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.1K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 37 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.5K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.6K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 177 ⭐️
@@ -55,9 +55,9 @@ My personal favourite projects are 📌 pinned below!
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from [@kubernetes](https://github.com/kubernetes) with 109.5K ⭐️
 * [rqlite/rqlite](https://github.com/rqlite/rqlite) from [@rqlite](https://github.com/rqlite) with 15.5K ⭐️
 * [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) from [@LadybirdBrowser](https://github.com/LadybirdBrowser) with 18.8K ⭐️
-* [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.2K ⭐️
+* [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.3K ⭐️
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 30, 2024 at 08:05:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 30, 2024 at 12:04:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
