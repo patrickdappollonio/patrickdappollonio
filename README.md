@@ -24,16 +24,22 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` *(merged)*
-* [#4 - Add support for data files from YAML](https://github.com/patrickdappollonio/patrickdappollonio/pull/4) on `patrickdappollonio/patrickdappollonio` *(merged)*
-* [#3 - Bump version number.](https://github.com/patrickdappollonio/patrickdappollonio/pull/3) on `patrickdappollonio/patrickdappollonio` *(merged)*
-* [#1 - Add Spring template functions and add support for disabling sections.](https://github.com/patrickdappollonio/patrickdappollonio/pull/1) on `patrickdappollonio/patrickdappollonio` *(merged)*
-* [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` *(merged)*
-* [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` *(merged)*
-* [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` *(merged)*
-* [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` *(merged)*
-* [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` *(merged)*
-* [#400 - Fix minor inconsistencies with the API.](https://github.com/konstructio/kubefirst-api/pull/400) on `konstructio/kubefirst-api` *(merged)*
+* [#6 - Allow listing contributions to organizations. Add images to PR statuses.](https://github.com/patrickdappollonio/patrickdappollonio/pull/6) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#4 - Add support for data files from YAML](https://github.com/patrickdappollonio/patrickdappollonio/pull/4) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#3 - Bump version number.](https://github.com/patrickdappollonio/patrickdappollonio/pull/3) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#1 - Add Spring template functions and add support for disabling sections.](https://github.com/patrickdappollonio/patrickdappollonio/pull/1) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+
+Overall, my most recent contributions (besides my own repos) have gone to 
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -75,4 +81,4 @@ My personal favourite projects are 📌 pinned below!
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 31, 2024 at 00:04:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2024 at 03:39:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
