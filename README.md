@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,terraform,docker,golang,rust,bash,aws,gcp,netlify,cloudflare,nginx&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes,terraform,docker,golang,rust,bash,aws,gcp,netlify,cloudflare,nginx&theme=light">
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,golang,rust,bash,aws,gcp,netlify,cloudflare,nginx&theme=dark" alt="technologies I use">
+    <source media="(prefers-color-scheme: dark)" srcset="images/icons-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/icons-light.png">
+    <img src="images/icons-dark.png" alt="technologies I use">
   </picture>
 </p>
 
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 31, 2024 at 03:58:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2024 at 04:01:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
