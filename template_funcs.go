@@ -23,6 +23,9 @@ var fncs = template.FuncMap{
 	// humanizeBigNumber takes a number over 1000 and returns
 	// its short, human-readable form. For example, 1000 becomes 1K.
 	"humanizeBigNumber": humanizeBigNumber,
+	"sub": func(a, b int) int {
+		return a - b
+	},
 }
 
 func humanizeBigNumber(n int) string {

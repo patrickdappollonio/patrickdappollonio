@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
+	"regexp"
 	"strings"
 	"time"
 )
@@ -44,36 +45,66 @@ func (p *PullRequest) Merged() bool {
 	return !p.PullRequest.MergedAt.IsZero()
 }
 
-func getPullRequests(username string, maxItems int) ([]PullRequest, error) {
+func (p *PullRequest) Closed() bool {
+	return !p.ClosedAt.IsZero() && !p.Merged()
+}
+
+var reExtractProject = regexp.MustCompile(`^https:\/\/api\.github\.com\/repos\/([^\/]+)\/.+$`)
+
+func (p *PullRequest) ContributedToOrg() string {
+	res := reExtractProject.FindStringSubmatch(p.RepositoryAPIURL)
+	if len(res) != 2 {
+		return ""
+	}
+
+	return res[1]
+}
+
+func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []string, error) {
 	u, _ := url.Parse("https://api.github.com/search/issues")
 
 	vals := url.Values{}
 	vals.Set("q", fmt.Sprintf("author:%s type:pr", username))
+	vals.Set("per_page", "100")
 	u.RawQuery = vals.Encode()
 
 	resp, err := http.Get(u.String())
 	if err != nil {
-		return nil, fmt.Errorf("failed to get pull requests for user %q: %w", username, err)
+		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: %w", username, err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("failed to get pull requests for user %q: API returned non-200 status code: %s", username, resp.Status)
+		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: API returned non-200 status code: %s", username, resp.Status)
 	}
 
 	var prs PullRequestResponse
 	if err := json.NewDecoder(resp.Body).Decode(&prs); err != nil {
-		return nil, fmt.Errorf("failed to decode pull requests for user %q: %w", username, err)
+		return nil, nil, fmt.Errorf("failed to decode pull requests for user %q: %w", username, err)
 	}
 
 	limited := make([]PullRequest, 0, len(prs.Items))
+	contributionRepos := make(map[string]struct{})
+
 	for _, pr := range prs.Items {
-		if len(limited) >= maxItems {
+		if len(limited) < maxItems {
+			limited = append(limited, pr)
+		}
+
+		// Only count contributions to other orgs if the PR is merged or still open
+		if org := pr.ContributedToOrg(); org != username && org != "" && (pr.Merged() || !pr.Closed()) {
+			contributionRepos[org] = struct{}{}
+		}
+	}
+
+	var repos []string
+	for repo := range contributionRepos {
+		if len(repos) >= maxOrgs {
 			break
 		}
 
-		limited = append(limited, pr)
+		repos = append(repos, repo)
 	}
 
-	return limited, nil
+	return limited, repos, nil
 }
