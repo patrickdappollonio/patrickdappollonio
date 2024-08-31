@@ -92,7 +92,7 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 		}
 
 		// Only count contributions to other orgs if the PR is merged or still open
-		if org := pr.ContributedToOrg(); org != username && (pr.Merged() || !pr.Closed()) {
+		if org := pr.ContributedToOrg(); org != username && org != "" && (pr.Merged() || !pr.Closed()) {
 			contributionRepos[org] = struct{}{}
 		}
 	}
