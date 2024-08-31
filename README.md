@@ -3,7 +3,9 @@
 ## Hello! 👋 Welcome to my Github Profile!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,golang,rust,bash,aws,gcp,netlify,cloudflare,nginx&theme=dark" alt="technologies I use">
+  <picture>
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,golang,rust,bash,aws,gcp,netlify,cloudflare,nginx&theme=dark" alt="technologies I use">
+  </picture>
 </p>
 
 I'm [Patrick D'appollonio](https://www.patrickdap.com), I'm a Chilean 🇨🇱 Canadian 🇨🇦 and a Principal Engineer working at [Kubefirst](https://kubefirst.io). I work mostly with Go and Kubernetes in my day-to-day, and as such, you'll see a few tools below I've built over time to solve *personal itches*. You should also see some Rust code here and there. If any of the applications you see are valuable to you or have any feedback, please do not hesitate to create an issue in their respective repository, or message me on Twitter: [@marlex](https://twitter.com/marlex). I'm always looking forward to feedback!
@@ -40,10 +42,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh)
+and [@konstructio](https://github.com/konstructio).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -85,4 +87,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 31, 2024 at 03:47:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2024 at 03:49:01 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
