@@ -24,6 +24,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` *(merged)*
 * [#4 - Add support for data files from YAML](https://github.com/patrickdappollonio/patrickdappollonio/pull/4) on `patrickdappollonio/patrickdappollonio` *(merged)*
 * [#3 - Bump version number.](https://github.com/patrickdappollonio/patrickdappollonio/pull/3) on `patrickdappollonio/patrickdappollonio` *(merged)*
 * [#1 - Add Spring template functions and add support for disabling sections.](https://github.com/patrickdappollonio/patrickdappollonio/pull/1) on `patrickdappollonio/patrickdappollonio` *(merged)*
@@ -33,7 +34,6 @@ My personal favourite projects are 📌 pinned below!
 * [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` *(merged)*
 * [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` *(merged)*
 * [#400 - Fix minor inconsistencies with the API.](https://github.com/konstructio/kubefirst-api/pull/400) on `konstructio/kubefirst-api` *(merged)*
-* [#6 - Update release flow to use dynamic Go version](https://github.com/konstructio/dropkick/pull/6) on `konstructio/dropkick` *(merged)*
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -58,7 +58,7 @@ My personal favourite projects are 📌 pinned below!
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.2K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.3K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 37 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.6K ⭐️
@@ -75,4 +75,4 @@ My personal favourite projects are 📌 pinned below!
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 30, 2024 at 22:01:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2024 at 00:04:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
