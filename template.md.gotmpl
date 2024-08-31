@@ -31,6 +31,18 @@ My personal favourite projects are 📌 pinned below!
 
 {{- end }}
 
+{{- $user := .GitHubUsername }}
+{{- with .Data.repos }}
+### 🛠️ My Open Source projects
+
+*My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
+
+{{ range . }}
+* [`{{ $user }}/{{ .name }}`](https://github.com/{{ $user }}/{{ .name }}): {{ .description }}
+{{- end }}
+
+{{- end }}
+
 {{- with .StarredRepos }}
 ### ⭐ New third-party projects I'm keeping an eye on
 
