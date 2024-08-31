@@ -25,6 +25,7 @@ var (
 	rssfeed          = envdefault("RSS_FEED", "https://www.patrickdap.com/index.xml")
 	templateFile     = envdefault("TEMPLATE_FILE", "template.md.gotmpl")
 	maxPRs           = envintdefault("MAX_PULL_REQUESTS", 10)
+	maxOrgs          = envintdefault("MAX_CONTRIBUTED_ORGS", 5)
 	maxStarred       = envintdefault("MAX_STARRED_REPOS", 20)
 	maxArticles      = envintdefault("MAX_ARTICLES", 5)
 	disableRSS       = envbooldefault("DISABLE_RSS", false)
@@ -95,6 +96,7 @@ func run() error {
 	var (
 		eg           = errgroup.Group{}
 		prs          []PullRequest
+		contributed  []string
 		starredRepos []StarredRepo
 		articles     []Article
 	)
@@ -106,7 +108,7 @@ func run() error {
 		}
 
 		var err error
-		prs, err = getPullRequests(username, maxPRs)
+		prs, contributed, err = getPullRequests(username, maxPRs, maxOrgs)
 		if err != nil {
 			return fmt.Errorf("failed to get pull requests: %w", err)
 		}
@@ -148,17 +150,19 @@ func run() error {
 
 	// Execute the template
 	if err := tmpl.Execute(os.Stdout, struct {
-		GitHubUsername string
-		PullRequests   []PullRequest
-		StarredRepos   []StarredRepo
-		Articles       []Article
-		Data           map[string]any
+		GitHubUsername  string
+		PullRequests    []PullRequest
+		ContributedOrgs []string
+		StarredRepos    []StarredRepo
+		Articles        []Article
+		Data            map[string]any
 	}{
-		GitHubUsername: username,
-		PullRequests:   prs,
-		StarredRepos:   starredRepos,
-		Articles:       articles,
-		Data:           additionalData,
+		GitHubUsername:  username,
+		PullRequests:    prs,
+		ContributedOrgs: contributed,
+		StarredRepos:    starredRepos,
+		Articles:        articles,
+		Data:            additionalData,
 	}); err != nil {
 		return fmt.Errorf("failed to execute template: %w", err)
 	}
