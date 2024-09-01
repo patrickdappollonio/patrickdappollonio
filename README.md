@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.4K ⭐️
 
-<sup><sub>Last updated: September 01, 2024 at 12:04:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2024 at 16:04:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
