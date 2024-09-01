@@ -72,7 +72,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.4K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.5K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 37 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.7K ⭐️
@@ -83,10 +83,10 @@ and [@jbrukh](https://github.com/jbrukh).
 * [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from [@emberstack](https://github.com/emberstack) with 1K ⭐️
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from [@kubernetes](https://github.com/kubernetes) with 109.5K ⭐️
 * [rqlite/rqlite](https://github.com/rqlite/rqlite) from [@rqlite](https://github.com/rqlite) with 15.5K ⭐️
-* [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) from [@LadybirdBrowser](https://github.com/LadybirdBrowser) with 18.8K ⭐️
+* [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) from [@LadybirdBrowser](https://github.com/LadybirdBrowser) with 18.9K ⭐️
 * [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.3K ⭐️
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 * [nerdswords/yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) from [@nerdswords](https://github.com/nerdswords) with 953 ⭐️
 
-<sup><sub>Last updated: August 31, 2024 at 16:04:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2024 at 20:19:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
