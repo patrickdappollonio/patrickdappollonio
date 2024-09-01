@@ -68,6 +68,7 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 6 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 52 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
@@ -75,7 +76,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.5K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 37 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 38 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.7K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
@@ -87,6 +88,5 @@ and [@jbrukh](https://github.com/jbrukh).
 * [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) from [@LadybirdBrowser](https://github.com/LadybirdBrowser) with 18.9K ⭐️
 * [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.3K ⭐️
-* [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) from [@prometheus](https://github.com/prometheus) with 892 ⭐️
 
-<sup><sub>Last updated: September 01, 2024 at 00:05:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2024 at 04:04:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
