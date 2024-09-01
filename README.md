@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
 [@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -74,13 +74,13 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.5K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.6K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 38 ⭐️
+* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 39 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.7K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
-* [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 177 ⭐️
+* [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 178 ⭐️
 * [konstructio/helm-mirror](https://github.com/konstructio/helm-mirror) from [@konstructio](https://github.com/konstructio) with 4 ⭐️
 * [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) from [@emberstack](https://github.com/emberstack) with 1K ⭐️
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) from [@kubernetes](https://github.com/kubernetes) with 109.5K ⭐️
@@ -89,4 +89,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.4K ⭐️
 
-<sup><sub>Last updated: September 01, 2024 at 08:05:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2024 at 12:04:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
