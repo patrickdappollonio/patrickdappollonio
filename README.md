@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh)
-and [@konstructio](https://github.com/konstructio).
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -77,7 +77,7 @@ and [@konstructio](https://github.com/konstructio).
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.6K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 39 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.7K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.8K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 178 ⭐️
@@ -89,4 +89,4 @@ and [@konstructio](https://github.com/konstructio).
 * [goauthentik/authentik](https://github.com/goauthentik/authentik) from [@goauthentik](https://github.com/goauthentik) with 12.3K ⭐️
 * [gravitl/netmaker](https://github.com/gravitl/netmaker) from [@gravitl](https://github.com/gravitl) with 9.4K ⭐️
 
-<sup><sub>Last updated: September 01, 2024 at 20:16:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 02, 2024 at 00:04:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
