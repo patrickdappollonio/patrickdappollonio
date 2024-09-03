@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#7 - Add support for filtering names using substrings. Add colors.](https://github.com/konstructio/dropkick/pull/7) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2279 - Clean up code using GolangCI-Lint](https://github.com/konstructio/kubefirst/pull/2279) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2278 - Remove unused functions. Bump to Go 1.23. Run `gofmt` on all files.](https://github.com/konstructio/kubefirst/pull/2278) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#6 - Allow listing contributions to organizations. Add images to PR statuses.](https://github.com/patrickdappollonio/patrickdappollonio/pull/6) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,13 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Add Spring template functions and add support for disabling sections.](https://github.com/patrickdappollonio/patrickdappollonio/pull/1) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -75,13 +75,13 @@ and [@jbrukh](https://github.com/jbrukh).
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.3K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
-* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 17 ⭐️
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 20 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.9K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.10K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 41 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.9K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 178 ⭐️
 
-<sup><sub>Last updated: September 03, 2024 at 12:04:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 03, 2024 at 16:04:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
