@@ -32,6 +32,8 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2279 - Clean up code using GolangCI-Lint](https://github.com/konstructio/kubefirst/pull/2279) on `konstructio/kubefirst` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
+* [#2278 - Remove unused functions. Bump to Go 1.23. Run `gofmt` on all files.](https://github.com/konstructio/kubefirst/pull/2278) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#6 - Allow listing contributions to organizations. Add images to PR statuses.](https://github.com/patrickdappollonio/patrickdappollonio/pull/6) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Add support for data files from YAML](https://github.com/patrickdappollonio/patrickdappollonio/pull/4) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -40,8 +42,6 @@ My personal favourite projects are 📌 pinned below!
 * [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -76,7 +76,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
 * [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 15 ⭐️
-* [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 52 ⭐️
+* [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.6K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
@@ -84,9 +84,9 @@ and [@jbrukh](https://github.com/jbrukh).
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 10.8K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 40 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.8K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 18.9K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 * [moderato-app/approf](https://github.com/moderato-app/approf) from [@moderato-app](https://github.com/moderato-app) with 178 ⭐️
 
-<sup><sub>Last updated: September 02, 2024 at 20:15:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 03, 2024 at 00:04:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
