@@ -76,7 +76,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.4K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
-* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 29 ⭐️
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 30 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.7K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 
-<sup><sub>Last updated: September 05, 2024 at 00:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 05, 2024 at 04:05:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
