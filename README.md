@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#1 - Add Spring template functions and add support for disabling sections.](https://github.com/patrickdappollonio/patrickdappollonio/pull/1) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -76,17 +76,17 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.4K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
-* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 28 ⭐️
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 29 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.7K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 49 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 11.1K ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 11.2K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 41 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.1K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
 
-<sup><sub>Last updated: September 04, 2024 at 20:15:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 05, 2024 at 00:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
