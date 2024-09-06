@@ -32,7 +32,9 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2 - Moving virtual datacenter bootstrapping to Colony-Vagrant](https://github.com/konstructio/colony-vagrant/pull/2) on `konstructio/colony-vagrant` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
+* [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#10 - Add unit tests.](https://github.com/konstructio/dropkick/pull/10) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2 - Moving virtual datacenter bootstrapping to Colony-Vagrant](https://github.com/konstructio/colony-vagrant/pull/2) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - Add SSH key deletion support. Add orphaned resources check.](https://github.com/konstructio/dropkick/pull/9) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - Delete all volumes on a found cluster](https://github.com/konstructio/dropkick/pull/8) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#7 - Add support for filtering names using substrings. Add colors.](https://github.com/konstructio/dropkick/pull/7) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -40,8 +42,6 @@ My personal favourite projects are 📌 pinned below!
 * [#2278 - Remove unused functions. Bump to Go 1.23. Run `gofmt` on all files.](https://github.com/konstructio/kubefirst/pull/2278) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - Allow listing contributions to organizations. Add images to PR statuses.](https://github.com/patrickdappollonio/patrickdappollonio/pull/6) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#4 - Add support for data files from YAML](https://github.com/patrickdappollonio/patrickdappollonio/pull/4) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#3 - Bump version number.](https://github.com/patrickdappollonio/patrickdappollonio/pull/3) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -76,7 +76,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.5K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
-* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 33 ⭐️
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 34 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.7K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 25 ⭐️
 
-<sup><sub>Last updated: September 05, 2024 at 20:16:01 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 06, 2024 at 00:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
