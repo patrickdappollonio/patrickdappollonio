@@ -32,22 +32,22 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#4 - Change the default value to an error.](https://github.com/konstructio/colony-vagrant/pull/4) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#6 - Fix typos.](https://github.com/konstructio/colony/pull/6) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#5 - Fix repo checks.](https://github.com/konstructio/colony/pull/5) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Add unit tests.](https://github.com/konstructio/dropkick/pull/10) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2 - Moving virtual datacenter bootstrapping to Colony-Vagrant](https://github.com/konstructio/colony-vagrant/pull/2) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - Add SSH key deletion support. Add orphaned resources check.](https://github.com/konstructio/dropkick/pull/9) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - Delete all volumes on a found cluster](https://github.com/konstructio/dropkick/pull/8) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#7 - Add support for filtering names using substrings. Add colors.](https://github.com/konstructio/dropkick/pull/7) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2279 - Clean up code using GolangCI-Lint](https://github.com/konstructio/kubefirst/pull/2279) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#2278 - Remove unused functions. Bump to Go 1.23. Run `gofmt` on all files.](https://github.com/konstructio/kubefirst/pull/2278) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#6 - Allow listing contributions to organizations. Add images to PR statuses.](https://github.com/patrickdappollonio/patrickdappollonio/pull/6) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#5 - Fix incorrect readme](https://github.com/patrickdappollonio/patrickdappollonio/pull/5) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -69,14 +69,14 @@ and [@jbrukh](https://github.com/jbrukh).
 
 
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
-* [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.8K ⭐️
+* [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.1K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 42 ⭐️
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.5K ⭐️
-* [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.1K ⭐️
+* [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.2K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
-* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 34 ⭐️
+* [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 35 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 53 ⭐️
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.7K ⭐️
@@ -85,8 +85,8 @@ and [@jbrukh](https://github.com/jbrukh).
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 11.3K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 7 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 41 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.1K ⭐️
+* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.2K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 * [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 25 ⭐️
 
-<sup><sub>Last updated: September 06, 2024 at 00:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 06, 2024 at 04:05:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
