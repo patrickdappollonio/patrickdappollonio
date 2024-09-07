@@ -68,6 +68,7 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 39 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
@@ -87,6 +88,5 @@ and [@jbrukh](https://github.com/jbrukh).
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 41 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.2K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
-* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) from [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 25 ⭐️
 
-<sup><sub>Last updated: September 07, 2024 at 00:04:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 07, 2024 at 04:04:36 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
