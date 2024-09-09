@@ -32,6 +32,8 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#113 - Add ARM builds.](https://github.com/patrickdappollonio/http-server/pull/113) on `patrickdappollonio/http-server` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#112 - Add content type detection](https://github.com/patrickdappollonio/http-server/pull/112) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Change the default value to an error.](https://github.com/konstructio/colony-vagrant/pull/4) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - Fix typos.](https://github.com/konstructio/colony/pull/6) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - Fix repo checks.](https://github.com/konstructio/colony/pull/5) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -40,14 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#2 - Moving virtual datacenter bootstrapping to Colony-Vagrant](https://github.com/konstructio/colony-vagrant/pull/2) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - Add SSH key deletion support. Add orphaned resources check.](https://github.com/konstructio/dropkick/pull/9) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - Delete all volumes on a found cluster](https://github.com/konstructio/dropkick/pull/8) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#7 - Add support for filtering names using substrings. Add colors.](https://github.com/konstructio/dropkick/pull/7) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2279 - Clean up code using GolangCI-Lint](https://github.com/konstructio/kubefirst/pull/2279) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.4K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 
-<sup><sub>Last updated: September 08, 2024 at 20:17:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 09, 2024 at 00:04:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
