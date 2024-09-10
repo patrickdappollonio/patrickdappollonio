@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#7 - QoL improvements to the Colony CLI](https://github.com/konstructio/colony/pull/7) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#115 - Fix etag hijacking.](https://github.com/patrickdappollonio/http-server/pull/115) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#114 - Fix ETag header generation and resource utilization.](https://github.com/patrickdappollonio/http-server/pull/114) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#113 - Add ARM builds.](https://github.com/patrickdappollonio/http-server/pull/113) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,7 +42,6 @@ My personal favourite projects are 📌 pinned below!
 * [#5 - Fix repo checks.](https://github.com/konstructio/colony/pull/5) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Add unit tests.](https://github.com/konstructio/dropkick/pull/10) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2 - Moving virtual datacenter bootstrapping to Colony-Vagrant](https://github.com/konstructio/colony-vagrant/pull/2) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.5K ⭐️
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) from [@masonr](https://github.com/masonr) with 4.1K ⭐️
 
-<sup><sub>Last updated: September 09, 2024 at 16:04:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 09, 2024 at 20:15:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
