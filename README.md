@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -75,7 +75,7 @@ and [@jbrukh](https://github.com/jbrukh).
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.1K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 43 ⭐️
-* [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.8K ⭐️
+* [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.9K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.2K ⭐️
 * [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) from [@Zxilly](https://github.com/Zxilly) with 1.1K ⭐️
 * [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 37 ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 44 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.9K ⭐️
 
-<sup><sub>Last updated: September 13, 2024 at 00:04:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 13, 2024 at 04:05:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
