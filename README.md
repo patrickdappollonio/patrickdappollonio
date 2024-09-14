@@ -32,7 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#7 - QoL improvements to the Colony CLI](https://github.com/konstructio/colony/pull/7) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#115 - Fix etag hijacking.](https://github.com/patrickdappollonio/http-server/pull/115) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#114 - Fix ETag header generation and resource utilization.](https://github.com/patrickdappollonio/http-server/pull/114) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 44 ⭐️
 * [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.9K ⭐️
 
-<sup><sub>Last updated: September 14, 2024 at 00:04:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 14, 2024 at 04:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
