@@ -68,12 +68,13 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 261 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.6K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
-* [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.1K ⭐️
+* [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 43 ⭐️
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 46.9K ⭐️
 * [jehna/humanify](https://github.com/jehna/humanify) from [@jehna](https://github.com/jehna) with 1.2K ⭐️
@@ -83,10 +84,9 @@ and [@jbrukh](https://github.com/jbrukh).
 * [alicebob/miniredis](https://github.com/alicebob/miniredis) from [@alicebob](https://github.com/alicebob) with 3K ⭐️
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.8K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 52 ⭐️
-* [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 377 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 12.3K ⭐️
+* [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 378 ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 12.4K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 8 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 44 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) from [@astral-sh](https://github.com/astral-sh) with 19.9K ⭐️
 
-<sup><sub>Last updated: September 14, 2024 at 04:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 14, 2024 at 08:05:43 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
