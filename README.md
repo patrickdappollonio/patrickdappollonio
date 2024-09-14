@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 8 ⭐️
 * [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 44 ⭐️
 
-<sup><sub>Last updated: September 14, 2024 at 12:03:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 14, 2024 at 16:04:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
