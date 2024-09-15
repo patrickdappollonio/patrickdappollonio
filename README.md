@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,6 +68,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 8 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 44.9K ⭐️
 * [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 262 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.6K ⭐️
@@ -86,7 +87,6 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [ratatui/ratatui](https://github.com/ratatui/ratatui) from [@ratatui](https://github.com/ratatui) with 9.8K ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 52 ⭐️
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 378 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 12.4K ⭐️
-* [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 8 ⭐️
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 12.5K ⭐️
 
-<sup><sub>Last updated: September 14, 2024 at 20:18:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 15, 2024 at 00:04:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
