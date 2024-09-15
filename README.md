@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#3 - Fix source on imports.](https://github.com/konstructio/colony-vagrant/pull/3) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,6 +68,7 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 44.9K ⭐️
 * [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 262 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.6K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
@@ -87,6 +88,5 @@ and [@jbrukh](https://github.com/jbrukh).
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) from [@k3s-io](https://github.com/k3s-io) with 378 ⭐️
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) from [@zen-browser](https://github.com/zen-browser) with 12.4K ⭐️
 * [twpayne/go-sse](https://github.com/twpayne/go-sse) from [@twpayne](https://github.com/twpayne) with 8 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) from [@caarlos0](https://github.com/caarlos0) with 44 ⭐️
 
-<sup><sub>Last updated: September 14, 2024 at 16:04:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 14, 2024 at 20:18:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
