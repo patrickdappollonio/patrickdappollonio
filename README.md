@@ -32,6 +32,8 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - Remove status code checks. ](https://github.com/konstructio/dropkick/pull/12) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#7 - QoL improvements to the Colony CLI](https://github.com/konstructio/colony/pull/7) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -40,14 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#113 - Add ARM builds.](https://github.com/patrickdappollonio/http-server/pull/113) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#112 - Add content type detection](https://github.com/patrickdappollonio/http-server/pull/112) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Change the default value to an error.](https://github.com/konstructio/colony-vagrant/pull/4) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#6 - Fix typos.](https://github.com/konstructio/colony/pull/6) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#5 - Fix repo checks.](https://github.com/konstructio/colony/pull/5) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -70,13 +70,13 @@ and [@jbrukh](https://github.com/jbrukh).
 
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
 * [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 5 ⭐️
-* [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.1K ⭐️
+* [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.2K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
-* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 45 ⭐️
-* [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 44.10K ⭐️
+* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 46 ⭐️
+* [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 44.9K ⭐️
 * [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 269 ⭐️
-* [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.6K ⭐️
+* [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [progrium/go-vscode](https://github.com/progrium/go-vscode) from [@progrium](https://github.com/progrium) with 37 ⭐️
 * [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) from [@nikhilsbhat](https://github.com/nikhilsbhat) with 54 ⭐️
 
-<sup><sub>Last updated: September 16, 2024 at 16:04:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 16, 2024 at 20:13:53 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
