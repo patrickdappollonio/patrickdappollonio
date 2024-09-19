@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,13 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#7 - QoL improvements to the Colony CLI](https://github.com/konstructio/colony/pull/7) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#115 - Fix etag hijacking.](https://github.com/patrickdappollonio/http-server/pull/115) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#114 - Fix ETag header generation and resource utilization.](https://github.com/patrickdappollonio/http-server/pull/114) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#113 - Add ARM builds.](https://github.com/patrickdappollonio/http-server/pull/113) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -69,17 +69,17 @@ and [@ansible](https://github.com/ansible).
 
 
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 395 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 401 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 169 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
 * [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 5 ⭐️
-* [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.3K ⭐️
+* [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.4K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 48 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 44.10K ⭐️
-* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 274 ⭐️
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 278 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 43 ⭐️
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 47.2K ⭐️
 
-<sup><sub>Last updated: September 19, 2024 at 08:06:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 19, 2024 at 12:04:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
