@@ -69,7 +69,7 @@ and [@jbrukh](https://github.com/jbrukh).
 
 
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 437 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 445 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 169 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 43 ⭐️
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 47.2K ⭐️
 
-<sup><sub>Last updated: September 20, 2024 at 04:05:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 20, 2024 at 08:06:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
