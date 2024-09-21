@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -69,7 +69,7 @@ and [@ansible](https://github.com/ansible).
 
 
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 457 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 459 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 169 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 * [zed-industries/zed](https://github.com/zed-industries/zed) from [@zed-industries](https://github.com/zed-industries) with 47.3K ⭐️
 
-<sup><sub>Last updated: September 21, 2024 at 00:04:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 21, 2024 at 04:04:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
