@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -70,7 +70,7 @@ and [@ansible](https://github.com/ansible).
 
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 475 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 476 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 170 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
@@ -78,7 +78,7 @@ and [@ansible](https://github.com/ansible).
 * [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.5K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
-* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 75 ⭐️
+* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 76 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 45K ⭐️
 * [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 288 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 
-<sup><sub>Last updated: September 23, 2024 at 12:04:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 23, 2024 at 16:04:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
