@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -78,9 +78,9 @@ and [@jbrukh](https://github.com/jbrukh).
 * [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.5K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
-* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 74 ⭐️
+* [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 75 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 45K ⭐️
-* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 286 ⭐️
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 288 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 
-<sup><sub>Last updated: September 23, 2024 at 08:06:45 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 23, 2024 at 12:04:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
