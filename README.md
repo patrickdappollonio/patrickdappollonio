@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#12 - Remove status code checks. ](https://github.com/konstructio/dropkick/pull/12) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh)
-and [@konstructio](https://github.com/konstructio).
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@konstructio](https://github.com/konstructio).
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 
-<sup><sub>Last updated: September 24, 2024 at 12:04:30 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 24, 2024 at 16:04:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
