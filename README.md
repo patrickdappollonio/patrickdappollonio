@@ -32,22 +32,22 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) on `konstructio/vault-handler` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#423 - Fix importing a cluster when moving from cluster zero to management.](https://github.com/konstructio/kubefirst-api/pull/423) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - Remove status code checks. ](https://github.com/konstructio/dropkick/pull/12) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#11 - Add firewall support (orphan mode and normal mode). Add unit tests.](https://github.com/konstructio/dropkick/pull/11) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -70,7 +70,7 @@ and [@jbrukh](https://github.com/jbrukh).
 
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 476 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 477 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 170 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
 * [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 
-<sup><sub>Last updated: September 24, 2024 at 00:05:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 24, 2024 at 04:05:18 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
