@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#20 - Add Civo v2 API written by us.](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) on `konstructio/vault-handler` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,13 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#12 - Remove status code checks. ](https://github.com/konstructio/dropkick/pull/12) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,7 +68,7 @@ and [@ansible](https://github.com/ansible).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 138 ⭐️
+* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 144 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.5K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.9K ⭐️
@@ -82,11 +82,11 @@ and [@ansible](https://github.com/ansible).
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 78 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 45K ⭐️
-* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 301 ⭐️
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 302 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
 
-<sup><sub>Last updated: September 25, 2024 at 12:04:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 25, 2024 at 16:04:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
