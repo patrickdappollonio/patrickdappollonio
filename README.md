@@ -37,17 +37,17 @@ My personal favourite projects are 📌 pinned below!
 * [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#423 - Fix importing a cluster when moving from cluster zero to management.](https://github.com/konstructio/kubefirst-api/pull/423) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - Remove status code checks. ](https://github.com/konstructio/dropkick/pull/12) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,6 +68,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 91 ⭐️
+* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.4K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.8K ⭐️
 * [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 478 ⭐️
@@ -80,13 +82,11 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 76 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 45K ⭐️
-* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 291 ⭐️
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 292 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
-* [RustScan/RustScan](https://github.com/RustScan/RustScan) from [@RustScan](https://github.com/RustScan) with 14.2K ⭐️
-* [samber/slog-chi](https://github.com/samber/slog-chi) from [@samber](https://github.com/samber) with 44 ⭐️
 
-<sup><sub>Last updated: September 24, 2024 at 16:04:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 24, 2024 at 20:16:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
