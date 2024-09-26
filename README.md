@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,25 +68,25 @@ and [@ansible](https://github.com/ansible).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 148 ⭐️
-* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.5K ⭐️
+* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 153 ⭐️
+* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.6K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.9K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 481 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 483 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 170 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
-* [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 5 ⭐️
+* [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 7 ⭐️
 * [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 4.6K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 80 ⭐️
 * [agalwood/Motrix](https://github.com/agalwood/Motrix) from [@agalwood](https://github.com/agalwood) with 45K ⭐️
-* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 302 ⭐️
+* [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) from [@unxsist](https://github.com/unxsist) with 303 ⭐️
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.7K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 * [ogham/dog](https://github.com/ogham/dog) from [@ogham](https://github.com/ogham) with 6.1K ⭐️
 * [mr-karan/doggo](https://github.com/mr-karan/doggo) from [@mr-karan](https://github.com/mr-karan) with 2.9K ⭐️
 * [google/go-cmp](https://github.com/google/go-cmp) from [@google](https://github.com/google) with 4.2K ⭐️
 
-<sup><sub>Last updated: September 25, 2024 at 20:16:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 26, 2024 at 00:05:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
