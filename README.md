@@ -32,6 +32,8 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) on `konstructio/vault-handler` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -40,14 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#14 - Include firewalls in the wording](https://github.com/konstructio/dropkick/pull/14) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#13 - Remove status codes from additional pieces.](https://github.com/konstructio/dropkick/pull/13) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh)
-and [@konstructio](https://github.com/konstructio).
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -75,7 +75,7 @@ and [@konstructio](https://github.com/konstructio).
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.7K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.9K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 554 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 558 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 170 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
@@ -89,4 +89,4 @@ and [@konstructio](https://github.com/konstructio).
 * [josephburnett/jd](https://github.com/josephburnett/jd) from [@josephburnett](https://github.com/josephburnett) with 1.8K ⭐️
 * [jfbus/httprs](https://github.com/jfbus/httprs) from [@jfbus](https://github.com/jfbus) with 40 ⭐️
 
-<sup><sub>Last updated: September 27, 2024 at 20:16:36 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 28, 2024 at 00:04:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
