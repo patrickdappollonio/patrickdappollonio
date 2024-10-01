@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -71,7 +71,7 @@ and [@ansible](https://github.com/ansible).
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
 * [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 249 ⭐️
-* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 4.2K ⭐️
+* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 4.3K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 419 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 88 ⭐️
 
-<sup><sub>Last updated: October 01, 2024 at 16:04:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 01, 2024 at 16:19:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
