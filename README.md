@@ -70,7 +70,7 @@ and [@jbrukh](https://github.com/jbrukh).
 
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
-* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 327 ⭐️
+* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 328 ⭐️
 * [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 4.9K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 419 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
@@ -83,10 +83,10 @@ and [@jbrukh](https://github.com/jbrukh).
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 173 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
-* [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 17 ⭐️
+* [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 18 ⭐️
 * [DiceDB/dice](https://github.com/DiceDB/dice) from [@DiceDB](https://github.com/DiceDB) with 5.6K ⭐️
 * [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) from [@controlplaneio](https://github.com/controlplaneio) with 1.2K ⭐️
 * [orf/gping](https://github.com/orf/gping) from [@orf](https://github.com/orf) with 10.7K ⭐️
 * [orf/docker-repack](https://github.com/orf/docker-repack) from [@orf](https://github.com/orf) with 90 ⭐️
 
-<sup><sub>Last updated: October 05, 2024 at 00:05:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 05, 2024 at 04:04:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
