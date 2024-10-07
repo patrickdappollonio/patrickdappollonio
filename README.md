@@ -32,6 +32,9 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#125 - Add support for regexp-based redirections.](https://github.com/patrickdappollonio/http-server/pull/125) on `patrickdappollonio/http-server` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
+* [#124 - Enable option to disable directory listing.](https://github.com/patrickdappollonio/http-server/pull/124) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#123 - Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -39,15 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) on `konstructio/vault-handler` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#423 - Fix importing a cluster when moving from cluster zero to management.](https://github.com/konstructio/kubefirst-api/pull/423) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,13 +68,14 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 11 ⭐️
 * [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 592 ⭐️
 * [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 738 ⭐️
-* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 723 ⭐️
+* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 724 ⭐️
 * [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
-* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 343 ⭐️
+* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 346 ⭐️
 * [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 419 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
@@ -83,10 +84,9 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 2.9K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 41.10K ⭐️
-* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 761 ⭐️
+* [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) from [@pencilresearch](https://github.com/pencilresearch) with 762 ⭐️
 * [ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) from [@ghostdevv](https://github.com/ghostdevv) with 174 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [raphamorim/rio](https://github.com/raphamorim/rio) from [@raphamorim](https://github.com/raphamorim) with 3.5K ⭐️
-* [mappu/miqt](https://github.com/mappu/miqt) from [@mappu](https://github.com/mappu) with 20 ⭐️
 
-<sup><sub>Last updated: October 07, 2024 at 00:04:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 07, 2024 at 04:05:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
