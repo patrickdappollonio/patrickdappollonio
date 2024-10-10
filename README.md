@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh)
-and [@konstructio](https://github.com/konstructio).
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@konstructio](https://github.com/konstructio).
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42K ⭐️
 
-<sup><sub>Last updated: October 09, 2024 at 20:16:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 10, 2024 at 00:05:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
