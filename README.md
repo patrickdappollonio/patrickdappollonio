@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#287 - Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Add support for custom status codes in "serveFile".](https://github.com/patrickdappollonio/http-server/pull/128) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,7 +42,6 @@ My personal favourite projects are 📌 pinned below!
 * [#123 - Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -87,6 +87,6 @@ and [@jbrukh](https://github.com/jbrukh).
 * [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 246 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 3K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
-* [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42K ⭐️
+* [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42.1K ⭐️
 
-<sup><sub>Last updated: October 10, 2024 at 12:04:30 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 10, 2024 at 16:04:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
