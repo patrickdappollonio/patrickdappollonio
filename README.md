@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Add support for custom status codes in "serveFile".](https://github.com/patrickdappollonio/http-server/pull/128) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Ensuring latest tag on Colony CLI](https://github.com/konstructio/colony-vagrant/pull/10) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#125 - Add support for regexp-based redirections.](https://github.com/patrickdappollonio/http-server/pull/125) on `patrickdappollonio/http-server` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
@@ -41,13 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh)
+and [@konstructio](https://github.com/konstructio).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -79,14 +79,14 @@ and [@jbrukh](https://github.com/jbrukh).
 * [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
-* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 366 ⭐️
+* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 367 ⭐️
 * [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.3K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 420 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
-* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 245 ⭐️
+* [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 246 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 3K ⭐️
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42K ⭐️
 
-<sup><sub>Last updated: October 09, 2024 at 16:04:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 09, 2024 at 20:16:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
