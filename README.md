@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Add support for custom status codes in "serveFile".](https://github.com/patrickdappollonio/http-server/pull/128) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Ensuring latest tag on Colony CLI](https://github.com/konstructio/colony-vagrant/pull/10) on `konstructio/colony-vagrant` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,7 +42,6 @@ My personal favourite projects are 📌 pinned below!
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -70,7 +70,7 @@ and [@jbrukh](https://github.com/jbrukh).
 
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.1K ⭐️
-* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 292 ⭐️
+* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 293 ⭐️
 * [go-simpler/env](https://github.com/go-simpler/env) from [@go-simpler](https://github.com/go-simpler) with 63 ⭐️
 * [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
 * [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 595 ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42K ⭐️
 
-<sup><sub>Last updated: October 10, 2024 at 08:06:53 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 10, 2024 at 12:04:30 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
