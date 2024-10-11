@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -70,7 +70,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.1K ⭐️
-* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 293 ⭐️
+* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 294 ⭐️
 * [go-simpler/env](https://github.com/go-simpler/env) from [@go-simpler](https://github.com/go-simpler) with 63 ⭐️
 * [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
 * [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 595 ⭐️
@@ -80,7 +80,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
 * [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 373 ⭐️
-* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.3K ⭐️
+* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.4K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 420 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
@@ -89,4 +89,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42.1K ⭐️
 
-<sup><sub>Last updated: October 11, 2024 at 12:04:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 11, 2024 at 16:04:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
