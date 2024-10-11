@@ -32,6 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#11 - Ensure GVK is properly detected.](https://github.com/konstructio/colony/pull/11) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#287 - Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -41,13 +42,12 @@ My personal favourite projects are 📌 pinned below!
 * [#124 - Enable option to disable directory listing.](https://github.com/patrickdappollonio/http-server/pull/124) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#123 - Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@ansible](https://github.com/ansible),
+[@jbrukh](https://github.com/jbrukh),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 * [TanStack/query](https://github.com/TanStack/query) from [@TanStack](https://github.com/TanStack) with 42.1K ⭐️
 
-<sup><sub>Last updated: October 10, 2024 at 20:16:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 11, 2024 at 00:05:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
