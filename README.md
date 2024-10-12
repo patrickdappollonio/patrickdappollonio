@@ -44,10 +44,10 @@ My personal favourite projects are 📌 pinned below!
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh)
-and [@konstructio](https://github.com/konstructio).
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 🛠️ My Open Source projects
 
 *My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
@@ -68,7 +68,8 @@ and [@konstructio](https://github.com/konstructio).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 371 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 83 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 475 ⭐️
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.1K ⭐️
 * [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 294 ⭐️
@@ -76,7 +77,7 @@ and [@konstructio](https://github.com/konstructio).
 * [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
 * [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 595 ⭐️
 * [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 738 ⭐️
-* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 726 ⭐️
+* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 727 ⭐️
 * [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
@@ -87,6 +88,5 @@ and [@konstructio](https://github.com/konstructio).
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 * [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 247 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 3.1K ⭐️
-* [azlux/log2ram](https://github.com/azlux/log2ram) from [@azlux](https://github.com/azlux) with 2.6K ⭐️
 
-<sup><sub>Last updated: October 12, 2024 at 00:04:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 12, 2024 at 04:04:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
