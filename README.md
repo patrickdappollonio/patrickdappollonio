@@ -68,15 +68,15 @@ and [@ansible](https://github.com/ansible).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 238 ⭐️
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 678 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 247 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 690 ⭐️
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.1K ⭐️
 * [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 295 ⭐️
 * [go-simpler/env](https://github.com/go-simpler/env) from [@go-simpler](https://github.com/go-simpler) with 63 ⭐️
 * [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
 * [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 595 ⭐️
-* [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 738 ⭐️
+* [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 739 ⭐️
 * [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 727 ⭐️
 * [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7K ⭐️
@@ -89,4 +89,4 @@ and [@ansible](https://github.com/ansible).
 * [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 247 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 3.1K ⭐️
 
-<sup><sub>Last updated: October 13, 2024 at 04:04:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 13, 2024 at 08:05:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
