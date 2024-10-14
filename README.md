@@ -68,8 +68,8 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 275 ⭐️
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 753 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 279 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 762 ⭐️
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.2K ⭐️
 * [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 295 ⭐️
@@ -82,11 +82,11 @@ and [@jbrukh](https://github.com/jbrukh).
 * [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7.1K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
 * [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 376 ⭐️
-* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.4K ⭐️
+* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.5K ⭐️
 * [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 420 ⭐️
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 * [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) from [@dlvhdr](https://github.com/dlvhdr) with 247 ⭐️
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) from [@MightyMoud](https://github.com/MightyMoud) with 3.1K ⭐️
 
-<sup><sub>Last updated: October 14, 2024 at 04:05:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 14, 2024 at 08:06:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
