@@ -21,33 +21,33 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
-| [#11 - Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) | `konstructio/colony` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#287 - Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) | `konstructio/charts` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) | `konstructio/charts` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#128 - Add support for custom status codes in "serveFile".](https://github.com/patrickdappollonio/http-server/pull/128) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#10 - Ensuring latest tag on Colony CLI](https://github.com/konstructio/colony-vagrant/pull/10) | `konstructio/colony-vagrant` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#125 - Add support for regexp-based redirections.](https://github.com/patrickdappollonio/http-server/pull/125) | `patrickdappollonio/http-server` | <img src="images/github-draft.png" width="12px" height="12px"> in draft |
-| [#124 - Enable option to disable directory listing.](https://github.com/patrickdappollonio/http-server/pull/124) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#123 - Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) | `patrickdappollonio/kubectl-slice` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) | `konstructio/dropkick` | <img src="images/github-closed.png" width="12px" height="12px"> closed |
-| [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) | `konstructio/vault-handler` | <img src="images/github-open.png" width="12px" height="12px"> open |
-| [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) | `konstructio/kubefirst-api` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#423 - Fix importing a cluster when moving from cluster zero to management.](https://github.com/konstructio/kubefirst-api/pull/423) | `konstructio/kubefirst-api` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) | `konstructio/kubefirst` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#11: Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) | `konstructio/colony` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#287: Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) | `konstructio/charts` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#286: Update Chart.yaml](https://github.com/konstructio/charts/pull/286) | `konstructio/charts` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#129: Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#128: Add support for custom status codes in...](https://github.com/patrickdappollonio/http-server/pull/128) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#10: Ensuring latest tag on Colony CLI](https://github.com/konstructio/colony-vagrant/pull/10) | `konstructio/colony-vagrant` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#125: Add support for regexp-based redirections.](https://github.com/patrickdappollonio/http-server/pull/125) | `patrickdappollonio/http-server` | <img src="images/github-draft.png" width="12px" height="12px"> in draft |
+| [#124: Enable option to disable directory listing.](https://github.com/patrickdappollonio/http-server/pull/124) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#123: Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#128: Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) | `patrickdappollonio/kubectl-slice` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#119: Add link to redirections from docs collection...](https://github.com/patrickdappollonio/http-server/pull/119) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#118: Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) | `patrickdappollonio/http-server` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#20: Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#18: Include volume checks in network orphans: Volumes...](https://github.com/konstructio/dropkick/pull/18) | `konstructio/dropkick` | <img src="images/github-closed.png" width="12px" height="12px"> closed |
+| [#5: Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) | `konstructio/vault-handler` | <img src="images/github-open.png" width="12px" height="12px"> open |
+| [#425: Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) | `konstructio/kubefirst-api` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#423: Fix importing a cluster when moving from...](https://github.com/konstructio/kubefirst-api/pull/423) | `konstructio/kubefirst-api` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#16: Update quoting on outputs so it can...](https://github.com/konstructio/dropkick/pull/16) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#2287: Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) | `konstructio/kubefirst` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#15: Find object store credentials first before attempting...](https://github.com/konstructio/dropkick/pull/15) | `konstructio/dropkick` | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jbrukh](https://github.com/jbrukh),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -87,4 +87,4 @@ and [@ansible](https://github.com/ansible).
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 
-<sup><sub>Last updated: October 15, 2024 at 14:19:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 14:26:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
