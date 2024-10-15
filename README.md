@@ -21,6 +21,7 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
+| [#8: Add Slice functions: skip, take, max](https://github.com/patrickdappollonio/patrickdappollonio/pull/8) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#11: Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) | [`colony`](https://github.com/konstructio/colony) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#287: Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) | [`charts`](https://github.com/konstructio/charts) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#286: Update Chart.yaml](https://github.com/konstructio/charts/pull/286) | [`charts`](https://github.com/konstructio/charts) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
@@ -40,14 +41,12 @@ My personal favourite projects are 📌 pinned below!
 | [#423: Fix importing a cluster when moving from cluster...](https://github.com/konstructio/kubefirst-api/pull/423) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#16: Update quoting on outputs so it can be...](https://github.com/konstructio/dropkick/pull/16) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#2287: Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) | [`kubefirst`](https://github.com/konstructio/kubefirst) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#15: Find object store credentials first before attempting deleting...](https://github.com/konstructio/dropkick/pull/15) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@jbrukh](https://github.com/jbrukh).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -65,26 +64,22 @@ and [@jbrukh](https://github.com/jbrukh).
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
+| Repository | Stars | Repository | Stars |
+|------------|-------|------------|-------|
+|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.7K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 378 ⭐️|
+|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.5K ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 332 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 801 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.5K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 481 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 249 ⭐️|
+|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 295 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.1K ⭐️|
+|[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
+|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.1K ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 801 ⭐️|
+|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 739 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 176 ⭐️|
+|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 727 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
+|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|[raphamorim/rio](https://github.com/raphamorim/rio) | 3.6K ⭐️|
+|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 240 ⭐️|
+|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|[DiceDB/dice](https://github.com/DiceDB/dice) | 6.3K ⭐️|
 
-* [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) from [@gosub-io](https://github.com/gosub-io) with 2.6K ⭐️
-* [douglasmakey/rrm](https://github.com/douglasmakey/rrm) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
-* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 332 ⭐️
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 800 ⭐️
-* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
-* [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.2K ⭐️
-* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 295 ⭐️
-* [go-simpler/env](https://github.com/go-simpler/env) from [@go-simpler](https://github.com/go-simpler) with 63 ⭐️
-* [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
-* [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 596 ⭐️
-* [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 739 ⭐️
-* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 727 ⭐️
-* [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
-* [traefik/yaegi](https://github.com/traefik/yaegi) from [@traefik](https://github.com/traefik) with 7.1K ⭐️
-* [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.1K ⭐️
-* [pijng/prep](https://github.com/pijng/prep) from [@pijng](https://github.com/pijng) with 378 ⭐️
-* [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) from [@mainmatter](https://github.com/mainmatter) with 5.5K ⭐️
-* [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) from [@bramvdbogaerde](https://github.com/bramvdbogaerde) with 420 ⭐️
-* [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
-* [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
-
-<sup><sub>Last updated: October 15, 2024 at 14:42:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 15:07:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
