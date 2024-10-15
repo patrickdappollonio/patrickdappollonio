@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"reflect"
 	"strconv"
 	"strings"
 	"text/template"
@@ -36,6 +37,54 @@ var fncs = template.FuncMap{
 
 		return strings.Join(words[:n], " ") + "..."
 	},
+	"ellipsizechars": func(n int, s string) string {
+		// cut the string on `n` where `n` is the number of characters
+		// to keep in the string
+		if len(s) <= n {
+			return s
+		}
+
+		return s[:n] + "..."
+	},
+
+	"take": take,
+	"skip": skip,
+
+	"seq": func(n int) []int {
+		s := make([]int, n)
+		for i := 0; i < n; i++ {
+			s[i] = i
+		}
+		return s
+	},
+	"max": func(a, b int) int {
+		if a > b {
+			return a
+		}
+		return b
+	},
+}
+
+func take(n int, slice interface{}) interface{} {
+	v := reflect.ValueOf(slice)
+	if v.Kind() != reflect.Slice {
+		return slice // Return as-is if not a slice
+	}
+	if n > v.Len() {
+		n = v.Len() // Adjust n if it exceeds slice length
+	}
+	return v.Slice(0, n).Interface()
+}
+
+func skip(n int, slice interface{}) interface{} {
+	v := reflect.ValueOf(slice)
+	if v.Kind() != reflect.Slice {
+		return slice // Return as-is if not a slice
+	}
+	if n > v.Len() {
+		n = v.Len() // Adjust n if it exceeds slice length
+	}
+	return v.Slice(n, v.Len()).Interface()
 }
 
 func humanizeBigNumber(n int) string {
