@@ -37,6 +37,15 @@ func (p *PullRequest) ProjectOrg() string {
 	return strings.TrimPrefix(p.RepositoryAPIURL, "https://api.github.com/repos/")
 }
 
+func (p *PullRequest) RepositoryName() string {
+	pieces := strings.Split(p.ProjectOrg(), "/")
+	if len(pieces) < 2 {
+		return ""
+	}
+
+	return pieces[1]
+}
+
 func (p *PullRequest) RepositoryURL() string {
 	return strings.ReplaceAll(p.RepositoryAPIURL, "https://api.github.com/repos", "https://github.com")
 }
