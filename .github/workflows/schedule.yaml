@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  VERSION: "0.1.9"
+  VERSION: "0.1.10"
   MAX_PULL_REQUESTS: 20
   MAX_STARRED_REPOS: 30
 
