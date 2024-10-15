@@ -10,6 +10,7 @@ permissions:
 
 env:
   VERSION: "0.1.7"
+  MAX_PULL_REQUESTS: 20
 
 jobs:
   update-readme:
@@ -36,9 +37,8 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          export MAX_PULL_REQUESTS=${{ env.MAX_PULL_REQUESTS }}
           patrickdappollonio > README.md
           git add README.md || echo "No changes to add"
           git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
           git push || echo "No changes to push"
-        env:
-          MAX_PULL_REQUESTS: 20
