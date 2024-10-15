@@ -11,6 +11,7 @@ permissions:
 env:
   VERSION: "0.1.9"
   MAX_PULL_REQUESTS: 20
+  MAX_STARRED_REPOS: 30
 
 jobs:
   update-readme:

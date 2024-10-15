@@ -60,8 +60,23 @@ Overall, my most recent contributions (besides my own repos) have gone to {{ tem
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
-{{ range . }}
-* [{{ .Name }}]({{ .URL }}) from [@{{ .Owner.User }}](https://github.com/{{ .Owner.User }}) with {{ .Stars | humanizeBigNumber }} ⭐️
+| Repository | Stars | Repository | Stars |
+|------------|-------|------------|-------|
+{{- $firstTen := (. | take 15) -}}
+{{- $nextTen := (. | skip 15 | take 15) -}}
+{{- $maxLen := max (len $firstTen) (len $nextTen) -}}
+{{- range $i := seq $maxLen }}
+| {{- with index $firstTen $i -}}
+  [{{ .Name | ellipsizechars 30 }}]({{ .URL }}) | {{ .Stars | humanizeBigNumber }} ⭐️
+{{- else -}}
+  | |
+{{- end -}}
+| {{- with index $nextTen $i -}}
+  [{{ .Name | ellipsizechars 30 }}]({{ .URL }}) | {{ .Stars | humanizeBigNumber }} ⭐️
+{{- else -}}
+  | |
+{{- end -}}
+|
 {{- end }}
 {{- end }}
 
