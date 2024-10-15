@@ -68,10 +68,10 @@ and [@jbrukh](https://github.com/jbrukh).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) from [@gosub-io](https://github.com/gosub-io) with 2.4K ⭐️
+* [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) from [@gosub-io](https://github.com/gosub-io) with 2.5K ⭐️
 * [douglasmakey/rrm](https://github.com/douglasmakey/rrm) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
-* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 314 ⭐️
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 782 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 322 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 792 ⭐️
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.2K ⭐️
 * [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 295 ⭐️
@@ -89,4 +89,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 
-<sup><sub>Last updated: October 15, 2024 at 00:05:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 04:05:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
