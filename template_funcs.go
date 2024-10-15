@@ -26,6 +26,16 @@ var fncs = template.FuncMap{
 	"sub": func(a, b int) int {
 		return a - b
 	},
+	"ellipsize": func(n int, s string) string {
+		// cut the string on `n` where `n` is the number of words
+		// to keep in the string
+		words := strings.Fields(s)
+		if len(words) <= n {
+			return s
+		}
+
+		return strings.Join(words[:n], " ") + "..."
+	},
 }
 
 func humanizeBigNumber(n int) string {

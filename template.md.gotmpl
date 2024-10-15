@@ -24,7 +24,7 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
-{{ range . }}| [#{{ .ID }} - {{ .Title }}]({{ .URL }}) | `{{ .ProjectOrg }}` | {{ template "pr_status" . }} |
+{{ range . }}| [#{{ .ID }} - {{ .Title | ellipsize 7 }}]({{ .URL }}) | `{{ .ProjectOrg }}` | {{ template "pr_status" . }} |
 {{ end }}
 
 Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.
