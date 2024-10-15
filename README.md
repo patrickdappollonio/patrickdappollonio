@@ -68,8 +68,8 @@ and [@ansible](https://github.com/ansible).
 |------------|-------|------------|-------|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.7K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 378 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.5K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 332 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 801 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 333 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 802 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.5K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 481 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 249 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 295 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.1K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 240 ⭐️|
 |[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|[DiceDB/dice](https://github.com/DiceDB/dice) | 6.3K ⭐️|
 
-<sup><sub>Last updated: October 15, 2024 at 15:07:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 16:04:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
