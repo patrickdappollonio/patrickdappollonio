@@ -24,6 +24,9 @@ jobs:
 
       - name: Dry-run the application itself
         run: go run .
+        env:
+          MAX_PULL_REQUESTS: 20
+          MAX_STARRED_REPOS: 30
 
       - name: Dry-run goreleaser application
         uses: goreleaser/goreleaser-action@v6
