@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  VERSION: "0.1.7"
+  VERSION: "0.1.8"
   MAX_PULL_REQUESTS: 20
 
 jobs:
