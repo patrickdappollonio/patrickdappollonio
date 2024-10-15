@@ -32,7 +32,7 @@ My personal favourite projects are 📌 pinned below!
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#11 - Ensure GVK is properly detected.](https://github.com/konstructio/colony/pull/11) on `konstructio/colony` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#11 - Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#287 - Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -42,12 +42,22 @@ My personal favourite projects are 📌 pinned below!
 * [#124 - Enable option to disable directory listing.](https://github.com/patrickdappollonio/http-server/pull/124) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#123 - Fix redirecting on empty path parameter](https://github.com/patrickdappollonio/http-server/pull/123) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#128 - Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#119 - Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#118 - Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#20 - Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#18 - Include volume checks in network orphans: Volumes also can be plugged to a network](https://github.com/konstructio/dropkick/pull/18) on `konstructio/dropkick` - <img src="images/github-closed.png" width="12px" height="12px"> closed
+* [#5 - Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) on `konstructio/vault-handler` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#425 - Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#423 - Fix importing a cluster when moving from cluster zero to management.](https://github.com/konstructio/kubefirst-api/pull/423) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#16 - Update quoting on outputs so it can be greppable.](https://github.com/konstructio/dropkick/pull/16) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2287 - Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#15 - Find object store credentials first before attempting deleting it.](https://github.com/konstructio/dropkick/pull/15) on `konstructio/dropkick` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@jbrukh](https://github.com/jbrukh),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@jbrukh](https://github.com/jbrukh).
 
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -56,8 +66,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 * [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) from [@gosub-io](https://github.com/gosub-io) with 2.6K ⭐️
 * [douglasmakey/rrm](https://github.com/douglasmakey/rrm) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
-* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 331 ⭐️
-* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 799 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 332 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 800 ⭐️
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.5K ⭐️
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 20.2K ⭐️
 * [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 295 ⭐️
@@ -75,4 +85,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 
-<sup><sub>Last updated: October 15, 2024 at 12:41:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 14:13:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
