@@ -15,21 +15,9 @@ I'm [Patrick D'appollonio](https://www.patrickdap.com), I'm a Chilean 🇨🇱 C
 If you want to know more about me, you can visit my [personal website](https://www.patrickdap.com) (some of the most recent articles I've written are listed below!), follow me on [Twitter/X](https://twitter.com/marlex) or add me on [LinkedIn](https://www.linkedin.com/in/patrickdappollonio/).
 
 My personal favourite projects are 📌 pinned below!
-### 📚 Latest Blog Posts
+### ✍️ Recent pull requests made to other repositories
 
-*(Some content might be written in Spanish)*
-
-
-* [Cultural differences between Chile and USA (and North America)](https://www.patrickdap.com/post/cultural-differences-chile-usa/?ref=github-profile) *(published on January 21, 2024)*
-* [Benchmarking is Hard: Caddy vs Nginx Edition](https://www.patrickdap.com/post/benchmarking-is-hard/?ref=github-profile) *(published on September 23, 2023)*
-* [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/?ref=github-profile) *(published on August 18, 2023)*
-* [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
-* [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
-
-... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
-### ✍️ Recent Public Contributions
-
-*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
+*I work in the open: these are all the Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
 * [#11 - Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -58,6 +46,18 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@ansible](https://github.com/ansible)
 and [@jbrukh](https://github.com/jbrukh).
+### 📚 Latest Blog Posts
+
+*(Some content might be written in Spanish)*
+
+
+* [Cultural differences between Chile and USA (and North America)](https://www.patrickdap.com/post/cultural-differences-chile-usa/?ref=github-profile) *(published on January 21, 2024)*
+* [Benchmarking is Hard: Caddy vs Nginx Edition](https://www.patrickdap.com/post/benchmarking-is-hard/?ref=github-profile) *(published on September 23, 2023)*
+* [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/?ref=github-profile) *(published on August 18, 2023)*
+* [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
+* [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
+
+... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
 
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -85,4 +85,4 @@ and [@jbrukh](https://github.com/jbrukh).
 * [go-gost/core](https://github.com/go-gost/core) from [@go-gost](https://github.com/go-gost) with 43 ⭐️
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) from [@judwhite](https://github.com/judwhite) with 481 ⭐️
 
-<sup><sub>Last updated: October 15, 2024 at 14:13:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2024 at 14:15:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
