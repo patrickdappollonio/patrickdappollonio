@@ -16,6 +16,20 @@ If you want to know more about me, you can visit my [personal website](https://w
 
 My personal favourite projects are 📌 pinned below!
 
+{{- $contributed_orgs := .ContributedOrgs -}}
+{{- with .PullRequests }}
+### ✍️ Recent pull requests made to other repositories
+
+*I work in the open: these are all the Pull Requests I've opened or contributed to recently, only public repositories are visible.*
+
+{{ range . }}
+* [#{{ .ID }} - {{ .Title }}]({{ .URL }}) on `{{ .ProjectOrg }}` - {{ template "pr_status" . }}
+{{- end }}
+
+Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.
+
+{{- end }}
+
 {{- with .Articles }}
 ### 📚 Latest Blog Posts
 
@@ -26,20 +40,6 @@ My personal favourite projects are 📌 pinned below!
 {{- end }}
 
 ... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
-{{- end }}
-
-{{- $contributed_orgs := .ContributedOrgs -}}
-{{- with .PullRequests }}
-### ✍️ Recent Public Contributions
-
-*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
-
-{{ range . }}
-* [#{{ .ID }} - {{ .Title }}]({{ .URL }}) on `{{ .ProjectOrg }}` - {{ template "pr_status" . }}
-{{- end }}
-
-Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.
-
 {{- end }}
 
 {{- $user := .GitHubUsername }}
