@@ -21,6 +21,8 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
+| [#132: Add additional permissions for releases.](https://github.com/patrickdappollonio/kubectl-slice/pull/132) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
+| [#131: Fix naming convention on Github Action.](https://github.com/patrickdappollonio/kubectl-slice/pull/131) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#8: Add Slice functions: skip, take, max](https://github.com/patrickdappollonio/patrickdappollonio/pull/8) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#11: Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) | [`colony`](https://github.com/konstructio/colony) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#287: Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) | [`charts`](https://github.com/konstructio/charts) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
@@ -39,8 +41,6 @@ My personal favourite projects are 📌 pinned below!
 | [#5: Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) | [`vault-handler`](https://github.com/konstructio/vault-handler) | <img src="images/github-open.png" width="12px" height="12px"> open |
 | [#425: Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#423: Fix importing a cluster when moving from cluster...](https://github.com/konstructio/kubefirst-api/pull/423) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#16: Update quoting on outputs so it can be...](https://github.com/konstructio/dropkick/pull/16) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#2287: Bump Kubefirst API SDK version.](https://github.com/konstructio/kubefirst/pull/2287) | [`kubefirst`](https://github.com/konstructio/kubefirst) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
@@ -67,19 +67,19 @@ and [@ansible](https://github.com/ansible).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.8K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 385 ⭐️|
-|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.5K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 344 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 813 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.6K ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 346 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 814 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.5K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 481 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 250 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 295 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.1K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.2K ⭐️|
-|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 806 ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 805 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 741 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 176 ⭐️|
-|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 728 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
+|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 729 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
 |[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|[raphamorim/rio](https://github.com/raphamorim/rio) | 3.6K ⭐️|
-|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 242 ⭐️|
+|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 244 ⭐️|
 |[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|[DiceDB/dice](https://github.com/DiceDB/dice) | 6.3K ⭐️|
 
-<sup><sub>Last updated: October 16, 2024 at 12:04:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 16, 2024 at 16:04:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
