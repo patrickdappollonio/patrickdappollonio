@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -68,18 +68,18 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |------------|-------|------------|-------|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.9K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 386 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.6K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 352 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 353 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 825 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.5K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 481 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 253 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 296 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.1K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.2K ⭐️|
-|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 809 ⭐️|
-|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 743 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 176 ⭐️|
-|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 729 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 810 ⭐️|
+|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 743 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
+|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 730 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
 |[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|[raphamorim/rio](https://github.com/raphamorim/rio) | 3.6K ⭐️|
 |[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 246 ⭐️|
 |[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|[DiceDB/dice](https://github.com/DiceDB/dice) | 6.4K ⭐️|
 
-<sup><sub>Last updated: October 17, 2024 at 20:16:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 18, 2024 at 00:05:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
