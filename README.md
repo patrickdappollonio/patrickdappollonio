@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,7 +66,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.9K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 387 ⭐️|
+|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 2.10K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 387 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.6K ⭐️|
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 354 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 828 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
@@ -79,7 +79,7 @@ and [@konstructio](https://github.com/konstructio).
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 743 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
 |[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 730 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
 |[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|[raphamorim/rio](https://github.com/raphamorim/rio) | 3.6K ⭐️|
-|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 246 ⭐️|
+|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 247 ⭐️|
 |[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|[DiceDB/dice](https://github.com/DiceDB/dice) | 6.4K ⭐️|
 
-<sup><sub>Last updated: October 18, 2024 at 08:06:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 18, 2024 at 12:04:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
