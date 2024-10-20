@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,20 +66,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 3.8K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
+|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 4.1K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 387 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.7K ⭐️|
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 357 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 858 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 860 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.5K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 481 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 253 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 297 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.1K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.2K ⭐️|
-|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 822 ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 823 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 743 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
-|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 732 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
+|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 733 ⭐️|[konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) | 13 ⭐️|
 |[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|[raphamorim/rio](https://github.com/raphamorim/rio) | 3.6K ⭐️|
 |[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|[mappu/miqt](https://github.com/mappu/miqt) | 248 ⭐️|
 
-<sup><sub>Last updated: October 20, 2024 at 04:05:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 20, 2024 at 08:06:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
