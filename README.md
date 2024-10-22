@@ -66,20 +66,20 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 735 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 736 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 620 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
-|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 8.5K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
+|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 8.9K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.2K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 388 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.8K ⭐️|
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 373 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 878 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 879 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 257 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 297 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.2K ⭐️|
-|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 832 ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 834 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 744 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
 
-<sup><sub>Last updated: October 22, 2024 at 04:05:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 22, 2024 at 08:07:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
