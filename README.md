@@ -66,14 +66,14 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 736 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 737 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 620 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
 |[microsoft/BitNet](https://github.com/microsoft/BitNet) | 9.1K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.2K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 389 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.8K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 374 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 881 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 376 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 882 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 257 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 297 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[stakater/Forecastle](https://github.com/stakater/Forecastle) | 595 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 835 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 744 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
 
-<sup><sub>Last updated: October 22, 2024 at 16:04:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 22, 2024 at 20:17:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
