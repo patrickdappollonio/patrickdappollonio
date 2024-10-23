@@ -21,6 +21,7 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
+| [#1: Add support for stripping debug symbols while releasing.](https://github.com/patrickdappollonio/find-project/pull/1) | [`find-project`](https://github.com/patrickdappollonio/find-project) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#132: Add additional permissions for releases.](https://github.com/patrickdappollonio/kubectl-slice/pull/132) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#131: Fix naming convention on Github Action.](https://github.com/patrickdappollonio/kubectl-slice/pull/131) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#8: Add Slice functions: skip, take, max](https://github.com/patrickdappollonio/patrickdappollonio/pull/8) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
@@ -40,7 +41,6 @@ My personal favourite projects are 📌 pinned below!
 | [#18: Include volume checks in network orphans: Volumes also...](https://github.com/konstructio/dropkick/pull/18) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-closed.png" width="12px" height="12px"> closed |
 | [#5: Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) | [`vault-handler`](https://github.com/konstructio/vault-handler) | <img src="images/github-open.png" width="12px" height="12px"> open |
 | [#425: Remove unused code and fix provisioning](https://github.com/konstructio/kubefirst-api/pull/425) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#423: Fix importing a cluster when moving from cluster...](https://github.com/konstructio/kubefirst-api/pull/423) | [`kubefirst-api`](https://github.com/konstructio/kubefirst-api) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
@@ -66,20 +66,20 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 737 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.2K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 737 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 620 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
-|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 9.1K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
+|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 9.2K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.2K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 389 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.8K ⭐️|
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 376 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 882 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
-|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 257 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 258 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 297 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.2K ⭐️|
-|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 595 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 835 ⭐️|
+|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 595 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 836 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 744 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 177 ⭐️|
 
-<sup><sub>Last updated: October 22, 2024 at 20:17:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 22, 2024 at 23:38:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
