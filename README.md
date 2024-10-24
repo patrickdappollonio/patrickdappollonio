@@ -21,6 +21,7 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
+| [#136: Add support for appropriate GOMAXPROCS that's aware of...](https://github.com/patrickdappollonio/http-server/pull/136) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#135: Enable etag generation on smaller files only.](https://github.com/patrickdappollonio/http-server/pull/135) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#1: Add support for stripping debug symbols while releasing.](https://github.com/patrickdappollonio/find-project/pull/1) | [`find-project`](https://github.com/patrickdappollonio/find-project) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#132: Add additional permissions for releases.](https://github.com/patrickdappollonio/kubectl-slice/pull/132) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
@@ -40,13 +41,12 @@ My personal favourite projects are 📌 pinned below!
 | [#118: Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#20: Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#18: Include volume checks in network orphans: Volumes also...](https://github.com/konstructio/dropkick/pull/18) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-closed.png" width="12px" height="12px"> closed |
-| [#5: Remove unused code. Clean up code complexity.](https://github.com/konstructio/vault-handler/pull/5) | [`vault-handler`](https://github.com/konstructio/vault-handler) | <img src="images/github-open.png" width="12px" height="12px"> open |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -75,11 +75,11 @@ and [@ansible](https://github.com/ansible).
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 382 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 420 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 885 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
-|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.5K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 258 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 20.6K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 258 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 298 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 63 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 |[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|[TanStack/query](https://github.com/TanStack/query) | 42.3K ⭐️|
 |[stakater/Forecastle](https://github.com/stakater/Forecastle) | 595 ⭐️|[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) | 841 ⭐️|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash) | 745 ⭐️|[ghostdevv/svelte-turnstile](https://github.com/ghostdevv/svelte-turnstile) | 178 ⭐️|
 
-<sup><sub>Last updated: October 23, 2024 at 20:17:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 24, 2024 at 00:05:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
