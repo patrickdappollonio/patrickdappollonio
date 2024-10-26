@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 299 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 
-<sup><sub>Last updated: October 25, 2024 at 16:04:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 25, 2024 at 20:16:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
