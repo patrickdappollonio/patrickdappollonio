@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -78,8 +78,8 @@ and [@ansible](https://github.com/ansible).
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 389 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 895 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
-|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 261 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 262 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 |[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|[azlux/log2ram](https://github.com/azlux/log2ram) | 2.6K ⭐️|
 
-<sup><sub>Last updated: October 27, 2024 at 00:05:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 27, 2024 at 04:05:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
