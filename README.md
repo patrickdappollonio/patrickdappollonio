@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -69,7 +69,7 @@ and [@ansible](https://github.com/ansible).
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.5K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|
-|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 746 ⭐️|
+|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 747 ⭐️|
 |[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.4K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 741 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 622 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
@@ -79,7 +79,7 @@ and [@ansible](https://github.com/ansible).
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 389 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 895 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
-|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.2K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 262 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 262 ⭐️|
 |[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 
-<sup><sub>Last updated: October 27, 2024 at 12:04:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 27, 2024 at 16:04:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
