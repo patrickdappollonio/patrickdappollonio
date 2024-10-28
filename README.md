@@ -66,7 +66,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.5K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 800 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
+|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 747 ⭐️|
@@ -80,6 +81,5 @@ and [@konstructio](https://github.com/konstructio).
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 895 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 262 ⭐️|
-|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|[MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) | 3.2K ⭐️|
 
-<sup><sub>Last updated: October 27, 2024 at 16:04:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 27, 2024 at 20:18:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
