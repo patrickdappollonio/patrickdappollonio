@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,7 +66,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 833 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 863 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|
@@ -80,6 +80,6 @@ and [@konstructio](https://github.com/konstructio).
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 389 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 895 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
-|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 262 ⭐️|
+|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 263 ⭐️|
 
-<sup><sub>Last updated: October 28, 2024 at 00:05:03 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2024 at 04:05:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
