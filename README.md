@@ -66,14 +66,14 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 863 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 890 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 746 ⭐️|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.4K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 741 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.5K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 742 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
-|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 622 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
+|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
 |[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.1K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 394 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 5.10K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|[judwhite/go-svc](https://github.com/judwhite/go-svc) | 482 ⭐️|
 |[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) | 263 ⭐️|
 
-<sup><sub>Last updated: October 28, 2024 at 04:05:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2024 at 08:07:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
