@@ -67,8 +67,8 @@ and [@ansible](https://github.com/ansible).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
-|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 741 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.3K ⭐️|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 938 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
+|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 741 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.4K ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 942 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 596 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 390 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
 |[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 896 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 
-<sup><sub>Last updated: October 28, 2024 at 20:17:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 29, 2024 at 00:05:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
