@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -67,8 +67,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
-|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 741 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.4K ⭐️|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 965 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
+|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.4K ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 974 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 300 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
@@ -79,7 +79,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.2K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 398 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 6K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 392 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 896 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
+|[fastrepl/canary](https://github.com/fastrepl/canary) | 394 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
+|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 897 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 
-<sup><sub>Last updated: October 29, 2024 at 12:04:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 29, 2024 at 16:04:30 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
