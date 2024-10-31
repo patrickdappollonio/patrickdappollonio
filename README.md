@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@ansible](https://github.com/ansible),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,10 +66,12 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 896 ⭐️|
+|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
+|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 399 ⭐️|
+|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 897 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.5K ⭐️|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 994 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 302 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 996 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
@@ -79,7 +81,5 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
 |[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.4K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 398 ⭐️|
-|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 6K ⭐️|
-|[fastrepl/canary](https://github.com/fastrepl/canary) | 399 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
 
-<sup><sub>Last updated: October 30, 2024 at 20:17:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 31, 2024 at 00:05:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
