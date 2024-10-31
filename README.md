@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,9 +66,10 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 896 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.5K ⭐️|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 992 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 301 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 994 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 302 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
@@ -80,6 +81,5 @@ and [@ansible](https://github.com/ansible).
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 398 ⭐️|
 |[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|[mainmatter/100-exercises-to-le...](https://github.com/mainmatter/100-exercises-to-learn-rust) | 6K ⭐️|
 |[fastrepl/canary](https://github.com/fastrepl/canary) | 399 ⭐️|[bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) | 422 ⭐️|
-|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 897 ⭐️|[go-gost/core](https://github.com/go-gost/core) | 43 ⭐️|
 
-<sup><sub>Last updated: October 30, 2024 at 16:04:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 30, 2024 at 20:17:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
