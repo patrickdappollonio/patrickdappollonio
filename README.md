@@ -71,7 +71,7 @@ and [@ansible](https://github.com/ansible).
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 898 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.6K ⭐️|
-|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 998 ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
+|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.5K ⭐️|[uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) | 4.1K ⭐️|
 |[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|[pijng/prep](https://github.com/pijng/prep) | 399 ⭐️|
 
-<sup><sub>Last updated: October 31, 2024 at 12:04:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 31, 2024 at 16:04:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
