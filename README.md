@@ -66,11 +66,11 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 50 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.5K ⭐️|
+|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 51 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.6K ⭐️|
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 11.5K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 400 ⭐️|
-|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 898 ⭐️|
+|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.9K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 899 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.6K ⭐️|
 |[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 |[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|[traefik/yaegi](https://github.com/traefik/yaegi) | 7.1K ⭐️|
 
-<sup><sub>Last updated: October 31, 2024 at 20:19:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 01, 2024 at 00:05:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
