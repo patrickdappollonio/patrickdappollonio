@@ -68,12 +68,12 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |------------|-------|------------|-------|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
 |[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 56 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.7K ⭐️|
-|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 11.8K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
+|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 11.9K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 401 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 905 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.9K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
-|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 742 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.9K ⭐️|
+|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 743 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 21.10K ⭐️|
 |[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.6K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
@@ -82,4 +82,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.8K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 743 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 
-<sup><sub>Last updated: November 02, 2024 at 12:04:02 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 02, 2024 at 16:04:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
