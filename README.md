@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,9 +66,9 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
+|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.1K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
 |[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 56 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.7K ⭐️|
-|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 11.9K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
+|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 11.10K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 402 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 905 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.8K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 743 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 
-<sup><sub>Last updated: November 03, 2024 at 00:04:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2024 at 03:04:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
