@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -79,7 +79,7 @@ and [@ansible](https://github.com/ansible).
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 12 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 746 ⭐️|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.8K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 744 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.8K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 745 ⭐️|
 |[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|[go-rod/rod](https://github.com/go-rod/rod) | 5.3K ⭐️|
 
-<sup><sub>Last updated: November 03, 2024 at 11:04:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2024 at 15:04:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
