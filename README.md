@@ -66,9 +66,9 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 96 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
+|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 127 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.2K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
-|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 64 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.8K ⭐️|
+|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 65 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.8K ⭐️|
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.3K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 404 ⭐️|
@@ -77,9 +77,9 @@ and [@ansible](https://github.com/ansible).
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 744 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 22.1K ⭐️|
 |[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|[TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) | 303 ⭐️|
 |[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.7K ⭐️|[go-simpler/env](https://github.com/go-simpler/env) | 64 ⭐️|
-|[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 13 ⭐️|
+|[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 14 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 597 ⭐️|
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 746 ⭐️|
-|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.8K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 746 ⭐️|
+|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.9K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 746 ⭐️|
 
-<sup><sub>Last updated: November 04, 2024 at 11:04:38 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 04, 2024 at 15:04:40 EST. The content here updates twice daily or when manually triggered.</sup></sub>
