@@ -66,10 +66,10 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 127 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
-|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.2K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
-|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 65 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.8K ⭐️|
-|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.3K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
+|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 155 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
+|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.3K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 623 ⭐️|
+|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 66 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.8K ⭐️|
+|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.4K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 404 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 909 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 746 ⭐️|
 |[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 21.9K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 746 ⭐️|
 
-<sup><sub>Last updated: November 04, 2024 at 15:04:40 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 04, 2024 at 19:17:01 EST. The content here updates twice daily or when manually triggered.</sup></sub>
