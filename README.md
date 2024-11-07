@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -69,9 +69,9 @@ and [@konstructio](https://github.com/konstructio).
 |[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 307 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.5K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 624 ⭐️|
 |[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 68 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.9K ⭐️|
-|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.6K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
-|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 10 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
-|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 425 ⭐️|
+|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.7K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
+|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 11 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
+|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 430 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 909 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 746 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 22.2K ⭐️|
@@ -82,4 +82,4 @@ and [@konstructio](https://github.com/konstructio).
 |[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|[corona10/goimagehash](https://github.com/corona10/goimagehash) | 747 ⭐️|
 |[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 22.1K ⭐️|[projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | 749 ⭐️|
 
-<sup><sub>Last updated: November 07, 2024 at 11:04:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 07, 2024 at 15:04:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
