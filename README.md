@@ -66,9 +66,9 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 325 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
+|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 326 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
 |[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 424 ⭐️|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 22.2K ⭐️|
-|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 312 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
+|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 313 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.6K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 624 ⭐️|
 |[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 68 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.9K ⭐️|
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.7K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|[ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) | 14 ⭐️|
 |[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|[stakater/Forecastle](https://github.com/stakater/Forecastle) | 600 ⭐️|
 
-<sup><sub>Last updated: November 08, 2024 at 19:16:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 08, 2024 at 23:04:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
