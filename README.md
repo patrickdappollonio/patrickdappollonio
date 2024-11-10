@@ -66,11 +66,11 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[tw93/Pake](https://github.com/tw93/Pake) | 32.8K ⭐️|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|
+|[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|
 |[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 5.5K ⭐️|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.7K ⭐️|
 |[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|
 |[dandavison/delta](https://github.com/dandavison/delta) | 23.10K ⭐️|[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|
-|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 328 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
+|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 329 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
 |[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 424 ⭐️|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 22.3K ⭐️|
 |[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 321 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.6K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 624 ⭐️|
@@ -78,8 +78,8 @@ and [@ansible](https://github.com/ansible).
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.7K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 11 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
 |[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 441 ⭐️|
-|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 914 ⭐️|
+|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 915 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 |[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 748 ⭐️|[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 22.3K ⭐️|
 
-<sup><sub>Last updated: November 09, 2024 at 19:18:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 09, 2024 at 23:04:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
