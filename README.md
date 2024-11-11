@@ -66,20 +66,20 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[dockur/windows](https://github.com/dockur/windows) | 23.6K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 749 ⭐️|
+|[dockur/windows](https://github.com/dockur/windows) | 24K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 750 ⭐️|
 |[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|
 |[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.1K ⭐️|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.7K ⭐️|
 |[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|
 |[dandavison/delta](https://github.com/dandavison/delta) | 24.2K ⭐️|[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|
-|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 335 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
+|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 337 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
 |[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 22.4K ⭐️|
-|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 324 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
+|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 327 ⭐️|[jeefy/kippy](https://github.com/jeefy/kippy) | 3 ⭐️|
 |[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.7K ⭐️|[jordanwilson230/kubectl-plugin...](https://github.com/jordanwilson230/kubectl-plugins) | 624 ⭐️|
-|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 72 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.10K ⭐️|
+|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 73 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.10K ⭐️|
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.8K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
-|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 12 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
-|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 446 ⭐️|
+|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
+|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 447 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 6K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 916 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 
-<sup><sub>Last updated: November 11, 2024 at 11:04:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 11, 2024 at 15:04:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
