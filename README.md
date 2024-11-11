@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,9 +66,9 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[dockur/windows](https://github.com/dockur/windows) | 21K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 748 ⭐️|
+|[dockur/windows](https://github.com/dockur/windows) | 21.4K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 748 ⭐️|
 |[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|[fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) | 1K ⭐️|
-|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 5.7K ⭐️|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.7K ⭐️|
+|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 5.8K ⭐️|[davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) | 2.7K ⭐️|
 |[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|[tidwall/buntdb](https://github.com/tidwall/buntdb) | 4.6K ⭐️|
 |[dandavison/delta](https://github.com/dandavison/delta) | 24.1K ⭐️|[dave/jennifer](https://github.com/dave/jennifer) | 3.4K ⭐️|
 |[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 333 ⭐️|[google/go-querystring](https://github.com/google/go-querystring) | 1.10K ⭐️|
@@ -78,8 +78,8 @@ and [@ansible](https://github.com/ansible).
 |[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 69 ⭐️|[microsoft/BitNet](https://github.com/microsoft/BitNet) | 10.10K ⭐️|
 |[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.8K ⭐️|[gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) | 3.4K ⭐️|
 |[onehr/llama-rs](https://github.com/onehr/llama-rs) | 11 ⭐️|[douglasmakey/rrm](https://github.com/douglasmakey/rrm) | 1 ⭐️|
-|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 444 ⭐️|
+|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|[fastrepl/canary](https://github.com/fastrepl/canary) | 445 ⭐️|
 |[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 5.10K ⭐️|[samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) | 914 ⭐️|
 |[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|[fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) | 9.6K ⭐️|
 
-<sup><sub>Last updated: November 10, 2024 at 15:03:59 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 10, 2024 at 19:17:40 EST. The content here updates twice daily or when manually triggered.</sup></sub>
