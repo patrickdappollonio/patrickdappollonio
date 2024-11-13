@@ -67,12 +67,12 @@ and [@ansible](https://github.com/ansible).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 73 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|
-|[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.5K ⭐️|
+|[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.6K ⭐️|
 |[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|
 |[teamhanko/hanko](https://github.com/teamhanko/hanko) | 7.3K ⭐️|[dandavison/delta](https://github.com/dandavison/delta) | 24.3K ⭐️|
 |[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.6K ⭐️|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 343 ⭐️|
 |[iyear/tdl](https://github.com/iyear/tdl) | 4.4K ⭐️|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|
-|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 337 ⭐️|
+|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 338 ⭐️|
 |[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.8K ⭐️|
 |[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 23 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 76 ⭐️|
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.9K ⭐️|
@@ -80,6 +80,6 @@ and [@ansible](https://github.com/ansible).
 |[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 757 ⭐️|[floneum/floneum](https://github.com/floneum/floneum) | 1.5K ⭐️|
 |[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 6K ⭐️|
 |[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|
-|[dockur/windows](https://github.com/dockur/windows) | 27.9K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 752 ⭐️|
+|[dockur/windows](https://github.com/dockur/windows) | 28K ⭐️|[rancher/system-upgrade-control...](https://github.com/rancher/system-upgrade-controller) | 753 ⭐️|
 
-<sup><sub>Last updated: November 13, 2024 at 11:04:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 13, 2024 at 15:04:44 EST. The content here updates twice daily or when manually triggered.</sup></sub>
