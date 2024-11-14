@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,20 +66,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 25 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 757 ⭐️|
+|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 31 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
 |[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.8K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
 |[simeji/jid](https://github.com/simeji/jid) | 6.9K ⭐️|[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|
-|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 10.6K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.2K ⭐️|
+|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 10.7K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.3K ⭐️|
 |[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 73 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|
 |[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.6K ⭐️|
-|[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|
+|[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.6K ⭐️|
 |[teamhanko/hanko](https://github.com/teamhanko/hanko) | 7.3K ⭐️|[dandavison/delta](https://github.com/dandavison/delta) | 24.3K ⭐️|
 |[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.6K ⭐️|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 343 ⭐️|
 |[iyear/tdl](https://github.com/iyear/tdl) | 4.4K ⭐️|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|
-|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 339 ⭐️|
-|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.8K ⭐️|
+|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 340 ⭐️|
+|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.9K ⭐️|
 |[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 23 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 77 ⭐️|
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.9K ⭐️|
 |[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.8K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|
 
-<sup><sub>Last updated: November 14, 2024 at 03:05:29 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 14, 2024 at 07:06:40 EST. The content here updates twice daily or when manually triggered.</sup></sub>
