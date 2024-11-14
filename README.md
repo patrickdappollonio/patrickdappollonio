@@ -66,7 +66,7 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 10.5K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.1K ⭐️|
+|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 10.5K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.2K ⭐️|
 |[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 73 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 32.9K ⭐️|
 |[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.6K ⭐️|
 |[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.5K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|[Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) | 6K ⭐️|
 |[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|[dundee/gdu](https://github.com/dundee/gdu) | 3.10K ⭐️|
 
-<sup><sub>Last updated: November 13, 2024 at 19:16:57 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 13, 2024 at 23:04:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
