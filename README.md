@@ -66,8 +66,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 42 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
-|[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.8K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
+|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 44 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
+|[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.9K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
 |[simeji/jid](https://github.com/simeji/jid) | 6.9K ⭐️|[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|
 |[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 10.8K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.5K ⭐️|
 |[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 73 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 32.10K ⭐️|
@@ -82,4 +82,4 @@ and [@konstructio](https://github.com/konstructio).
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.9K ⭐️|
 |[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.9K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|
 
-<sup><sub>Last updated: November 14, 2024 at 23:04:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 15, 2024 at 03:05:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
