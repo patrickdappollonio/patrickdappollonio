@@ -66,7 +66,7 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 78 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
+|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 81 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
 |[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.9K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
 |[simeji/jid](https://github.com/simeji/jid) | 6.9K ⭐️|[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|
 |[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 11.1K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.7K ⭐️|
@@ -78,8 +78,8 @@ and [@ansible](https://github.com/ansible).
 |[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|
 |[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 341 ⭐️|
 |[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.9K ⭐️|
-|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 23 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 77 ⭐️|
-|[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.9K ⭐️|
-|[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.9K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|
+|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 24 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 77 ⭐️|
+|[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.10K ⭐️|
+|[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.10K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|
 
-<sup><sub>Last updated: November 15, 2024 at 23:04:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 16, 2024 at 03:04:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
