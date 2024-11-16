@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -74,12 +74,12 @@ and [@ansible](https://github.com/ansible).
 |[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.7K ⭐️|
 |[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.6K ⭐️|
 |[teamhanko/hanko](https://github.com/teamhanko/hanko) | 7.3K ⭐️|[dandavison/delta](https://github.com/dandavison/delta) | 24.4K ⭐️|
-|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.7K ⭐️|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 348 ⭐️|
+|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.7K ⭐️|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 349 ⭐️|
 |[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|
 |[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|[muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | 341 ⭐️|
-|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.9K ⭐️|
-|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 24 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 77 ⭐️|
+|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|[yamadashy/repomix](https://github.com/yamadashy/repomix) | 3.10K ⭐️|
+|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 25 ⭐️|[awslabs/cedar-access-control-f...](https://github.com/awslabs/cedar-access-control-for-k8s) | 77 ⭐️|
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.10K ⭐️|
 |[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.10K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 13 ⭐️|
 
-<sup><sub>Last updated: November 16, 2024 at 03:04:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 16, 2024 at 07:05:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
