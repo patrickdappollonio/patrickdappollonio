@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@ansible](https://github.com/ansible)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -82,4 +82,4 @@ and [@konstructio](https://github.com/konstructio).
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.10K ⭐️|
 |[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 2K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 14 ⭐️|
 
-<sup><sub>Last updated: November 16, 2024 at 23:04:53 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 17, 2024 at 03:04:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
