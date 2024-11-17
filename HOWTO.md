@@ -1,22 +1,29 @@
 # How to use this project
 
 - [How to use this project](#how-to-use-this-project)
-    - [Customizing your GitHub profile](#customizing-your-github-profile)
-      - [How does customizing work?](#how-does-customizing-work)
-      - [Adding images](#adding-images)
-      - [Preventing images from linking to themselves](#preventing-images-from-linking-to-themselves)
-    - [Using this project](#using-this-project)
-      - [Configuring the application](#configuring-the-application)
-      - [Testing the configuration](#testing-the-configuration)
-      - [Contextual details](#contextual-details)
-      - [Data files](#data-files)
-      - [Template functions](#template-functions)
-      - [Scheduling updates](#scheduling-updates)
-      - [Updating the app](#updating-the-app)
+  - [Customizing your GitHub profile](#customizing-your-github-profile)
+    - [How does customizing work?](#how-does-customizing-work)
+    - [Adding images](#adding-images)
+    - [Preventing images from linking to themselves](#preventing-images-from-linking-to-themselves)
+  - [Using this project](#using-this-project)
+    - [Configuring the application](#configuring-the-application)
+    - [Testing the configuration](#testing-the-configuration)
+    - [Contextual details](#contextual-details)
+    - [Data files](#data-files)
+    - [Template functions](#template-functions)
+    - [Scheduling updates](#scheduling-updates)
+    - [Updating the app](#updating-the-app)
 
 If you've stumbled on this project, you're probably wondering how to use it to improve your GitHub profile with some dynamism. This document will guide you through the process of setting up your profile and use it.
 
-### Customizing your GitHub profile
+This project will allow you to showcase:
+
+* Your most recent pull requests and their status (open, closed, merged, etc.)
+* The most recent organizations you've contributed code to
+* Your most recent starred repositories
+* Any additional information you want to show, like social links, images, and more
+
+## Customizing your GitHub profile
 
 To start, you need a repository with the same name as your GitHub handle. If your GitHub username is `octocat`, then you need a repo called `octocat` too, yielding a URL like `github.com/octocat/octocat`.
 
@@ -24,13 +31,13 @@ Or in my case, the repo would be `github.com/patrickdappollonio/patrickdappollon
 
 You can create a new repository by [clicking here](https://github.com/new).
 
-#### How does customizing work?
+### How does customizing work?
 
 In short, GitHub allows you to customize your profile by creating a `README.md` file in the repository with your name. Anything in that `README` will be loaded whenever someone opens your GitHub profile.
 
 In Layman's terms, if I create a file in `github.com/patrickdappollonio/patrickdappollonio/tree/main/README.md`, the contents of that file will be displayed in my profile, at `github.com/patrickdappollonio`.
 
-#### Adding images
+### Adding images
 
 You can add images to GitHub readme files by simply linking them either in Markdown format:
 
@@ -47,7 +54,7 @@ Or in HTML format:
 > [!WARNING]
 > Markdown images by default will always link to themselves. Essentially, if someone clicks on the image, they will be taken to the image URL. If you want to avoid this, use the trick below.
 
-#### Preventing images from linking to themselves
+### Preventing images from linking to themselves
 
 This is a cheat, and it's up to GitHub to ensure it keeps working. Providing a `<picture>` html element with a `<source>` tag for both dark and light modes will prevent the image from linking to itself:
 
@@ -59,7 +66,7 @@ This is a cheat, and it's up to GitHub to ensure it keeps working. Providing a `
 </picture>
 ```
 
-### Using this project
+## Using this project
 
 > [!IMPORTANT]
 > Experience with Go templates is required to use this project. If you're not familiar with Go templates, you can learn more about them [here](https://pkg.go.dev/text/template).
@@ -80,7 +87,7 @@ https://github.com/patrickdappollonio/patrickdappollonio/blob/main/.github/workf
 
 Finally, you need the application itself, which the workflow will automatically download for you, but you can also download it to your local machine to try out before committing it to your repository. You can download the latest release from the [releases page](https://github.com/patrickdappollonio/patrickdappollonio/releases).
 
-#### Configuring the application
+### Configuring the application
 
 By default, the application receives all its configurations using environment variables. You can change these values by setting the following environment variables:
 
@@ -112,7 +119,7 @@ You can set these environment variables in the GitHub workflow. For example, to 
     git push || echo "No changes to push"
 ```
 
-#### Testing the configuration
+### Testing the configuration
 
 You can run the application locally and see if it would generate an appropriate `README.md` file, simply download a release from the releases page then run it with the required parameters:
 
@@ -126,7 +133,7 @@ The contents will be outputted to the console. If you want to save them to a fil
 GITHUB_USERNAME=octocat ./patrickdappollonio > README.md
 ```
 
-#### Contextual details
+### Contextual details
 
 Like any Go template, all the information available to the template is stored under `.`. The following keys are available:
 
@@ -197,7 +204,7 @@ func (a *Article) GoDate() (time.Time, error)
 
 Any of these fields can be accessed by using the dot-notation as common in Go templates.
 
-#### Data files
+### Data files
 
 Data files are YAML files in the current working directory (excluding subdirectories). The data is loaded into the template as a map of string to any. Data values are available under `.Data` and the file name without extension is used as the key.
 
@@ -222,7 +229,7 @@ Then you can read this information by using the `.Data.links` key in your templa
 {{ end }}
 ```
 
-#### Template functions
+### Template functions
 
 While limited, there are a few template functions available for you to use when writing your template. The following functions are available:
 
@@ -241,7 +248,7 @@ While limited, there are a few template functions available for you to use when 
 | `seq`               | Creates a sequence of numbers from 1 to the desired maximum.                                                                                                         | `seq 5`                                                   |
 | `max`               | Returns the maximum of two numbers.                                                                                                                                  | `max 5 10`                                                |
 
-#### Scheduling updates
+### Scheduling updates
 
 Since the code uses publicly available information, normal GitHub rate limits are at play. It is currently not possible to supply a custom token to the application, so it will use the default rate limits for unauthenticated requests.
 
@@ -254,7 +261,7 @@ on:
   workflow_dispatch:
 ```
 
-#### Updating the app
+### Updating the app
 
 Every now and then I might update the application to include new features or fix bugs. By default, if you're using my Workflow, the version is pinned:
 
