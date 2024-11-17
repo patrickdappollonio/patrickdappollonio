@@ -12,6 +12,7 @@
       - [Data files](#data-files)
       - [Template functions](#template-functions)
       - [Scheduling updates](#scheduling-updates)
+      - [Updating the app](#updating-the-app)
 
 If you've stumbled on this project, you're probably wondering how to use it to improve your GitHub profile with some dynamism. This document will guide you through the process of setting up your profile and use it.
 
@@ -70,23 +71,32 @@ Now that you know how to update your GitHub profile, let's make it more dynamic 
 
 You can copy these two files to the same locations in your own repository. My readme also includes an image with all the technologies I use, but you don't have to include those images if you don't want to.
 
+For easy finding: copy these two files to your GitHub repository:
+
+```
+https://github.com/patrickdappollonio/patrickdappollonio/blob/main/template.md.gotmpl
+https://github.com/patrickdappollonio/patrickdappollonio/blob/main/.github/workflows/schedule.yaml
+```
+
+Finally, you need the application itself, which the workflow will automatically download for you, but you can also download it to your local machine to try out before committing it to your repository. You can download the latest release from the [releases page](https://github.com/patrickdappollonio/patrickdappollonio/releases).
+
 #### Configuring the application
 
 By default, the application receives all its configurations using environment variables. You can change these values by setting the following environment variables:
 
-| Variable name           | Description                                                                                              | Default value                          |
-| ----------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| `GITHUB_USERNAME`       | Your GitHub username                                                                                     | `patrickdappollonio`                   |
-| `RSS_FEED`              | Your blog RSS feed                                                                                       | `https://www.patrickdap.com/index.xml` |
-| `TEMPLATE_FILE`         | The template file to use                                                                                 | `template.md.gotmpl`                   |
-| `MAX_PULL_REQUESTS`     | The maximum number of pull requests to show                                                              | `10`                                   |
-| `MAX_CONTRIBUTED_ORGS`  | The maximum number of organizations to show where you've contributed code by sending Pull Requests to it | `10`                                   |
-| `MAX_STARRED_REPOS`     | The maximum number of starred repositories to show                                                       | `20`                                   |
-| `MAX_ARTICLES`          | The maximum number of articles from the RSS feed to show                                                 | `5`                                    |
-| `DISABLE_RSS`           | If true, disables the RSS feed from being shown                                                          | `false`                                |
-| `DISABLE_PULL_REQUESTS` | If true, disables the pull requests from being shown                                                     | `false`                                |
-| `DISABLE_STARRED_REPOS` | If true, disables the starred repositories from being shown, as well as the contributed organizations    | `false`                                |
-| `DISABLE_DATA_FILES`    | If true, disables the data files from being read                                                         | `false`                                |
+| Variable name           | Description                                                                                                                                                                                                                                                                   | Default value                          |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `GITHUB_USERNAME`       | Your GitHub username                                                                                                                                                                                                                                                          | `patrickdappollonio`                   |
+| `RSS_FEED`              | Your blog RSS feed                                                                                                                                                                                                                                                            | `https://www.patrickdap.com/index.xml` |
+| `TEMPLATE_FILE`         | The template file to use                                                                                                                                                                                                                                                      | `template.md.gotmpl`                   |
+| `MAX_PULL_REQUESTS`     | The maximum number of pull requests to show                                                                                                                                                                                                                                   | `10`                                   |
+| `MAX_CONTRIBUTED_ORGS`  | The maximum number of unique (non-repeated) organizations to show where you've contributed code by sending Pull Requests to it. This is a _best effort_ since the maximum list of organizations might not be as big as what's provided in up to 100 records of pull requests. | `10`                                   |
+| `MAX_STARRED_REPOS`     | The maximum number of starred repositories to show                                                                                                                                                                                                                            | `20`                                   |
+| `MAX_ARTICLES`          | The maximum number of articles from the RSS feed to show                                                                                                                                                                                                                      | `5`                                    |
+| `DISABLE_RSS`           | If true, disables the RSS feed from being shown                                                                                                                                                                                                                               | `false`                                |
+| `DISABLE_PULL_REQUESTS` | If true, disables the pull requests from being shown                                                                                                                                                                                                                          | `false`                                |
+| `DISABLE_STARRED_REPOS` | If true, disables the starred repositories from being shown, as well as the contributed organizations                                                                                                                                                                         | `false`                                |
+| `DISABLE_DATA_FILES`    | If true, disables the data files from being read                                                                                                                                                                                                                              | `false`                                |
 
 You can set these environment variables in the GitHub workflow. For example, to use Octocat's GitHub profile, note the `export GITHUB_USERNAME=octocat` line:
 
@@ -243,6 +253,17 @@ on:
     - cron: "0 */4 * * *" # every 4 hours
   workflow_dispatch:
 ```
+
+#### Updating the app
+
+Every now and then I might update the application to include new features or fix bugs. By default, if you're using my Workflow, the version is pinned:
+
+```yaml
+env:
+  VERSION: "0.1.10"
+```
+
+You can change that value to any value from the [releases page](https://github.com/patrickdappollonio/patrickdappollonio/releases).
 
 ---
 
