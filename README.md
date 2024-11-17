@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@ansible](https://github.com/ansible),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.8K ⭐️|[woodruffw/zizmor](https://github.com/woodruffw/zizmor) | 356 ⭐️|
 |[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) | 425 ⭐️|
 
-<sup><sub>Last updated: November 17, 2024 at 16:48:23 EST. The content here updates twice daily or when manually triggered. Want this? [Check `HOWTO.md`](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 17, 2024 at 16:53:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
