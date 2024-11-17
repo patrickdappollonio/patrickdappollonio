@@ -23,6 +23,9 @@ This project will allow you to showcase:
 * Your most recent starred repositories
 * Any additional information you want to show, like social links, images, and more
 
+> [!WARNING]
+> Prior experience with Go templates is required to use this project. If you're not familiar with Go templates, you can learn more about them [here](https://pkg.go.dev/text/template). The application uses Go templates to generate the `README.md` file, so you need to be familiar with them to customize your profile.
+
 ## Customizing your GitHub profile
 
 To start, you need a repository with the same name as your GitHub handle. If your GitHub username is `octocat`, then you need a repo called `octocat` too, yielding a URL like `github.com/octocat/octocat`.
