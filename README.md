@@ -69,7 +69,7 @@ and [@ansible](https://github.com/ansible).
 |[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 90 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 756 ⭐️|
 |[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.9K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
 |[simeji/jid](https://github.com/simeji/jid) | 6.9K ⭐️|[aerospike/backup-go](https://github.com/aerospike/backup-go) | 13 ⭐️|
-|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 11.2K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.7K ⭐️|
+|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 11.2K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 28.8K ⭐️|
 |[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 73 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 32.10K ⭐️|
 |[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.7K ⭐️|
 |[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.6K ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|[kestra-io/kestra](https://github.com/kestra-io/kestra) | 12.10K ⭐️|
 |[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 1.10K ⭐️|[onehr/llama-rs](https://github.com/onehr/llama-rs) | 14 ⭐️|
 
-<sup><sub>Last updated: November 16, 2024 at 15:03:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 16, 2024 at 19:19:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
