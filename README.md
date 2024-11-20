@@ -44,9 +44,9 @@ My personal favourite projects are 📌 pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@ansible](https://github.com/ansible).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@ansible](https://github.com/ansible)
+and [@konstructio](https://github.com/konstructio).
 ### 📚 Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,8 +66,8 @@ and [@ansible](https://github.com/ansible).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill) | 971 ⭐️|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.8K ⭐️|
-|[NVIDIA/garak](https://github.com/NVIDIA/garak) | 2.5K ⭐️|[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|
+|[magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill) | 999 ⭐️|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.8K ⭐️|
+|[NVIDIA/garak](https://github.com/NVIDIA/garak) | 2.6K ⭐️|[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|
 |[ccojocar/randdetect](https://github.com/ccojocar/randdetect) | 6 ⭐️|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|
 |[erebe/wstunnel](https://github.com/erebe/wstunnel) | 4.3K ⭐️|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|
 |[luno/workflow](https://github.com/luno/workflow) | 117 ⭐️|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 25 ⭐️|
@@ -82,4 +82,4 @@ and [@ansible](https://github.com/ansible).
 |[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.6K ⭐️|
 |[teamhanko/hanko](https://github.com/teamhanko/hanko) | 7.3K ⭐️|[dandavison/delta](https://github.com/dandavison/delta) | 24.5K ⭐️|
 
-<sup><sub>Last updated: November 19, 2024 at 19:17:34 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 19, 2024 at 23:05:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
