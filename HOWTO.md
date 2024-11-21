@@ -141,7 +141,7 @@ GITHUB_USERNAME=octocat ./patrickdappollonio > README.md
 Like any Go template, all the information available to the template is stored under `.`. The following keys are available:
 
 | Key name           | Type                     | Description                                                                                                                                         |
-| ------------------ | ------------------------ |
+| ------------------ | ------------------------ |-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | `.GitHubUsername`  | `string`                 | The GitHub username being used to generate the README file                                                                                          |
 | `.PullRequests`    | `[]PullRequest`          | A list of pull requests made by the user, up to the maximum number specified in the configuration                                                   |
 | `.ContributedOrgs` | `[]string`               | A list of organizations where the user has contributed code by sending Pull Requests to it, up to the maximum number specified in the configuration |
