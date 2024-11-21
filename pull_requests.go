@@ -55,7 +55,7 @@ func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 		sizePixels = 128
 	}
 
-	b, err := statusImages.ReadFile(fmt.Sprintf("images/github-%s.png", status))
+	b, err := statusImages.ReadFile(fmt.Sprintf("images/statuses/github-%s.png", status))
 	if err != nil {
 		return ""
 	}
