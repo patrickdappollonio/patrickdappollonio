@@ -215,6 +215,25 @@ The `PullRequest` struct has a method called `StatusImageHTML` that generates an
 
 The returned value is an image tag with the icon status of the pull request, plus the text status. For an open pull request, the icon will be the typical "open" icon, and the text will be "open". For a closed pull request, the icon will be the "closed" icon, and the text will be "closed", and so on.
 
+An example usage is as follows:
+
+```handlebars
+{{ .StatusImageHTML 12 }}
+```
+
+Which would render:
+
+```html
+<!-- formatted for readability but the function returns everything as a single line -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="data:image/png;base64,omitted-for-brevity" width="12" height="12">
+    <source media="(prefers-color-scheme: light)" srcset="data:image/png;base64,omitted-for-brevity" width="12" height="12" alt="merged">
+    <img src="data:image/png;base64,omitted-for-brevity" width="12" height="12" alt="merged">
+</picture> merged
+```
+
+Do note that because the images are `base64`, the outputted content is quite long, but it would render without spaces to allow the use within Markdown elements like tables.
+
 ### Data files
 
 Data files are YAML files in the current working directory (excluding subdirectories). The data is loaded into the template as a map of string to any. Data values are available under `.Data` and the file name without extension is used as the key.
