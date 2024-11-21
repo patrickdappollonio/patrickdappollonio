@@ -6,21 +6,6 @@ import (
 	"net/http"
 )
 
-type StarredRepos []StarredRepo
-
-func (p StarredRepos) Take(start, limit int) StarredRepos {
-	if start >= len(p) {
-		return nil
-	}
-
-	end := start + limit
-	if end > len(p) {
-		end = len(p)
-	}
-
-	return p[start:end]
-}
-
 type StarredRepo struct {
 	Name    string `json:"full_name"`
 	Private bool   `json:"private"`
@@ -37,6 +22,10 @@ func (s *StarredRepo) IsPrivate() bool {
 
 func (s *StarredRepo) IsOwned(username string) bool {
 	return s.Owner.User == username
+}
+
+func (s *StarredRepo) Empty() bool {
+	return s.Name == ""
 }
 
 func getStarredRepos(username string, maxItems int) ([]StarredRepo, error) {
