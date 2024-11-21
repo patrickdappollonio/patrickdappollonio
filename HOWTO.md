@@ -141,7 +141,7 @@ GITHUB_USERNAME=octocat ./patrickdappollonio > README.md
 Like any Go template, all the information available to the template is stored under `.`. The following keys are available:
 
 | Key name           | Type                     | Description                                                                                                                                         |
-| ------------------ | ------------------------ |-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `.GitHubUsername`  | `string`                 | The GitHub username being used to generate the README file                                                                                          |
 | `.PullRequests`    | `[]PullRequest`          | A list of pull requests made by the user, up to the maximum number specified in the configuration                                                   |
 | `.ContributedOrgs` | `[]string`               | A list of organizations where the user has contributed code by sending Pull Requests to it, up to the maximum number specified in the configuration |
@@ -236,20 +236,28 @@ Then you can read this information by using the `.Data.links` key in your templa
 
 While limited, there are a few template functions available for you to use when writing your template. The following functions are available:
 
-| Function name       | Description                                                                                                                                                          | Example                                                   |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| `formatDate`        | Formats a date string into a human-readable format of `January 02, 2006` (replacing each part with the corresponding date part)                                      | `formatDate now`                                          |
-| `formatDateTime`    | Formats a date string into a human-readable format of `January 02, 2006 at 15:04:05 MST` (replacing each part with the corresponding date part)                      | `formatDateTime now`                                      |
-| `formatNumber`      | Formats a number into a human-readable format with commas separating the thousands (e.g. `1,000`)                                                                    | `formatNumber 1000`                                       |
-| `now`               | Returns the current time Go object (akin to `time.Now()`)                                                                                                            | `now`                                                     |
-| `humanizeBigNumber` | Formats a number into a human-readable format with a suffix (e.g. `1K`, `1M`, `1B`). If the number is bigger than 1,000, commas are added to separate the thousands. | `humanizeBigNumber 1000`                                  |
-| `sub`               | Subtracts two numbers and returns the result.                                                                                                                        | `sub 10 5`                                                |
-| `ellipsize`         | Cuts a string to a maximum number of words, appending an ellipsis at the end.                                                                                        | `ellipsize (printf "%s" "This is a long string") 3`       |
-| `ellipsizechars`    | Cuts a string to a maximum number of characters, appending an ellipsis at the end.                                                                                   | `ellipsizechars (printf "%s" "This is a long string") 10` |
-| `take`              | Takes a slice of a list up to a maximum number of elements.                                                                                                          | `take 3 (seq 5)`                                          |
-| `skip`              | Skips a number of elements from a list and returns the rest.                                                                                                         | `skip 2 (seq 5)`                                          |
-| `seq`               | Creates a sequence of numbers from 1 to the desired maximum.                                                                                                         | `seq 5`                                                   |
-| `max`               | Returns the maximum of two numbers.                                                                                                                                  | `max 5 10`                                                |
+Here's the updated table with the missing functions added:
+
+| Function name       | Description                                                                                                                                                      | Example                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| `formatDate`        | Formats a date object into a human-readable format of `January 02, 2006` (replacing each part with the corresponding date part).                                 | `formatDate now`                            |
+| `formatDateTime`    | Formats a date object into a human-readable format of `January 02, 2006 at 15:04:05 MST` (replacing each part with the corresponding date part).                 | `formatDateTime now`                        |
+| `formatNumber`      | Formats a number into a human-readable format with commas separating the thousands (e.g., `1,000`).                                                              | `formatNumber 1000`                         |
+| `now`               | Returns the current time object (similar to `time.Now()`).                                                                                                       | `now`                                       |
+| `humanizeBigNumber` | Formats a large number into a short, human-readable form with a suffix (e.g., `1K`, `1M`, `1B`). If the number is less than 1,000, it adds commas as separators. | `humanizeBigNumber 1000`                    |
+| `add`               | Adds two numbers and returns the result.                                                                                                                         | `add 5 10`                                  |
+| `sub`               | Subtracts the second number from the first and returns the result.                                                                                               | `sub 10 5`                                  |
+| `div`               | Divides the first number by the second and returns the integer result (integer division).                                                                        | `div 10 5`                                  |
+| `mod`               | Returns the remainder of the division of the first number by the second number.                                                                                  | `mod 10 3`                                  |
+| `lt`                | Returns `true` if the first number is less than the second number.                                                                                               | `lt 5 10`                                   |
+| `gt`                | Returns `true` if the first number is greater than the second number.                                                                                            | `gt 10 5`                                   |
+| `divCeil`           | Divides the first number by the second, rounding up to the nearest integer.                                                                                      | `divCeil 7 2`                               |
+| `ellipsize`         | Truncates a string to a maximum number of words, appending an ellipsis at the end if necessary.                                                                  | `ellipsize 3 "This is a long string"`       |
+| `ellipsizechars`    | Truncates a string to a maximum number of characters, appending an ellipsis at the end if necessary.                                                             | `ellipsizechars 10 "This is a long string"` |
+| `take`              | Returns a slice containing the first `n` elements of a list.                                                                                                     | `take 3 (seq 5)`                            |
+| `skip`              | Skips the first `n` elements of a list and returns the rest.                                                                                                     | `skip 2 (seq 5)`                            |
+| `seq`               | Creates a sequence of numbers from 0 up to (but not including) the desired maximum.                                                                              | `seq 5`                                     |
+| `sseq`              | Creates a sequence of numbers from `start` to `end` (inclusive).                                                                                                 | `sseq 5 10`                                 |
 
 ### Scheduling updates
 
