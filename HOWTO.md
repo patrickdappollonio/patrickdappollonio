@@ -226,13 +226,11 @@ Which would render:
 ```html
 <!-- formatted for readability but the function returns everything as a single line -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/png;base64,omitted-for-brevity" width="12" height="12">
-    <source media="(prefers-color-scheme: light)" srcset="data:image/png;base64,omitted-for-brevity" width="12" height="12" alt="merged">
-    <img src="data:image/png;base64,omitted-for-brevity" width="12" height="12" alt="merged">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12">
+    <img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12" alt="merged">
 </picture> merged
 ```
-
-Do note that because the images are `base64`, the outputted content is quite long, but it would render without spaces to allow the use within Markdown elements like tables.
 
 ### Data files
 

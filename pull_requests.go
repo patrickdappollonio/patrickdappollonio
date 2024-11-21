@@ -1,8 +1,6 @@
 package main
 
 import (
-	"embed"
-	"encoding/base64"
 	"encoding/json"
 	"fmt"
 	"html/template"
@@ -36,10 +34,14 @@ type PullRequest struct {
 	} `json:"pull_request"`
 }
 
-//go:embed images/statuses/*.png
-var statusImages embed.FS
+const imageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="LOCATION" width="SIZE" height="SIZE"><source media="(prefers-color-scheme: light)" srcset="LOCATION" width="SIZE" height="SIZE"><img src="LOCATION" width="SIZE" height="SIZE" alt="STATUS"></picture> STATUS`
 
-const imageTemplate = `<img src="data:image/png;base64,B64" width="SIZE" height="SIZE" alt="ALT"> STATUS`
+var statuses = map[string]string{
+	"closed": `https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png`,
+	"merged": `https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png`,
+	"open":   `https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png`,
+	"draft":  `https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png`,
+}
 
 func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 	status := "open"
@@ -55,16 +57,15 @@ func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 		sizePixels = 128
 	}
 
-	b, err := statusImages.ReadFile(fmt.Sprintf("images/statuses/github-%s.png", status))
-	if err != nil {
+	b, ok := statuses[status]
+	if !ok {
 		return ""
 	}
 
 	return template.HTML(
 		strings.NewReplacer(
-			"B64", base64.StdEncoding.EncodeToString(b),
+			"LOCATION", b,
 			"SIZE", fmt.Sprintf("%d", sizePixels),
-			"ALT", status,
 			"STATUS", status,
 		).Replace(imageTemplate),
 	)
