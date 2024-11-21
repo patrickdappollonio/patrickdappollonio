@@ -211,7 +211,7 @@ Any of these fields can be accessed by using the dot-notation as common in Go te
 
 ### PR Status images
 
-The `PullRequest` struct has a method called `StatusImageHTML` that generates an HTML image tag with the status of the pull request. The method receives an integer that represents the size of the image in pixels. Any value is possible.
+The `PullRequest` struct has a method called `StatusImageHTML` that generates an HTML image tag with the status of the pull request. The method receives an integer that represents the size of the image in pixels. Any value is possible up to 128 pixels.
 
 The returned value is an image tag with the icon status of the pull request, plus the text status. For an open pull request, the icon will be the typical "open" icon, and the text will be "open". For a closed pull request, the icon will be the "closed" icon, and the text will be "closed", and so on.
 
