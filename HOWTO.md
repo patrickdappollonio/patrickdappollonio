@@ -70,6 +70,14 @@ This is a cheat, and it's up to GitHub to ensure it keeps working. Providing a `
 </picture>
 ```
 
+For convenience, there's a shortcode you can use in your template that would achieve the image above with less code:
+
+```handlebars
+{{ dualimage "images/icons-dark.png" "images/icons-light.png" "technologies I use" }}
+```
+
+Which would render the content you see in the HTML above.
+
 ## Using this project
 
 > [!IMPORTANT]
