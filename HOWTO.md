@@ -9,6 +9,7 @@
     - [Configuring the application](#configuring-the-application)
     - [Testing the configuration](#testing-the-configuration)
     - [Contextual details](#contextual-details)
+    - [PR Status images](#pr-status-images)
     - [Data files](#data-files)
     - [Template functions](#template-functions)
     - [Scheduling updates](#scheduling-updates)
@@ -176,6 +177,7 @@ func (p *PullRequest) Merged() bool
 func (p *PullRequest) ProjectOrg() string
 func (p *PullRequest) RepositoryName() string
 func (p *PullRequest) RepositoryURL() string
+func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML
 ```
 
 The `StarredRepo` struct has the following fields:
@@ -206,6 +208,12 @@ func (a *Article) GoDate() (time.Time, error)
 ```
 
 Any of these fields can be accessed by using the dot-notation as common in Go templates.
+
+### PR Status images
+
+The `PullRequest` struct has a method called `StatusImageHTML` that generates an HTML image tag with the status of the pull request. The method receives an integer that represents the size of the image in pixels. Any value is possible.
+
+The returned value is an image tag with the icon status of the pull request, plus the text status. For an open pull request, the icon will be the typical "open" icon, and the text will be "open". For a closed pull request, the icon will be the "closed" icon, and the text will be "closed", and so on.
 
 ### Data files
 
