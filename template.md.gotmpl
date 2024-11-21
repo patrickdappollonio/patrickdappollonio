@@ -55,28 +55,22 @@ Overall, my most recent contributions (besides my own repos) have gone to {{ tem
 
 {{- end }} */}}
 
-{{- with .StarredRepos }}
+{{ with .StarredRepos }}
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-{{- $firstTen := (. | take 15) -}}
-{{- $nextTen := (. | skip 15 | take 15) -}}
-{{- $maxLen := max (len $firstTen) (len $nextTen) -}}
-{{- range $i := seq $maxLen }}
-| {{- with index $firstTen $i -}}
-  [{{ .Name | ellipsizechars 30 }}]({{ .URL }}) | {{ .Stars | humanizeBigNumber }} ⭐️
-{{- else -}}
-  | |
-{{- end -}}
-| {{- with index $nextTen $i -}}
-  [{{ .Name | ellipsizechars 30 }}]({{ .URL }}) | {{ .Stars | humanizeBigNumber }} ⭐️
-{{- else -}}
-  | |
-{{- end -}}
-|
+{{- $repos := . }}
+{{- $n := len $repos }}
+{{- $maxItems := 30 }}
+{{- if gt $n $maxItems }}
+  {{- $n = $maxItems }}
+{{- end }}
+{{- $rows := divCeil $n 2 }}
+{{- range $i := sseq 0 (sub $rows 1) }}
+| {{ if lt $i $n }} [{{ (index $repos $i).Name | ellipsizechars 30 }}]({{ (index $repos $i).URL }}) {{ else }}  {{ end }} | {{ if lt $i $n }} {{ (index $repos $i).Stars | humanizeBigNumber }} ⭐️ {{ else }}  {{ end }} | {{ if lt (add $i $rows) $n }} [{{ (index $repos (add $i $rows)).Name | ellipsizechars 30 }}]({{ (index $repos (add $i $rows)).URL }}) {{ else }}  {{ end }} | {{ if lt (add $i $rows) $n }} {{ (index $repos (add $i $rows)).Stars | humanizeBigNumber }} ⭐️ {{ else }}  {{ end }} |
 {{- end }}
 {{- end }}
 

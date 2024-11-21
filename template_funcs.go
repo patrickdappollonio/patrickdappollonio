@@ -24,9 +24,6 @@ var fncs = template.FuncMap{
 	// humanizeBigNumber takes a number over 1000 and returns
 	// its short, human-readable form. For example, 1000 becomes 1K.
 	"humanizeBigNumber": humanizeBigNumber,
-	"sub": func(a, b int) int {
-		return a - b
-	},
 	"ellipsize": func(n int, s string) string {
 		// cut the string on `n` where `n` is the number of words
 		// to keep in the string
@@ -57,11 +54,22 @@ var fncs = template.FuncMap{
 		}
 		return s
 	},
-	"max": func(a, b int) int {
-		if a > b {
-			return a
+
+	"add": func(a, b int) int { return a + b },
+	"sub": func(a, b int) int { return a - b },
+	"div": func(a, b int) int { return a / b },
+	"lt":  func(a, b int) bool { return a < b },
+	"gt":  func(a, b int) bool { return a > b },
+	"mod": func(a, b int) int { return a % b },
+	"sseq": func(start, end int) []int {
+		a := make([]int, end-start+1)
+		for i := range a {
+			a[i] = start + i
 		}
-		return b
+		return a
+	},
+	"divCeil": func(a, b int) int {
+		return (a + b - 1) / b
 	},
 }
 
