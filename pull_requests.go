@@ -1,8 +1,11 @@
 package main
 
 import (
+	"embed"
+	"encoding/base64"
 	"encoding/json"
 	"fmt"
+	"html/template"
 	"net/http"
 	"net/url"
 	"regexp"
@@ -31,6 +34,36 @@ type PullRequest struct {
 	PullRequest      struct {
 		MergedAt time.Time `json:"merged_at"`
 	} `json:"pull_request"`
+}
+
+//go:embed images/statuses/*.png
+var statusImages embed.FS
+
+const imageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="data:image/png;base64,B64" width="SIZE" height="SIZE"><source media="(prefers-color-scheme: light)" srcset="data:image/png;base64,B64" width="SIZE" height="SIZE"><img src="data:image/png;base64,B64" width="SIZE" height="SIZE" alt="ALT"></picture> STATUS`
+
+func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
+	status := "open"
+	if p.Closed() {
+		status = "closed"
+	} else if p.Merged() {
+		status = "merged"
+	} else if p.Draft {
+		status = "draft"
+	}
+
+	b, err := statusImages.ReadFile(fmt.Sprintf("images/github-%s.png", status))
+	if err != nil {
+		return ""
+	}
+
+	return template.HTML(
+		strings.NewReplacer(
+			"B64", base64.StdEncoding.EncodeToString(b),
+			"SIZE", fmt.Sprintf("%d", sizePixels),
+			"ALT", status,
+			"STATUS", status,
+		).Replace(imageTemplate),
+	)
 }
 
 func (p *PullRequest) ProjectOrg() string {
