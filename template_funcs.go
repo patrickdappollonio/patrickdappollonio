@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
+	"html/template"
 	"math"
 	"reflect"
 	"strconv"
 	"strings"
-	"text/template"
 	"time"
 )
 
@@ -71,6 +71,38 @@ var fncs = template.FuncMap{
 	"divCeil": func(a, b int) int {
 		return (a + b - 1) / b
 	},
+
+	"dualimage": renderImageUnclickable,
+}
+
+const dualImageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="{{IMAGE_DARK}}"><source media="(prefers-color-scheme: light)" srcset="{{IMAGE_LIGHT}}"><img src="{{IMAGE_LIGHT}}" alt="{{ALT_TEXT}}"></picture>`
+
+func renderImageUnclickable(images ...string) template.HTML {
+	darkImage, lightImage, alt := "", "", ""
+
+	switch len(images) {
+	case 1:
+		darkImage = images[0]
+		lightImage = images[0]
+
+	case 2:
+		darkImage = images[0]
+		lightImage = images[1]
+
+	case 3:
+		darkImage = images[0]
+		lightImage = images[1]
+		alt = images[2]
+
+	default:
+		return ""
+	}
+
+	return template.HTML(strings.NewReplacer(
+		"{{IMAGE_LIGHT}}", lightImage,
+		"{{IMAGE_DARK}}", darkImage,
+		"{{ALT_TEXT}}", alt,
+	).Replace(dualImageTemplate))
 }
 
 func take(n int, slice interface{}) interface{} {
