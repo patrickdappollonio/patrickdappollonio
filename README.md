@@ -21,6 +21,7 @@ My personal favourite projects are 📌 pinned below!
 
 | PR Title | Repository | Status |
 | --- | --- | --- |
+| [#9: Add custom functions.](https://github.com/patrickdappollonio/patrickdappollonio/pull/9) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#1: Add worker pool library.](https://github.com/konstructio/workpool/pull/1) | [`workpool`](https://github.com/konstructio/workpool) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#136: Add support for appropriate GOMAXPROCS that's aware of...](https://github.com/patrickdappollonio/http-server/pull/136) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#135: Enable etag generation on smaller files only.](https://github.com/patrickdappollonio/http-server/pull/135) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
@@ -40,7 +41,6 @@ My personal favourite projects are 📌 pinned below!
 | [#128: Fix linting message.](https://github.com/patrickdappollonio/kubectl-slice/pull/128) | [`kubectl-slice`](https://github.com/patrickdappollonio/kubectl-slice) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#119: Add link to redirections from docs collection page.](https://github.com/patrickdappollonio/http-server/pull/119) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 | [#118: Add support for redirections](https://github.com/patrickdappollonio/http-server/pull/118) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
-| [#20: Add Civo v2 API](https://github.com/konstructio/dropkick/pull/20) | [`dropkick`](https://github.com/konstructio/dropkick) | <img src="images/github-merged.png" width="12px" height="12px"> merged |
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
@@ -60,26 +60,27 @@ and [@ansible](https://github.com/ansible).
 
 ... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
 
+
+
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|[magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill) | 1.2K ⭐️|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 40.8K ⭐️|
-|[NVIDIA/garak](https://github.com/NVIDIA/garak) | 2.7K ⭐️|[iyear/tdl](https://github.com/iyear/tdl) | 4.5K ⭐️|
-|[ccojocar/randdetect](https://github.com/ccojocar/randdetect) | 6 ⭐️|[kopia/kopia](https://github.com/kopia/kopia) | 8.1K ⭐️|
-|[erebe/wstunnel](https://github.com/erebe/wstunnel) | 4.3K ⭐️|[kairos-io/kairos](https://github.com/kairos-io/kairos) | 1.1K ⭐️|
-|[luno/workflow](https://github.com/luno/workflow) | 118 ⭐️|[chadaustin/batch-channel](https://github.com/chadaustin/batch-channel) | 25 ⭐️|
-|[lestrrat-go/strftime](https://github.com/lestrrat-go/strftime) | 121 ⭐️|[wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy) | 13 ⭐️|
-|[curioswitch/go-reassign](https://github.com/curioswitch/go-reassign) | 8 ⭐️|[hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) | 2.1K ⭐️|
-|[twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) | 141 ⭐️|[grandcat/zeroconf](https://github.com/grandcat/zeroconf) | 757 ⭐️|
-|[hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022) | 7.9K ⭐️|[lyft/clutch](https://github.com/lyft/clutch) | 1.7K ⭐️|
-|[simeji/jid](https://github.com/simeji/jid) | 6.9K ⭐️|[aerospike/backup-go](https://github.com/aerospike/backup-go) | 15 ⭐️|
-|[tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 11.7K ⭐️|[dockur/windows](https://github.com/dockur/windows) | 29.4K ⭐️|
-|[argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) | 76 ⭐️|[tw93/Pake](https://github.com/tw93/Pake) | 33.1K ⭐️|
-|[not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) | 1.7K ⭐️|[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 6.9K ⭐️|
-|[ory/kratos](https://github.com/ory/kratos) | 11.3K ⭐️|[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 10.6K ⭐️|
-|[teamhanko/hanko](https://github.com/teamhanko/hanko) | 7.3K ⭐️|[dandavison/delta](https://github.com/dandavison/delta) | 24.5K ⭐️|
+|  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.2K ⭐️  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K ⭐️  |
+|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.7K ⭐️  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  40.8K ⭐️  |
+|  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 ⭐️  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.5K ⭐️  |
+|  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.3K ⭐️  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.1K ⭐️  |
+|  [luno/workflow](https://github.com/luno/workflow)  |  118 ⭐️  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K ⭐️  |
+|  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  121 ⭐️  |  [chadaustin/batch-channel](https://github.com/chadaustin/batch-channel)  |  25 ⭐️  |
+|  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  8 ⭐️  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  13 ⭐️  |
+|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  141 ⭐️  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.1K ⭐️  |
+|  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  7.9K ⭐️  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  757 ⭐️  |
+|  [simeji/jid](https://github.com/simeji/jid)  |  6.9K ⭐️  |  [lyft/clutch](https://github.com/lyft/clutch)  |  1.7K ⭐️  |
+|  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.7K ⭐️  |  [aerospike/backup-go](https://github.com/aerospike/backup-go)  |  15 ⭐️  |
+|  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  76 ⭐️  |  [dockur/windows](https://github.com/dockur/windows)  |  29.4K ⭐️  |
+|  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K ⭐️  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.1K ⭐️  |
+|  [ory/kratos](https://github.com/ory/kratos)  |  11.3K ⭐️  |    |    |
 
-<sup><sub>Last updated: November 20, 2024 at 19:17:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 21, 2024 at 00:22:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
