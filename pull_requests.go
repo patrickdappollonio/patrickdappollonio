@@ -39,7 +39,7 @@ type PullRequest struct {
 //go:embed images/statuses/*.png
 var statusImages embed.FS
 
-const imageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="data:image/png;base64,B64" width="SIZE" height="SIZE"><source media="(prefers-color-scheme: light)" srcset="data:image/png;base64,B64" width="SIZE" height="SIZE"><img src="data:image/png;base64,B64" width="SIZE" height="SIZE" alt="ALT"></picture> STATUS`
+const imageTemplate = `<img src="data:image/png;base64,B64" width="SIZE" height="SIZE" alt="ALT"> STATUS`
 
 func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 	status := "open"
