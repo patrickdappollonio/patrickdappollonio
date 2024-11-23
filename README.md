@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.1K :star:  |
 |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
 
-<sup><sub>Last updated: November 23, 2024 at 03:04:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 23, 2024 at 07:07:06 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
