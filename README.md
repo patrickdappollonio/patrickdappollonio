@@ -74,8 +74,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  7.10K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  760 :star:  |
 |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |  [lyft/clutch](https://github.com/lyft/clutch)  |  1.7K :star:  |
 |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.8K :star:  |  [aerospike/backup-go](https://github.com/aerospike/backup-go)  |  16 :star:  |
-|  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  79 :star:  |  [dockur/windows](https://github.com/dockur/windows)  |  29.6K :star:  |
+|  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  79 :star:  |  [dockur/windows](https://github.com/dockur/windows)  |  29.7K :star:  |
 |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.2K :star:  |
 |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
 
-<sup><sub>Last updated: November 24, 2024 at 11:04:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 24, 2024 at 15:04:19 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
