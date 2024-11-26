@@ -64,7 +64,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.6K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
-|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.8K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  40.10K :star:  |
+|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.8K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.5K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.2K :star:  |
 |  [luno/workflow](https://github.com/luno/workflow)  |  121 :star:  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.2K :star:  |
 |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
 
-<sup><sub>Last updated: November 26, 2024 at 03:05:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 26, 2024 at 07:07:03 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
