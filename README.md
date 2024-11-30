@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.8K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
+|  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.9K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.9K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.1K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.5K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.2K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.3K :star:  |
 |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
 
-<sup><sub>Last updated: November 29, 2024 at 19:17:42 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 29, 2024 at 23:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
