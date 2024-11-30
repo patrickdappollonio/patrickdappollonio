@@ -63,6 +63,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  737 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  232 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.9K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.9K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.1K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.5K :star:  |
@@ -74,8 +76,6 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  761 :star:  |
 |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |  [lyft/clutch](https://github.com/lyft/clutch)  |  1.7K :star:  |
 |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.9K :star:  |  [aerospike/backup-go](https://github.com/aerospike/backup-go)  |  16 :star:  |
-|  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  82 :star:  |  [dockur/windows](https://github.com/dockur/windows)  |  30.1K :star:  |
-|  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.3K :star:  |
-|  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
+|  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  82 :star:  |    |    |
 
-<sup><sub>Last updated: November 30, 2024 at 07:06:05 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 30, 2024 at 11:04:24 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
