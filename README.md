@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |  [tw93/Pake](https://github.com/tw93/Pake)  |  33.3K :star:  |
 |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |    |    |
 
-<sup><sub>Last updated: November 29, 2024 at 23:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 30, 2024 at 03:04:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
