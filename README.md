@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.10K :star:  |  [aerospike/backup-go](https://github.com/aerospike/backup-go)  |  16 :star:  |
 |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  82 :star:  |    |    |
 
-<sup><sub>Last updated: December 01, 2024 at 03:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 01, 2024 at 07:06:28 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
