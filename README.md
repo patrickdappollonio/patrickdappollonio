@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  82 :star:  |
+|  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  83 :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  745 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
 |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  246 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.9K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
@@ -73,9 +73,9 @@ and [@konstructio](https://github.com/konstructio).
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K :star:  |
 |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  122 :star:  |  [chadaustin/batch-channel](https://github.com/chadaustin/batch-channel)  |  25 :star:  |
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  14 :star:  |
-|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  220 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
-|  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  762 :star:  |
+|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  221 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
+|  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  763 :star:  |
 |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |  [lyft/clutch](https://github.com/lyft/clutch)  |  1.7K :star:  |
 |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.10K :star:  |    |    |
 
-<sup><sub>Last updated: December 02, 2024 at 19:19:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 02, 2024 at 23:05:06 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
