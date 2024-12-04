@@ -74,8 +74,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K :star:  |
 |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |  [chadaustin/batch-channel](https://github.com/chadaustin/batch-channel)  |  25 :star:  |
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  14 :star:  |
-|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  228 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
+|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  230 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
 |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  763 :star:  |
 |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |    |    |
 
-<sup><sub>Last updated: December 03, 2024 at 19:18:41 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 03, 2024 at 23:05:21 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
