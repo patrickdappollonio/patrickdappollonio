@@ -66,7 +66,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  11.10K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  83 :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  746 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
-|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  255 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  256 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.3K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  1.10K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.9K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.2K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.5K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8K :star:  |  [grandcat/zeroconf](https://github.com/grandcat/zeroconf)  |  763 :star:  |
 |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |    |    |
 
-<sup><sub>Last updated: December 03, 2024 at 23:05:21 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 04, 2024 at 03:05:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
