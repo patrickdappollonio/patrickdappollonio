@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -75,7 +75,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K :star:  |
 |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |  [chadaustin/batch-channel](https://github.com/chadaustin/batch-channel)  |  25 :star:  |
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  14 :star:  |
-|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  239 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
+|  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  242 :star:  |  [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)  |  2.2K :star:  |
 |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |    |    |
 
-<sup><sub>Last updated: December 04, 2024 at 23:16:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 05, 2024 at 03:05:48 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
