@@ -67,8 +67,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  64 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  85 :star:  |
-|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  753 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
-|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  272 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
+|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  755 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  273 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.3K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  14 :star:  |
 |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  249 :star:  |    |    |
 
-<sup><sub>Last updated: December 06, 2024 at 15:04:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 06, 2024 at 19:18:13 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
