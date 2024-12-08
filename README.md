@@ -68,8 +68,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  66 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.1K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  85 :star:  |
-|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  756 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
-|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  284 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
+|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  757 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  285 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.1K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.6K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |  [chadaustin/batch-channel](https://github.com/chadaustin/batch-channel)  |  25 :star:  |
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |    |    |
 
-<sup><sub>Last updated: December 08, 2024 at 11:04:34 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 08, 2024 at 15:04:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
