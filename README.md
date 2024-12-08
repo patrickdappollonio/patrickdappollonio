@@ -70,7 +70,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  756 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
 |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  282 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.1K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
-|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.4K :star:  |
+|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.5K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.2K :star:  |
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |  [kairos-io/kairos](https://github.com/kairos-io/kairos)  |  1.2K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |  [wez/docker-stack-deploy](https://github.com/wez/docker-stack-deploy)  |  14 :star:  |
 |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  251 :star:  |    |    |
 
-<sup><sub>Last updated: December 07, 2024 at 23:04:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 08, 2024 at 03:05:03 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
