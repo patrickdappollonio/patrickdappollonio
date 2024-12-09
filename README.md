@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.2K :star:  |
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |    |    |
 
-<sup><sub>Last updated: December 08, 2024 at 23:05:30 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 09, 2024 at 03:06:01 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
