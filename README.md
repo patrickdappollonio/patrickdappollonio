@@ -65,17 +65,17 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |------------|-------|------------|-------|
 |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24K :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
 |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |
-|  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  263 :star:  |
+|  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  268 :star:  |
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  66 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.1K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  85 :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
-|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  290 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  291 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
 |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.1K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
-|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.8K :star:  |
+|  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  2.10K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  41.9K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.3K :star:  |
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |    |    |
 
-<sup><sub>Last updated: December 09, 2024 at 15:04:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 09, 2024 at 19:18:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
