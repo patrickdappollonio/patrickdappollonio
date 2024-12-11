@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24K :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
+|  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
 |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |
 |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  312 :star:  |
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
@@ -71,11 +71,11 @@ and [@konstructio](https://github.com/konstructio).
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.2K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  85 :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
-|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  303 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
-|  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.1K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
+|  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  304 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
+|  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.2K :star:  |  [teamhanko/hanko](https://github.com/teamhanko/hanko)  |  7.3K :star:  |
 |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3K :star:  |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  |  42K :star:  |
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |  [kopia/kopia](https://github.com/kopia/kopia)  |  8.3K :star:  |
 |  [luno/workflow](https://github.com/luno/workflow)  |  122 :star:  |    |    |
 
-<sup><sub>Last updated: December 11, 2024 at 11:04:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 11, 2024 at 15:05:04 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
