@@ -47,11 +47,11 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 *(Some content might be written in Spanish)*
 
 
+* [How to make your GitHub profile dynamic](https://www.patrickdap.com/post/make-github-profile-dynamic/?ref=github-profile) *(published on December 13, 2024)*
 * [Cultural differences between Chile and USA (and North America)](https://www.patrickdap.com/post/cultural-differences-chile-usa/?ref=github-profile) *(published on January 21, 2024)*
 * [Benchmarking is Hard: Caddy vs Nginx Edition](https://www.patrickdap.com/post/benchmarking-is-hard/?ref=github-profile) *(published on September 23, 2023)*
 * [4 alternative tools to replace Terraform in your Infrastructure as Code](https://www.patrickdap.com/post/ideas-replace-terraform/?ref=github-profile) *(published on August 18, 2023)*
 * [How to manage Kubernetes clusters in WSL with OpenLens on Windows](https://www.patrickdap.com/post/openlens-wsl/?ref=github-profile) *(published on January 27, 2023)*
-* [Mounting Secrets and ConfigMaps in a preexistent folder without deleting the folder's contents](https://www.patrickdap.com/post/mounting-secrets-configmaps-without-deleting/?ref=github-profile) *(published on October 31, 2022)*
 
 ... And several additional articles are available [on my blog](https://www.patrickdap.com/). Check it out!
 
@@ -69,7 +69,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  327 :star:  |
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  71 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
-|  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.4K :star:  |
+|  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.5K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  86 :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  759 :star:  |  [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  |  1.7K :star:  |
 |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  306 :star:  |  [ory/kratos](https://github.com/ory/kratos)  |  11.4K :star:  |
@@ -78,4 +78,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |  [iyear/tdl](https://github.com/iyear/tdl)  |  4.6K :star:  |
 |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |    |    |
 
-<sup><sub>Last updated: December 12, 2024 at 23:05:09 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 13, 2024 at 03:05:49 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
