@@ -72,9 +72,9 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
 |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  338 :star:  |
-|  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  73 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
+|  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  74 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.6K :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  86 :star:  |
 
-<sup><sub>Last updated: December 15, 2024 at 07:06:20 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 11:04:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
