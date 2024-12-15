@@ -63,7 +63,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  236 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  308 :star:  |
+|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  236 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  309 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  93 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.2K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  651 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
@@ -74,7 +74,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  338 :star:  |
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  73 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
-|  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.5K :star:  |
+|  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.6K :star:  |
 |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  86 :star:  |
 
-<sup><sub>Last updated: December 15, 2024 at 03:05:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 07:06:20 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
