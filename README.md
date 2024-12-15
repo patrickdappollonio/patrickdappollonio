@@ -40,8 +40,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,8 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  236 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  309 :star:  |
+|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |
+|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  237 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  310 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  93 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.2K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  651 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
@@ -75,6 +76,5 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  74 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.6K :star:  |
-|  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |  [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent)  |  86 :star:  |
 
-<sup><sub>Last updated: December 15, 2024 at 11:04:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 15:04:13 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
