@@ -64,17 +64,17 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  758 :star:  |
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  240 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  310 :star:  |
+|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  241 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  310 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  652 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
-|  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  371 :star:  |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |
+|  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  370 :star:  |  [erebe/wstunnel](https://github.com/erebe/wstunnel)  |  4.4K :star:  |
 |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |  [luno/workflow](https://github.com/luno/workflow)  |  124 :star:  |
 |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
 |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |
-|  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  339 :star:  |
-|  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  75 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
+|  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  340 :star:  |
+|  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  76 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |  [simeji/jid](https://github.com/simeji/jid)  |  6.9K :star:  |
 |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |  [tursodatabase/libsql](https://github.com/tursodatabase/libsql)  |  12.6K :star:  |
 
-<sup><sub>Last updated: December 16, 2024 at 07:07:33 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 16, 2024 at 11:05:04 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
