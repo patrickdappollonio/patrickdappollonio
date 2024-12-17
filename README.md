@@ -63,10 +63,10 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  9 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  742 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
+|  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  10 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
+|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  760 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
 |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  759 :star:  |
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  242 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  310 :star:  |
+|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  243 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  310 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  652 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
@@ -77,4 +77,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  341 :star:  |
 |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  76 :star:  |  [hxu296/leetcode-company-wise-p...](https://github.com/hxu296/leetcode-company-wise-problems-2022)  |  8.1K :star:  |
 
-<sup><sub>Last updated: December 16, 2024 at 19:18:37 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 16, 2024 at 23:05:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
