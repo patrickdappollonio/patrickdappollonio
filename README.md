@@ -63,11 +63,12 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [sminez/ad](https://github.com/sminez/ad)  |  310 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  77 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  835 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
-|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  760 :star:  |
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  245 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  318 :star:  |
+|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  842 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
+|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  761 :star:  |
+|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  245 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  319 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  652 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3.1K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
@@ -75,6 +76,5 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |  [luno/workflow](https://github.com/luno/workflow)  |  124 :star:  |
 |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |  [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime)  |  123 :star:  |
 |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |  [curioswitch/go-reassign](https://github.com/curioswitch/go-reassign)  |  9 :star:  |
-|  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |  [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor)  |  348 :star:  |
 
-<sup><sub>Last updated: December 17, 2024 at 19:17:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 17, 2024 at 23:04:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
