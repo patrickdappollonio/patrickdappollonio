@@ -64,10 +64,10 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  370 :star:  |
-|  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  215 :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
+|  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  216 :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
 |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  342 :star:  |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |
 |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.7K :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
-|  [sminez/ad](https://github.com/sminez/ad)  |  459 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
+|  [sminez/ad](https://github.com/sminez/ad)  |  460 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  79 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  890 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
@@ -77,4 +77,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  652 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3.1K :star:  |
 |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |  [ccojocar/randdetect](https://github.com/ccojocar/randdetect)  |  6 :star:  |
 
-<sup><sub>Last updated: December 19, 2024 at 19:17:15 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 19, 2024 at 23:04:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
