@@ -50,6 +50,7 @@ var statuses = map[string]string{
 	"draft":  `https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-draft.png`,
 }
 
+// StatusImageHTML returns an HTML image tag with the status of the pull request.
 func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 	status := "open"
 	if p.Closed() {
@@ -78,10 +79,12 @@ func (p *PullRequest) StatusImageHTML(sizePixels int) template.HTML {
 	)
 }
 
+// ProjectOrg returns the organization of the project where the pull request was made.
 func (p *PullRequest) ProjectOrg() string {
 	return strings.TrimPrefix(p.RepositoryAPIURL, "https://api.github.com/repos/")
 }
 
+// RepositoryName returns the name of the repository where the pull request was made.
 func (p *PullRequest) RepositoryName() string {
 	pieces := strings.Split(p.ProjectOrg(), "/")
 	if len(pieces) < 2 {
@@ -91,18 +94,22 @@ func (p *PullRequest) RepositoryName() string {
 	return pieces[1]
 }
 
+// RepositoryURL returns the URL of the repository where the pull request was made.
 func (p *PullRequest) RepositoryURL() string {
 	return strings.ReplaceAll(p.RepositoryAPIURL, "https://api.github.com/repos", "https://github.com")
 }
 
+// Merged returns true if the pull request was merged.
 func (p *PullRequest) Merged() bool {
 	return !p.PullRequest.MergedAt.IsZero()
 }
 
+// Closed returns true if the pull request was closed.
 func (p *PullRequest) Closed() bool {
 	return !p.ClosedAt.IsZero() && !p.Merged()
 }
 
+// GetPRMetrics returns the additions and deletions of the pull request in a HTML format.
 func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
 	if !p.updatedCommitInfo {
 		return "", fmt.Errorf("PR information not updated")
@@ -114,6 +121,7 @@ func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
 
 var reExtractProject = regexp.MustCompile(`^https:\/\/api\.github\.com\/repos\/([^\/]+)\/.+$`)
 
+// ContributedToOrg returns the organization of the project where the pull request was made.
 func (p *PullRequest) ContributedToOrg() string {
 	res := reExtractProject.FindStringSubmatch(p.RepositoryAPIURL)
 	if len(res) != 2 {

@@ -178,9 +178,14 @@ type PullRequest struct {
     PullRequest      struct {
         MergedAt time.Time `json:"merged_at"`
     } `json:"pull_request"`
+    Commits           int `json:"commits"`
+    Additions         int `json:"additions"`
+    Deletions         int `json:"deletions"`
+    ChangedFiles      int `json:"changed_files"`
 }
 func (p *PullRequest) Closed() bool
 func (p *PullRequest) ContributedToOrg() string
+func (p *PullRequest) GetPRMetrics() (template.HTML, error)
 func (p *PullRequest) Merged() bool
 func (p *PullRequest) ProjectOrg() string
 func (p *PullRequest) RepositoryName() string
