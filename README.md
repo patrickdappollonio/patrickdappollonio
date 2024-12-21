@@ -76,4 +76,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
 |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  653 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3.1K :star:  |
 
-<sup><sub>Last updated: December 20, 2024 at 21:33:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 20, 2024 at 23:04:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
