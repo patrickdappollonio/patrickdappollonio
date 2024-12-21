@@ -18,9 +18,9 @@ My personal favourite projects are :pushpin: pinned below!
 
 *I work in the open: these are all the Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
-| PR Title | Repository | Status |
-| --- | --- | --- |
-{{ range . }}| [#{{ .ID }}: {{ .Title | ellipsize 8 }}]({{ .URL }}) | [`{{ .RepositoryName }}`]({{ .RepositoryURL }}) | {{ .StatusImageHTML 12 }} |
+| PR Title | Repository | Changes | Status |
+| --- | --- | --- | --- |
+{{ range . }}| [#{{ .ID }}: {{ .Title | ellipsize 8 }}]({{ .URL }}) | [`{{ .RepositoryName }}`]({{ .RepositoryURL }}) | {{ .GetPRMetrics }} | {{ .StatusImageHTML 12 }} |
 {{ end }}
 
 Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.

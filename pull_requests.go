@@ -31,7 +31,14 @@ type PullRequest struct {
 	Body             string    `json:"body"`
 	PullRequest      struct {
 		MergedAt time.Time `json:"merged_at"`
+		APIURL   string    `json:"url"`
 	} `json:"pull_request"`
+
+	Commits           int `json:"commits"`
+	Additions         int `json:"additions"`
+	Deletions         int `json:"deletions"`
+	ChangedFiles      int `json:"changed_files"`
+	updatedCommitInfo bool
 }
 
 const imageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="LOCATION" width="SIZE" height="SIZE"><source media="(prefers-color-scheme: light)" srcset="LOCATION" width="SIZE" height="SIZE"><img src="LOCATION" width="SIZE" height="SIZE" alt="STATUS"></picture> STATUS`
@@ -96,6 +103,15 @@ func (p *PullRequest) Closed() bool {
 	return !p.ClosedAt.IsZero() && !p.Merged()
 }
 
+func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
+	if !p.updatedCommitInfo {
+		return "", fmt.Errorf("PR information not updated")
+	}
+
+	format := `<span style="color:#3fb950">+%s</span> <span style="color:#f85149">-%s</span>`
+	return template.HTML(fmt.Sprintf(format, formatNumber(p.Additions), formatNumber(p.Deletions))), nil
+}
+
 var reExtractProject = regexp.MustCompile(`^https:\/\/api\.github\.com\/repos\/([^\/]+)\/.+$`)
 
 func (p *PullRequest) ContributedToOrg() string {
@@ -135,6 +151,10 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 
 	for _, pr := range prs.Items {
 		if len(limited) < maxItems {
+			if err := updatePRInformation(&pr); err != nil {
+				return nil, nil, fmt.Errorf("failed to update PR information for PR %s: %w", pr.URL, err)
+			}
+
 			limited = append(limited, pr)
 		}
 
@@ -154,4 +174,28 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 	}
 
 	return limited, repos, nil
+}
+
+func updatePRInformation(pr *PullRequest) error {
+	resp, err := http.Get(pr.PullRequest.APIURL)
+	if err != nil {
+		return fmt.Errorf("failed to get PR information for PR %s: %w", pr.PullRequest.APIURL, err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("failed to get PR information for PR %s: API returned non-200 status code: %s", pr.PullRequest.APIURL, resp.Status)
+	}
+
+	var updated PullRequest
+	if err := json.NewDecoder(resp.Body).Decode(&updated); err != nil {
+		return fmt.Errorf("failed to decode PR information for PR %s: %w", pr.PullRequest.APIURL, err)
+	}
+
+	pr.Additions = updated.Additions
+	pr.ChangedFiles = updated.ChangedFiles
+	pr.Commits = updated.Commits
+	pr.Deletions = updated.Deletions
+	pr.updatedCommitInfo = true
+	return nil
 }
