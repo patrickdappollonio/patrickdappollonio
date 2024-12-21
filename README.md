@@ -62,6 +62,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.6K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  653 :star:  |
 |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
 |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  370 :star:  |
 |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  217 :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
@@ -71,9 +72,8 @@ and [@konstructio](https://github.com/konstructio).
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  80 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  902 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
-|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  762 :star:  |
+|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  763 :star:  |
 |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  252 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  332 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
-|  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  653 :star:  |  [NVIDIA/garak](https://github.com/NVIDIA/garak)  |  3.1K :star:  |
 
-<sup><sub>Last updated: December 20, 2024 at 23:04:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 03:04:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
