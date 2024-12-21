@@ -115,7 +115,7 @@ func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
 		return "", fmt.Errorf("PR information not updated")
 	}
 
-	format := `$\textcolor{green}{%s}$ $\textcolor{red}{%s}$`
+	format := `$\textcolor{green}{+%s}$ $\textcolor{red}{-%s}$`
 	return template.HTML(fmt.Sprintf(format, formatNumber(p.Additions), formatNumber(p.Deletions))), nil
 }
 
