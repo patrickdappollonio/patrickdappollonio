@@ -76,4 +76,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  254 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  332 :star:  |
 |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |  [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)  |  2.3K :star:  |
 
-<sup><sub>Last updated: December 21, 2024 at 15:04:09 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 19:19:01 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
