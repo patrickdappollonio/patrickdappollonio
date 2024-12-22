@@ -62,6 +62,7 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  254 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.8K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  653 :star:  |
 |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.6K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
@@ -74,7 +75,6 @@ and [@konstructio](https://github.com/konstructio).
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  915 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
-|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  332 :star:  |
-|  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  254 :star:  |    |    |
+|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  333 :star:  |
 
-<sup><sub>Last updated: December 21, 2024 at 23:04:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 22, 2024 at 03:04:50 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
