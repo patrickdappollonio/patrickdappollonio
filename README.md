@@ -70,11 +70,11 @@ and [@konstructio](https://github.com/konstructio).
 |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
 |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  218 :star:  |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |
 |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  345 :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
-|  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.7K :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
-|  [sminez/ad](https://github.com/sminez/ad)  |  477 :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  80 :star:  |
+|  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
+|  [sminez/ad](https://github.com/sminez/ad)  |  479 :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  80 :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  922 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
+|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  924 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
 |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  333 :star:  |
 
-<sup><sub>Last updated: December 23, 2024 at 03:05:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 23, 2024 at 07:06:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
