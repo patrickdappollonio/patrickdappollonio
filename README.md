@@ -74,7 +74,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [sminez/ad](https://github.com/sminez/ad)  |  475 :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  80 :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  919 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
+|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  920 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
 |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  333 :star:  |
 
-<sup><sub>Last updated: December 22, 2024 at 15:04:11 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 22, 2024 at 19:18:11 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
