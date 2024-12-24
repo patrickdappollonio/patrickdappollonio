@@ -68,7 +68,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
 |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.6K :star:  |  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  371 :star:  |
 |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
-|  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  43 :star:  |
+|  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  44 :star:  |
 |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  219 :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
 |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  345 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
 |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  80 :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  931 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  335 :star:  |
 |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |    |    |
 
-<sup><sub>Last updated: December 24, 2024 at 07:06:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 24, 2024 at 11:04:28 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
