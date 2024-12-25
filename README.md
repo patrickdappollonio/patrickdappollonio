@@ -62,7 +62,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.1K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  256 :star:  |
+|  [samwho/spacer](https://github.com/samwho/spacer)  |  1.3K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
+|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.2K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  256 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.8K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  653 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
@@ -75,7 +76,6 @@ and [@konstructio](https://github.com/konstructio).
 |  [sminez/ad](https://github.com/sminez/ad)  |  480 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  932 :star:  |  [valyentdev/ravel](https://github.com/valyentdev/ravel)  |  335 :star:  |
-|  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |    |    |
+|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  932 :star:  |    |    |
 
-<sup><sub>Last updated: December 24, 2024 at 15:04:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 24, 2024 at 19:17:09 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
