@@ -63,7 +63,7 @@ and [@konstructio](https://github.com/konstructio).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.4K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
-|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.2K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  256 :star:  |
+|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.3K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  256 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  934 :star:  |    |    |
 
-<sup><sub>Last updated: December 26, 2024 at 11:04:35 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 26, 2024 at 15:04:21 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
