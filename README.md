@@ -65,7 +65,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.4K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.2K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  256 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
-|  [linebender/xilem](https://github.com/linebender/xilem)  |  3.8K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
+|  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
 |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  371 :star:  |
 |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
@@ -73,9 +73,9 @@ and [@konstructio](https://github.com/konstructio).
 |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  219 :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
 |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  347 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
 |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  81 :star:  |
-|  [sminez/ad](https://github.com/sminez/ad)  |  483 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
+|  [sminez/ad](https://github.com/sminez/ad)  |  484 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  934 :star:  |    |    |
 
-<sup><sub>Last updated: December 26, 2024 at 07:06:41 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 26, 2024 at 11:04:35 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
