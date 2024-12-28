@@ -73,9 +73,9 @@ and [@konstructio](https://github.com/konstructio).
 |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  219 :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
 |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  349 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
 |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  81 :star:  |
-|  [sminez/ad](https://github.com/sminez/ad)  |  486 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
+|  [sminez/ad](https://github.com/sminez/ad)  |  487 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
 |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
 |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
 |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  936 :star:  |    |    |
 
-<sup><sub>Last updated: December 28, 2024 at 03:05:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 28, 2024 at 07:05:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
