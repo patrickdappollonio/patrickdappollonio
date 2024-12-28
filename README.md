@@ -62,20 +62,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.6K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
+|  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.3K :star:  |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |
+|  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |
+|  [hatoo/oha](https://github.com/hatoo/oha)  |  6.9K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  219 :star:  |
+|  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  1.7K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  353 :star:  |
+|  [slint-ui/slint](https://github.com/slint-ui/slint)  |  17.10K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
+|  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.8K :star:  |  [sminez/ad](https://github.com/sminez/ad)  |  487 :star:  |
+|  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |
+|  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.3K :star:  |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |
+|  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.4K :star:  |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  938 :star:  |
 |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.4K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
-|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.3K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  258 :star:  |
+|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.4K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  258 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
-|  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |  [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action)  |  371 :star:  |
-|  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |  [PostgREST/postgrest](https://github.com/PostgREST/postgrest)  |  24.1K :star:  |
-|  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |  [mnikonov/gpt-labs](https://github.com/mnikonov/gpt-labs)  |  44 :star:  |
-|  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  219 :star:  |  [goccy/go-yaml](https://github.com/goccy/go-yaml)  |  1.2K :star:  |
-|  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  352 :star:  |  [barnybug/cli53](https://github.com/barnybug/cli53)  |  2.1K :star:  |
-|  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |  [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter)  |  81 :star:  |
-|  [sminez/ad](https://github.com/sminez/ad)  |  487 :star:  |  [vimeo/leaderelection](https://github.com/vimeo/leaderelection)  |  10 :star:  |
-|  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.5K :star:  |  [kubernetes-sigs/sig-storage-lo...](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)  |  1.1K :star:  |
-|  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |  [superfly/corrosion](https://github.com/superfly/corrosion)  |  764 :star:  |
-|  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  937 :star:  |    |    |
 
-<sup><sub>Last updated: December 28, 2024 at 11:04:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 28, 2024 at 15:04:02 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
