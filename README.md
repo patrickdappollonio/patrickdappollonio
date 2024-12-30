@@ -71,11 +71,11 @@ and [@konstructio](https://github.com/konstructio).
 |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.8K :star:  |  [sminez/ad](https://github.com/sminez/ad)  |  488 :star:  |
 |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.6K :star:  |
 |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.4K :star:  |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |
-|  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.5K :star:  |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  944 :star:  |
+|  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.5K :star:  |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  945 :star:  |
 |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.4K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.4K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  259 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
 
-<sup><sub>Last updated: December 29, 2024 at 15:03:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 29, 2024 at 19:18:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
