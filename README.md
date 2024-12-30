@@ -62,20 +62,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.6K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
+|  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.7K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.3K :star:  |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |
 |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  126 :star:  |
 |  [hatoo/oha](https://github.com/hatoo/oha)  |  6.9K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  220 :star:  |
-|  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  1.8K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  355 :star:  |
+|  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  1.8K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  356 :star:  |
 |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
 |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.8K :star:  |  [sminez/ad](https://github.com/sminez/ad)  |  488 :star:  |
 |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |  [mailru/easyjson](https://github.com/mailru/easyjson)  |  4.6K :star:  |
 |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.4K :star:  |  [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror)  |  11 :star:  |
-|  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.5K :star:  |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  945 :star:  |
+|  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.6K :star:  |  [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)  |  945 :star:  |
 |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.4K :star:  |  [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)  |  8.4K :star:  |
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.4K :star:  |  [rinja-rs/rinja](https://github.com/rinja-rs/rinja)  |  259 :star:  |
 |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |  [NVIDIA/nvkind](https://github.com/NVIDIA/nvkind)  |  94 :star:  |
 |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |  [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)  |  654 :star:  |
 |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |  [crossplane-contrib/provider-ar...](https://github.com/crossplane-contrib/provider-argocd)  |  75 :star:  |
 
-<sup><sub>Last updated: December 29, 2024 at 19:18:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 29, 2024 at 23:05:02 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
