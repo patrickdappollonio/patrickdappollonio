@@ -62,7 +62,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [awslabs/kro](https://github.com/awslabs/kro)  |  414 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |
+|  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.9K :star:  |
+|  [awslabs/kro](https://github.com/awslabs/kro)  |  415 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |
 |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.6K :star:  |
 |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.7K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  730 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
@@ -76,6 +77,5 @@ and [@konstructio](https://github.com/konstructio).
 |  [hatoo/oha](https://github.com/hatoo/oha)  |  6.9K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  224 :star:  |
 |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  1.10K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  356 :star:  |
 |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
-|  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.8K :star:  |  [sminez/ad](https://github.com/sminez/ad)  |  489 :star:  |
 
-<sup><sub>Last updated: December 31, 2024 at 23:04:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 01, 2025 at 03:05:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
