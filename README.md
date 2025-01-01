@@ -63,19 +63,19 @@ and [@konstructio](https://github.com/konstructio).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.9K :star:  |
-|  [awslabs/kro](https://github.com/awslabs/kro)  |  417 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.6K :star:  |
+|  [awslabs/kro](https://github.com/awslabs/kro)  |  419 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
 |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.6K :star:  |
 |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.7K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  730 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
-|  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  377 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.4K :star:  |
-|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  124 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
+|  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  377 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.5K :star:  |
+|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  126 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
 |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |
 |  [bojanz/currency](https://github.com/bojanz/currency)  |  567 :star:  |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |
 |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.7K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.4K :star:  |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |
 |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  127 :star:  |
-|  [hatoo/oha](https://github.com/hatoo/oha)  |  6.9K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  224 :star:  |
+|  [hatoo/oha](https://github.com/hatoo/oha)  |  6.9K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  225 :star:  |
 |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  2K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  356 :star:  |
 |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
 
-<sup><sub>Last updated: January 01, 2025 at 07:06:37 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 01, 2025 at 11:04:26 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
