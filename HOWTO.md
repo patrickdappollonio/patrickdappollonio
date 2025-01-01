@@ -1,5 +1,8 @@
 # How to use this project
 
+[![Downloads](https://img.shields.io/github/downloads/patrickdappollonio/patrickdappollonio/total)](https://github.com/patrickdappollonio/patrickdappollonio/releases)
+
+
 - [How to use this project](#how-to-use-this-project)
   - [Customizing your GitHub profile](#customizing-your-github-profile)
     - [How does customizing work?](#how-does-customizing-work)
