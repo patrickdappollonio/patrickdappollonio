@@ -67,7 +67,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.7K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  730 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
 |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  377 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.4K :star:  |
-|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  114 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
+|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  119 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
 |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |
 |  [bojanz/currency](https://github.com/bojanz/currency)  |  567 :star:  |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |
 |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.7K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
 |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.8K :star:  |  [sminez/ad](https://github.com/sminez/ad)  |  489 :star:  |
 
-<sup><sub>Last updated: December 31, 2024 at 19:19:15 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 31, 2024 at 23:04:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
