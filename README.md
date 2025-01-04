@@ -68,7 +68,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  19.9K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  732 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
 |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  378 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.7K :star:  |
-|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  171 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
+|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  174 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
 |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |
 |  [bojanz/currency](https://github.com/bojanz/currency)  |  567 :star:  |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |
 |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.7K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  2.2K :star:  |  [noneback/go-taskflow](https://github.com/noneback/go-taskflow)  |  356 :star:  |
 |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |  [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks)  |  2.8K :star:  |
 
-<sup><sub>Last updated: January 03, 2025 at 19:16:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 03, 2025 at 23:04:50 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
