@@ -62,8 +62,9 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.2K :star:  |  [hatoo/oha](https://github.com/hatoo/oha)  |  7K :star:  |
 |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  34.7K :star:  |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  2.2K :star:  |
-|  [bludnic/opentrader](https://github.com/bludnic/opentrader)  |  478 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
+|  [bludnic/opentrader](https://github.com/bludnic/opentrader)  |  480 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
 |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.9K :star:  |
 |  [awslabs/kro](https://github.com/awslabs/kro)  |  436 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
 |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.7K :star:  |
@@ -76,6 +77,5 @@ and [@konstructio](https://github.com/konstructio).
 |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.7K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.4K :star:  |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |
 |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |  [riandyrn/otelchi](https://github.com/riandyrn/otelchi)  |  127 :star:  |
-|  [hatoo/oha](https://github.com/hatoo/oha)  |  7K :star:  |  [zapier/kubechecks](https://github.com/zapier/kubechecks)  |  227 :star:  |
 
-<sup><sub>Last updated: January 04, 2025 at 07:05:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 04, 2025 at 11:04:04 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
