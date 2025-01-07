@@ -65,17 +65,17 @@ and [@konstructio](https://github.com/konstructio).
 |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  501 :star:  |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |
 |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.3K :star:  |  [hatoo/oha](https://github.com/hatoo/oha)  |  7.1K :star:  |
 |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  34.7K :star:  |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  2.2K :star:  |
-|  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  521 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
+|  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  526 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
 |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.9K :star:  |
-|  [awslabs/kro](https://github.com/awslabs/kro)  |  447 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
+|  [awslabs/kro](https://github.com/awslabs/kro)  |  449 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
 |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.8K :star:  |
 |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  20.1K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  735 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
 |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  378 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.8K :star:  |
-|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  189 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
+|  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  191 :star:  |  [cross-rs/cross](https://github.com/cross-rs/cross)  |  6.9K :star:  |
 |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |  [linebender/xilem](https://github.com/linebender/xilem)  |  3.9K :star:  |
 |  [bojanz/currency](https://github.com/bojanz/currency)  |  568 :star:  |  [ajstarks/svgo](https://github.com/ajstarks/svgo)  |  2.2K :star:  |
 |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  11.9K :star:  |  [casdoor/casdoor](https://github.com/casdoor/casdoor)  |  10.7K :star:  |
 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.5K :star:  |  [melbahja/goph](https://github.com/melbahja/goph)  |  1.8K :star:  |
 
-<sup><sub>Last updated: January 06, 2025 at 15:04:14 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 06, 2025 at 19:27:28 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
