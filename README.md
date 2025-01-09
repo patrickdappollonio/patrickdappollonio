@@ -62,7 +62,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  76 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  198 :star:  |
+|  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.3K :star:  |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  378 :star:  |
+|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  199 :star:  |
 |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  1.10K :star:  |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |
 |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  34.2K :star:  |  [bojanz/currency](https://github.com/bojanz/currency)  |  569 :star:  |
 |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  12.1K :star:  |
@@ -70,12 +71,11 @@ and [@konstructio](https://github.com/konstructio).
 |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  501 :star:  |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |
 |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.3K :star:  |  [hatoo/oha](https://github.com/hatoo/oha)  |  7.1K :star:  |
 |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  34.9K :star:  |  [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)  |  2.3K :star:  |
-|  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  554 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
+|  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  556 :star:  |  [slint-ui/slint](https://github.com/slint-ui/slint)  |  18.1K :star:  |
 |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |  [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  |  4.10K :star:  |
-|  [awslabs/kro](https://github.com/awslabs/kro)  |  465 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
+|  [awslabs/kro](https://github.com/awslabs/kro)  |  467 :star:  |  [cloudwego/hertz](https://github.com/cloudwego/hertz)  |  5.7K :star:  |
 |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |  [AutomaApp/automa](https://github.com/AutomaApp/automa)  |  13.8K :star:  |
-|  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  20.3K :star:  |
+|  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |  [sxyazi/yazi](https://github.com/sxyazi/yazi)  |  20.4K :star:  |
 |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  735 :star:  |  [samwho/spacer](https://github.com/samwho/spacer)  |  1.5K :star:  |
-|  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  378 :star:  |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  |  24.8K :star:  |
 
-<sup><sub>Last updated: January 08, 2025 at 23:04:56 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 09, 2025 at 03:05:43 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
