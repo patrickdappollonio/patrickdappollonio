@@ -67,15 +67,15 @@ and [@konstructio](https://github.com/konstructio).
 |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  2.7K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  581 :star:  |
 |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  6.8K :star:  |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |
 |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.8K :star:  |  [awslabs/kro](https://github.com/awslabs/kro)  |  481 :star:  |
-|  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  115 :star:  |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |
+|  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  116 :star:  |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |
 |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.3K :star:  |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |
 |  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  736 :star:  |
 |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.3K :star:  |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  379 :star:  |
-|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  212 :star:  |
+|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  213 :star:  |
 |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  1.10K :star:  |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |
 |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  34.3K :star:  |  [bojanz/currency](https://github.com/bojanz/currency)  |  571 :star:  |
 |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  12.2K :star:  |
-|  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  866 :star:  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.7K :star:  |
+|  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  867 :star:  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.7K :star:  |
 |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  502 :star:  |  [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)  |  12.5K :star:  |
 
-<sup><sub>Last updated: January 11, 2025 at 19:19:25 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 11, 2025 at 23:05:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
