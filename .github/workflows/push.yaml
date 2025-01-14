@@ -27,6 +27,7 @@ jobs:
         env:
           MAX_PULL_REQUESTS: 20
           MAX_STARRED_REPOS: 30
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Dry-run goreleaser application
         uses: goreleaser/goreleaser-action@v6
