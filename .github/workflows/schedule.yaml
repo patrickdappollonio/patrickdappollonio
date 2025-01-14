@@ -36,12 +36,19 @@ jobs:
         with:
           timezone: "America/New_York"
 
+      - name: Run application to render the template
+        run:
+          patrickdappollonio > README.md
+        env:
+          MAX_PULL_REQUESTS: ${{ env.MAX_PULL_REQUESTS }}
+          MAX_STARRED_REPOS: ${{ env.MAX_STARRED_REPOS }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update README with latest information
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          export MAX_PULL_REQUESTS=${{ env.MAX_PULL_REQUESTS }}
-          patrickdappollonio > README.md
           git add README.md || echo "No changes to add"
           git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
           git push || echo "No changes to push"
+
