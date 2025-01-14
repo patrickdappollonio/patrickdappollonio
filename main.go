@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"context"
 	"fmt"
 	"os"
@@ -8,6 +9,7 @@ import (
 	"strconv"
 	"strings"
 	"text/template"
+	"time"
 
 	"github.com/Masterminds/sprig/v3"
 	"golang.org/x/sync/errgroup"
@@ -37,6 +39,9 @@ var (
 )
 
 func run() error {
+	// Get the start time
+	start := time.Now()
+
 	// Read the template file
 	tplFile, err := os.ReadFile(templateFile)
 	if err != nil {
@@ -150,8 +155,11 @@ func run() error {
 		return err
 	}
 
+	// Hold the contents of the template in a buffer
+	var buf bytes.Buffer
+
 	// Execute the template
-	if err := tmpl.Execute(os.Stdout, struct {
+	if err := tmpl.Execute(&buf, struct {
 		GitHubUsername  string
 		PullRequests    []PullRequest
 		ContributedOrgs []string
@@ -169,6 +177,25 @@ func run() error {
 		return fmt.Errorf("failed to execute template: %w", err)
 	}
 
+	// Add a new line at the end of the buffer
+	buf.WriteString("\n")
+
+	// Write the output to stdout but get the size before doing so
+	bytesWritten := buf.Len()
+	if _, err := buf.WriteTo(os.Stdout); err != nil {
+		return fmt.Errorf("failed to write output: %w", err)
+	}
+
+	// Print how much content was generated
+	format := "January 2, 2006 @ 15:04:05 MST"
+
+	fmt.Fprintf(
+		os.Stderr,
+		"Generated %s bytes of content on %s. Took %s.\n",
+		formatNumber(bytesWritten),
+		time.Now().Format(format),
+		time.Since(start).Round(time.Millisecond),
+	)
 	return nil
 }
 
