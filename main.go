@@ -1,6 +1,7 @@
 package main
 
 import (
+	"context"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -32,6 +33,7 @@ var (
 	disablePRs       = envbooldefault("DISABLE_PULL_REQUESTS", false)
 	disableStars     = envbooldefault("DISABLE_STARRED_REPOS", false)
 	disableDataFiles = envbooldefault("DISABLE_DATA_FILES", false)
+	githubToken      = os.Getenv("GITHUB_TOKEN")
 )
 
 func run() error {
@@ -108,7 +110,7 @@ func run() error {
 		}
 
 		var err error
-		prs, contributed, err = getPullRequests(username, maxPRs, maxOrgs)
+		prs, contributed, err = getPullRequests(context.Background(), githubToken, username, maxPRs, maxOrgs)
 		if err != nil {
 			return fmt.Errorf("failed to get pull requests: %w", err)
 		}
@@ -122,7 +124,7 @@ func run() error {
 		}
 
 		var err error
-		starredRepos, err = getStarredRepos(username, maxStarred)
+		starredRepos, err = getStarredRepos(context.Background(), githubToken, username, maxStarred)
 		if err != nil {
 			return fmt.Errorf("failed to get starred repos: %w", err)
 		}

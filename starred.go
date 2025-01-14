@@ -1,9 +1,8 @@
 package main
 
 import (
-	"encoding/json"
+	"context"
 	"fmt"
-	"net/http"
 )
 
 type StarredRepo struct {
@@ -28,22 +27,12 @@ func (s *StarredRepo) Empty() bool {
 	return s.Name == ""
 }
 
-func getStarredRepos(username string, maxItems int) ([]StarredRepo, error) {
+func getStarredRepos(ctx context.Context, token, username string, maxItems int) ([]StarredRepo, error) {
 	u := fmt.Sprintf("https://api.github.com/users/%s/starred", username)
 
-	resp, err := http.Get(u)
-	if err != nil {
-		return nil, fmt.Errorf("failed to get starred repos for user %q: %w", username, err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("failed to get starred repos for user %q: API returned non-200 status code: %s", username, resp.Status)
-	}
-
 	var starredRepos []StarredRepo
-	if err := json.NewDecoder(resp.Body).Decode(&starredRepos); err != nil {
-		return nil, fmt.Errorf("failed to decode starred repos for user %q: %w", username, err)
+	if err := doGet(ctx, &starredRepos, token, u); err != nil {
+		return nil, fmt.Errorf("failed to get starred repos for user %q: %w", username, err)
 	}
 
 	filtered := make([]StarredRepo, 0, len(starredRepos))

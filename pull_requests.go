@@ -1,10 +1,9 @@
 package main
 
 import (
-	"encoding/json"
+	"context"
 	"fmt"
 	"html/template"
-	"net/http"
 	"net/url"
 	"regexp"
 	"strings"
@@ -131,7 +130,7 @@ func (p *PullRequest) ContributedToOrg() string {
 	return res[1]
 }
 
-func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []string, error) {
+func getPullRequests(ctx context.Context, token, username string, maxItems, maxOrgs int) ([]PullRequest, []string, error) {
 	u, _ := url.Parse("https://api.github.com/search/issues")
 
 	vals := url.Values{}
@@ -139,19 +138,9 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 	vals.Set("per_page", "100")
 	u.RawQuery = vals.Encode()
 
-	resp, err := http.Get(u.String())
-	if err != nil {
-		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: %w", username, err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: API returned non-200 status code: %s", username, resp.Status)
-	}
-
 	var prs PullRequestResponse
-	if err := json.NewDecoder(resp.Body).Decode(&prs); err != nil {
-		return nil, nil, fmt.Errorf("failed to decode pull requests for user %q: %w", username, err)
+	if err := doGet(ctx, &prs, token, u.String()); err != nil {
+		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: %w", username, err)
 	}
 
 	limited := make([]PullRequest, 0, len(prs.Items))
@@ -159,7 +148,7 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 
 	for _, pr := range prs.Items {
 		if len(limited) < maxItems {
-			if err := updatePRInformation(&pr); err != nil {
+			if err := updatePRInformation(ctx, token, &pr); err != nil {
 				return nil, nil, fmt.Errorf("failed to update PR information for PR %s: %w", pr.URL, err)
 			}
 
@@ -184,20 +173,10 @@ func getPullRequests(username string, maxItems, maxOrgs int) ([]PullRequest, []s
 	return limited, repos, nil
 }
 
-func updatePRInformation(pr *PullRequest) error {
-	resp, err := http.Get(pr.PullRequest.APIURL)
-	if err != nil {
-		return fmt.Errorf("failed to get PR information for PR %s: %w", pr.PullRequest.APIURL, err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("failed to get PR information for PR %s: API returned non-200 status code: %s", pr.PullRequest.APIURL, resp.Status)
-	}
-
+func updatePRInformation(ctx context.Context, token string, pr *PullRequest) error {
 	var updated PullRequest
-	if err := json.NewDecoder(resp.Body).Decode(&updated); err != nil {
-		return fmt.Errorf("failed to decode PR information for PR %s: %w", pr.PullRequest.APIURL, err)
+	if err := doGet(ctx, &updated, token, pr.PullRequest.APIURL); err != nil {
+		return fmt.Errorf("failed to get PR information for PR %s: %w", pr.PullRequest.APIURL, err)
 	}
 
 	pr.Additions = updated.Additions
