@@ -62,20 +62,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  147 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
-|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  900 :star:  |
-|  [simonask/werk](https://github.com/simonask/werk)  |  189 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  508 :star:  |
+|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  872 :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  34.5K :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  148 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  901 :star:  |
+|  [simonask/werk](https://github.com/simonask/werk)  |  191 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  508 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.4K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.7K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.2K :star:  |
-|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.6K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  614 :star:  |
+|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.6K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  616 :star:  |
 |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  6.9K :star:  |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |
 |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.8K :star:  |  [awslabs/kro](https://github.com/awslabs/kro)  |  504 :star:  |
 |  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  117 :star:  |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.9K :star:  |
 |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.4K :star:  |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |
 |  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  739 :star:  |
 |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.3K :star:  |  [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)  |  378 :star:  |
-|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  220 :star:  |
+|  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  221 :star:  |
 |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |
-|  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  34.5K :star:  |  [bojanz/currency](https://github.com/bojanz/currency)  |  571 :star:  |
 
-<sup><sub>Last updated: January 16, 2025 at 23:04:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 17, 2025 at 03:05:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
