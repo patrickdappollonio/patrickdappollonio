@@ -62,7 +62,9 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [simonask/werk](https://github.com/simonask/werk)  |  187 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  508 :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  147 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  900 :star:  |
+|  [simonask/werk](https://github.com/simonask/werk)  |  189 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  508 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.4K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.7K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.2K :star:  |
 |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.6K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  614 :star:  |
@@ -75,7 +77,5 @@ and [@konstructio](https://github.com/konstructio).
 |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |  [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate)  |  220 :star:  |
 |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |  [tailscale/mkctr](https://github.com/tailscale/mkctr)  |  85 :star:  |
 |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  34.5K :star:  |  [bojanz/currency](https://github.com/bojanz/currency)  |  571 :star:  |
-|  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |  [Y2Z/monolith](https://github.com/Y2Z/monolith)  |  12.4K :star:  |
-|  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  901 :star:  |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)  |  40.8K :star:  |
 
-<sup><sub>Last updated: January 16, 2025 at 19:17:05 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 16, 2025 at 23:04:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
