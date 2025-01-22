@@ -62,20 +62,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  13.9K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
+|  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  14.1K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.5K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
 |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  1.4K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.4K :star:  |
-|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  163 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  164 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
 |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  905 :star:  |
 |  [simonask/werk](https://github.com/simonask/werk)  |  221 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  515 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.2K :star:  |
-|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.8K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  659 :star:  |
+|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.8K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  660 :star:  |
 |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  6.10K :star:  |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |
-|  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.9K :star:  |  [awslabs/kro](https://github.com/awslabs/kro)  |  512 :star:  |
+|  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.9K :star:  |  [awslabs/kro](https://github.com/awslabs/kro)  |  513 :star:  |
 |  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  117 :star:  |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.10K :star:  |
 |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.4K :star:  |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |
-|  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  744 :star:  |
+|  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |  [STRRL/cloudflare-tunnel-ingres...](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)  |  748 :star:  |
 
-<sup><sub>Last updated: January 22, 2025 at 07:06:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 22, 2025 at 11:05:02 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
