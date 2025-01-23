@@ -63,7 +63,7 @@ and [@konstructio](https://github.com/konstructio).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |
-|  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  14.3K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
+|  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  14.4K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.5K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
 |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  1.5K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.4K :star:  |
@@ -72,10 +72,10 @@ and [@konstructio](https://github.com/konstructio).
 |  [simonask/werk](https://github.com/simonask/werk)  |  221 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  515 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.3K :star:  |
-|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.8K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  665 :star:  |
+|  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.8K :star:  |  [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)  |  667 :star:  |
 |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  7K :star:  |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |
 |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.9K :star:  |  [awslabs/kro](https://github.com/awslabs/kro)  |  513 :star:  |
 |  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  117 :star:  |  [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)  |  2.10K :star:  |
 |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.4K :star:  |  [clbs-io/cloudflare-tunnel-ingr...](https://github.com/clbs-io/cloudflare-tunnel-ingress-controller)  |  2 :star:  |
 
-<sup><sub>Last updated: January 22, 2025 at 23:05:02 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 23, 2025 at 03:05:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
