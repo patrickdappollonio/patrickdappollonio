@@ -68,8 +68,8 @@ and [@konstructio](https://github.com/konstructio).
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  16.4K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.5K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  77 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
-|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  3.1K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.5K :star:  |
-|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  171 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  3.3K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.5K :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  172 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
 |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  908 :star:  |
 |  [simonask/werk](https://github.com/simonask/werk)  |  224 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  515 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  7K :star:  |  [elastic/go-licenser](https://github.com/elastic/go-licenser)  |  37 :star:  |
 |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.9K :star:  |  [kro-run/kro](https://github.com/kro-run/kro)  |  525 :star:  |
 
-<sup><sub>Last updated: January 25, 2025 at 11:03:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 25, 2025 at 15:04:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
