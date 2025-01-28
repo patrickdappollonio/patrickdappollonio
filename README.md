@@ -66,7 +66,7 @@ and [@konstructio](https://github.com/konstructio).
 |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  7.1K :star:  |
 |  [readeck/readeck](https://github.com/readeck/readeck)  |  110 :star:  |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.9K :star:  |
 |  [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)  |  597 :star:  |  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  117 :star:  |
-|  [exo-explore/exo](https://github.com/exo-explore/exo)  |  20.2K :star:  |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.5K :star:  |
+|  [exo-explore/exo](https://github.com/exo-explore/exo)  |  20.3K :star:  |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.5K :star:  |
 |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  16.7K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.5K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  79 :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.3K :star:  |
 
-<sup><sub>Last updated: January 27, 2025 at 19:17:15 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 27, 2025 at 23:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
