@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  516 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 
-<sup><sub>Last updated: January 28, 2025 at 07:06:41 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 28, 2025 at 11:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
