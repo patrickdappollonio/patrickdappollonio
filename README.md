@@ -71,11 +71,11 @@ and [@konstructio](https://github.com/konstructio).
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  16.7K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.5K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  79 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
-|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.5K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
-|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  179 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.6K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  181 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
 |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  911 :star:  |
 |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  516 :star:  |
 |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |  [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)  |  1.4K :star:  |
 |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |  [sharkdp/fd](https://github.com/sharkdp/fd)  |  35.3K :star:  |
 
-<sup><sub>Last updated: January 27, 2025 at 15:04:34 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 27, 2025 at 19:17:15 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
