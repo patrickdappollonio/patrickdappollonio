@@ -73,9 +73,9 @@ and [@konstructio](https://github.com/konstructio).
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  16.9K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  79 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
-|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.8K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
-|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  184 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
-|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  914 :star:  |
+|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.9K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
+|  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  185 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
+|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  919 :star:  |
 |  [simonask/werk](https://github.com/simonask/werk)  |  228 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  516 :star:  |
 
-<sup><sub>Last updated: January 29, 2025 at 03:05:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 29, 2025 at 07:06:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
