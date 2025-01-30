@@ -62,8 +62,8 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  11.5K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
-|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  61K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
+|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  11.9K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
+|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  62.1K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
 |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |
 |  [pressly/goose](https://github.com/pressly/goose)  |  7.5K :star:  |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |
 |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.10K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.9K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
 |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  187 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
 
-<sup><sub>Last updated: January 29, 2025 at 23:04:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 30, 2025 at 03:05:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
