@@ -62,20 +62,20 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  11.5K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
+|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  61K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
 |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |
 |  [pressly/goose](https://github.com/pressly/goose)  |  7.5K :star:  |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |
 |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.10K :star:  |
 |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  7.1K :star:  |
 |  [readeck/readeck](https://github.com/readeck/readeck)  |  110 :star:  |  [neondatabase/neon](https://github.com/neondatabase/neon)  |  15.10K :star:  |
 |  [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)  |  598 :star:  |  [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade)  |  117 :star:  |
-|  [exo-explore/exo](https://github.com/exo-explore/exo)  |  20.7K :star:  |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.5K :star:  |
+|  [exo-explore/exo](https://github.com/exo-explore/exo)  |  20.8K :star:  |  [tmc/langchaingo](https://github.com/tmc/langchaingo)  |  5.5K :star:  |
 |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |  [hashicorp/mdns](https://github.com/hashicorp/mdns)  |  1.2K :star:  |
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  17K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  79 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
 |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  4.9K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.6K :star:  |
 |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  187 :star:  |  [kcp-dev/kcp](https://github.com/kcp-dev/kcp)  |  2.4K :star:  |
-|  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |  [ibttf/interview-coder](https://github.com/ibttf/interview-coder)  |  920 :star:  |
-|  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |  [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock)  |  516 :star:  |
 
-<sup><sub>Last updated: January 29, 2025 at 19:16:37 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 29, 2025 at 23:04:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
