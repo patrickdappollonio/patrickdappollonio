@@ -62,10 +62,10 @@ and [@konstructio](https://github.com/konstructio).
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  187 :star:  |
-|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  12.6K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
-|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  64.2K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
-|  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.5K :star:  |
+|  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  188 :star:  |
+|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  12.7K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
+|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  64.6K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
+|  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.6K :star:  |
 |  [pressly/goose](https://github.com/pressly/goose)  |  7.6K :star:  |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |
 |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.10K :star:  |
 |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |  [loco-rs/loco](https://github.com/loco-rs/loco)  |  7.1K :star:  |
@@ -78,4 +78,4 @@ and [@konstructio](https://github.com/konstructio).
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
 |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  5K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.7K :star:  |
 
-<sup><sub>Last updated: January 30, 2025 at 19:16:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 30, 2025 at 23:04:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
