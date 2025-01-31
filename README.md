@@ -63,8 +63,8 @@ and [@konstructio](https://github.com/konstructio).
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  188 :star:  |
-|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  12.8K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
-|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  64.10K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  229 :star:  |
+|  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  12.9K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
+|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  65.3K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  231 :star:  |
 |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.6K :star:  |
 |  [pressly/goose](https://github.com/pressly/goose)  |  7.6K :star:  |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |
 |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  3.10K :star:  |
@@ -76,6 +76,6 @@ and [@konstructio](https://github.com/konstructio).
 |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  17.2K :star:  |  [rayon-rs/rayon](https://github.com/rayon-rs/rayon)  |  11.4K :star:  |
 |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |  [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm)  |  79 :star:  |
 |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |  [antares-sql/antares](https://github.com/antares-sql/antares)  |  2K :star:  |
-|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  5K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.7K :star:  |
+|  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  5.1K :star:  |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  |  35.7K :star:  |
 
-<sup><sub>Last updated: January 31, 2025 at 03:05:31 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 31, 2025 at 07:06:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
