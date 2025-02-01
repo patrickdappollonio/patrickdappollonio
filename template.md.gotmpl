@@ -23,7 +23,7 @@ My personal favourite projects are :pushpin: pinned below!
 {{ range . }}| [#{{ .ID }}: {{ .Title | ellipsize 8 }}]({{ .URL }}) | [`{{ .RepositoryName }}`]({{ .RepositoryURL }}) | {{ .GetPRMetrics }} | {{ .StatusImageHTML 12 }} |
 {{ end }}
 
-Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.
+Overall, my most recent contributions (besides my own repos) have gone to {{ $contributed_orgs | contributedOrgsMarkdown }}.
 
 {{- end }}
 
@@ -71,16 +71,3 @@ Overall, my most recent contributions (besides my own repos) have gone to {{ tem
 {{- end }}
 
 <sup><sub>Last updated: {{ now | formatDateTime }}. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
-
-{{- define "contributed_orgs" -}}
-{{- $length := len . -}}
-{{- range $i, $value := . -}}
-{{- if eq $i (sub $length 1) }}
-and [@{{ $value }}](https://github.com/{{ $value }})
-{{- else if eq $i (sub $length 2) }}
-[@{{ $value }}](https://github.com/{{ $value }})
-{{- else }}
-[@{{ $value }}](https://github.com/{{ $value }}),
-{{- end -}}
-{{- end -}}
-{{- end -}}

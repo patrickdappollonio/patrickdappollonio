@@ -73,6 +73,8 @@ var fncs = template.FuncMap{
 	},
 
 	"dualimage": renderImageUnclickable,
+
+	"contributedOrgsMarkdown": contributedOrgsMarkdown,
 }
 
 const dualImageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="{{IMAGE_DARK}}"><source media="(prefers-color-scheme: light)" srcset="{{IMAGE_LIGHT}}"><img src="{{IMAGE_LIGHT}}" alt="{{ALT_TEXT}}"></picture>`
@@ -179,4 +181,27 @@ func reverse(s string) string {
 	}
 
 	return string(r)
+}
+
+func contributedOrgsMarkdown(orgs []string) template.HTML {
+	var sb strings.Builder
+
+	switch len(orgs) {
+	case 0:
+		return ""
+	case 1:
+		fmt.Fprintf(&sb, "[@%s](https://github.com/%s)", orgs[0], orgs[0])
+	default:
+		for i, org := range orgs {
+			if i == len(orgs)-1 {
+				fmt.Fprintf(&sb, " and [@%s](https://github.com/%s)", org, org)
+			} else if i == 0 {
+				fmt.Fprintf(&sb, "[@%s](https://github.com/%s)", org, org)
+			} else {
+				fmt.Fprintf(&sb, ", [@%s](https://github.com/%s)", org, org)
+			}
+		}
+	}
+
+	return template.HTML(sb.String())
 }
