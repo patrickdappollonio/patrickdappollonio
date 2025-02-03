@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [trycua/lume](https://github.com/trycua/lume)  |  749 :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |
+|  [trycua/lume](https://github.com/trycua/lume)  |  839 :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |
 |  [imfing/hextra](https://github.com/imfing/hextra)  |  948 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  111 :star:  |
 |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |  [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)  |  601 :star:  |
-|  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.1K :star:  |  [exo-explore/exo](https://github.com/exo-explore/exo)  |  21.4K :star:  |
+|  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.1K :star:  |  [exo-explore/exo](https://github.com/exo-explore/exo)  |  21.5K :star:  |
 |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.6K :star:  |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |
 |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.6K :star:  |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  17.3K :star:  |
-|  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  700 :star:  |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |
-|  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  153 :star:  |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |
+|  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  703 :star:  |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |
+|  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  154 :star:  |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |
 |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.2K :star:  |  [lightpanda-io/browser](https://github.com/lightpanda-io/browser)  |  5.3K :star:  |
 |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |  [element-hq/dendrite](https://github.com/element-hq/dendrite)  |  197 :star:  |
 |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  13.8K :star:  |  [cinnyapp/cinny](https://github.com/cinnyapp/cinny)  |  2.1K :star:  |
-|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  69.2K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  278 :star:  |
+|  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  69.4K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  278 :star:  |
 |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.6K :star:  |
 |  [pressly/goose](https://github.com/pressly/goose)  |  7.6K :star:  |  [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)  |  4.8K :star:  |
 |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |  [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)  |  4K :star:  |
 
-<sup><sub>Last updated: February 02, 2025 at 23:04:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 03, 2025 at 03:05:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
