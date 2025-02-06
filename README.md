@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  2.4K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.6K :star:  |
+|  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  2.5K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.6K :star:  |
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.3K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |
 |  [trycua/lume](https://github.com/trycua/lume)  |  1.5K :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.3K :star:  |
 |  [imfing/hextra](https://github.com/imfing/hextra)  |  952 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  111 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  74.5K :star:  |  [simonask/werk](https://github.com/simonask/werk)  |  283 :star:  |
 |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |  [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  |  18.6K :star:  |
 
-<sup><sub>Last updated: February 05, 2025 at 15:04:43 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 05, 2025 at 19:17:27 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
