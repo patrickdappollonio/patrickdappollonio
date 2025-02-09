@@ -69,13 +69,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.2K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.7K :star:  |
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.3K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |
 |  [trycua/lume](https://github.com/trycua/lume)  |  1.7K :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.4K :star:  |
-|  [imfing/hextra](https://github.com/imfing/hextra)  |  958 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  111 :star:  |
+|  [imfing/hextra](https://github.com/imfing/hextra)  |  960 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  111 :star:  |
 |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |  [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)  |  603 :star:  |
 |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.2K :star:  |  [exo-explore/exo](https://github.com/exo-explore/exo)  |  22.2K :star:  |
 |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.6K :star:  |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |
 |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.8K :star:  |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  17.6K :star:  |
-|  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  753 :star:  |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |
+|  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  756 :star:  |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.6K :star:  |
 |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  173 :star:  |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |
 
-<sup><sub>Last updated: February 08, 2025 at 15:04:06 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 08, 2025 at 19:18:33 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
