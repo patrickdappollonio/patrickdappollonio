@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  631 :star:  |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.2K :star:  |
+|  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  632 :star:  |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.3K :star:  |
 |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |
-|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  414 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.4K :star:  |
-|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  80.8K :star:  |
+|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  415 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.4K :star:  |
+|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  80.9K :star:  |
 |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.7K :star:  |
 |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.2K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.7K :star:  |
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.4K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.3K :star:  |
@@ -75,7 +75,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.6K :star:  |  [okteto/okteto](https://github.com/okteto/okteto)  |  3.3K :star:  |
 |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.8K :star:  |  [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  |  17.7K :star:  |
 |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  757 :star:  |  [leaningtech/webvm](https://github.com/leaningtech/webvm)  |  11.7K :star:  |
-|  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  172 :star:  |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |
+|  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  173 :star:  |  [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node)  |  853 :star:  |
 
-<sup><sub>Last updated: February 09, 2025 at 15:03:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 09, 2025 at 19:17:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
