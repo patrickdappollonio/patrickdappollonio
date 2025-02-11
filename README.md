@@ -61,15 +61,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.3K :star:  |
+|  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.4K :star:  |
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  803 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.6K :star:  |
 |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.8K :star:  |
-|  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  901 :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  766 :star:  |
-|  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  173 :star:  |
+|  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  908 :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  771 :star:  |
+|  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  174 :star:  |
 |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  633 :star:  |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.3K :star:  |
 |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |
-|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  433 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.5K :star:  |
-|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  81.10K :star:  |
+|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  434 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.5K :star:  |
+|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  82.2K :star:  |
 |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.8K :star:  |
 |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.3K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.7K :star:  |
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.4K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.4K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [imfing/hextra](https://github.com/imfing/hextra)  |  964 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  113 :star:  |
 |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |  [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)  |  604 :star:  |
 
-<sup><sub>Last updated: February 10, 2025 at 19:17:05 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 10, 2025 at 23:04:53 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
