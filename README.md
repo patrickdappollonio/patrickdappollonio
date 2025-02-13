@@ -65,17 +65,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.9K :star:  |
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.7K :star:  |
 |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.9K :star:  |
-|  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  973 :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  807 :star:  |
+|  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  984 :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  809 :star:  |
 |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  175 :star:  |
 |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  634 :star:  |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.3K :star:  |
 |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |
-|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  450 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.7K :star:  |
-|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  83.6K :star:  |
+|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  451 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.7K :star:  |
+|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  83.8K :star:  |
 |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.8K :star:  |
 |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.4K :star:  |  [pressly/goose](https://github.com/pressly/goose)  |  7.7K :star:  |
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.4K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.4K :star:  |
-|  [trycua/lume](https://github.com/trycua/lume)  |  1.9K :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.4K :star:  |
+|  [trycua/lume](https://github.com/trycua/lume)  |  1.9K :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.5K :star:  |
 |  [imfing/hextra](https://github.com/imfing/hextra)  |  967 :star:  |  [readeck/readeck](https://github.com/readeck/readeck)  |  117 :star:  |
 
-<sup><sub>Last updated: February 12, 2025 at 23:04:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 13, 2025 at 03:05:33 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
