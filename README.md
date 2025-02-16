@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |------------|-------|------------|-------|
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.2K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  976 :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.8K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
-|  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  67.10K :star:  |
+|  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68K :star:  |
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.7K :star:  |
 |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.9K :star:  |
 |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1K :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  811 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.5K :star:  |  [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)  |  2.4K :star:  |
 |  [trycua/lume](https://github.com/trycua/lume)  |  1.9K :star:  |  [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)  |  5.5K :star:  |
 
-<sup><sub>Last updated: February 15, 2025 at 15:04:01 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 15, 2025 at 19:19:02 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
