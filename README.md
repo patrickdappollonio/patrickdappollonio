@@ -62,9 +62,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  134 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
-|  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.2K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.6K :star:  |
+|  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.3K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.7K :star:  |
 |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  16.5K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.8K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  530 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  1.10K :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  538 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  1.10K :star:  |
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.3K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  986 :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.8K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.2K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [Oudwins/zog](https://github.com/Oudwins/zog)  |  489 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  15.10K :star:  |
 |  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  85.9K :star:  |
 
-<sup><sub>Last updated: February 18, 2025 at 07:06:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 18, 2025 at 11:05:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
