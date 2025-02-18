@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.1K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.6K :star:  |
+|  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.2K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.6K :star:  |
 |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  16.4K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.7K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  504 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  1.10K :star:  |
-|  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.3K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  981 :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  511 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  1.10K :star:  |
+|  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.3K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  982 :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.8K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.2K :star:  |
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.7K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  85.5K :star:  |
 |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |  [ergochat/ergo](https://github.com/ergochat/ergo)  |  2.8K :star:  |
 
-<sup><sub>Last updated: February 17, 2025 at 15:04:40 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 17, 2025 at 19:17:19 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
