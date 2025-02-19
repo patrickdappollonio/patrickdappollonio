@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |------------|-------|------------|-------|
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  134 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.3K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.7K :star:  |
-|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  16.5K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.9K :star:  |
+|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  16.6K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  8.9K :star:  |
 |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  542 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  1.10K :star:  |
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.3K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  989 :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.8K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.7K :star:  |
 |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.9K :star:  |
 |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  815 :star:  |
-|  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  177 :star:  |
+|  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |  [voidDB/voidDB](https://github.com/voidDB/voidDB)  |  178 :star:  |
 |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  634 :star:  |  [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)  |  2.3K :star:  |
 |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |  [postgresml/pgcat](https://github.com/postgresml/pgcat)  |  3.3K :star:  |
-|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  491 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  16K :star:  |
-|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  85.10K :star:  |
+|  [Oudwins/zog](https://github.com/Oudwins/zog)  |  492 :star:  |  [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  |  16K :star:  |
+|  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |  [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  |  86.1K :star:  |
 
-<sup><sub>Last updated: February 18, 2025 at 19:17:33 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 18, 2025 at 23:05:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
