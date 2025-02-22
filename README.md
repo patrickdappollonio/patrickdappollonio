@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |
-|  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  81 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  634 :star:  |
+|  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  83 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  634 :star:  |
 |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.6K :star:  |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |
 |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.6K :star:  |  [Oudwins/zog](https://github.com/Oudwins/zog)  |  502 :star:  |
 |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  632 :star:  |  [lxc/incus](https://github.com/lxc/incus)  |  3.1K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.9K :star:  |
 |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |  [hydro-project/hydro](https://github.com/hydro-project/hydro)  |  835 :star:  |
 
-<sup><sub>Last updated: February 22, 2025 at 11:04:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 22, 2025 at 15:03:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
