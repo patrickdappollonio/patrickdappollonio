@@ -61,6 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [znscli/zns](https://github.com/znscli/zns)  |  108 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  1.7K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  16 :star:  |
 |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  84 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  634 :star:  |
@@ -70,12 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.4K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
 |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  16.10K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  9.10K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  689 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2K :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  690 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2K :star:  |
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.3K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  1K :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.4K :star:  |
 |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |  [leits/MeetingBar](https://github.com/leits/MeetingBar)  |  4.7K :star:  |
-|  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |  [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)  |  3.9K :star:  |
 
-<sup><sub>Last updated: February 22, 2025 at 23:04:49 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 23, 2025 at 03:04:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
