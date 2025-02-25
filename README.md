@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  980 :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
+|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  1.2K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
 |  [znscli/zns](https://github.com/znscli/zns)  |  162 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  632 :star:  |  [lxc/incus](https://github.com/lxc/incus)  |  3.2K :star:  |
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.6K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
-|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  17.5K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  10.4K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  758 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
+|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  17.6K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  10.4K :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  761 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.4K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  1K :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.4K :star:  |
 
-<sup><sub>Last updated: February 25, 2025 at 03:05:41 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 25, 2025 at 07:07:05 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
