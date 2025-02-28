@@ -61,7 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.1K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
+|  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  263 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.4K :star:  |
+|  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
+|  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
+|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.2K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
 |  [znscli/zns](https://github.com/znscli/zns)  |  179 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.1K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
@@ -72,10 +75,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.7K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
 |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.3K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  11K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  790 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
-|  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.4K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  1K :star:  |
-|  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
-|  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.5K :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  789 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
 
-<sup><sub>Last updated: February 28, 2025 at 11:05:13 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 28, 2025 at 15:04:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
