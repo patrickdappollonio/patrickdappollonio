@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  632 :star:  |  [lxc/incus](https://github.com/lxc/incus)  |  3.2K :star:  |
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.7K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
-|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.2K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  10.10K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  788 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
+|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.2K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  11K :star:  |
+|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  789 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
 |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.4K :star:  |  [imfing/hextra](https://github.com/imfing/hextra)  |  1K :star:  |
 |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |  [docuowl/docuowl](https://github.com/docuowl/docuowl)  |  1.3K :star:  |
 |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |  [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  |  68.5K :star:  |
 
-<sup><sub>Last updated: February 28, 2025 at 03:05:35 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 28, 2025 at 07:06:50 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
