@@ -74,8 +74,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  632 :star:  |  [lxc/incus](https://github.com/lxc/incus)  |  3.2K :star:  |
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.7K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
-|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.3K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  11K :star:  |
+|  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.3K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  11.1K :star:  |
 |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  789 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
 
-<sup><sub>Last updated: February 28, 2025 at 15:04:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 28, 2025 at 19:19:34 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
