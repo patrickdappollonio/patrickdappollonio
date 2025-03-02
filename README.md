@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#16: Add support for API calls with authenticated GitHub...](https://github.com/patrickdappollonio/patrickdappollonio/pull/16) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | $\textcolor{green}{+158}$ $\textcolor{red}{-48}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,11 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.1K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  792 :star:  |
 |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  263 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.4K :star:  |
 |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
 |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
 |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.3K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
-|  [znscli/zns](https://github.com/znscli/zns)  |  182 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
+|  [znscli/zns](https://github.com/znscli/zns)  |  183 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.2K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.1K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
 |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  88 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  636 :star:  |
@@ -75,7 +76,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  136 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.7K :star:  |  [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  |  3.8K :star:  |
 |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  18.4K :star:  |  [docmost/docmost](https://github.com/docmost/docmost)  |  11.1K :star:  |
-|  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  792 :star:  |  [trycua/lume](https://github.com/trycua/lume)  |  2.1K :star:  |
 
-<sup><sub>Last updated: March 01, 2025 at 15:04:14 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 01, 2025 at 19:19:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
