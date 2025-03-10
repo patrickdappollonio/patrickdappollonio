@@ -61,9 +61,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  218 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.8K :star:  |
+|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  222 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.8K :star:  |
 |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  460 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.2K :star:  |
-|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.4K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  817 :star:  |
+|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.4K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  818 :star:  |
 |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.5K :star:  |
 |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
 |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
 |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  89 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  639 :star:  |
 |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.6K :star:  |  [clastix/kamaji](https://github.com/clastix/kamaji)  |  1.3K :star:  |
-|  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |  [Oudwins/zog](https://github.com/Oudwins/zog)  |  685 :star:  |
+|  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |  [Oudwins/zog](https://github.com/Oudwins/zog)  |  688 :star:  |
 |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  632 :star:  |  [lxc/incus](https://github.com/lxc/incus)  |  3.2K :star:  |
 |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |  [robscott/kube-capacity](https://github.com/robscott/kube-capacity)  |  2.3K :star:  |
 
-<sup><sub>Last updated: March 10, 2025 at 12:04:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 10, 2025 at 16:04:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
