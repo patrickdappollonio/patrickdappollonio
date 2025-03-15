@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.2K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.6K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  16.7K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
-|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  168 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  633 :star:  |
+|  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.2K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  16.8K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  169 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  633 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |
-|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  238 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.8K :star:  |
+|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  238 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  465 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.6K :star:  |
 |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.5K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  823 :star:  |
 |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.5K :star:  |
@@ -75,7 +75,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [znscli/zns](https://github.com/znscli/zns)  |  192 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.2K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
-|  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  640 :star:  |
+|  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  639 :star:  |
 
-<sup><sub>Last updated: March 15, 2025 at 04:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 15, 2025 at 08:06:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
