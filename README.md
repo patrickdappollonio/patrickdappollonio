@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#141: Update README with Homebrew tap.](https://github.com/patrickdappollonio/http-server/pull/141) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+23}$ $\textcolor{red}{-15}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,8 +61,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.1K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.6K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  16.6K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.2K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.6K :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  16.7K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
 |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  168 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  633 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |
 |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  238 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.8K :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.5K :star:  |
 |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
 |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
-|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.9K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
+|  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
 |  [znscli/zns](https://github.com/znscli/zns)  |  192 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.2K :star:  |
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
 |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  640 :star:  |
 
-<sup><sub>Last updated: March 15, 2025 at 00:05:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 15, 2025 at 04:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
