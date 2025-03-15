@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#141: Update README with Homebrew tap.](https://github.com/patrickdappollonio/http-server/pull/141) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+23}$ $\textcolor{red}{-15}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -65,10 +65,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  16.8K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
 |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  169 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  633 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |
-|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  238 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
-|  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  465 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.6K :star:  |
+|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  239 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
+|  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  465 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.7K :star:  |
 |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.5K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  823 :star:  |
-|  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.5K :star:  |
+|  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.6K :star:  |
 |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
 |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
 |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
 |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  639 :star:  |
 
-<sup><sub>Last updated: March 15, 2025 at 08:06:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 15, 2025 at 12:04:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
