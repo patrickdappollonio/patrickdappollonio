@@ -61,9 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  3.1K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  105 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.3K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.2K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
-|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  171 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  634 :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.3K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  172 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  634 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |
 |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  240 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  466 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.8K :star:  |
@@ -74,8 +76,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
 |  [znscli/zns](https://github.com/znscli/zns)  |  192 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |  [viccon/sturdyc](https://github.com/viccon/sturdyc)  |  1.2K :star:  |
-|  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |  [golang/open2opaque](https://github.com/golang/open2opaque)  |  17 :star:  |
-|  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |  [stakater/IngressMonitorControl...](https://github.com/stakater/IngressMonitorController)  |  640 :star:  |
 
-<sup><sub>Last updated: March 16, 2025 at 20:19:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 17, 2025 at 00:05:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
