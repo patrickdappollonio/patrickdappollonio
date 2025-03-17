@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#141: Update README with Homebrew tap.](https://github.com/patrickdappollonio/http-server/pull/141) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+23}$ $\textcolor{red}{-15}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  289 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
-|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  3.6K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
-|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  141 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |
+|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  295 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  4.3K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  162 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.3K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.3K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
-|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  172 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  634 :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.4K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  173 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  634 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  139 :star:  |
 |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  240 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  466 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.8K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |  [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt)  |  798 :star:  |
 |  [znscli/zns](https://github.com/znscli/zns)  |  192 :star:  |  [destel/rill](https://github.com/destel/rill)  |  1.6K :star:  |
 
-<sup><sub>Last updated: March 17, 2025 at 04:06:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 17, 2025 at 08:07:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
