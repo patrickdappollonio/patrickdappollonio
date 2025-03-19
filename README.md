@@ -63,19 +63,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |
 |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |  [znscli/zns](https://github.com/znscli/zns)  |  193 :star:  |
-|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  321 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
-|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  6.9K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
-|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  281 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |
+|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  322 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  7.1K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  285 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  90 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.4K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
 |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.7K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
 |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  179 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  636 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  140 :star:  |
 |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  240 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  467 :star:  |  [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  |  19.9K :star:  |
-|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.6K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  830 :star:  |
+|  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.6K :star:  |  [dvershinin/gixy](https://github.com/dvershinin/gixy)  |  831 :star:  |
 |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  264 :star:  |  [pbatard/rufus](https://github.com/pbatard/rufus)  |  30.6K :star:  |
 |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |  [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation)  |  3.9K :star:  |
 |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |  [GamingAPI/rust-docker-image](https://github.com/GamingAPI/rust-docker-image)  |  3 :star:  |
 
-<sup><sub>Last updated: March 18, 2025 at 16:04:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 18, 2025 at 20:18:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
