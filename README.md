@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#141: Update README with Homebrew tap.](https://github.com/patrickdappollonio/http-server/pull/141) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+23}$ $\textcolor{red}{-15}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,16 +66,16 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [disposable/disposable](https://github.com/disposable/disposable)  |  1.1K :star:  |  [spyzhov/ajson](https://github.com/spyzhov/ajson)  |  265 :star:  |
 |  [marwan-at-work/mod](https://github.com/marwan-at-work/mod)  |  393 :star:  |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |
 |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |
-|  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |
+|  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  4K :star:  |
 |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |  [znscli/zns](https://github.com/znscli/zns)  |  193 :star:  |
-|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  374 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
-|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.3K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
-|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  307 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
+|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  379 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.4K :star:  |
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.4K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  308 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.5K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18.1K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
 |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  181 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  636 :star:  |
 |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  141 :star:  |
 |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  262 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 
-<sup><sub>Last updated: March 20, 2025 at 12:05:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 20, 2025 at 16:04:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
