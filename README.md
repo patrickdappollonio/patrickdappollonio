@@ -68,14 +68,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |
 |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  3.10K :star:  |
 |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |  [znscli/zns](https://github.com/znscli/zns)  |  193 :star:  |
-|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  361 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
-|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.2K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
-|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  305 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
+|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  370 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.3K :star:  |
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.3K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  307 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.5K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
-|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  17.10K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
+|  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18K :star:  |  [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)  |  2.7K :star:  |
 |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  180 :star:  |  [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang)  |  636 :star:  |
-|  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  140 :star:  |
-|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  259 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
+|  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |  [neovim/neovim-releases](https://github.com/neovim/neovim-releases)  |  141 :star:  |
+|  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  261 :star:  |  [Nutlope/logocreator](https://github.com/Nutlope/logocreator)  |  4.9K :star:  |
 
-<sup><sub>Last updated: March 20, 2025 at 04:05:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 20, 2025 at 08:07:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
