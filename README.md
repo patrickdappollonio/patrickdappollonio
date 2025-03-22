@@ -72,10 +72,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |
 |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  4K :star:  |
 |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |  [znscli/zns](https://github.com/znscli/zns)  |  193 :star:  |
-|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  439 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.4K :star:  |
-|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.8K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
-|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  311 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
+|  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  447 :star:  |  [subtrace/subtrace](https://github.com/subtrace/subtrace)  |  2.4K :star:  |
+|  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  8.9K :star:  |  [awslabs/aws-lambda-go-api-prox...](https://github.com/awslabs/aws-lambda-go-api-proxy)  |  1.1K :star:  |
+|  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  312 :star:  |  [noboruma/go-msquic](https://github.com/noboruma/go-msquic)  |  91 :star:  |
 |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.6K :star:  |  [supabase-community/postgres_ls...](https://github.com/supabase-community/postgres_lsp)  |  3.7K :star:  |
 
-<sup><sub>Last updated: March 21, 2025 at 16:04:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 21, 2025 at 20:17:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
