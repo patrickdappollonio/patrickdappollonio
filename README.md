@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  291 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
-|  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  159 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  473 :star:  |
-|  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  765 :star:  |  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  9.5K :star:  |
-|  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  234 :star:  |  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  317 :star:  |
+|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  315 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
+|  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  162 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  474 :star:  |
+|  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  823 :star:  |  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  9.6K :star:  |
+|  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  234 :star:  |  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  318 :star:  |
 |  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  231 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.7K :star:  |
 |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.7K :star:  |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18.3K :star:  |
 |  [go-rod/stealth](https://github.com/go-rod/stealth)  |  273 :star:  |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  189 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |
 |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |  [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)  |  4K :star:  |
 
-<sup><sub>Last updated: March 23, 2025 at 16:04:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 23, 2025 at 20:19:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
