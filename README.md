@@ -62,13 +62,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  132 :star:  |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |
-|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  423 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
-|  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  170 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  476 :star:  |
+|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  445 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
+|  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  171 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  478 :star:  |
 |  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.1K :star:  |  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  9.9K :star:  |
 |  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  236 :star:  |  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  323 :star:  |
 |  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  231 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.8K :star:  |
 |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.7K :star:  |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18.4K :star:  |
-|  [go-rod/stealth](https://github.com/go-rod/stealth)  |  272 :star:  |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  196 :star:  |
+|  [go-rod/stealth](https://github.com/go-rod/stealth)  |  272 :star:  |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  197 :star:  |
 |  [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell)  |  534 :star:  |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |
 |  [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome)  |  1.10K :star:  |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  264 :star:  |
 |  [uuid-rs/uuid](https://github.com/uuid-rs/uuid)  |  1.1K :star:  |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  468 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [marwan-at-work/mod](https://github.com/marwan-at-work/mod)  |  393 :star:  |  [evanphx/json-patch](https://github.com/evanphx/json-patch)  |  1.1K :star:  |
 |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |  [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf)  |  2.9K :star:  |
 
-<sup><sub>Last updated: March 24, 2025 at 16:04:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 24, 2025 at 20:19:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
