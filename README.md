@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#150: Bump MermaidJS to version 11.4.1](https://github.com/patrickdappollonio/http-server/pull/150) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+2,320}$ $\textcolor{red}{-54,305}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -65,17 +65,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [ohler55/ojg](https://github.com/ohler55/ojg)  |  877 :star:  |  [marwan-at-work/mod](https://github.com/marwan-at-work/mod)  |  393 :star:  |
 |  [Eugeny/russh](https://github.com/Eugeny/russh)  |  1.1K :star:  |  [dtolnay/anyhow](https://github.com/dtolnay/anyhow)  |  5.8K :star:  |
 |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  132 :star:  |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |
-|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  506 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
+|  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  520 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
 |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  171 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  478 :star:  |
 |  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.1K :star:  |  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  10K :star:  |
 |  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  236 :star:  |  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  325 :star:  |
-|  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  231 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.8K :star:  |
+|  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  231 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  38.9K :star:  |
 |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.7K :star:  |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18.4K :star:  |
-|  [go-rod/stealth](https://github.com/go-rod/stealth)  |  272 :star:  |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  203 :star:  |
+|  [go-rod/stealth](https://github.com/go-rod/stealth)  |  272 :star:  |  [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript)  |  207 :star:  |
 |  [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell)  |  534 :star:  |  [banzaicloud/imps](https://github.com/banzaicloud/imps)  |  34 :star:  |
-|  [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome)  |  1.10K :star:  |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  264 :star:  |
+|  [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome)  |  1.10K :star:  |  [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)  |  265 :star:  |
 |  [uuid-rs/uuid](https://github.com/uuid-rs/uuid)  |  1.1K :star:  |  [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions)  |  468 :star:  |
 |  [colthreepv/llm-context](https://github.com/colthreepv/llm-context)  |  1 :star:  |  [slidevjs/slidev](https://github.com/slidevjs/slidev)  |  35.7K :star:  |
 
-<sup><sub>Last updated: March 25, 2025 at 04:05:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 25, 2025 at 08:07:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
