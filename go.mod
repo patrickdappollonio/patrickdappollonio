@@ -1,10 +1,11 @@
 module github.com/patrickdappollonio/patrickdappollonio
 
 go 1.22.0
+toolchain go1.23.7
 
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
-	golang.org/x/sync v0.10.0
+	golang.org/x/sync v0.12.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
