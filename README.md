@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#150: Bump MermaidJS to version 11.4.1](https://github.com/patrickdappollonio/http-server/pull/150) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+2,320}$ $\textcolor{red}{-54,305}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  232 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  39.1K :star:  |
 |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.8K :star:  |  [microsoft/typescript-go](https://github.com/microsoft/typescript-go)  |  18.6K :star:  |
 
-<sup><sub>Last updated: March 29, 2025 at 20:20:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 30, 2025 at 00:04:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
