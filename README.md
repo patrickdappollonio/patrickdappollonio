@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#150: Bump MermaidJS to version 11.4.1](https://github.com/patrickdappollonio/http-server/pull/150) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+2,320}$ $\textcolor{red}{-54,305}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,7 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  824 :star:  |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.8K :star:  |
+|  [simonask/stringleton](https://github.com/simonask/stringleton)  |  18 :star:  |  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.3K :star:  |
+|  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  898 :star:  |  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  238 :star:  |
+|  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.7K :star:  |  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  232 :star:  |
+|  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  859 :star:  |  [browserless/browserless](https://github.com/browserless/browserless)  |  9.8K :star:  |
 |  [chatwork/dockerfiles](https://github.com/chatwork/dockerfiles)  |  33 :star:  |  [go-rod/stealth](https://github.com/go-rod/stealth)  |  272 :star:  |
 |  [cerbos/cerbos](https://github.com/cerbos/cerbos)  |  3.7K :star:  |  [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell)  |  535 :star:  |
 |  [umputun/spot](https://github.com/umputun/spot)  |  427 :star:  |  [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome)  |  1.10K :star:  |
@@ -73,9 +76,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  144 :star:  |  [facebookincubator/below](https://github.com/facebookincubator/below)  |  1.3K :star:  |
 |  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  591 :star:  |  [Azure/helmlint](https://github.com/Azure/helmlint)  |  2 :star:  |
 |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  176 :star:  |  [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)  |  541 :star:  |
-|  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.3K :star:  |  [suitenumerique/docs](https://github.com/suitenumerique/docs)  |  10.6K :star:  |
-|  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  238 :star:  |  [icann/icann-rdap](https://github.com/icann/icann-rdap)  |  328 :star:  |
-|  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  232 :star:  |  [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  |  39.1K :star:  |
 
-<sup><sub>Last updated: March 30, 2025 at 16:04:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 30, 2025 at 20:19:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
