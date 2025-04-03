@@ -64,7 +64,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  777 :star:  |  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  1.1K :star:  |
 |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  168 :star:  |  [chatwork/dockerfiles](https://github.com/chatwork/dockerfiles)  |  33 :star:  |
 |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |  [cerbos/cerbos](https://github.com/cerbos/cerbos)  |  3.7K :star:  |
-|  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  134 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  428 :star:  |
+|  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  134 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  429 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |  [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)  |  848 :star:  |
 |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |  [dotdc/grafana-dashboards-kuber...](https://github.com/dotdc/grafana-dashboards-kubernetes)  |  2.9K :star:  |
 |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  21.5K :star:  |  [disposable/disposable-email-do...](https://github.com/disposable/disposable-email-domains)  |  492 :star:  |
@@ -72,10 +72,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  336 :star:  |  [Eugeny/russh](https://github.com/Eugeny/russh)  |  1.2K :star:  |
 |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  284 :star:  |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  148 :star:  |
 |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9K :star:  |  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  606 :star:  |
-|  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  95 :star:  |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  178 :star:  |
+|  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  97 :star:  |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  178 :star:  |
 |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  20 :star:  |  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.4K :star:  |
-|  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  900 :star:  |  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  240 :star:  |
+|  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  901 :star:  |  [mintoolkit/mint](https://github.com/mintoolkit/mint)  |  240 :star:  |
 |  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.7K :star:  |  [redhat-cop/namespace-configura...](https://github.com/redhat-cop/namespace-configuration-operator)  |  234 :star:  |
 
-<sup><sub>Last updated: April 03, 2025 at 12:05:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 03, 2025 at 16:04:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
