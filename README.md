@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#45: Fix skip publish on goreleaser](https://github.com/patrickdappollonio/tgen/pull/45) | [`tgen`](https://github.com/patrickdappollonio/tgen) | $\textcolor{green}{+1}$ $\textcolor{red}{-1}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,6 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [nuejs/nue](https://github.com/nuejs/nue)  |  8.1K :star:  |  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  901 :star:  |
 |  [open-feature/cli](https://github.com/open-feature/cli)  |  35 :star:  |  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.7K :star:  |
 |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  780 :star:  |  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  1.1K :star:  |
 |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  168 :star:  |  [chatwork/dockerfiles](https://github.com/chatwork/dockerfiles)  |  33 :star:  |
@@ -71,11 +72,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  21.7K :star:  |  [disposable/disposable-email-do...](https://github.com/disposable/disposable-email-domains)  |  492 :star:  |
 |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.5K :star:  |  [ohler55/ojg](https://github.com/ohler55/ojg)  |  880 :star:  |
 |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  336 :star:  |  [Eugeny/russh](https://github.com/Eugeny/russh)  |  1.2K :star:  |
-|  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  286 :star:  |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  151 :star:  |
+|  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  286 :star:  |  [railwayapp/railpack](https://github.com/railwayapp/railpack)  |  152 :star:  |
 |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.1K :star:  |  [ygwyg/diverce](https://github.com/ygwyg/diverce)  |  626 :star:  |
-|  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  103 :star:  |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  179 :star:  |
-|  [simonask/stringleton](https://github.com/simonask/stringleton)  |  30 :star:  |  [Zouuup/landrun](https://github.com/Zouuup/landrun)  |  1.4K :star:  |
-|  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  901 :star:  |    |    |
+|  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  103 :star:  |  [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)  |  180 :star:  |
+|  [simonask/stringleton](https://github.com/simonask/stringleton)  |  30 :star:  |    |    |
 
-<sup><sub>Last updated: April 05, 2025 at 20:20:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 06, 2025 at 00:04:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
