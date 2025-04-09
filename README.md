@@ -69,13 +69,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  785 :star:  |  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  1.2K :star:  |
 |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  171 :star:  |  [chatwork/dockerfiles](https://github.com/chatwork/dockerfiles)  |  33 :star:  |
 |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |  [cerbos/cerbos](https://github.com/cerbos/cerbos)  |  3.7K :star:  |
-|  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  134 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  431 :star:  |
+|  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  431 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |  [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)  |  849 :star:  |
 |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |  [dotdc/grafana-dashboards-kuber...](https://github.com/dotdc/grafana-dashboards-kubernetes)  |  2.9K :star:  |
 |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.1K :star:  |  [disposable/disposable-email-do...](https://github.com/disposable/disposable-email-domains)  |  495 :star:  |
-|  [swaggo/swag](https://github.com/swaggo/swag)  |  11.5K :star:  |  [ohler55/ojg](https://github.com/ohler55/ojg)  |  882 :star:  |
+|  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |  [ohler55/ojg](https://github.com/ohler55/ojg)  |  882 :star:  |
 |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |  [Eugeny/russh](https://github.com/Eugeny/russh)  |  1.2K :star:  |
-|  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  292 :star:  |    |    |
+|  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  293 :star:  |    |    |
 
-<sup><sub>Last updated: April 09, 2025 at 12:05:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 09, 2025 at 16:04:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
