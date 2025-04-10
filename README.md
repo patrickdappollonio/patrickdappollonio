@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#45: Fix skip publish on goreleaser](https://github.com/patrickdappollonio/tgen/pull/45) | [`tgen`](https://github.com/patrickdappollonio/tgen) | $\textcolor{green}{+1}$ $\textcolor{red}{-1}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |  [Eugeny/russh](https://github.com/Eugeny/russh)  |  1.2K :star:  |
 |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  294 :star:  |    |    |
 
-<sup><sub>Last updated: April 09, 2025 at 20:18:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 10, 2025 at 00:05:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
