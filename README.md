@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |  [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)  |  849 :star:  |
 |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |  [dotdc/grafana-dashboards-kuber...](https://github.com/dotdc/grafana-dashboards-kubernetes)  |  2.9K :star:  |
-|  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.1K :star:  |  [disposable/disposable-email-do...](https://github.com/disposable/disposable-email-domains)  |  495 :star:  |
+|  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.2K :star:  |  [disposable/disposable-email-do...](https://github.com/disposable/disposable-email-domains)  |  495 :star:  |
 |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |  [ohler55/ojg](https://github.com/ohler55/ojg)  |  882 :star:  |
 |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |    |    |
 
-<sup><sub>Last updated: April 10, 2025 at 12:05:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 10, 2025 at 16:04:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
