@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [clidey/whodb](https://github.com/clidey/whodb)  |  3.1K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.2K :star:  |
+|  [clidey/whodb](https://github.com/clidey/whodb)  |  3.1K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.3K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  11.6K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  2.10K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |
 |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  949 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |  [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)  |  850 :star:  |
 |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |    |    |
 
-<sup><sub>Last updated: April 11, 2025 at 16:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 11, 2025 at 20:18:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
