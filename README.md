@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#45: Fix skip publish on goreleaser](https://github.com/patrickdappollonio/tgen/pull/45) | [`tgen`](https://github.com/patrickdappollonio/tgen) | $\textcolor{green}{+1}$ $\textcolor{red}{-1}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -68,7 +68,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  960 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.3K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
 |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  58 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  112 :star:  |
-|  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  693 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
+|  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  694 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
 |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  905 :star:  |
 |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.8K :star:  |
 |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  785 :star:  |  [iib0011/omni-tools](https://github.com/iib0011/omni-tools)  |  1.2K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |    |    |
 
-<sup><sub>Last updated: April 13, 2025 at 12:04:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 13, 2025 at 16:04:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
