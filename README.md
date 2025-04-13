@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  802 :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |
+|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  895 :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.2K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.3K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  11.6K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |    |    |
 
-<sup><sub>Last updated: April 12, 2025 at 16:04:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 12, 2025 at 20:44:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
