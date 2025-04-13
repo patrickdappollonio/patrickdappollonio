@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#45: Fix skip publish on goreleaser](https://github.com/patrickdappollonio/tgen/pull/45) | [`tgen`](https://github.com/patrickdappollonio/tgen) | $\textcolor{green}{+1}$ $\textcolor{red}{-1}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  1K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |
+|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  1.1K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.2K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.4K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  11.6K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.1K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |
-|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  957 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
+|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  958 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.3K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
 |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  58 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  112 :star:  |
 |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  693 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |    |    |
 
-<sup><sub>Last updated: April 13, 2025 at 04:05:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 13, 2025 at 08:06:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
