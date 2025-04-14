@@ -63,11 +63,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  1.3K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.2K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.2K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.4K :star:  |
-|  [block/goose](https://github.com/block/goose)  |  11.6K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
+|  [block/goose](https://github.com/block/goose)  |  11.7K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.1K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  339 :star:  |
-|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  961 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
+|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  964 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  296 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.3K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
-|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  58 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  112 :star:  |
+|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  58 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  115 :star:  |
 |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  694 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
 |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  905 :star:  |
 |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.8K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  135 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |    |    |
 
-<sup><sub>Last updated: April 13, 2025 at 20:20:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 14, 2025 at 00:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
