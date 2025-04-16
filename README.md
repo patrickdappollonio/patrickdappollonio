@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#45: Fix skip publish on goreleaser](https://github.com/patrickdappollonio/tgen/pull/45) | [`tgen`](https://github.com/patrickdappollonio/tgen) | $\textcolor{green}{+1}$ $\textcolor{red}{-1}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -64,10 +64,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  1.7K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.3K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.2K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.5K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  11.7K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
-|  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.3K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  340 :star:  |
-|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  994 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  299 :star:  |
+|  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.3K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  341 :star:  |
+|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  998 :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  299 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.3K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
-|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  58 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  125 :star:  |
+|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  59 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  125 :star:  |
 |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  700 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
 |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |  [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)  |  905 :star:  |
 |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |  [cloudflare/pingora](https://github.com/cloudflare/pingora)  |  23.8K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |  [umputun/spot](https://github.com/umputun/spot)  |  433 :star:  |
 |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  2 :star:  |    |    |
 
-<sup><sub>Last updated: April 15, 2025 at 20:19:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 16, 2025 at 00:05:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
