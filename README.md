@@ -61,9 +61,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [openai/codex](https://github.com/openai/codex)  |  17.4K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
-|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  193 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  791 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  77 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  17.5K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
+|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  195 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  791 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  79 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
 |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  277 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
 |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
 |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  704 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
 |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |    |    |
 
-<sup><sub>Last updated: April 19, 2025 at 12:04:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 19, 2025 at 16:04:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
