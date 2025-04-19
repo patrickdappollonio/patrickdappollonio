@@ -61,15 +61,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [openai/codex](https://github.com/openai/codex)  |  16.7K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
-|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  189 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  790 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  72 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  16.10K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
+|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  191 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  790 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  73 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
 |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  277 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
 |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
 |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
 |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  1.9K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.3K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.6K :star:  |
-|  [block/goose](https://github.com/block/goose)  |  11.8K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
+|  [block/goose](https://github.com/block/goose)  |  11.9K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.5K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  342 :star:  |
 |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1K :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  301 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  704 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
 |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |    |    |
 
-<sup><sub>Last updated: April 19, 2025 at 00:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 19, 2025 at 04:05:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
