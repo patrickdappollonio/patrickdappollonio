@@ -61,9 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [openai/codex](https://github.com/openai/codex)  |  18.2K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
+|  [reubeno/brush](https://github.com/reubeno/brush)  |  238 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  18.3K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  203 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  791 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  86 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  87 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
 |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  277 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
 |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
 |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
@@ -73,9 +74,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.6K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  342 :star:  |
 |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1K :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  301 :star:  |
 |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |  [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  |  9.2K :star:  |
-|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  64 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  137 :star:  |
-|  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  706 :star:  |  [simonask/stringleton](https://github.com/simonask/stringleton)  |  37 :star:  |
-|  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |    |    |
+|  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  65 :star:  |  [kubernetes-sigs/multicluster-r...](https://github.com/kubernetes-sigs/multicluster-runtime)  |  137 :star:  |
+|  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  706 :star:  |    |    |
 
-<sup><sub>Last updated: April 21, 2025 at 00:05:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 21, 2025 at 04:06:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
