@@ -1,7 +1,6 @@
 module github.com/patrickdappollonio/patrickdappollonio
 
-go 1.22.0
-toolchain go1.24.1
+go 1.24.1
 
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
@@ -19,5 +18,5 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
 )
