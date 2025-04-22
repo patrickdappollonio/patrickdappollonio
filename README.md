@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [pamburus/hl](https://github.com/pamburus/hl)  |  678 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.7K :star:  |
+|  [lapce/lapce](https://github.com/lapce/lapce)  |  35.2K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1K :star:  |
+|  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  395 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  67 :star:  |
-|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  188 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  708 :star:  |
-|  [reubeno/brush](https://github.com/reubeno/brush)  |  266 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |
+|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  189 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  710 :star:  |
+|  [reubeno/brush](https://github.com/reubeno/brush)  |  277 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.3K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  18.7K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  206 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  791 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  104 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  107 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  177 :star:  |
 |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  278 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
 |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
 |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
-|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.1K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.3K :star:  |
+|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.2K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.3K :star:  |
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.7K :star:  |
-|  [block/goose](https://github.com/block/goose)  |  11.9K :star:  |  [swaggo/swag](https://github.com/swaggo/swag)  |  11.6K :star:  |
-|  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.7K :star:  |  [go-chi/httprate](https://github.com/go-chi/httprate)  |  342 :star:  |
-|  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1K :star:  |  [psviderski/uncloud](https://github.com/psviderski/uncloud)  |  301 :star:  |
-|  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |    |    |
+|  [block/goose](https://github.com/block/goose)  |  11.10K :star:  |    |    |
 
-<sup><sub>Last updated: April 21, 2025 at 16:05:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 21, 2025 at 20:18:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
