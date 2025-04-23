@@ -67,9 +67,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  68 :star:  |
 |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  189 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  711 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  294 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
-|  [openai/codex](https://github.com/openai/codex)  |  19.5K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  19.6K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  211 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  795 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  131 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  181 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  133 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  182 :star:  |
 |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  279 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
 |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
 |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.8K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  11.10K :star:  |    |    |
 
-<sup><sub>Last updated: April 23, 2025 at 08:07:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 23, 2025 at 12:05:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
