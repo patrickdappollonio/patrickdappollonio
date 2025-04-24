@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#2: Add CI/CD](https://github.com/patrickdappollonio/reverse-proxy-host/pull/2) | [`reverse-proxy-host`](https://github.com/patrickdappollonio/reverse-proxy-host) | $\textcolor{green}{+152}$ $\textcolor{red}{-12}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [pamburus/hl](https://github.com/pamburus/hl)  |  681 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.9K :star:  |
+|  [pamburus/hl](https://github.com/pamburus/hl)  |  682 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.9K :star:  |
 |  [lapce/lapce](https://github.com/lapce/lapce)  |  35.2K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.1K :star:  |
 |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  395 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  68 :star:  |
-|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  189 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  714 :star:  |
+|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  189 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  715 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  294 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  19.9K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  211 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  798 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.8K :star:  |
 |  [block/goose](https://github.com/block/goose)  |  12K :star:  |    |    |
 
-<sup><sub>Last updated: April 24, 2025 at 08:07:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 24, 2025 at 12:05:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
