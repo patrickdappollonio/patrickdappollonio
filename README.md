@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
+|  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
+|  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.4K :star:  |
+|  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  565 :star:  |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |
+|  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.3K :star:  |  [block/goose](https://github.com/block/goose)  |  12K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  683 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  3.9K :star:  |
 |  [lapce/lapce](https://github.com/lapce/lapce)  |  35.2K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.1K :star:  |
 |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  395 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
-|  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  68 :star:  |
-|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  189 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  715 :star:  |
+|  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  69 :star:  |
+|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  190 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  716 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  294 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
-|  [openai/codex](https://github.com/openai/codex)  |  19.9K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  19.10K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  211 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  798 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  134 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  182 :star:  |
-|  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  281 :star:  |  [jamsocket/plane](https://github.com/jamsocket/plane)  |  1.9K :star:  |
-|  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |  [kube-rs/kopium](https://github.com/kube-rs/kopium)  |  136 :star:  |
-|  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |  [AyAggarwal/KVCache](https://github.com/AyAggarwal/KVCache)  |  3 :star:  |
-|  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.4K :star:  |  [mrousavy/react-native-vision-c...](https://github.com/mrousavy/react-native-vision-camera)  |  8.3K :star:  |
-|  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |  [glanceapp/glance](https://github.com/glanceapp/glance)  |  22.8K :star:  |
-|  [block/goose](https://github.com/block/goose)  |  12K :star:  |    |    |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  135 :star:  |  [jamsocket/forevervm](https://github.com/jamsocket/forevervm)  |  182 :star:  |
+|  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  281 :star:  |    |    |
 
-<sup><sub>Last updated: April 24, 2025 at 16:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 24, 2025 at 20:19:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
