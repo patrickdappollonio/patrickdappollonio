@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#2: Add CI/CD](https://github.com/patrickdappollonio/reverse-proxy-host/pull/2) | [`reverse-proxy-host`](https://github.com/patrickdappollonio/reverse-proxy-host) | $\textcolor{green}{+152}$ $\textcolor{red}{-12}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  449 :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  283 :star:  |
+|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  495 :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  283 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
 |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.4K :star:  |
@@ -72,10 +72,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  395 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  69 :star:  |
 |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  190 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  716 :star:  |
-|  [reubeno/brush](https://github.com/reubeno/brush)  |  295 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
+|  [reubeno/brush](https://github.com/reubeno/brush)  |  297 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  20.1K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  36 :star:  |
-|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  211 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  798 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  136 :star:  |    |    |
+|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  211 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  799 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  138 :star:  |    |    |
 
-<sup><sub>Last updated: April 25, 2025 at 04:05:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 25, 2025 at 08:07:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
