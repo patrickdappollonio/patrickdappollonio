@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.2K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  285 :star:  |
+|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.3K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  285 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
 |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.5K :star:  |
 |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |
-|  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.3K :star:  |  [block/goose](https://github.com/block/goose)  |  12.1K :star:  |
+|  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.3K :star:  |  [block/goose](https://github.com/block/goose)  |  12.2K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  683 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.2K :star:  |
 |  [lapce/lapce](https://github.com/lapce/lapce)  |  35.9K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.2K :star:  |
 |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  394 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
@@ -74,8 +74,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  191 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  725 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  300 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  20.9K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
-|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  215 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  803 :star:  |
+|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  215 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  804 :star:  |
 |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  154 :star:  |    |    |
 
-<sup><sub>Last updated: April 29, 2025 at 12:05:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 29, 2025 at 16:05:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
