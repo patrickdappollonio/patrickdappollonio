@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#40: Update dependencies. Bump to go 1.24](https://github.com/patrickdappollonio/wait-for/pull/40) | [`wait-for`](https://github.com/patrickdappollonio/wait-for) | $\textcolor{green}{+29}$ $\textcolor{red}{-33}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -68,14 +68,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |
 |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.3K :star:  |  [block/goose](https://github.com/block/goose)  |  12.1K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  682 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.2K :star:  |
-|  [lapce/lapce](https://github.com/lapce/lapce)  |  35.7K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.2K :star:  |
+|  [lapce/lapce](https://github.com/lapce/lapce)  |  35.8K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.2K :star:  |
 |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  394 :star:  |  [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  |  6.4K :star:  |
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  71 :star:  |
-|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  191 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  722 :star:  |
+|  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  191 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  723 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  298 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  20.8K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
-|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  214 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  803 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  150 :star:  |    |    |
+|  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  215 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  803 :star:  |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  151 :star:  |    |    |
 
-<sup><sub>Last updated: April 28, 2025 at 16:04:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 28, 2025 at 20:19:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
