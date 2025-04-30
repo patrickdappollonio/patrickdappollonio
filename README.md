@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#40: Update dependencies. Bump to go 1.24](https://github.com/patrickdappollonio/wait-for/pull/40) | [`wait-for`](https://github.com/patrickdappollonio/wait-for) | $\textcolor{green}{+29}$ $\textcolor{red}{-33}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  215 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  804 :star:  |
 |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  155 :star:  |    |    |
 
-<sup><sub>Last updated: April 30, 2025 at 00:05:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 30, 2025 at 04:05:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
