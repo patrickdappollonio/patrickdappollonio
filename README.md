@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  73 :star:  |
 |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  191 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  725 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  301 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
-|  [openai/codex](https://github.com/openai/codex)  |  21K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  21.1K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  216 :star:  |  [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet)  |  805 :star:  |
-|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  156 :star:  |    |    |
+|  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  157 :star:  |    |    |
 
-<sup><sub>Last updated: April 30, 2025 at 20:21:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 01, 2025 at 00:08:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
