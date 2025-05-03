@@ -74,8 +74,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |  [AeolusUX/ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36)  |  73 :star:  |
 |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  191 :star:  |  [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS)  |  728 :star:  |
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  304 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
-|  [openai/codex](https://github.com/openai/codex)  |  21.2K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
+|  [openai/codex](https://github.com/openai/codex)  |  21.3K :star:  |  [open-feature/cli](https://github.com/open-feature/cli)  |  37 :star:  |
 |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  216 :star:  |    |    |
 
-<sup><sub>Last updated: May 03, 2025 at 04:05:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 03, 2025 at 08:06:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
