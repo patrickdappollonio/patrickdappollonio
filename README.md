@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#3: Add dependabot. Fix pipeline installation.](https://github.com/patrickdappollonio/helm-list-charts/pull/3) | [`helm-list-charts`](https://github.com/patrickdappollonio/helm-list-charts) | $\textcolor{green}{+29}$ $\textcolor{red}{-6}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  60.9K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  217 :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  61.1K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  217 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  160 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.3K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  288 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
-|  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.5K :star:  |
+|  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.6K :star:  |
 |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |
 |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.4K :star:  |  [block/goose](https://github.com/block/goose)  |  12.3K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  687 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.4K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reubeno/brush](https://github.com/reubeno/brush)  |  306 :star:  |  [nuejs/nue](https://github.com/nuejs/nue)  |  8.4K :star:  |
 |  [openai/codex](https://github.com/openai/codex)  |  21.4K :star:  |    |    |
 
-<sup><sub>Last updated: May 04, 2025 at 20:20:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 05, 2025 at 00:06:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
