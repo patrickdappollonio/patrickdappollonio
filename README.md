@@ -65,8 +65,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  570 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  192 :star:  |
 |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  306 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  342 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.5K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  62.6K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  217 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  348 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.5K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  62.9K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  161 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  292 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  688 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.5K :star:  |
 |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.1K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.2K :star:  |
 
-<sup><sub>Last updated: May 05, 2025 at 20:19:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 06, 2025 at 00:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
