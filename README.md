@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#3: Add dependabot. Fix pipeline installation.](https://github.com/patrickdappollonio/helm-list-charts/pull/3) | [`helm-list-charts`](https://github.com/patrickdappollonio/helm-list-charts) | $\textcolor{green}{+29}$ $\textcolor{red}{-6}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -65,10 +65,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  570 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  192 :star:  |
 |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  306 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  348 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.5K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  62.9K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  360 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.5K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  63.3K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  161 :star:  |
-|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  292 :star:  |
+|  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  293 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
 |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.6K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  688 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.5K :star:  |
 |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.1K :star:  |  [musana/CF-Hero](https://github.com/musana/CF-Hero)  |  1.2K :star:  |
 
-<sup><sub>Last updated: May 06, 2025 at 00:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 06, 2025 at 04:06:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
