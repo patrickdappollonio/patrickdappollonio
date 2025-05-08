@@ -65,8 +65,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  14.10K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  398 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  570 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  570 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  492 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.6K :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  576 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  494 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.7K :star:  |
 |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  64.8K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  165 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  295 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.4K :star:  |  [block/goose](https://github.com/block/goose)  |  12.4K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  691 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.6K :star:  |
 
-<sup><sub>Last updated: May 07, 2025 at 20:19:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 08, 2025 at 00:06:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
