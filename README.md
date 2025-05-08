@@ -62,20 +62,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.3K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.1K :star:  |
-|  [nari-labs/dia](https://github.com/nari-labs/dia)  |  14.10K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  398 :star:  |
+|  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  398 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  570 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  576 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  494 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.7K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  64.8K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  597 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  506 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.7K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  64.9K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  218 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  165 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  295 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  217 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
-|  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.5K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
+|  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
 |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |  [VERT-sh/VERT](https://github.com/VERT-sh/VERT)  |  2.7K :star:  |
 |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |  [clidey/whodb](https://github.com/clidey/whodb)  |  3.3K :star:  |
 |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.4K :star:  |  [block/goose](https://github.com/block/goose)  |  12.4K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  691 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.6K :star:  |
 
-<sup><sub>Last updated: May 08, 2025 at 00:06:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 08, 2025 at 04:06:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
