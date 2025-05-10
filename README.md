@@ -65,9 +65,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.2K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  399 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  571 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  696 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  578 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.9K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  65.8K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  219 :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  700 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  581 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.9K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  65.9K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  220 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  167 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  297 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  217 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.4K :star:  |  [block/goose](https://github.com/block/goose)  |  12.5K :star:  |
 |  [pamburus/hl](https://github.com/pamburus/hl)  |  694 :star:  |  [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)  |  4.7K :star:  |
 
-<sup><sub>Last updated: May 10, 2025 at 12:04:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 10, 2025 at 16:04:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
