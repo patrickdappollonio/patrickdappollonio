@@ -64,18 +64,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  661 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.5K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.8K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.4K :star:  |
-|  [voideditor/void](https://github.com/voideditor/void)  |  17.1K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  695 :star:  |
+|  [voideditor/void](https://github.com/voideditor/void)  |  17.3K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  695 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.4K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.2K :star:  |
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.3K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  400 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  571 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  716 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  594 :star:  |  [openai/codex](https://github.com/openai/codex)  |  21.10K :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  718 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  597 :star:  |  [openai/codex](https://github.com/openai/codex)  |  22K :star:  |
 |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  66.2K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  220 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  168 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  299 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |  [immobiliare/inca](https://github.com/immobiliare/inca)  |  34 :star:  |
 
-<sup><sub>Last updated: May 11, 2025 at 20:20:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 12, 2025 at 00:07:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
