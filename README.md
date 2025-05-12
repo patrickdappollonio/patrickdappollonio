@@ -70,12 +70,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.4K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  400 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  19 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  572 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  721 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  608 :star:  |  [openai/codex](https://github.com/openai/codex)  |  22.1K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  66.4K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  221 :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.1K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  722 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  610 :star:  |  [openai/codex](https://github.com/openai/codex)  |  22.1K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  66.5K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  221 :star:  |
 |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |  [geekforbrains/sidekick-cli](https://github.com/geekforbrains/sidekick-cli)  |  168 :star:  |
 |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.4K :star:  |  [kubernetes-sigs/cloud-provider...](https://github.com/kubernetes-sigs/cloud-provider-kind)  |  300 :star:  |
 |  [dgrr/http2](https://github.com/dgrr/http2)  |  218 :star:  |  [kairoaraujo/goca](https://github.com/kairoaraujo/goca)  |  47 :star:  |
 
-<sup><sub>Last updated: May 12, 2025 at 12:05:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 12, 2025 at 16:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
