@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#3: Add dependabot. Fix pipeline installation.](https://github.com/patrickdappollonio/helm-list-charts/pull/3) | [`helm-list-charts`](https://github.com/patrickdappollonio/helm-list-charts) | $\textcolor{green}{+29}$ $\textcolor{red}{-6}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |------------|-------|------------|-------|
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.6K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.4K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.5K :star:  |
-|  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
+|  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.1K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped)  |  654 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  673 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.6K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |
@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.7K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  403 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  573 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  770 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  645 :star:  |  [openai/codex](https://github.com/openai/codex)  |  22.8K :star:  |
-|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  67.5K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  222 :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  771 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  645 :star:  |  [openai/codex](https://github.com/openai/codex)  |  22.9K :star:  |
+|  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  67.6K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  222 :star:  |
 
-<sup><sub>Last updated: May 17, 2025 at 00:05:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 17, 2025 at 04:05:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
