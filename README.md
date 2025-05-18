@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.8K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  403 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  573 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  787 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  649 :star:  |  [openai/codex](https://github.com/openai/codex)  |  23.5K :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  788 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  648 :star:  |  [openai/codex](https://github.com/openai/codex)  |  23.7K :star:  |
 |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  67.8K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  222 :star:  |
 
-<sup><sub>Last updated: May 18, 2025 at 04:05:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 18, 2025 at 08:06:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
