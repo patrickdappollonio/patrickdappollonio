@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.6K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.3K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.4K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.5K :star:  |
-|  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.1K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
+|  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.2K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped)  |  654 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  675 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.6K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  567 :star:  |
@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  15.8K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  403 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  573 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
-|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  781 :star:  |
-|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  647 :star:  |  [openai/codex](https://github.com/openai/codex)  |  23.3K :star:  |
+|  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.3K :star:  |  [reubeno/brush](https://github.com/reubeno/brush)  |  784 :star:  |
+|  [BersisSe/feather](https://github.com/BersisSe/feather)  |  648 :star:  |  [openai/codex](https://github.com/openai/codex)  |  23.4K :star:  |
 |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  67.7K :star:  |  [Validark/Accelerated-Zig-Parse...](https://github.com/Validark/Accelerated-Zig-Parser)  |  222 :star:  |
 
-<sup><sub>Last updated: May 17, 2025 at 20:21:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 18, 2025 at 00:08:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
