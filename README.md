@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#161: Add docker compose example.](https://github.com/patrickdappollonio/http-server/pull/161) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+19}$ $\textcolor{red}{-0}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.1K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.5K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  17 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  661 :star:  |
-|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  179 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  68.6K :star:  |
+|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  179 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  68.7K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.6K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.6K :star:  |
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.4K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  574 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 22, 2025 at 00:07:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 22, 2025 at 04:06:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
