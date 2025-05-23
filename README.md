@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#161: Add docker compose example.](https://github.com/patrickdappollonio/http-server/pull/161) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+19}$ $\textcolor{red}{-0}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -69,7 +69,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.5K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped)  |  655 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  686 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
-|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.7K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  568 :star:  |
+|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.7K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  569 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.8K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
 |  [voideditor/void](https://github.com/voideditor/void)  |  21.4K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  708 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.5K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.3K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  575 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 22, 2025 at 16:05:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 22, 2025 at 20:19:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
