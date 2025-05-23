@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.1K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.5K :star:  |
-|  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  17 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  662 :star:  |
+|  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  17 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  663 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  179 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  69.1K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.6K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.6K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  575 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 23, 2025 at 12:05:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 23, 2025 at 16:05:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
