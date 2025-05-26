@@ -69,7 +69,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.5K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped)  |  655 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  690 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
-|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.7K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  569 :star:  |
+|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.7K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  570 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.8K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
 |  [voideditor/void](https://github.com/voideditor/void)  |  21.7K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  714 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.4K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  575 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 25, 2025 at 20:20:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 26, 2025 at 00:08:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
