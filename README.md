@@ -70,12 +70,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped)  |  655 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  699 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.8K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  570 :star:  |
-|  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.8K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
+|  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
 |  [voideditor/void](https://github.com/voideditor/void)  |  22.2K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  720 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.5K :star:  |
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.5K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  405 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 28, 2025 at 20:19:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 29, 2025 at 00:07:39 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
