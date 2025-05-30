@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.6K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  20 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  674 :star:  |
-|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  69.9K :star:  |
+|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  69.10K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.9K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.7K :star:  |
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.6K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  700 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.8K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  570 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
-|  [voideditor/void](https://github.com/voideditor/void)  |  22.3K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  721 :star:  |
+|  [voideditor/void](https://github.com/voideditor/void)  |  22.4K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  721 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.5K :star:  |
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.5K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  406 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |  [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)  |  193 :star:  |
 
-<sup><sub>Last updated: May 29, 2025 at 16:05:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 29, 2025 at 20:20:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
