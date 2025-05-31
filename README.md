@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  883 :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
+|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  987 :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.6K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  21 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  675 :star:  |
-|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70K :star:  |
+|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.1K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.9K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.7K :star:  |
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.7K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.6K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  406 :star:  |
 |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |  [reddit/achilles-token-controll...](https://github.com/reddit/achilles-token-controller)  |  10 :star:  |
 
-<sup><sub>Last updated: May 31, 2025 at 00:06:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 31, 2025 at 04:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
