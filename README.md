@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#161: Add docker compose example.](https://github.com/patrickdappollonio/http-server/pull/161) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+19}$ $\textcolor{red}{-0}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [goforj/godump](https://github.com/goforj/godump)  |  571 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  598 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  1.6K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.6K :star:  |
-|  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  21 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  675 :star:  |
+|  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  22 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  675 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.2K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.9K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.7K :star:  |
@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  705 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.9K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  570 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
-|  [voideditor/void](https://github.com/voideditor/void)  |  22.5K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  724 :star:  |
+|  [voideditor/void](https://github.com/voideditor/void)  |  22.6K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  724 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.5K :star:  |
 |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.6K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  406 :star:  |
 
-<sup><sub>Last updated: June 01, 2025 at 08:07:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 01, 2025 at 12:04:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
