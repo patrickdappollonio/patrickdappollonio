@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [goforj/godump](https://github.com/goforj/godump)  |  744 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  752 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  1.9K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.7K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  22 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  675 :star:  |
-|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.3K :star:  |
+|  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  181 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.4K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |  [hashicorp/yamux](https://github.com/hashicorp/yamux)  |  2.4K :star:  |
 |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.9K :star:  |  [opencode-ai/opencode](https://github.com/opencode-ai/opencode)  |  2.8K :star:  |
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.7K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
-|  [vmware/pinniped](https://github.com/vmware/pinniped)  |  658 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
+|  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  705 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.9K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  570 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.5K :star:  |
-|  [voideditor/void](https://github.com/voideditor/void)  |  22.7K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  727 :star:  |
+|  [voideditor/void](https://github.com/voideditor/void)  |  22.8K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  728 :star:  |
 |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |  [lapce/lapce](https://github.com/lapce/lapce)  |  36.5K :star:  |
-|  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.7K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  411 :star:  |
+|  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.7K :star:  |  [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap)  |  414 :star:  |
 
-<sup><sub>Last updated: June 03, 2025 at 04:06:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 03, 2025 at 08:07:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
