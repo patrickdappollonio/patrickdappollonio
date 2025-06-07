@@ -61,9 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  170 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  167 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.8K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  856 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
-|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.1K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  858 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.2K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.8K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  182 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.7K :star:  |
@@ -72,10 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.8K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |  [valyala/fasthttp](https://github.com/valyala/fasthttp)  |  22.6K :star:  |
 |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  707 :star:  |  [valyala/quicktemplate](https://github.com/valyala/quicktemplate)  |  3.2K :star:  |
-|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.9K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  571 :star:  |
+|  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.10K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  571 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |  [facet-rs/facet](https://github.com/facet-rs/facet)  |  1.7K :star:  |
-|  [voideditor/void](https://github.com/voideditor/void)  |  23.1K :star:  |  [pamburus/hl](https://github.com/pamburus/hl)  |  736 :star:  |
-|  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |    |    |
+|  [voideditor/void](https://github.com/voideditor/void)  |  23.2K :star:  |    |    |
 
-<sup><sub>Last updated: June 07, 2025 at 00:06:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 07, 2025 at 04:05:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
