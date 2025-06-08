@@ -64,10 +64,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  989 :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  707 :star:  |
 |  [outline/outline](https://github.com/outline/outline)  |  32.4K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.10K :star:  |
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  28.10K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
-|  [langgenius/dify](https://github.com/langgenius/dify)  |  102.1K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.2K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  227 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
+|  [langgenius/dify](https://github.com/langgenius/dify)  |  102.2K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.3K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  232 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  167 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.8K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  868 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  870 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.3K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.8K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.8K :star:  |  [dgrr/http2](https://github.com/dgrr/http2)  |  219 :star:  |
 |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |    |    |
 
-<sup><sub>Last updated: June 08, 2025 at 12:05:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 08, 2025 at 16:04:40 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
