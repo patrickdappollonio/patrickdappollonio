@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [langgenius/dify](https://github.com/langgenius/dify)  |  101.8K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.2K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  204 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
+|  [langgenius/dify](https://github.com/langgenius/dify)  |  101.9K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.2K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  208 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  167 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.8K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  864 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  865 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.2K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.8K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.10K :star:  |  [fasthttp/websocket](https://github.com/fasthttp/websocket)  |  572 :star:  |
 |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |    |    |
 
-<sup><sub>Last updated: June 07, 2025 at 16:04:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 07, 2025 at 20:22:34 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
