@@ -70,12 +70,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  102.5K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.4K :star:  |
 |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  255 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  167 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.8K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  874 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
-|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.4K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  875 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.5K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.8K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  183 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.8K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |    |    |
 
-<sup><sub>Last updated: June 09, 2025 at 20:20:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 10, 2025 at 00:10:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
