@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#161: Add docker compose example.](https://github.com/patrickdappollonio/http-server/pull/161) | [`http-server`](https://github.com/patrickdappollonio/http-server) | $\textcolor{green}{+19}$ $\textcolor{red}{-0}$ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -68,14 +68,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [outline/outline](https://github.com/outline/outline)  |  32.4K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  24.10K :star:  |
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  102.6K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.4K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  256 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  257 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  168 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.8K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  876 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  877 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.5K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |  [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)  |  1.8K :star:  |
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  183 :star:  |  [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  |  70.8K :star:  |
 |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |    |    |
 
-<sup><sub>Last updated: June 10, 2025 at 04:06:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 10, 2025 at 08:08:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
