@@ -114,8 +114,12 @@ func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
 		return "", fmt.Errorf("PR information not updated")
 	}
 
-	format := `$\textcolor{green}{+%s}$ $\textcolor{red}{-%s}$`
-	return template.HTML(fmt.Sprintf(format, formatNumber(p.Additions), formatNumber(p.Deletions))), nil
+	imageURL := fmt.Sprintf("https://diff-counter.patrickdap.dev/?add=%d&del=%d&height=19", p.Additions, p.Deletions)
+
+	return template.HTML(fmt.Sprintf(
+		`<picture><source media="(prefers-color-scheme: dark)" srcset="%s"><source media="(prefers-color-scheme: light)" srcset="%s"><img src="%s" alt="+%s -%s"></picture>`,
+		imageURL, imageURL, imageURL, formatNumber(p.Additions), formatNumber(p.Deletions),
+	)), nil
 }
 
 var reExtractProject = regexp.MustCompile(`^https:\/\/api\.github\.com\/repos\/([^\/]+)\/.+$`)
