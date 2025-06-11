@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [apple/container](https://github.com/apple/container)  |  5.8K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
+|  [apple/container](https://github.com/apple/container)  |  6.2K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.4K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  1.10K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.6K :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.8K :star:  |
 |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
@@ -69,7 +69,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [outline/outline](https://github.com/outline/outline)  |  32.4K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25K :star:  |
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  102.7K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.4K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  259 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  261 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.6K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  168 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.9K :star:  |
 |  [goforj/godump](https://github.com/goforj/godump)  |  879 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.5K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  23 :star:  |  [BersisSe/feather](https://github.com/BersisSe/feather)  |  680 :star:  |
 |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  183 :star:  |    |    |
 
-<sup><sub>Last updated: June 10, 2025 at 16:05:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 10, 2025 at 20:20:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
