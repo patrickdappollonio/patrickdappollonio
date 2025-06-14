@@ -61,9 +61,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  7.10K :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  869 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  184 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  13.1K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
+|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8K :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  874 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  184 :star:  |
+|  [apple/container](https://github.com/apple/container)  |  13.2K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.7K :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
 |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |    |    |
 
-<sup><sub>Last updated: June 14, 2025 at 12:04:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 14, 2025 at 16:04:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
