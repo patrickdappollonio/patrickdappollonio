@@ -62,8 +62,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.1K :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  887 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  13.8K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  888 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
+|  [apple/container](https://github.com/apple/container)  |  13.9K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.8K :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
 |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [outline/outline](https://github.com/outline/outline)  |  32.5K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.1K :star:  |
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.1K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  103.4K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.7K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  280 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  281 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.10K :star:  |
 |  [goforj/godump](https://github.com/goforj/godump)  |  894 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |    |    |
 
-<sup><sub>Last updated: June 16, 2025 at 00:12:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 16, 2025 at 04:06:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
