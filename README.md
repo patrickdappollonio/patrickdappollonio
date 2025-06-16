@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#181: Add Github-style admonitions.](https://github.com/patrickdappollonio/http-server/pull/181) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18" alt="+278 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -62,8 +62,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.1K :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  883 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  13.6K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  886 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
+|  [apple/container](https://github.com/apple/container)  |  13.7K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.8K :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
 |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
@@ -73,9 +73,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  103.3K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.7K :star:  |
 |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  279 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.10K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  892 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  893 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
 |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
 |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |    |    |
 
-<sup><sub>Last updated: June 15, 2025 at 16:04:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 15, 2025 at 20:21:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
