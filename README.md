@@ -61,20 +61,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [czhu12/canine](https://github.com/czhu12/canine)  |  1K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  897 :star:  |
+|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.2K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  899 :star:  |
 |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |
-|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.2K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  894 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  14.3K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
+|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.3K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  895 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
+|  [apple/container](https://github.com/apple/container)  |  14.5K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  186 :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.8K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
 |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
 |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1K :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
 |  [outline/outline](https://github.com/outline/outline)  |  32.5K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  719 :star:  |
-|  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.1K :star:  |
+|  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.2K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  103.6K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  284 :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.8K :star:  |
 |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
 
-<sup><sub>Last updated: June 17, 2025 at 04:06:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 17, 2025 at 12:05:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
