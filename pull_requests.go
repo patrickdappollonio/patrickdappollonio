@@ -114,7 +114,7 @@ func (p *PullRequest) GetPRMetrics() (template.HTML, error) {
 		return "", fmt.Errorf("PR information not updated")
 	}
 
-	imageURL := fmt.Sprintf("https://diff-counter.patrickdap.dev/?add=%d&del=%d&height=18", p.Additions, p.Deletions)
+	imageURL := fmt.Sprintf("https://diff-counter.patrickdap.dev/?add=%d&del=%d&height=17", p.Additions, p.Deletions)
 
 	return template.HTML(fmt.Sprintf(
 		`<picture><source media="(prefers-color-scheme: dark)" srcset="%s"><source media="(prefers-color-scheme: light)" srcset="%s"><img src="%s" alt="+%s -%s"></picture>`,
