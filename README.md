@@ -61,7 +61,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.2K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  899 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  358 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |
+|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.3K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  900 :star:  |
 |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |
 |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.3K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |
 |  [f/mcptools](https://github.com/f/mcptools)  |  895 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
@@ -74,7 +75,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.2K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  103.6K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  284 :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.8K :star:  |
-|  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
 
-<sup><sub>Last updated: June 17, 2025 at 12:05:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 17, 2025 at 16:05:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
