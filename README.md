@@ -61,21 +61,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.2K :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  890 :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  14.1K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
-|  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
-|  [kanbn/kan](https://github.com/kanbn/kan)  |  2.8K :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
-|  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
-|  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  719 :star:  |
-|  [outline/outline](https://github.com/outline/outline)  |  32.5K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.1K :star:  |
-|  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.1K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
-|  [langgenius/dify](https://github.com/langgenius/dify)  |  103.5K :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.8K :star:  |
-|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  284 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
-|  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.10K :star:  |
-|  [goforj/godump](https://github.com/goforj/godump)  |  897 :star:  |  [snorwin/jsonpatch](https://github.com/snorwin/jsonpatch)  |  20 :star:  |
-|  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |  [wI2L/jsondiff](https://github.com/wI2L/jsondiff)  |  577 :star:  |
-|  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |    |    |
+|  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.6K :star:  |
+|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.2K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.2K :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  890 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
+|  [apple/container](https://github.com/apple/container)  |  14.2K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  185 :star:  |
+|  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.5K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
+|  [kanbn/kan](https://github.com/kanbn/kan)  |  2.8K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
+|  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
+|  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1K :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  659 :star:  |
+|  [outline/outline](https://github.com/outline/outline)  |  32.5K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  719 :star:  |
+|  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.1K :star:  |
+|  [langgenius/dify](https://github.com/langgenius/dify)  |  103.5K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
+|  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  284 :star:  |  [voideditor/void](https://github.com/voideditor/void)  |  23.8K :star:  |
+|  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  170 :star:  |  [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)  |  3.7K :star:  |
+|  [goforj/godump](https://github.com/goforj/godump)  |  897 :star:  |  [nari-labs/dia](https://github.com/nari-labs/dia)  |  16.10K :star:  |
 
-<sup><sub>Last updated: June 16, 2025 at 16:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 16, 2025 at 20:20:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
