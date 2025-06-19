@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#181: Add Github-style admonitions.](https://github.com/patrickdappollonio/http-server/pull/181) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18" alt="+278 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [anistark/feluda](https://github.com/anistark/feluda)  |  350 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  286 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  372 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
+|  [anistark/feluda](https://github.com/anistark/feluda)  |  351 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  286 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  375 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
 |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.5K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  904 :star:  |
 |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.7K :star:  |
 |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.5K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.3K :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  900 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
+|  [f/mcptools](https://github.com/f/mcptools)  |  901 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  27 :star:  |
 |  [apple/container](https://github.com/apple/container)  |  14.8K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  186 :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
 |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.9K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2K :star:  |
@@ -76,5 +76,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.2K :star:  |
 |  [langgenius/dify](https://github.com/langgenius/dify)  |  103.8K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 
-<sup><sub>Last updated: June 19, 2025 at 00:09:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 19, 2025 at 04:06:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
