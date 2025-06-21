@@ -61,11 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.1K :star:  |
 |  [anistark/feluda](https://github.com/anistark/feluda)  |  369 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  287 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  396 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  399 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
 |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.6K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  1K :star:  |
 |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.7K :star:  |
-|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.5K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.3K :star:  |
+|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.6K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.3K :star:  |
 |  [f/mcptools](https://github.com/f/mcptools)  |  911 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  28 :star:  |
 |  [apple/container](https://github.com/apple/container)  |  15.2K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  187 :star:  |
 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
@@ -74,7 +75,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  658 :star:  |
 |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  721 :star:  |
 |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.2K :star:  |  [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)  |  25.3K :star:  |
-|  [langgenius/dify](https://github.com/langgenius/dify)  |  104.1K :star:  |  [projectcapsule/capsule](https://github.com/projectcapsule/capsule)  |  1.9K :star:  |
 
-<sup><sub>Last updated: June 21, 2025 at 00:07:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 21, 2025 at 04:05:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
