@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#181: Add Github-style admonitions.](https://github.com/patrickdappollonio/http-server/pull/181) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18" alt="+278 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  552 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
+|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  556 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.2K :star:  |
-|  [anistark/feluda](https://github.com/anistark/feluda)  |  377 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  288 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  410 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
-|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.7K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  1.1K :star:  |
+|  [anistark/feluda](https://github.com/anistark/feluda)  |  378 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  288 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  413 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
+|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.7K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  1.2K :star:  |
 |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.7K :star:  |
 |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.6K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.3K :star:  |
 |  [f/mcptools](https://github.com/f/mcptools)  |  912 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  28 :star:  |
@@ -76,5 +76,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  658 :star:  |
 |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  721 :star:  |
 
-<sup><sub>Last updated: June 22, 2025 at 08:06:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 22, 2025 at 12:04:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
