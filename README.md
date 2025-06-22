@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  525 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
+|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  536 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.1K :star:  |
 |  [anistark/feluda](https://github.com/anistark/feluda)  |  371 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  287 :star:  |
 |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  403 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
@@ -76,5 +76,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |  [vmware/pinniped](https://github.com/vmware/pinniped)  |  658 :star:  |
 |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |  [aiaf/Stillcolor](https://github.com/aiaf/Stillcolor)  |  721 :star:  |
 
-<sup><sub>Last updated: June 21, 2025 at 20:22:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 22, 2025 at 00:12:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
