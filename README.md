@@ -61,20 +61,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  28.1K :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
+|  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.4K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.6K :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  25 :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  915 :star:  |
+|  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  2 :star:  |  [apple/container](https://github.com/apple/container)  |  15.5K :star:  |
+|  [microsoft/edit](https://github.com/microsoft/edit)  |  9.3K :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |
+|  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.10K :star:  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  56.6K :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
 |  [danirod/cartero](https://github.com/danirod/cartero)  |  702 :star:  |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.1K :star:  |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |
-|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  566 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
+|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  567 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.3K :star:  |
 |  [anistark/feluda](https://github.com/anistark/feluda)  |  378 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  288 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  442 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  463 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
 |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.7K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  1.2K :star:  |
-|  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |  [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)  |  2.7K :star:  |
-|  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.6K :star:  |  [benbjohnson/litestream](https://github.com/benbjohnson/litestream)  |  12.3K :star:  |
-|  [f/mcptools](https://github.com/f/mcptools)  |  915 :star:  |  [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server)  |  29 :star:  |
-|  [apple/container](https://github.com/apple/container)  |  15.4K :star:  |  [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)  |  187 :star:  |
-|  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |  [aptly-dev/aptly](https://github.com/aptly-dev/aptly)  |  2.7K :star:  |
-|  [kanbn/kan](https://github.com/kanbn/kan)  |  2.10K :star:  |  [HelixDB/helix-db](https://github.com/HelixDB/helix-db)  |  2.1K :star:  |
-|  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |  [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  |  7.9K :star:  |
 
-<sup><sub>Last updated: June 23, 2025 at 08:07:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 23, 2025 at 12:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
