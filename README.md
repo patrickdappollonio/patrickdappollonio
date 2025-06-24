@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#181: Add Github-style admonitions.](https://github.com/patrickdappollonio/http-server/pull/181) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=278&del=0&height=18" alt="+278 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,20 +61,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  190 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.7K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  28.1K :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.4K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.7K :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  27 :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  921 :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  27 :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  922 :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  2 :star:  |  [apple/container](https://github.com/apple/container)  |  15.5K :star:  |
-|  [microsoft/edit](https://github.com/microsoft/edit)  |  9.5K :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |
-|  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  2.10K :star:  |
-|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  56.7K :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
+|  [microsoft/edit](https://github.com/microsoft/edit)  |  9.6K :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.6K :star:  |
+|  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3K :star:  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  56.8K :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
 |  [danirod/cartero](https://github.com/danirod/cartero)  |  703 :star:  |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.1K :star:  |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |
 |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  571 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.4K :star:  |
-|  [anistark/feluda](https://github.com/anistark/feluda)  |  378 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  288 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  527 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
-|  [czhu12/canine](https://github.com/czhu12/canine)  |  1.7K :star:  |  [goforj/godump](https://github.com/goforj/godump)  |  1.2K :star:  |
+|  [anistark/feluda](https://github.com/anistark/feluda)  |  378 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  292 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  549 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  171 :star:  |
 
-<sup><sub>Last updated: June 24, 2025 at 00:10:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 24, 2025 at 04:06:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
