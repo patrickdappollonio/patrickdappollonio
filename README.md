@@ -61,20 +61,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  218 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
-|  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  28.5K :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
+|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  219 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
+|  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  28.6K :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.6K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.7K :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  29 :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  937 :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  29 :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  938 :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  2 :star:  |  [apple/container](https://github.com/apple/container)  |  15.7K :star:  |
-|  [microsoft/edit](https://github.com/microsoft/edit)  |  10.4K :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.7K :star:  |
+|  [microsoft/edit](https://github.com/microsoft/edit)  |  10.5K :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.7K :star:  |
 |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3K :star:  |
-|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  57.5K :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  57.6K :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
 |  [danirod/cartero](https://github.com/danirod/cartero)  |  706 :star:  |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.1K :star:  |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |
 |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  579 :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.3K :star:  |
-|  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.6K :star:  |
-|  [anistark/feluda](https://github.com/anistark/feluda)  |  381 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  298 :star:  |
-|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  658 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  172 :star:  |
+|  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.7K :star:  |
+|  [anistark/feluda](https://github.com/anistark/feluda)  |  382 :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  298 :star:  |
+|  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  660 :star:  |  [ovechkin-dm/mockio](https://github.com/ovechkin-dm/mockio)  |  172 :star:  |
 
-<sup><sub>Last updated: June 25, 2025 at 20:20:34 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 26, 2025 at 00:10:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
