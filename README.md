@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  380 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  680 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  383 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  682 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  230 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.1K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.8K :star:  |
-|  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.9K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  949 :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  32 :star:  |  [apple/container](https://github.com/apple/container)  |  15.9K :star:  |
+|  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.9K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  950 :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  32 :star:  |  [apple/container](https://github.com/apple/container)  |  15.10K :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  2 :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.7K :star:  |
-|  [microsoft/edit](https://github.com/microsoft/edit)  |  10.9K :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3.1K :star:  |
+|  [microsoft/edit](https://github.com/microsoft/edit)  |  10.10K :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3.1K :star:  |
 |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
-|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  58.3K :star:  |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  58.4K :star:  |  [mark3labs/mcphost](https://github.com/mark3labs/mcphost)  |  1.1K :star:  |
 |  [danirod/cartero](https://github.com/danirod/cartero)  |  707 :star:  |  [outline/outline](https://github.com/outline/outline)  |  32.6K :star:  |
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.2K :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.4K :star:  |
-|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  581 :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  104.10K :star:  |
+|  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  581 :star:  |  [langgenius/dify](https://github.com/langgenius/dify)  |  105K :star:  |
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  303 :star:  |
 |  [anistark/feluda](https://github.com/anistark/feluda)  |  385 :star:  |    |    |
 
-<sup><sub>Last updated: June 28, 2025 at 12:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 28, 2025 at 16:04:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
