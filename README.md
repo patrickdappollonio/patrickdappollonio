@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#2: Update to use new render all markdown. Add...](https://github.com/patrickdappollonio/http-server-testing-page/pull/2) | [`http-server-testing-page`](https://github.com/patrickdappollonio/http-server-testing-page) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18" alt="+48 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -62,10 +62,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.4K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
-|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  386 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  390 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  692 :star:  |
+|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  388 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  392 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  694 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
-|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  234 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
+|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  235 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.1K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.9K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.10K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  959 :star:  |
 |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  34 :star:  |  [apple/container](https://github.com/apple/container)  |  16.1K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.2K :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.4K :star:  |
 |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  583 :star:  |    |    |
 
-<sup><sub>Last updated: June 30, 2025 at 08:08:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 30, 2025 at 12:05:38 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
