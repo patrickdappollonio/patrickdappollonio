@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  390 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  685 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  390 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  686 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
-|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  232 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
+|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  233 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.1K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.9K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  2.10K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  956 :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  33 :star:  |  [apple/container](https://github.com/apple/container)  |  16K :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  33 :star:  |  [apple/container](https://github.com/apple/container)  |  16.1K :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.7K :star:  |
 |  [microsoft/edit](https://github.com/microsoft/edit)  |  11K :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3.1K :star:  |
 |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |  [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)  |  303 :star:  |
 |  [anistark/feluda](https://github.com/anistark/feluda)  |  385 :star:  |    |    |
 
-<sup><sub>Last updated: June 29, 2025 at 16:04:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 29, 2025 at 20:22:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
