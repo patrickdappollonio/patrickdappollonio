@@ -63,10 +63,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.4K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
 |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  390 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  394 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  700 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  398 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  704 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.8K :star:  |
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  235 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
-|  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.1K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.9K :star:  |
+|  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.2K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.9K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.1K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  960 :star:  |
 |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  34 :star:  |  [apple/container](https://github.com/apple/container)  |  16.2K :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.8K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.2K :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.5K :star:  |
 |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  584 :star:  |    |    |
 
-<sup><sub>Last updated: July 01, 2025 at 08:08:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 01, 2025 at 12:05:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
