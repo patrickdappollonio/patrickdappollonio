@@ -68,7 +68,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  235 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.2K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  8.10K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.1K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  960 :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  34 :star:  |  [apple/container](https://github.com/apple/container)  |  16.3K :star:  |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  37 :star:  |  [apple/container](https://github.com/apple/container)  |  16.3K :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.8K :star:  |
 |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.2K :star:  |  [kanbn/kan](https://github.com/kanbn/kan)  |  3.1K :star:  |
 |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |  [achetronic/cachito](https://github.com/achetronic/cachito)  |  3 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [exelban/stats](https://github.com/exelban/stats)  |  32.2K :star:  |  [juanfont/headscale](https://github.com/juanfont/headscale)  |  29.5K :star:  |
 |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  584 :star:  |    |    |
 
-<sup><sub>Last updated: July 01, 2025 at 16:05:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 01, 2025 at 20:20:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
