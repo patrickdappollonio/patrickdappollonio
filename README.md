@@ -65,17 +65,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.1K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  59.3K :star:  |
 |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  707 :star:  |
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.8K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.3K :star:  |
-|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  316 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  584 :star:  |
+|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  319 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  584 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.4K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
-|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  392 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  401 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  720 :star:  |
-|  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.9K :star:  |
-|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  236 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
+|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  393 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  402 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  721 :star:  |
+|  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  799 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.9K :star:  |
+|  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  237 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.2K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  9.1K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.2K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  967 :star:  |
 |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  40 :star:  |  [apple/container](https://github.com/apple/container)  |  16.4K :star:  |
 |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |  [chroma-core/chroma](https://github.com/chroma-core/chroma)  |  20.8K :star:  |
 |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.2K :star:  |    |    |
 
-<sup><sub>Last updated: July 03, 2025 at 04:06:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 03, 2025 at 08:08:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
