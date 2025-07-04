@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#2: Update to use new render all markdown. Add...](https://github.com/patrickdappollonio/http-server-testing-page/pull/2) | [`http-server-testing-page`](https://github.com/patrickdappollonio/http-server-testing-page) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=48&del=1&height=18" alt="+48 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,8 +61,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  2.5K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
-|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  1.9K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.3K :star:  |
+|  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  2.6K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
+|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  1.10K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.3K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.2K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  59.6K :star:  |
 |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  707 :star:  |
@@ -70,12 +70,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  322 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  586 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.4K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
 |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  394 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  404 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  735 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  404 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  736 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  799 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.9K :star:  |
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  238 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.2K :star:  |  [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)  |  9.1K :star:  |
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.2K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  971 :star:  |
-|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  41 :star:  |    |    |
+|  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  43 :star:  |    |    |
 
-<sup><sub>Last updated: July 04, 2025 at 08:07:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 04, 2025 at 12:05:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
