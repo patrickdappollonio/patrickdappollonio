@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#185: Add custom output formats.](https://github.com/patrickdappollonio/http-server/pull/185) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1036&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1036&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1036&del=0&height=18" alt="+1,036 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -67,7 +67,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.3K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  59.7K :star:  |
 |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  707 :star:  |
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.8K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.3K :star:  |
-|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  323 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  586 :star:  |
+|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  325 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  586 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.4K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
 |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  394 :star:  |
 |  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  404 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  736 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |  [f/mcptools](https://github.com/f/mcptools)  |  972 :star:  |
 |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  43 :star:  |    |    |
 
-<sup><sub>Last updated: July 04, 2025 at 20:19:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 05, 2025 at 00:07:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
