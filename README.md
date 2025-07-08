@@ -61,8 +61,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.1K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
-|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  4.4K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
+|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.2K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
+|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  4.6K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
 |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3.1K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
 |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  3.7K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.5K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.8K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.3K :star:  |
 |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  337 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  587 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.5K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
-|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  395 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  413 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  764 :star:  |
+|  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  396 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  413 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  766 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  799 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.10K :star:  |
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  242 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.4K :star:  |    |    |
 
-<sup><sub>Last updated: July 08, 2025 at 04:06:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 08, 2025 at 08:08:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
