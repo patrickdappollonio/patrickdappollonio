@@ -39,7 +39,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#188: Fix extension selection.](https://github.com/patrickdappollonio/http-server/pull/188) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=255&del=111&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=255&del=111&height=18"><img src="https://diff-counter.patrickdap.dev/?add=255&del=111&height=18" alt="+255 -111"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,21 +61,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  24.8K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
-|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  3.6K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
+|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  24.9K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
+|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  3.7K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
 |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
 |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  3.6K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.5K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
-|  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.5K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  60.1K :star:  |
+|  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.5K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  60.2K :star:  |
 |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  716 :star:  |
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.8K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.3K :star:  |
-|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  336 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  587 :star:  |
+|  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  337 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  587 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.5K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
 |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |  [anistark/feluda](https://github.com/anistark/feluda)  |  395 :star:  |
-|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  412 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  759 :star:  |
+|  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  413 :star:  |  [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)  |  762 :star:  |
 |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  799 :star:  |  [czhu12/canine](https://github.com/czhu12/canine)  |  1.10K :star:  |
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  242 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.3K :star:  |    |    |
 
-<sup><sub>Last updated: July 07, 2025 at 16:05:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 07, 2025 at 20:20:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
