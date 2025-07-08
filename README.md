@@ -61,13 +61,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  24.9K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
-|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  3.7K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
-|  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
-|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  3.6K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.5K :star:  |
+|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.3K :star:  |
+|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  4.1K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  46 :star:  |
+|  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3.1K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
+|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  3.7K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.5K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.5K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  60.2K :star:  |
-|  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  716 :star:  |
+|  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  717 :star:  |
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.8K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.3K :star:  |
 |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  337 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  587 :star:  |
 |  [apple/containerization](https://github.com/apple/containerization)  |  7.5K :star:  |  [Shopify/go-lua](https://github.com/Shopify/go-lua)  |  3.3K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  242 :star:  |  [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)  |  4.9K :star:  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.3K :star:  |    |    |
 
-<sup><sub>Last updated: July 07, 2025 at 20:20:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 08, 2025 at 00:11:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
