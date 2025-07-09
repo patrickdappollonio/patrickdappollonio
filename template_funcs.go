@@ -236,6 +236,3 @@ func reverse(s string) string {
 	}
 	return string(r)
 }
-
-// Legacy variable for backward compatibility
-var fncs = TemplateFunctions()
