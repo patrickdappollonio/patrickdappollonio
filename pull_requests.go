@@ -15,6 +15,7 @@ type PullRequestResponse struct {
 	Items      []PullRequest `json:"items"`
 }
 
+// PullRequest represents a GitHub pull request
 type PullRequest struct {
 	URL              string    `json:"html_url"`
 	RepositoryAPIURL string    `json:"repository_url"`
@@ -38,6 +39,36 @@ type PullRequest struct {
 	Deletions         int `json:"deletions"`
 	ChangedFiles      int `json:"changed_files"`
 	updatedCommitInfo bool
+}
+
+// IsValid checks if the pull request has valid data
+func (p *PullRequest) IsValid() bool {
+	return p.URL != "" && p.RepositoryAPIURL != "" && p.ID > 0 && p.Title != ""
+}
+
+// Validate validates the pull request data
+func (p *PullRequest) Validate() error {
+	if p.URL == "" {
+		return fmt.Errorf("pull request URL cannot be empty")
+	}
+
+	if p.RepositoryAPIURL == "" {
+		return fmt.Errorf("repository API URL cannot be empty")
+	}
+
+	if p.ID <= 0 {
+		return fmt.Errorf("pull request ID must be positive")
+	}
+
+	if p.Title == "" {
+		return fmt.Errorf("pull request title cannot be empty")
+	}
+
+	if p.State == "" {
+		return fmt.Errorf("pull request state cannot be empty")
+	}
+
+	return nil
 }
 
 const imageTemplate = `<picture><source media="(prefers-color-scheme: dark)" srcset="LOCATION" width="SIZE" height="SIZE"><source media="(prefers-color-scheme: light)" srcset="LOCATION" width="SIZE" height="SIZE"><img src="LOCATION" width="SIZE" height="SIZE" alt="STATUS"></picture> STATUS`
@@ -134,7 +165,7 @@ func (p *PullRequest) ContributedToOrg() string {
 	return res[1]
 }
 
-func getPullRequests(ctx context.Context, token, username string, maxItems, maxOrgs int) ([]PullRequest, []string, error) {
+func getPullRequests(ctx context.Context, client *GitHubAPIClient, username string, maxItems, maxOrgs int) ([]PullRequest, []string, error) {
 	u, _ := url.Parse("https://api.github.com/search/issues")
 
 	vals := url.Values{}
@@ -143,7 +174,7 @@ func getPullRequests(ctx context.Context, token, username string, maxItems, maxO
 	u.RawQuery = vals.Encode()
 
 	var prs PullRequestResponse
-	if err := doGet(ctx, &prs, token, u.String()); err != nil {
+	if err := client.Get(ctx, &prs, u.String()); err != nil {
 		return nil, nil, fmt.Errorf("failed to get pull requests for user %q: %w", username, err)
 	}
 
@@ -152,7 +183,7 @@ func getPullRequests(ctx context.Context, token, username string, maxItems, maxO
 
 	for _, pr := range prs.Items {
 		if len(limited) < maxItems {
-			if err := updatePRInformation(ctx, token, &pr); err != nil {
+			if err := updatePRInformation(ctx, client, &pr); err != nil {
 				return nil, nil, fmt.Errorf("failed to update PR information for PR %s: %w", pr.URL, err)
 			}
 
@@ -177,9 +208,9 @@ func getPullRequests(ctx context.Context, token, username string, maxItems, maxO
 	return limited, repos, nil
 }
 
-func updatePRInformation(ctx context.Context, token string, pr *PullRequest) error {
+func updatePRInformation(ctx context.Context, client *GitHubAPIClient, pr *PullRequest) error {
 	var updated PullRequest
-	if err := doGet(ctx, &updated, token, pr.PullRequest.APIURL); err != nil {
+	if err := client.Get(ctx, &updated, pr.PullRequest.APIURL); err != nil {
 		return fmt.Errorf("failed to get PR information for PR %s: %w", pr.PullRequest.APIURL, err)
 	}
 

@@ -56,6 +56,7 @@ func TestDoGet(t *testing.T) {
 					t.Fatalf("wanted URL to be %q, got %q", tt.url, r.URL.Path)
 				}
 
+				w.Header().Set("Content-Type", "application/json")
 				w.WriteHeader(tt.responseStatus)
 				if err := json.NewEncoder(w).Encode(tt.responseBody); err != nil {
 					http.Error(w, err.Error(), http.StatusInternalServerError)

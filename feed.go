@@ -22,12 +22,41 @@ func (p Articles) Take(start, limit int) Articles {
 	return p[start:end]
 }
 
+// Article represents a blog article from RSS feed
 type Article struct {
 	Title string `xml:"title"`
 	Link  string `xml:"link"`
 	Date  string `xml:"pubDate"`
 }
 
+// IsValid checks if the article has valid data
+func (a *Article) IsValid() bool {
+	return a.Title != "" && a.Link != "" && a.Date != ""
+}
+
+// Validate validates the article data
+func (a *Article) Validate() error {
+	if a.Title == "" {
+		return fmt.Errorf("article title cannot be empty")
+	}
+
+	if a.Link == "" {
+		return fmt.Errorf("article link cannot be empty")
+	}
+
+	if a.Date == "" {
+		return fmt.Errorf("article date cannot be empty")
+	}
+
+	// Validate that the date can be parsed
+	if _, err := a.GoDate(); err != nil {
+		return fmt.Errorf("invalid article date format: %w", err)
+	}
+
+	return nil
+}
+
+// GoDate converts the article date string to a Go time.Time
 func (a *Article) GoDate() (time.Time, error) {
 	return time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", a.Date)
 }
