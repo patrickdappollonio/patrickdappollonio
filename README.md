@@ -68,14 +68,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  244 :star:  |
 |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  14 :star:  |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.4K :star:  |
 |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.6K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.4K :star:  |
-|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.2K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  47 :star:  |
+|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.3K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  47 :star:  |
 |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3.5K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  3 :star:  |
 |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  3.10K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.6K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
-|  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.8K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  60.9K :star:  |
+|  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.8K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  60.10K :star:  |
 |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |  [danirod/cartero](https://github.com/danirod/cartero)  |  719 :star:  |
 |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.9K :star:  |  [exelban/stats](https://github.com/exelban/stats)  |  32.4K :star:  |
 |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  340 :star:  |  [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass)  |  588 :star:  |
 
-<sup><sub>Last updated: July 10, 2025 at 12:05:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 10, 2025 at 16:05:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
