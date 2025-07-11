@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  603 :star:  |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |
 |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.9K :star:  |
-|  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  174 :star:  |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  340 :star:  |
+|  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  175 :star:  |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  340 :star:  |
 |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |  [apple/containerization](https://github.com/apple/containerization)  |  7.5K :star:  |
 |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |
 |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.2K :star:  |  [0xfurai/peekaping](https://github.com/0xfurai/peekaping)  |  411 :star:  |
@@ -71,11 +71,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  245 :star:  |
 |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  15 :star:  |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  |  29.5K :star:  |
 |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.6K :star:  |  [psviderski/unregistry](https://github.com/psviderski/unregistry)  |  3.4K :star:  |
-|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.5K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  48 :star:  |
+|  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.5K :star:  |  [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules)  |  49 :star:  |
 |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3.6K :star:  |  [BretFisher/dmr-ollama-haproxy](https://github.com/BretFisher/dmr-ollama-haproxy)  |  4 :star:  |
-|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.6K :star:  |
+|  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.1K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.6K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |  [yorukot/auto-clicker](https://github.com/yorukot/auto-clicker)  |  3 :star:  |
 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.8K :star:  |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)  |  61.1K :star:  |
 
-<sup><sub>Last updated: July 11, 2025 at 08:07:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 11, 2025 at 12:05:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
