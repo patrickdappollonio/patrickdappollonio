@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  2.8K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.9K :star:  |
+|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  2.10K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.9K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  604 :star:  |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |
 |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.9K :star:  |
 |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  175 :star:  |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  340 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.2K :star:  |  [microsoft/edit](https://github.com/microsoft/edit)  |  11.7K :star:  |
 |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |    |    |
 
-<sup><sub>Last updated: July 13, 2025 at 16:04:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 13, 2025 at 20:22:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
