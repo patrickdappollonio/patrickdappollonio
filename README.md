@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [go-goe/goe](https://github.com/go-goe/goe)  |  87 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.9K :star:  |
+|  [go-goe/goe](https://github.com/go-goe/goe)  |  88 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.9K :star:  |
 |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  729 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.8K :star:  |
 |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  3.9K :star:  |
-|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  30 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.3K :star:  |
+|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  33 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.3K :star:  |
 |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |
-|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  4.1K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.10K :star:  |
+|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  4.2K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  42.10K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  606 :star:  |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.8K :star:  |
 |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  2.9K :star:  |
 |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  175 :star:  |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  340 :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |  [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq)  |  246 :star:  |
 |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |    |    |
 
-<sup><sub>Last updated: July 14, 2025 at 20:21:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 15, 2025 at 00:17:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
