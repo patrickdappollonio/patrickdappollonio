@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  236 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
+|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  238 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  91 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  25.9K :star:  |
 |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  734 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  7.9K :star:  |
-|  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  4K :star:  |
-|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  43 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.4K :star:  |
+|  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  4.1K :star:  |
+|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  64 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.4K :star:  |
 |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |
 |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  5.1K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  43K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  606 :star:  |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.9K :star:  |
@@ -77,5 +77,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |  [modern-go/reflect2](https://github.com/modern-go/reflect2)  |  798 :star:  |
 |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |    |    |
 
-<sup><sub>Last updated: July 16, 2025 at 12:05:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 16, 2025 at 16:05:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
