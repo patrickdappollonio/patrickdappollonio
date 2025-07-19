@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  45.6K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
+|  [danicat/godoctor](https://github.com/danicat/godoctor)  |  5 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.6K :star:  |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |
 |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  63 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
-|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  287 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
+|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  290 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  91 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26K :star:  |
-|  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  743 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  8K :star:  |
+|  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  743 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  8.1K :star:  |
 |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  4.3K :star:  |
-|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  138 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.5K :star:  |
+|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  139 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.5K :star:  |
 |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |
-|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  5.9K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  43.1K :star:  |
+|  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  5.9K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  43.2K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  606 :star:  |  [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)  |  1.9K :star:  |
 |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |  [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)  |  3K :star:  |
 |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  178 :star:  |  [helixlang/helix-lang](https://github.com/helixlang/helix-lang)  |  341 :star:  |
-|  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |  [apple/containerization](https://github.com/apple/containerization)  |  7.5K :star:  |
-|  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |  [shaneutt/portkullis](https://github.com/shaneutt/portkullis)  |  2 :star:  |
-|  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |    |    |
+|  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |    |    |
 
-<sup><sub>Last updated: July 19, 2025 at 08:07:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 19, 2025 at 12:04:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
