@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#198: Fix README typo](https://github.com/patrickdappollonio/http-server/pull/198) | [`http-server`](https://github.com/patrickdappollonio/http-server) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1&del=1&height=18" alt="+1 -1"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,13 +60,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.2K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
-|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  13 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  179 :star:  |
-|  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  27.8K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
-|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  46.7K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
+|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  14 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  179 :star:  |
+|  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  27.9K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
+|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  46.9K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  5 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.6K :star:  |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |
 |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  63 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
-|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  294 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
+|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  297 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26.1K :star:  |
 |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  744 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  8.1K :star:  |
 |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  4.5K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  6K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  43.2K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  606 :star:  |    |    |
 
-<sup><sub>Last updated: July 20, 2025 at 00:19:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 20, 2025 at 04:05:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
