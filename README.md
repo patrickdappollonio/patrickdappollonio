@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.2K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
-|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  16 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  179 :star:  |
-|  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  27.10K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
-|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  47.4K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
+|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  17 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  179 :star:  |
+|  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
+|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  47.6K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  5 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.6K :star:  |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |
-|  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  63 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
+|  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  64 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
 |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  309 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26.1K :star:  |
 |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  744 :star:  |  [bytedance/trae-agent](https://github.com/bytedance/trae-agent)  |  8.1K :star:  |
 |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |  [hesreallyhim/awesome-claude-co...](https://github.com/hesreallyhim/awesome-claude-code)  |  4.7K :star:  |
-|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  140 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.6K :star:  |
+|  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  141 :star:  |  [pickle-com/glass](https://github.com/pickle-com/glass)  |  4.6K :star:  |
 |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |  [yannh/kubeconform](https://github.com/yannh/kubeconform)  |  2.7K :star:  |
 |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  6.1K :star:  |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  |  43.2K :star:  |
 |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  606 :star:  |    |    |
 
-<sup><sub>Last updated: July 20, 2025 at 12:04:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 20, 2025 at 16:04:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
