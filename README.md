@@ -59,13 +59,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  4.4K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  4.5K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.2K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  144 :star:  |
-|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  812 :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
+|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  839 :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  6.10K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.3K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
-|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  19 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  182 :star:  |
+|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  20 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  182 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.7K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
 |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.1K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  8 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26.2K :star:  |
 |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  755 :star:  |    |    |
 
-<sup><sub>Last updated: July 24, 2025 at 08:08:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 24, 2025 at 12:05:39 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
