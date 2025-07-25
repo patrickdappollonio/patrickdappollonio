@@ -59,6 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  760 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.2K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.3K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  146 :star:  |
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
@@ -70,10 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.3K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |
-|  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  66 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
+|  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
 |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  342 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
-|  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26.3K :star:  |
-|  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  760 :star:  |    |    |
+|  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |    |    |
 
-<sup><sub>Last updated: July 25, 2025 at 12:05:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 25, 2025 at 16:05:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
