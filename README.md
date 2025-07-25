@@ -59,10 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  4.6K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  4.7K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.2K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  145 :star:  |
-|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  870 :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
-|  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  6.10K :star:  |
+|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  894 :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
+|  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.3K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  20 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  182 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  8 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |  [taskmedia/helm_ipsec-vpn-serve...](https://github.com/taskmedia/helm_ipsec-vpn-server)  |  9 :star:  |
 |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  66 :star:  |  [cberner/redb](https://github.com/cberner/redb)  |  3.8K :star:  |
-|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  337 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
+|  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  338 :star:  |  [yankeexe/ollama-manager](https://github.com/yankeexe/ollama-manager)  |  16 :star:  |
 |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music)  |  26.2K :star:  |
-|  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  755 :star:  |    |    |
+|  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  756 :star:  |    |    |
 
-<sup><sub>Last updated: July 24, 2025 at 16:04:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 24, 2025 at 20:21:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
