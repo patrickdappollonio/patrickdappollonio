@@ -62,18 +62,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  342 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |
-|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  761 :star:  |
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.3K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
+|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  763 :star:  |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.4K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.3K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  146 :star:  |
-|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
+|  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.1K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7.1K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.3K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  22 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  182 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.7K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
-|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.3K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
+|  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.4K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |    |    |
 
-<sup><sub>Last updated: July 26, 2025 at 00:15:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 26, 2025 at 04:05:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
