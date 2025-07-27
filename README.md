@@ -66,7 +66,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.6K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.3K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  146 :star:  |
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.1K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
-|  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7.1K :star:  |
+|  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7.2K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.3K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  22 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  182 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |  [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  |  20.4K :star:  |
 |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |    |    |
 
-<sup><sub>Last updated: July 27, 2025 at 00:20:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 27, 2025 at 04:06:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
