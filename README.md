@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#6: Add "context-generator" tool](https://github.com/patrickdappollonio/homebrew-tap/pull/6) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=0&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=4&del=0&height=18"><img src="https://diff-counter.patrickdap.dev/?add=4&del=0&height=18" alt="+4 -0"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  5.8K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |
+|  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  5.9K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  347 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  92 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  765 :star:  |
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.8K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
-|  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.3K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  146 :star:  |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  5.9K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
+|  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.4K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  146 :star:  |
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.2K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7.2K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.3K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
-|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  22 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  184 :star:  |
+|  [makasim/flowstate](https://github.com/makasim/flowstate)  |  22 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  185 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.8K :star:  |  [Place1/wg-access-server](https://github.com/Place1/wg-access-server)  |  1.8K :star:  |
 |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.5K :star:  |  [hansehe/wg-easy-helm](https://github.com/hansehe/wg-easy-helm)  |  4 :star:  |
 |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |    |    |
 
-<sup><sub>Last updated: July 28, 2025 at 00:21:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 28, 2025 at 04:07:34 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
