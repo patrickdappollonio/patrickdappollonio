@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#12: Add TLS and Ping tools.](https://github.com/patrickdappollonio/mcp-domaintools/pull/12) | [`mcp-domaintools`](https://github.com/patrickdappollonio/mcp-domaintools) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18" alt="+1,635 -51"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  30.8K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.5K :star:  |
+|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  30.10K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.5K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.3K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.1K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  185 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.9K :star:  |    |    |
 
-<sup><sub>Last updated: July 29, 2025 at 04:06:39 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 29, 2025 at 08:08:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
