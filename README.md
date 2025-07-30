@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  31.9K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.5K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
-|  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |
+|  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  68 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  350 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  770 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  186 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.9K :star:  |    |    |
 
-<sup><sub>Last updated: July 30, 2025 at 12:05:40 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 30, 2025 at 16:04:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
