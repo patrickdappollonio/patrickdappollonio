@@ -59,15 +59,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  31.4K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
+|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  31.5K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.3K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.7K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  67 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  349 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
-|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  769 :star:  |
+|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  33 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  770 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  6.2K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
-|  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.4K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  147 :star:  |
+|  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  2.5K :star:  |  [danthegoodman1/bloomsearch](https://github.com/danthegoodman1/bloomsearch)  |  147 :star:  |
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.2K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |  [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)  |  7.3K :star:  |
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  607 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |  [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp)  |  186 :star:  |
 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.9K :star:  |    |    |
 
-<sup><sub>Last updated: July 29, 2025 at 20:22:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 30, 2025 at 00:20:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
