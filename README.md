@@ -59,12 +59,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  784 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.10K :star:  |
-|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  32.5K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
+|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  797 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.10K :star:  |
+|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  32.6K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |
-|  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.5K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
+|  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.6K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  69 :star:  |
-|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  352 :star:  |
+|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  141 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  353 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  34 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  776 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  6.7K :star:  |  [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)  |  1.1K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.4K :star:  |  [google/yamlfmt](https://github.com/google/yamlfmt)  |  1.5K :star:  |
 |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |    |    |
 
-<sup><sub>Last updated: August 01, 2025 at 04:06:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 01, 2025 at 08:08:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
