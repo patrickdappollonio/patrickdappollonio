@@ -59,8 +59,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  266 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
-|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  850 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.10K :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  275 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  856 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  28.10K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  32.8K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.6K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  9 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.6K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |  [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar)  |  608 :star:  |
 |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.4K :star:  |    |    |
 
-<sup><sub>Last updated: August 02, 2025 at 04:05:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 02, 2025 at 08:07:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
