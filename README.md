@@ -60,9 +60,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  6.5K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  298 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
-|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  887 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29K :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  6.6K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  300 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  905 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  32.10K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.7K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  10 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.6K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.3K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |    |    |
 
-<sup><sub>Last updated: August 03, 2025 at 08:07:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 03, 2025 at 12:05:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
