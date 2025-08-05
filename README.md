@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  7.3K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  334 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  336 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.1K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.3K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.7K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |    |    |
 
-<sup><sub>Last updated: August 05, 2025 at 08:09:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 05, 2025 at 12:05:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
