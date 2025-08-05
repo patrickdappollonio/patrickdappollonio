@@ -62,8 +62,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  7.1K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  323 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
-|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  963 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.1K :star:  |
-|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.2K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.7K :star:  |
+|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  967 :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.1K :star:  |
+|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.3K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.7K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.6K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |  [bagel897/rustdrop](https://github.com/bagel897/rustdrop)  |  16 :star:  |
 |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |    |    |
 
-<sup><sub>Last updated: August 04, 2025 at 16:05:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 04, 2025 at 20:22:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
