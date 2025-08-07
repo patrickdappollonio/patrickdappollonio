@@ -62,8 +62,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.2K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.3K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
-|  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.1K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  7.10K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
+|  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  8K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  354 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.1K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.2K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.4K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  793 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.6K :star:  |    |    |
 
-<sup><sub>Last updated: August 07, 2025 at 12:05:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 07, 2025 at 16:05:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
