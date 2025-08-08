@@ -70,10 +70,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
-|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  362 :star:  |
+|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  363 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  795 :star:  |
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.7K :star:  |    |    |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.9K :star:  |    |    |
 
-<sup><sub>Last updated: August 08, 2025 at 12:04:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 08, 2025 at 16:05:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
