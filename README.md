@@ -64,16 +64,16 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  8.2K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  358 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  359 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.1K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.2K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.4K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.8K :star:  |
-|  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
+|  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  362 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  793 :star:  |
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.6K :star:  |    |    |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.7K :star:  |    |    |
 
-<sup><sub>Last updated: August 08, 2025 at 04:06:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 08, 2025 at 08:08:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
