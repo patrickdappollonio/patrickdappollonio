@@ -64,7 +64,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  8.1K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.5K :star:  |
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  354 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  356 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.1K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.2K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.4K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.8K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.4K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  793 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  7.6K :star:  |    |    |
 
-<sup><sub>Last updated: August 07, 2025 at 20:22:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 08, 2025 at 00:20:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
