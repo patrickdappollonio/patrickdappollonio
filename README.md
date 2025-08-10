@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  363 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  799 :star:  |
-|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  8.5K :star:  |    |    |
+|  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  8.6K :star:  |    |    |
 
-<sup><sub>Last updated: August 09, 2025 at 20:23:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 10, 2025 at 00:19:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
