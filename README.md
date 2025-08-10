@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#12: Add TLS and Ping tools.](https://github.com/patrickdappollonio/mcp-domaintools/pull/12) | [`mcp-domaintools`](https://github.com/patrickdappollonio/mcp-domaintools) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18" alt="+1,635 -51"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,11 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.4K :star:  |
+|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.5K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  8.5K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.6K :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  8.6K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.6K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  362 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.2K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.2K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.5K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.9K :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  363 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
-|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  799 :star:  |
+|  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |  [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)  |  800 :star:  |
 |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  8.6K :star:  |    |    |
 
-<sup><sub>Last updated: August 10, 2025 at 00:19:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 10, 2025 at 04:05:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
