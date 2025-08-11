@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  237 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  8.9K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  319 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  8.10K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.6K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
-|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  365 :star:  |
+|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |  [ebogdum/callfs](https://github.com/ebogdum/callfs)  |  366 :star:  |
 |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |  [go-goe/goe](https://github.com/go-goe/goe)  |  93 :star:  |
 |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |    |    |
 
-<sup><sub>Last updated: August 11, 2025 at 00:20:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 11, 2025 at 04:07:11 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
