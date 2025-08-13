@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#12: Add TLS and Ping tools.](https://github.com/patrickdappollonio/mcp-domaintools/pull/12) | [`mcp-domaintools`](https://github.com/patrickdappollonio/mcp-domaintools) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1635&del=51&height=18" alt="+1,635 -51"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,14 +60,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
-|  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  145 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  530 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.4K :star:  |
+|  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  147 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  535 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.5K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.9K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.1K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.6K :star:  |
-|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  365 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.2K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.6K :star:  |
+|  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  366 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.2K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.3K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.6K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.9K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  11 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |    |    |
 
-<sup><sub>Last updated: August 12, 2025 at 20:20:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 13, 2025 at 00:11:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
