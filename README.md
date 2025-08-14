@@ -59,9 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [yahoo/vssh](https://github.com/yahoo/vssh)  |  978 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  155 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  574 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.9K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  575 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.9K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.1K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
@@ -70,10 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  368 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.2K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.4K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.8K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  52.10K :star:  |
-|  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  13 :star:  |
+|  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |  [danicat/godoctor](https://github.com/danicat/godoctor)  |  15 :star:  |
 |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |  [freelensapp/freelens](https://github.com/freelensapp/freelens)  |  2.8K :star:  |
-|  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
-|  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |    |    |
+|  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |    |    |
 
-<sup><sub>Last updated: August 14, 2025 at 12:05:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 14, 2025 at 16:05:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
