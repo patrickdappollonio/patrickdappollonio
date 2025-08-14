@@ -61,11 +61,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  153 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  561 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.7K :star:  |
-|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  3.10K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  566 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  9.7K :star:  |
+|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
-|  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.2K :star:  |
+|  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.3K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.3K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.6K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  368 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.2K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.4K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |  [owens1127/Destiny-2-Season-Pas...](https://github.com/owens1127/Destiny-2-Season-Pass-Wayback-Machine)  |  71 :star:  |
 |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |    |    |
 
-<sup><sub>Last updated: August 13, 2025 at 16:05:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 13, 2025 at 20:20:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
