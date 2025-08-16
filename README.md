@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  49 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |
+|  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  50 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |
 |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.3K :star:  |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  979 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  158 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  604 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.1K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  607 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.2K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.3K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.3K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.7K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.7K :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.8K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.7K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  371 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
 |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.5K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.5K :star:  |
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.9K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  53K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |    |    |
 
-<sup><sub>Last updated: August 16, 2025 at 08:07:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 16, 2025 at 12:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
