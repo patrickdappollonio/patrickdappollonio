@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  51 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.7K :star:  |
+|  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  51 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.8K :star:  |
 |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.3K :star:  |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.9K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  53.1K :star:  |
 |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |    |    |
 
-<sup><sub>Last updated: August 16, 2025 at 20:22:40 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 17, 2025 at 00:13:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
