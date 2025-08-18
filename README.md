@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#16: Add MacOS support to the package](https://github.com/patrickdappollonio/wiump/pull/16) | [`wiump`](https://github.com/patrickdappollonio/wiump) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=18&del=17&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=18&del=17&height=18"><img src="https://diff-counter.patrickdap.dev/?add=18&del=17&height=18" alt="+18 -17"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-closed.png" width="12" height="12" alt="closed"></picture> closed |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.3K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.10K :star:  |
+|  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  295 :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
 |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  53 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.8K :star:  |
 |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.3K :star:  |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
-|  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  163 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  610 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.3K :star:  |
-|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.4K :star:  |
+|  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  164 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  612 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.4K :star:  |
+|  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.5K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.4K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.3K :star:  |
 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  9.9K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.7K :star:  |
 |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  373 :star:  |  [makasim/flowstate](https://github.com/makasim/flowstate)  |  23 :star:  |
-|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.6K :star:  |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)  |  29.5K :star:  |
-|  [roboflow/supervision](https://github.com/roboflow/supervision)  |  33.9K :star:  |  [maybe-finance/maybe](https://github.com/maybe-finance/maybe)  |  53.1K :star:  |
-|  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |    |    |
+|  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.6K :star:  |    |    |
 
-<sup><sub>Last updated: August 17, 2025 at 20:22:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 18, 2025 at 00:18:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
