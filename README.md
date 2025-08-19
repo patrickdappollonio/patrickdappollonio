@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#26: Clean up code for better usability.](https://github.com/patrickdappollonio/patrickdappollonio/pull/26) | [`patrickdappollonio`](https://github.com/patrickdappollonio/patrickdappollonio) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=530&del=213&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=530&del=213&height=18"><img src="https://diff-counter.patrickdap.dev/?add=530&del=213&height=18" alt="+530 -213"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -68,12 +68,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  143 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  167 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  36 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  624 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.6K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  626 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.7K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.6K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.5K :star:  |
 |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |  [qba73/gov](https://github.com/qba73/gov)  |  4 :star:  |
 |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |  [openai/openai-go](https://github.com/openai/openai-go)  |  2.3K :star:  |
-|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.7K :star:  |
+|  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.1K :star:  |  [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)  |  3.7K :star:  |
 
-<sup><sub>Last updated: August 19, 2025 at 12:05:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 19, 2025 at 16:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
