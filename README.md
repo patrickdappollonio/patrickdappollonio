@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [zedless-editor/zed](https://github.com/zedless-editor/zed)  |  707 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [zedless-editor/zed](https://github.com/zedless-editor/zed)  |  747 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
 |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  923 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.3K :star:  |
 |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  378 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  142 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  168 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  37 :star:  |
-|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  632 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.9K :star:  |
+|  [Beariish/bolt](https://github.com/Beariish/bolt)  |  634 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  10.9K :star:  |
 |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |  [basecamp/omarchy](https://github.com/basecamp/omarchy)  |  4.7K :star:  |
 |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |  [tidwall/pogocache](https://github.com/tidwall/pogocache)  |  1.5K :star:  |
 
-<sup><sub>Last updated: August 21, 2025 at 12:15:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 21, 2025 at 16:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
