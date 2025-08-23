@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#8: Fixes several bugs. Fixes #7. Improve codebase for...](https://github.com/patrickdappollonio/homebrew-tap/pull/8) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18" alt="+1,024 -200"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,14 +60,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  492 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
-|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  872 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  499 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  878 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
 |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  927 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.5K :star:  |
 |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  380 :star:  |
 |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.8K :star:  |
 |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.4K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  34.3K :star:  |
-|  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
+|  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.1K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
 |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  55 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.8K :star:  |
 |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.5K :star:  |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  142 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  170 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  37 :star:  |
 |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  638 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  11.1K :star:  |
 
-<sup><sub>Last updated: August 23, 2025 at 08:06:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 23, 2025 at 12:04:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
