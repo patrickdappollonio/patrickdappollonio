@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#8: Fixes several bugs. Fixes #7. Improve codebase for...](https://github.com/patrickdappollonio/homebrew-tap/pull/8) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18" alt="+1,024 -200"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,9 +60,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  511 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
-|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  904 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
-|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  929 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  512 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  912 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  928 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.6K :star:  |
 |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  381 :star:  |
 |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  170 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  37 :star:  |
 |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  640 :star:  |  [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)  |  11.2K :star:  |
 
-<sup><sub>Last updated: August 24, 2025 at 04:05:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 24, 2025 at 08:06:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
