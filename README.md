@@ -59,14 +59,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  283 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  645 :star:  |
+|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  288 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  645 :star:  |
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  566 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
-|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  959 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
-|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  931 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  569 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  966 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  930 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.7K :star:  |
-|  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  385 :star:  |
-|  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  1.10K :star:  |
+|  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  386 :star:  |
+|  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  2K :star:  |
 |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.4K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  34.4K :star:  |
 |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.4K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
 |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  55 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  171 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  37 :star:  |
 
-<sup><sub>Last updated: August 25, 2025 at 16:04:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 25, 2025 at 20:19:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
