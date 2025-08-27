@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  313 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  649 :star:  |
+|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  316 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  651 :star:  |
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  585 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
-|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  986 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  586 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  988 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
 |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  938 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.8K :star:  |
-|  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  387 :star:  |
+|  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  388 :star:  |
 |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  2.2K :star:  |
 |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.5K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  34.4K :star:  |
-|  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.4K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
+|  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.5K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.5K :star:  |
 |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  55 :star:  |  [n0-computer/iroh](https://github.com/n0-computer/iroh)  |  6.8K :star:  |
 |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.6K :star:  |  [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)  |  2K :star:  |
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  142 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  172 :star:  |  [Yantrio/mcp-gopls](https://github.com/Yantrio/mcp-gopls)  |  37 :star:  |
 
-<sup><sub>Last updated: August 26, 2025 at 16:05:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 26, 2025 at 20:19:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
