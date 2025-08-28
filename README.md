@@ -59,12 +59,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [google/capslock](https://github.com/google/capslock)  |  973 :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  172 :star:  |
-|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  329 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  658 :star:  |
+|  [google/capslock](https://github.com/google/capslock)  |  974 :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  172 :star:  |
+|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  330 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  658 :star:  |
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  593 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
-|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  997 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
-|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  939 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  595 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  998 :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
+|  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  940 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  10.9K :star:  |
 |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  388 :star:  |
 |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  2.2K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  142 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 
-<sup><sub>Last updated: August 27, 2025 at 16:05:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 27, 2025 at 20:19:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
