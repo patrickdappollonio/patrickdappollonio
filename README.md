@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#8: Fixes several bugs. Fixes #7. Improve codebase for...](https://github.com/patrickdappollonio/homebrew-tap/pull/8) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18"><img src="https://diff-counter.patrickdap.dev/?add=1024&del=200&height=18" alt="+1,024 -200"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,9 +60,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [google/capslock](https://github.com/google/capslock)  |  977 :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  173 :star:  |
-|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  360 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  663 :star:  |
+|  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  368 :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  663 :star:  |
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.2K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
-|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  615 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
+|  [kane50613/takumi](https://github.com/kane50613/takumi)  |  618 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
 |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1K :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
 |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  946 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
 |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  11.1K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |  [SOF3/include-flate](https://github.com/SOF3/include-flate)  |  142 :star:  |
 |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |  [hwjsnc/include_assets](https://github.com/hwjsnc/include_assets)  |  5 :star:  |
 
-<sup><sub>Last updated: August 29, 2025 at 08:07:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 29, 2025 at 12:05:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
