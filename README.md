@@ -60,7 +60,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  73 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  59 :star:  |
-|  [enetx/surf](https://github.com/enetx/surf)  |  283 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.7K :star:  |
+|  [enetx/surf](https://github.com/enetx/surf)  |  287 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.7K :star:  |
 |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.7K :star:  |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  980 :star:  |
 |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |
 |  [google/capslock](https://github.com/google/capslock)  |  999 :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  175 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.6K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  34.6K :star:  |
 |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.8K :star:  |  [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  |  15.6K :star:  |
 
-<sup><sub>Last updated: September 06, 2025 at 04:05:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 06, 2025 at 08:06:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
