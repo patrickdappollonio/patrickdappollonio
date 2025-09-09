@@ -59,9 +59,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  505 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
+|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  522 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  74 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  59 :star:  |
-|  [enetx/surf](https://github.com/enetx/surf)  |  626 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.8K :star:  |
+|  [enetx/surf](https://github.com/enetx/surf)  |  634 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.8K :star:  |
 |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.7K :star:  |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  981 :star:  |
 |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |
 |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  177 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  2.7K :star:  |
 |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.6K :star:  |  [roboflow/supervision](https://github.com/roboflow/supervision)  |  34.7K :star:  |
 
-<sup><sub>Last updated: September 08, 2025 at 16:04:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 08, 2025 at 20:19:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
