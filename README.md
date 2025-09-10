@@ -59,10 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  605 :star:  |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |
 |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.4K :star:  |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.6K :star:  |
-|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  610 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
+|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  616 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  76 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  60 :star:  |
-|  [enetx/surf](https://github.com/enetx/surf)  |  792 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.9K :star:  |
+|  [enetx/surf](https://github.com/enetx/surf)  |  793 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  9.9K :star:  |
 |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.7K :star:  |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  981 :star:  |
 |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |
 |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  177 :star:  |
@@ -71,9 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  697 :star:  |  [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto)  |  6.4K :star:  |
 |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |  [allegro/bigcache](https://github.com/allegro/bigcache)  |  7.9K :star:  |
 |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  972 :star:  |  [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang)  |  1.1K :star:  |
-|  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  12.4K :star:  |
+|  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |  [charmbracelet/crush](https://github.com/charmbracelet/crush)  |  12.5K :star:  |
 |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |  [kubenote/KubeForge](https://github.com/kubenote/KubeForge)  |  396 :star:  |
-|  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |  [campfirein/cipher](https://github.com/campfirein/cipher)  |  2.7K :star:  |
 
-<sup><sub>Last updated: September 10, 2025 at 12:05:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 10, 2025 at 16:05:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
