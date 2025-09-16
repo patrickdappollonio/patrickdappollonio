@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#10: Update the way README templates are handled.](https://github.com/patrickdappollonio/homebrew-tap/pull/10) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><img src="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18" alt="+322 -22"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  731 :star:  |
+|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  736 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  18.8K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  987 :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  18.10K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  987 :star:  |
 |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2K :star:  |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |
 |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  21 :star:  |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |
 |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  642 :star:  |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |
 |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.5K :star:  |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.6K :star:  |
 |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  719 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  80 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  61 :star:  |
-|  [enetx/surf](https://github.com/enetx/surf)  |  856 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  10.1K :star:  |
+|  [enetx/surf](https://github.com/enetx/surf)  |  863 :star:  |  [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)  |  10.1K :star:  |
 |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |  [yahoo/vssh](https://github.com/yahoo/vssh)  |  981 :star:  |
 |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |  [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec)  |  7 :star:  |
 |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |  [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper)  |  182 :star:  |
 |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.4K :star:  |  [Beariish/bolt](https://github.com/Beariish/bolt)  |  694 :star:  |
 |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.3K :star:  |  [felixge/fgprof](https://github.com/felixge/fgprof)  |  3K :star:  |
 
-<sup><sub>Last updated: September 16, 2025 at 04:06:34 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 16, 2025 at 08:08:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
