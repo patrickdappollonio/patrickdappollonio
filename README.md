@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  906 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  821 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
-|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  189 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
+|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  190 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  24 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  68 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.5K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.2K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.3K :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  21 :star:  |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |
 |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  690 :star:  |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |
 |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.5K :star:  |  [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP)  |  2.7K :star:  |
-|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  753 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
+|  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  756 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  82 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  62 :star:  |
 
-<sup><sub>Last updated: September 21, 2025 at 12:04:38 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 21, 2025 at 16:04:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
