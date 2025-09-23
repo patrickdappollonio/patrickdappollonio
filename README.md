@@ -61,13 +61,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  912 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  822 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
-|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  197 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
+|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  198 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  24 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  69 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.3K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
 |  [credebl/platform](https://github.com/credebl/platform)  |  63 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  747 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  24.8K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  998 :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  24.10K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  998 :star:  |
 |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |
 |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  22 :star:  |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |
 |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  691 :star:  |  [bitfield/script](https://github.com/bitfield/script)  |  6.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  765 :star:  |  [bgreenwell/doxx](https://github.com/bgreenwell/doxx)  |  2.9K :star:  |
 |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |  [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos)  |  62 :star:  |
 
-<sup><sub>Last updated: September 22, 2025 at 20:18:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 23, 2025 at 00:05:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
