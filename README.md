@@ -59,10 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  111 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
+|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  119 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  696 :star:  |
-|  [imputnet/helium](https://github.com/imputnet/helium)  |  3.4K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
-|  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  779 :star:  |
+|  [imputnet/helium](https://github.com/imputnet/helium)  |  3.5K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
+|  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  780 :star:  |
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.4K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  931 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  822 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [github/spec-kit](https://github.com/github/spec-kit)  |  27.8K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
 |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |
 
-<sup><sub>Last updated: September 27, 2025 at 12:04:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 27, 2025 at 16:04:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
