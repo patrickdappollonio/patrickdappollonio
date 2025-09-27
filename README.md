@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#10: Update the way README templates are handled.](https://github.com/patrickdappollonio/homebrew-tap/pull/10) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><img src="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18" alt="+322 -22"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -63,7 +63,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [imputnet/helium](https://github.com/imputnet/helium)  |  3.2K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
 |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  779 :star:  |
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.4K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |
-|  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  930 :star:  |
+|  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  931 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  822 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
 |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  211 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  26 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |  [piglig/go-qr](https://github.com/piglig/go-qr)  |  44 :star:  |
 |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |  [daniel-hutao/spinlock](https://github.com/daniel-hutao/spinlock)  |  5 :star:  |
 
-<sup><sub>Last updated: September 26, 2025 at 16:05:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 26, 2025 at 20:18:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
