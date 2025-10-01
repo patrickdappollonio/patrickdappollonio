@@ -69,11 +69,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  824 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
 |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  227 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
-|  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  76 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
+|  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  77 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.4K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
 |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  756 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  29.6K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  29.7K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
 
-<sup><sub>Last updated: October 01, 2025 at 00:05:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 01, 2025 at 04:06:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
