@@ -60,7 +60,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
-|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  202 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
+|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  203 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  706 :star:  |
 |  [imputnet/helium](https://github.com/imputnet/helium)  |  4.1K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
 |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  788 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  78 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.4K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
-|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  762 :star:  |
+|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  763 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  29.9K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  29.10K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
 
-<sup><sub>Last updated: October 01, 2025 at 16:05:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 01, 2025 at 20:18:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
