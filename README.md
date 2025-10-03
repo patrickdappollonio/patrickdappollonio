@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#10: Update the way README templates are handled.](https://github.com/patrickdappollonio/homebrew-tap/pull/10) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><img src="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18" alt="+322 -22"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  206 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
-|  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  714 :star:  |
+|  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  715 :star:  |
 |  [imputnet/helium](https://github.com/imputnet/helium)  |  4.2K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
 |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  788 :star:  |
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |
@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.5K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
 |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  770 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  30.6K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  30.7K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
 
-<sup><sub>Last updated: October 03, 2025 at 08:07:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 03, 2025 at 12:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
