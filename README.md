@@ -60,9 +60,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
-|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  205 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
-|  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  709 :star:  |
-|  [imputnet/helium](https://github.com/imputnet/helium)  |  4.1K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
+|  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  206 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
+|  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  711 :star:  |
+|  [imputnet/helium](https://github.com/imputnet/helium)  |  4.2K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
 |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  374 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  788 :star:  |
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  952 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  78 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.5K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
-|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  769 :star:  |
+|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  770 :star:  |
 |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |  [zedless-editor/zedless](https://github.com/zedless-editor/zedless)  |  1.1K :star:  |
-|  [github/spec-kit](https://github.com/github/spec-kit)  |  30.4K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
+|  [github/spec-kit](https://github.com/github/spec-kit)  |  30.5K :star:  |  [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)  |  1K :star:  |
 
-<sup><sub>Last updated: October 03, 2025 at 00:05:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 03, 2025 at 04:06:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
