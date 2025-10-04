@@ -59,8 +59,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  898 :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  30.9K :star:  |
+|  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.1K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  911 :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  30.9K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  208 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  716 :star:  |
@@ -69,11 +69,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  84 :star:  |
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  955 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  824 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
-|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  233 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
+|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  234 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  78 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.6K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.5K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
-|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  770 :star:  |
+|  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |  [kane50613/takumi](https://github.com/kane50613/takumi)  |  771 :star:  |
 
-<sup><sub>Last updated: October 04, 2025 at 04:04:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 04, 2025 at 08:06:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
