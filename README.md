@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#10: Update the way README templates are handled.](https://github.com/patrickdappollonio/homebrew-tap/pull/10) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18"><img src="https://diff-counter.patrickdap.dev/?add=322&del=22&height=18" alt="+322 -22"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  2.8K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.2K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  948 :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  31.3K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  950 :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  31.3K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  210 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  242 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  719 :star:  |
-|  [imputnet/helium](https://github.com/imputnet/helium)  |  4.3K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
-|  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  375 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  789 :star:  |
+|  [imputnet/helium](https://github.com/imputnet/helium)  |  4.4K :star:  |  [usesend/useSend](https://github.com/usesend/useSend)  |  2.6K :star:  |
+|  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  375 :star:  |  [BeaconBay/ck](https://github.com/BeaconBay/ck)  |  790 :star:  |
 |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |  [andr36oid/releases](https://github.com/andr36oid/releases)  |  85 :star:  |
 |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |  [enetx/surf](https://github.com/enetx/surf)  |  959 :star:  |
 |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  825 :star:  |  [dend/awesome-product-managemen...](https://github.com/dend/awesome-product-management)  |  1.8K :star:  |
-|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  237 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
+|  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  238 :star:  |  [qjebbs/go-jsons](https://github.com/qjebbs/go-jsons)  |  7 :star:  |
 |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |  [google/capslock](https://github.com/google/capslock)  |  1K :star:  |
 |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  80 :star:  |  [kagehq/port-kill](https://github.com/kagehq/port-kill)  |  1.7K :star:  |
 |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.5K :star:  |  [open-webui/mcpo](https://github.com/open-webui/mcpo)  |  3.4K :star:  |
 
-<sup><sub>Last updated: October 05, 2025 at 16:04:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 05, 2025 at 20:19:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
