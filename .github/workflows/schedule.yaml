@@ -25,7 +25,7 @@ jobs:
           ssh-key: ${{ secrets.DEPLOY_KEY }}
 
       - name: Install application to render the template
-        uses: supplypike/setup-bin@v4
+        uses: supplypike/setup-bin@v5
         with:
           uri: "https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
           name: "patrickdappollonio"
