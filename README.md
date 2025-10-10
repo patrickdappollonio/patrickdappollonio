@@ -63,17 +63,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [operately/operately](https://github.com/operately/operately)  |  289 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  378 :star:  |
 |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |
 |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |
-|  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  55.8K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
-|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  215 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  253 :star:  |
+|  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  55.9K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
+|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  241 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  253 :star:  |
 |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.5K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |
-|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  8.7K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  83 :star:  |
+|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  8.8K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  83 :star:  |
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  1.10K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.6K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  2.9K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.4K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.1K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  33.6K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.1K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  33.7K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  215 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  730 :star:  |
 
-<sup><sub>Last updated: October 10, 2025 at 04:06:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 10, 2025 at 08:07:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
