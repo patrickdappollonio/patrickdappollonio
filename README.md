@@ -60,13 +60,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.5K :star:  |  [imputnet/helium](https://github.com/imputnet/helium)  |  4.6K :star:  |
-|  [operately/operately](https://github.com/operately/operately)  |  289 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  378 :star:  |
+|  [operately/operately](https://github.com/operately/operately)  |  290 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  378 :star:  |
 |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |
 |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.5K :star:  |
 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  55.9K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
-|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  277 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  256 :star:  |
+|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  279 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  256 :star:  |
 |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.5K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  28 :star:  |
-|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  9.1K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  84 :star:  |
+|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  9.2K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  84 :star:  |
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.6K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  2.9K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.4K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  215 :star:  |  [valeriansaliou/bandurria](https://github.com/valeriansaliou/bandurria)  |  23 :star:  |
 |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |  [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server)  |  732 :star:  |
 
-<sup><sub>Last updated: October 10, 2025 at 16:04:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 10, 2025 at 20:17:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
