@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  286 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  225 :star:  |
+|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  293 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  225 :star:  |
 |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  552 :star:  |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |
-|  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.5K :star:  |  [imputnet/helium](https://github.com/imputnet/helium)  |  4.9K :star:  |
-|  [operately/operately](https://github.com/operately/operately)  |  289 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  378 :star:  |
+|  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |  [imputnet/helium](https://github.com/imputnet/helium)  |  4.9K :star:  |
+|  [operately/operately](https://github.com/operately/operately)  |  290 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  378 :star:  |
 |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |
 |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.6K :star:  |
 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
-|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  414 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  270 :star:  |
+|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  416 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  270 :star:  |
 |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.7K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  29 :star:  |
-|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  11.4K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  87 :star:  |
+|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  11.5K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  87 :star:  |
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.2K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.7K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.4K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.2K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  36.7K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.2K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  36.8K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 
-<sup><sub>Last updated: October 15, 2025 at 12:05:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 15, 2025 at 16:05:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
