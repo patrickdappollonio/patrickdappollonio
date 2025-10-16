@@ -68,12 +68,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
 |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  419 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  273 :star:  |
 |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.7K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  29 :star:  |
-|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  11.6K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  87 :star:  |
+|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  11.7K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  87 :star:  |
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.2K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.7K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.5K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.2K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  37.2K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.2K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  37.3K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 
-<sup><sub>Last updated: October 16, 2025 at 04:06:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 16, 2025 at 08:08:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
