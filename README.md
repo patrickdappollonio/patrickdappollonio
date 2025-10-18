@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  313 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  225 :star:  |
 |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  554 :star:  |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |
 |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |  [imputnet/helium](https://github.com/imputnet/helium)  |  5.1K :star:  |
-|  [operately/operately](https://github.com/operately/operately)  |  292 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  379 :star:  |
+|  [operately/operately](https://github.com/operately/operately)  |  293 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  379 :star:  |
 |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |
 |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.6K :star:  |
 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.1K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.3K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  38.5K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 
-<sup><sub>Last updated: October 18, 2025 at 12:05:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 18, 2025 at 16:04:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
