@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  314 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  224 :star:  |
+|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  316 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  225 :star:  |
 |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  554 :star:  |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |
 |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |  [imputnet/helium](https://github.com/imputnet/helium)  |  5.2K :star:  |
 |  [operately/operately](https://github.com/operately/operately)  |  293 :star:  |  [aquila-lab/superflex-vscode](https://github.com/aquila-lab/superflex-vscode)  |  379 :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.3K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.7K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3.1K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.5K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.3K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  38.5K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.3K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  38.6K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 
-<sup><sub>Last updated: October 18, 2025 at 20:21:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 19, 2025 at 00:06:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
