@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#11: Add macOS binaries. Fix determinism.](https://github.com/patrickdappollonio/homebrew-tap/pull/11) | [`homebrew-tap`](https://github.com/patrickdappollonio/homebrew-tap) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=35&del=4&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=35&del=4&height=18"><img src="https://diff-counter.patrickdap.dev/?add=35&del=4&height=18" alt="+35 -4"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,14 +66,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |  [danielgtaylor/huma](https://github.com/danielgtaylor/huma)  |  3.5K :star:  |
 |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |  [peter-evans/create-pull-reques...](https://github.com/peter-evans/create-pull-request)  |  2.6K :star:  |
 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.1K :star:  |  [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment)  |  826 :star:  |
-|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  453 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  280 :star:  |
-|  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.8K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  29 :star:  |
-|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  12.2K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  88 :star:  |
+|  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  457 :star:  |  [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)  |  281 :star:  |
+|  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  68.9K :star:  |  [dcermak/skiff](https://github.com/dcermak/skiff)  |  29 :star:  |
+|  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  12.3K :star:  |  [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker)  |  88 :star:  |
 |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.3K :star:  |  [trueadm/ripple](https://github.com/trueadm/ripple)  |  5.7K :star:  |
 |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3.1K :star:  |  [credebl/platform](https://github.com/credebl/platform)  |  62 :star:  |
 |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.5K :star:  |  [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)  |  1.5K :star:  |
-|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.3K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  38.6K :star:  |
+|  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.3K :star:  |  [github/spec-kit](https://github.com/github/spec-kit)  |  38.7K :star:  |
 |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)  |  2.1K :star:  |
 
-<sup><sub>Last updated: October 19, 2025 at 00:06:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 19, 2025 at 04:05:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
