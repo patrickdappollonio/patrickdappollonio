@@ -59,14 +59,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [deta/surf](https://github.com/deta/surf)  |  1.5K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |
-|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  178 :star:  |  [operately/operately](https://github.com/operately/operately)  |  296 :star:  |
+|  [deta/surf](https://github.com/deta/surf)  |  1.6K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.7K :star:  |
+|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  179 :star:  |  [operately/operately](https://github.com/operately/operately)  |  296 :star:  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  11.10K :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
-|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  192 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
-|  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10K :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.2K :star:  |
+|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  195 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
+|  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.1K :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.2K :star:  |
 |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  480 :star:  |
 |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.3K :star:  |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  69.1K :star:  |
-|  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  902 :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  13.4K :star:  |
+|  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  902 :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  13.5K :star:  |
 |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  477 :star:  |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.6K :star:  |
 |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  89 :star:  |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3.2K :star:  |
 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  41.8K :star:  |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.6K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  354 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  234 :star:  |
 |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  558 :star:  |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |
 
-<sup><sub>Last updated: October 24, 2025 at 12:05:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 24, 2025 at 16:05:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
