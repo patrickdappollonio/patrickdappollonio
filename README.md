@@ -59,10 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [deta/surf](https://github.com/deta/surf)  |  1K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |
-|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  167 :star:  |  [operately/operately](https://github.com/operately/operately)  |  296 :star:  |
+|  [deta/surf](https://github.com/deta/surf)  |  1.1K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.6K :star:  |
+|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  171 :star:  |  [operately/operately](https://github.com/operately/operately)  |  296 :star:  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  11.9K :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
-|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  144 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
+|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  160 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
 |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  9.8K :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.2K :star:  |
 |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  479 :star:  |
 |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.3K :star:  |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  69.1K :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  41.7K :star:  |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.6K :star:  |
 |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.4K :star:  |
 |  [tayenx3/tuitui](https://github.com/tayenx3/tuitui)  |  10 :star:  |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |
-|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  351 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  230 :star:  |
+|  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  352 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  230 :star:  |
 |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  558 :star:  |  [colega/zeropool](https://github.com/colega/zeropool)  |  244 :star:  |
 
-<sup><sub>Last updated: October 23, 2025 at 16:05:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 23, 2025 at 20:17:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
