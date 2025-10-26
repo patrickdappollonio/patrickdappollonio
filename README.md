@@ -63,17 +63,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [deta/surf](https://github.com/deta/surf)  |  1.7K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.7K :star:  |
 |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  184 :star:  |  [operately/operately](https://github.com/operately/operately)  |  297 :star:  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  11.10K :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
-|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  231 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
+|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  236 :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  78 :star:  |
 |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.3K :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  56.3K :star:  |
 |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  480 :star:  |
 |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.4K :star:  |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  69.1K :star:  |
 |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  902 :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  13.6K :star:  |
 |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  480 :star:  |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.7K :star:  |
 |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  90 :star:  |  [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)  |  3.2K :star:  |
-|  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  41.8K :star:  |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.7K :star:  |
+|  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  41.9K :star:  |  [MotiaDev/motia](https://github.com/MotiaDev/motia)  |  9.7K :star:  |
 |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |  [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)  |  1.4K :star:  |
 |  [tayenx3/tuitui](https://github.com/tayenx3/tuitui)  |  10 :star:  |  [goproxyio/goproxy](https://github.com/goproxyio/goproxy)  |  5.9K :star:  |
 |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  358 :star:  |  [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion)  |  234 :star:  |
 
-<sup><sub>Last updated: October 25, 2025 at 20:21:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 26, 2025 at 00:05:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
