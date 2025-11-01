@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  486 :star:  |
 |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  801 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  107 :star:  |
-|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.2K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.1K :star:  |
+|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.2K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.2K :star:  |
 |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  43 :star:  |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |
-|  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  47.7K :star:  |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  389 :star:  |
+|  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  47.7K :star:  |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  390 :star:  |
 |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  561 :star:  |
 |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.2K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.7K :star:  |
 |  [deta/surf](https://github.com/deta/surf)  |  2.3K :star:  |  [operately/operately](https://github.com/operately/operately)  |  302 :star:  |
-|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  212 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
+|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  213 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12K :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  80 :star:  |
-|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  313 :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  58.8K :star:  |
+|  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  315 :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  58.8K :star:  |
 |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.8K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  489 :star:  |
 |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  69.4K :star:  |
 |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.8K :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  14.4K :star:  |
 |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  905 :star:  |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.8K :star:  |
 
-<sup><sub>Last updated: November 01, 2025 at 00:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 01, 2025 at 04:05:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
