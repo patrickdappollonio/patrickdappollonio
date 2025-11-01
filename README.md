@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  486 :star:  |
-|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  801 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  106 :star:  |
+|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  801 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  107 :star:  |
 |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.2K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.1K :star:  |
 |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  43 :star:  |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |
 |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  47.7K :star:  |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  389 :star:  |
-|  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  560 :star:  |
+|  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  561 :star:  |
 |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.2K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.7K :star:  |
 |  [deta/surf](https://github.com/deta/surf)  |  2.3K :star:  |  [operately/operately](https://github.com/operately/operately)  |  302 :star:  |
-|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  211 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
+|  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  212 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.2K :star:  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12K :star:  |  [dribdat/dribdat](https://github.com/dribdat/dribdat)  |  80 :star:  |
 |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  313 :star:  |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)  |  58.8K :star:  |
-|  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.8K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  488 :star:  |
+|  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.8K :star:  |  [wizenheimer/blaze](https://github.com/wizenheimer/blaze)  |  489 :star:  |
 |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |  [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)  |  69.4K :star:  |
-|  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.8K :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  14.3K :star:  |
+|  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  98.8K :star:  |  [TibixDev/winboat](https://github.com/TibixDev/winboat)  |  14.4K :star:  |
 |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  905 :star:  |  [hunvreus/devpush](https://github.com/hunvreus/devpush)  |  2.8K :star:  |
 
-<sup><sub>Last updated: October 31, 2025 at 20:21:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 01, 2025 at 00:04:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
