@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -66,14 +66,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.1K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  3.9K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  908 :star:  |
 |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  487 :star:  |
-|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  117 :star:  |
+|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  118 :star:  |
 |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.2K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.4K :star:  |
 |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  56 :star:  |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |
 |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  47.9K :star:  |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  416 :star:  |
-|  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  561 :star:  |
-|  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.3K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.8K :star:  |
+|  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |  [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2)  |  562 :star:  |
+|  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.4K :star:  |  [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)  |  4.8K :star:  |
 |  [deta/surf](https://github.com/deta/surf)  |  2.5K :star:  |  [operately/operately](https://github.com/operately/operately)  |  304 :star:  |
 |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  236 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.3K :star:  |
 
-<sup><sub>Last updated: November 05, 2025 at 11:05:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 05, 2025 at 15:05:21 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
