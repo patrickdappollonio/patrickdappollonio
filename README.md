@@ -60,8 +60,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  802 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
-|  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  356 :star:  |
-|  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.4K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  10.10K :star:  |
+|  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  355 :star:  |
+|  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.4K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11K :star:  |
 |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.1K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  3.9K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  908 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [deta/surf](https://github.com/deta/surf)  |  2.5K :star:  |  [operately/operately](https://github.com/operately/operately)  |  304 :star:  |
 |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  238 :star:  |  [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)  |  7.3K :star:  |
 
-<sup><sub>Last updated: November 05, 2025 at 19:20:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 05, 2025 at 23:08:30 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
