@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,10 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  8 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  89 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.4K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.4K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.6K :star:  |
-|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  239 :star:  |
+|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  241 :star:  |
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  804 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
 |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  363 :star:  |
 |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.5K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11.1K :star:  |
@@ -70,10 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.2K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  4K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  909 :star:  |
 |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  487 :star:  |
-|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  118 :star:  |
-|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.2K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.4K :star:  |
+|  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  119 :star:  |
+|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.4K :star:  |
 |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  58 :star:  |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |
-|  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  47.10K :star:  |  [numman-ali/opencode-openai-cod...](https://github.com/numman-ali/opencode-openai-codex-auth)  |  428 :star:  |
 
-<sup><sub>Last updated: November 06, 2025 at 23:05:28 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 07, 2025 at 03:06:32 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
