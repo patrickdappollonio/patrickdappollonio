@@ -64,7 +64,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  90 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.5K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.4K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.6K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  242 :star:  |
-|  [hyperium/h3](https://github.com/hyperium/h3)  |  804 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
+|  [hyperium/h3](https://github.com/hyperium/h3)  |  805 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
 |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  364 :star:  |
 |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.5K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11.1K :star:  |
 |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  4.1K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  909 :star:  |
 |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  488 :star:  |
 |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  124 :star:  |
-|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.4K :star:  |
+|  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.5K :star:  |
 |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  58 :star:  |  [siglens/siglens](https://github.com/siglens/siglens)  |  1.6K :star:  |
 
-<sup><sub>Last updated: November 07, 2025 at 07:07:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 07, 2025 at 11:05:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
