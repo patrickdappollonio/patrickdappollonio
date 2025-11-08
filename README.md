@@ -59,12 +59,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  992 :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  58 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  1.4K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  59 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  8 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  90 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.5K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.4K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.6K :star:  |
-|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  243 :star:  |
+|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  244 :star:  |
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  805 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
 |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  369 :star:  |
 |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.5K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11.1K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  132 :star:  |
 |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.5K :star:  |
 
-<sup><sub>Last updated: November 08, 2025 at 07:06:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 08, 2025 at 11:04:49 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
