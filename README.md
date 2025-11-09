@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  1.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  59 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  2.1K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  59 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  8 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.2K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  90 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.5K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  134 :star:  |
 |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)  |  42.5K :star:  |
 
-<sup><sub>Last updated: November 08, 2025 at 15:04:32 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 08, 2025 at 19:21:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
