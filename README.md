@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.1K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.3K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  3.3K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  61 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  3.5K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  61 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  9 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.1K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.3K :star:  |
-|  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  90 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.6K :star:  |
+|  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  91 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.6K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.6K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.5K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  246 :star:  |
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  805 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
-|  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  380 :star:  |
+|  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  381 :star:  |
 |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.5K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11.1K :star:  |
 |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |  [control-theory/gonzo](https://github.com/control-theory/gonzo)  |  2.1K :star:  |
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.3K :star:  |
-|  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  4.7K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  912 :star:  |
-|  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  490 :star:  |
+|  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  5K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  912 :star:  |
+|  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |  [houseabsolute/ubi](https://github.com/houseabsolute/ubi)  |  491 :star:  |
 |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |  [hybridgroup/yzma](https://github.com/hybridgroup/yzma)  |  137 :star:  |
 
-<sup><sub>Last updated: November 09, 2025 at 11:04:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 09, 2025 at 15:04:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
