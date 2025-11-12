@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,10 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [google/adk-go](https://github.com/google/adk-go)  |  2.6K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |
+|  [google/adk-go](https://github.com/google/adk-go)  |  2.7K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  1.9K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.1K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.4K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  7.1K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  63 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  7.4K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  63 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.2K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.3K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  91 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.7K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.6K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.3K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  912 :star:  |
 
-<sup><sub>Last updated: November 12, 2025 at 03:06:42 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 12, 2025 at 07:08:30 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
