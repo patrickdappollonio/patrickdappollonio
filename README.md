@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [google/adk-go](https://github.com/google/adk-go)  |  2.8K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  1.9K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  803 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.1K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.4K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  7.6K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  63 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  7.7K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  63 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.2K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.3K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  91 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.6K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.3K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  912 :star:  |
 
-<sup><sub>Last updated: November 12, 2025 at 11:06:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 12, 2025 at 15:05:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
