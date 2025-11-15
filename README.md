@@ -60,14 +60,14 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [google/adk-go](https://github.com/google/adk-go)  |  3.4K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |
-|  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  1.9K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  804 :star:  |
+|  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  1.10K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  804 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.4K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  9.1K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  66 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.3K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.3K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  92 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.9K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.7K :star:  |
-|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  251 :star:  |
+|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  252 :star:  |
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  806 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
 |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  430 :star:  |
 |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.7K :star:  |  [rustfs/rustfs](https://github.com/rustfs/rustfs)  |  11.3K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.8K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.6K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  915 :star:  |
 
-<sup><sub>Last updated: November 15, 2025 at 07:07:23 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 15, 2025 at 11:04:30 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
