@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -62,7 +62,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [google/adk-go](https://github.com/google/adk-go)  |  3.5K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  9 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  1.10K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  804 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.4K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  9.2K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  67 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  9.3K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  67 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.3K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.4K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.3K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  92 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  2.10K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |  [shadcn-ui/ui](https://github.com/shadcn-ui/ui)  |  99.8K :star:  |
 |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.6K :star:  |  [step-security/harden-runner](https://github.com/step-security/harden-runner)  |  915 :star:  |
 
-<sup><sub>Last updated: November 15, 2025 at 19:22:09 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 15, 2025 at 23:08:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
