@@ -59,11 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  693 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.7K :star:  |
-|  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  2.6K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
-|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  830 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
+|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  770 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.7K :star:  |
+|  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  2.7K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
+|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  841 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.5K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.8K :star:  |
-|  [google/adk-go](https://github.com/google/adk-go)  |  3.9K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  10 :star:  |
+|  [google/adk-go](https://github.com/google/adk-go)  |  3.10K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  10 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  804 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  10.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  67 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)  |  12.1K :star:  |
 |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |  [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  |  447 :star:  |
 
-<sup><sub>Last updated: November 18, 2025 at 15:05:42 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 18, 2025 at 19:20:49 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
