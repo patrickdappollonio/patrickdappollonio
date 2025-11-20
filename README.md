@@ -59,11 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  10.4K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  316 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
-|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  948 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.7K :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  10.7K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  355 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
+|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  961 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  2.9K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
-|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  903 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
+|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  912 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.6K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.9K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  4.1K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  10 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  805 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  257 :star:  |
 
-<sup><sub>Last updated: November 19, 2025 at 15:05:11 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 19, 2025 at 19:20:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
