@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  10.10K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  381 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
-|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  977 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  11.3K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  408 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
+|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  988 :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  2.9K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
-|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  915 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
+|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  921 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.6K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.9K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  4.1K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  10 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  805 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  11.4K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  67 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  11.5K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  67 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.5K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.4K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  92 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.2K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
-|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  258 :star:  |
+|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  259 :star:  |
 
-<sup><sub>Last updated: November 19, 2025 at 23:05:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 20, 2025 at 03:06:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
