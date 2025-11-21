@@ -59,13 +59,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  12.8K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  593 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
-|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
-|  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  2.10K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
-|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  945 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  13.1K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  627 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
+|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.1K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
+|  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
+|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  948 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.6K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.9K :star:  |
-|  [google/adk-go](https://github.com/google/adk-go)  |  4.2K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
+|  [google/adk-go](https://github.com/google/adk-go)  |  4.3K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  806 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  11.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  68 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  261 :star:  |
 
-<sup><sub>Last updated: November 20, 2025 at 19:19:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 20, 2025 at 23:05:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
