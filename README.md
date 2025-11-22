@@ -59,11 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  14.6K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  966 :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  14.8K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  1K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.2K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.1K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
-|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  971 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
+|  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  973 :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.6K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  6.9K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  4.4K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  807 :star:  |
@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.4K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.2K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
-|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  263 :star:  |
+|  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  264 :star:  |
 
-<sup><sub>Last updated: November 21, 2025 at 23:05:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 22, 2025 at 03:05:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
