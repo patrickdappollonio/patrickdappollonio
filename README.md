@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  16.1K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  16.3K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  1.7K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.2K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.9K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.2K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
@@ -68,12 +68,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [google/adk-go](https://github.com/google/adk-go)  |  4.7K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  808 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  12.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  71 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  12.9K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  71 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.6K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.5K :star:  |
-|  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.2K :star:  |
+|  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.3K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  267 :star:  |
 
-<sup><sub>Last updated: November 24, 2025 at 03:07:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 24, 2025 at 07:08:15 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
