@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,8 +59,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  15.9K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  1.4K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  15.10K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  807 :star:  |
+|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  1.6K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.2K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  14.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.2K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
@@ -68,12 +68,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [google/adk-go](https://github.com/google/adk-go)  |  4.6K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  808 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  12.6K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  71 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  12.7K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  71 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.6K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.5K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.2K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
 |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |  [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)  |  267 :star:  |
 
-<sup><sub>Last updated: November 23, 2025 at 19:21:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 23, 2025 at 23:14:24 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
