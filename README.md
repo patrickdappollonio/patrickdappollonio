@@ -60,13 +60,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  28 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.6K :star:  |
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  17.3K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  808 :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  17.4K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  809 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  2.2K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.2K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  15K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.3K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.2K :star:  |
-|  [google/adk-go](https://github.com/google/adk-go)  |  4.10K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
+|  [google/adk-go](https://github.com/google/adk-go)  |  5K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  11 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  808 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  13.6K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  72 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.3K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.8K :star:  |
 
-<sup><sub>Last updated: November 25, 2025 at 23:08:44 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 26, 2025 at 03:06:32 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
