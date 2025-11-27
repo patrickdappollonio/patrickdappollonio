@@ -69,11 +69,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [google/adk-go](https://github.com/google/adk-go)  |  5.2K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  12 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  808 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.2K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.5K :star:  |
-|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  14K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  73 :star:  |
+|  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  14.1K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  73 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.8K :star:  |
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.5K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.4K :star:  |
 |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |  [deta/surf](https://github.com/deta/surf)  |  2.9K :star:  |
 
-<sup><sub>Last updated: November 27, 2025 at 11:05:49 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 27, 2025 at 15:04:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
