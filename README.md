@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  30 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.7K :star:  |
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  17.10K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  810 :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  18K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  810 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  2.7K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.3K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  15.1K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.4K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |  [athasdev/athas](https://github.com/athasdev/athas)  |  1.5K :star:  |
 |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |  [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)  |  3.4K :star:  |
 
-<sup><sub>Last updated: November 28, 2025 at 11:05:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 28, 2025 at 15:05:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
