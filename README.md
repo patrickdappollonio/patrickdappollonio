@@ -60,7 +60,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  14.4K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
-|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  215 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |
+|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  218 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  93 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.7K :star:  |
 |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  18.7K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  811 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.3K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  73 :star:  |
 |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |  [unslothai/unsloth](https://github.com/unslothai/unsloth)  |  48.9K :star:  |
 
-<sup><sub>Last updated: December 02, 2025 at 15:05:27 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 02, 2025 at 19:20:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
