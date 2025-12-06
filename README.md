@@ -59,9 +59,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  466 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
-|  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  14.6K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
-|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  235 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  94 :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  539 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
+|  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  14.7K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
+|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  236 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  94 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.7K :star:  |
 |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  19.4K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  811 :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.6K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  73 :star:  |
 
-<sup><sub>Last updated: December 06, 2025 at 07:07:31 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 06, 2025 at 11:04:57 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
