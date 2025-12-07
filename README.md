@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  618 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  624 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  14.8K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  236 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  94 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.5K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.7K :star:  |
 |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.8K :star:  |  [adolfousier/ratifact](https://github.com/adolfousier/ratifact)  |  73 :star:  |
 
-<sup><sub>Last updated: December 07, 2025 at 03:05:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 07, 2025 at 07:07:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
