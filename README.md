@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -65,9 +65,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  260 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  96 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.6K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.7K :star:  |
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  20.10K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  812 :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  21.1K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  812 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.5K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
-|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  15.7K :star:  |
+|  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  15.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.7K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.6K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  808 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.7K :star:  |
 
-<sup><sub>Last updated: December 10, 2025 at 19:21:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 10, 2025 at 23:15:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
