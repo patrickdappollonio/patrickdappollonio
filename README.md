@@ -60,7 +60,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  785 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  787 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  10 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.1K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  262 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  97 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.6K :star:  |
@@ -70,10 +70,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  15.8K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.8K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
-|  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.6K :star:  |
+|  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.7K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  6.3K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  13 :star:  |
 |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |  [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go)  |  809 :star:  |
 |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |  [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)  |  19.7K :star:  |
 
-<sup><sub>Last updated: December 13, 2025 at 15:04:58 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 13, 2025 at 19:23:19 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
