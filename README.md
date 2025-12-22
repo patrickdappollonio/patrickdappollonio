@@ -59,10 +59,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  102 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
+|  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  119 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.2K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  896 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  902 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.2K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  264 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.6K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.8K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  6.4K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  13 :star:  |
 
-<sup><sub>Last updated: December 22, 2025 at 07:08:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 22, 2025 at 11:05:23 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
