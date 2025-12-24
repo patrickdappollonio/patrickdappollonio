@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  139 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
+|  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  140 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.2K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  925 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
-|  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.2K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  930 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
+|  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.3K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  264 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.6K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.7K :star:  |
-|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.5K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  820 :star:  |
+|  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.5K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  821 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.8K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  16K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.10K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
 |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.8K :star:  |
-|  [google/adk-go](https://github.com/google/adk-go)  |  6.4K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  13 :star:  |
+|  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  13 :star:  |
 
-<sup><sub>Last updated: December 23, 2025 at 19:21:32 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 23, 2025 at 23:15:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
