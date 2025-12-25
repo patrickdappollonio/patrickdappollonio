@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  16K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.10K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
-|  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.8K :star:  |
+|  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.9K :star:  |
 |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |  [fuziontech/lazyaws](https://github.com/fuziontech/lazyaws)  |  13 :star:  |
 
-<sup><sub>Last updated: December 25, 2025 at 11:06:05 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 25, 2025 at 15:05:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
