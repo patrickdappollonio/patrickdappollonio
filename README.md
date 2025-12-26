@@ -59,7 +59,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  16.8K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
+|  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  65 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  17.6K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  143 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.2K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
@@ -73,7 +74,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.4K :star:  |  [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  |  16.1K :star:  |
 |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  3.10K :star:  |  [hoodie/notify-rust](https://github.com/hoodie/notify-rust)  |  1.3K :star:  |
 |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |  [servo/rust-url](https://github.com/servo/rust-url)  |  1.5K :star:  |
-|  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |  [diet103/claude-code-infrastruc...](https://github.com/diet103/claude-code-infrastructure-showcase)  |  7.9K :star:  |
 
-<sup><sub>Last updated: December 26, 2025 at 11:05:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 26, 2025 at 15:04:50 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
