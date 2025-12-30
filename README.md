@@ -59,15 +59,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  20 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
-|  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  403 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4K :star:  |
+|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  31 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
+|  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  418 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.2K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |
 |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  68 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.7K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  22.5K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  22.6K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  145 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.3K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  954 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
+|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  955 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.3K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  264 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  97 :star:  |
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.6K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.8K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  822 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.8K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 
-<sup><sub>Last updated: December 29, 2025 at 19:21:35 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 29, 2025 at 23:18:32 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
