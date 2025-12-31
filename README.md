@@ -59,11 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  64 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
+|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  67 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  429 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.2K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |
 |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  71 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  23.4K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  23.5K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  145 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.3K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.9K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  822 :star:  |
 |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.8K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 
-<sup><sub>Last updated: December 31, 2025 at 07:08:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 31, 2025 at 11:06:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
