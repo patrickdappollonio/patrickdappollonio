@@ -59,11 +59,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.8K :star:  |
 |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  72 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  429 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.2K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |
 |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  71 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  23.6K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  23.7K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  145 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.3K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.2K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
@@ -73,7 +74,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.7K :star:  |
 |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |  [orhun/binsider](https://github.com/orhun/binsider)  |  3.8K :star:  |
 |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.9K :star:  |  [hyperium/h3](https://github.com/hyperium/h3)  |  822 :star:  |
-|  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.8K :star:  |  [hyperium/h2](https://github.com/hyperium/h2)  |  1.5K :star:  |
 
-<sup><sub>Last updated: December 31, 2025 at 15:05:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: December 31, 2025 at 19:24:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
