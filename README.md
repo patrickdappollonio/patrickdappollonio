@@ -59,8 +59,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.2K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
-|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  127 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.9K :star:  |
+|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  128 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.9K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
 |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  79 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  430 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4.1K :star:  |
@@ -73,7 +74,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  959 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.4K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  263 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
-|  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |  [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)  |  4.7K :star:  |
 
-<sup><sub>Last updated: January 01, 2026 at 23:19:40 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 02, 2026 at 03:06:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
