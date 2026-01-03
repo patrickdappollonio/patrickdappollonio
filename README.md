@@ -67,13 +67,13 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  432 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4.1K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.2K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |
 |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  72 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  24.4K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  24.5K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.5K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  147 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.3K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
-|  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.9K :star:  |
+|  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.10K :star:  |
 |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  959 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.4K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  264 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
 
-<sup><sub>Last updated: January 02, 2026 at 19:20:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 02, 2026 at 23:12:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
