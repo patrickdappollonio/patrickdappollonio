@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#53: Add support for multiline environment variables and variable...](https://github.com/patrickdappollonio/dotenv/pull/53) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18"><img src="https://diff-counter.patrickdap.dev/?add=504&del=14&height=18" alt="+504 -14"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
+Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.4K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
+|  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  128 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  23.10K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  15.10K :star:  |
 |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  963 :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  11 :star:  |
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.4K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
-|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  264 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
+|  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  265 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  98 :star:  |
 
-<sup><sub>Last updated: January 03, 2026 at 11:05:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 03, 2026 at 15:05:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
