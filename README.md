@@ -61,12 +61,12 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
-|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  130 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.1K :star:  |
+|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  131 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.1K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  118 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
+|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  120 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  433 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4.1K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.2K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.2K :star:  |
-|  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  74 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
+|  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  75 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
 |  [tw93/Mole](https://github.com/tw93/Mole)  |  25.5K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.6K :star:  |
 |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  147 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.1K :star:  |
 |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.4K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.4K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
 |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  267 :star:  |  [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer)  |  99 :star:  |
 
-<sup><sub>Last updated: January 05, 2026 at 15:05:25 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 05, 2026 at 19:22:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
