@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  241 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  269 :star:  |
+|  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  148 :star:  |
+|  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.4K :star:  |
+|  [alexykn/sps2](https://github.com/alexykn/sps2)  |  140 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
+|  [coder/httpjail](https://github.com/coder/httpjail)  |  813 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1K :star:  |
+|  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.5K :star:  |
+|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  243 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  269 :star:  |
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
-|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  136 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.2K :star:  |
+|  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  136 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.3K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  142 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
+|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  143 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  433 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4.1K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.3K :star:  |
 |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  99 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  27.5K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.6K :star:  |
-|  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  148 :star:  |  [rzane/docker2exe](https://github.com/rzane/docker2exe)  |  2.2K :star:  |
-|  [zensical/zensical](https://github.com/zensical/zensical)  |  2.4K :star:  |  [marko-js/marko](https://github.com/marko-js/marko)  |  14.3K :star:  |
-|  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |  [Snapchat/Valdi](https://github.com/Snapchat/Valdi)  |  16.1K :star:  |
-|  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1K :star:  |  [golang-cz/ringbuf](https://github.com/golang-cz/ringbuf)  |  12 :star:  |
-|  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.5K :star:  |  [run-llama/semtools](https://github.com/run-llama/semtools)  |  1.5K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  27.6K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.6K :star:  |
 
-<sup><sub>Last updated: January 09, 2026 at 23:14:09 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 10, 2026 at 03:06:11 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
