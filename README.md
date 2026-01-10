@@ -64,7 +64,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  140 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
 |  [coder/httpjail](https://github.com/coder/httpjail)  |  813 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1K :star:  |
 |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.5K :star:  |
-|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  252 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  269 :star:  |
+|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  256 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  269 :star:  |
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  136 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.3K :star:  |
@@ -72,8 +72,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  144 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  433 :star:  |  [p-e-w/heretic](https://github.com/p-e-w/heretic)  |  4.1K :star:  |
 |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |  [universal-tool-calling-protoco...](https://github.com/universal-tool-calling-protocol/code-mode)  |  1.3K :star:  |
-|  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  99 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
-|  [tw93/Mole](https://github.com/tw93/Mole)  |  27.7K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.6K :star:  |
+|  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  100 :star:  |  [boa-dev/boa](https://github.com/boa-dev/boa)  |  6.8K :star:  |
+|  [tw93/Mole](https://github.com/tw93/Mole)  |  27.8K :star:  |  [google/adk-go](https://github.com/google/adk-go)  |  6.6K :star:  |
 
-<sup><sub>Last updated: January 10, 2026 at 11:05:06 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 10, 2026 at 15:05:01 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
