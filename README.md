@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [joshprk/vtui](https://github.com/joshprk/vtui)  |  12 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  432 :star:  |
+|  [joshprk/vtui](https://github.com/joshprk/vtui)  |  13 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  433 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
-|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  203 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  112 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  241 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  28.4K :star:  |
+|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  204 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  113 :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  244 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  28.5K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  148 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.4K :star:  |
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  142 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
-|  [coder/httpjail](https://github.com/coder/httpjail)  |  813 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1K :star:  |
+|  [coder/httpjail](https://github.com/coder/httpjail)  |  814 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1K :star:  |
 |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.5K :star:  |
-|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  275 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  270 :star:  |
+|  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  277 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  270 :star:  |
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  136 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.4K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
 |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  144 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 
-<sup><sub>Last updated: January 12, 2026 at 19:19:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 12, 2026 at 23:19:10 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
