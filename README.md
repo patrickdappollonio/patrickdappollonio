@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [joshprk/vtui](https://github.com/joshprk/vtui)  |  11 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  432 :star:  |
+|  [joshprk/vtui](https://github.com/joshprk/vtui)  |  12 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  432 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  203 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  112 :star:  |
 |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  241 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  28.4K :star:  |
@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  136 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.4K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  145 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
+|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  144 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 
-<sup><sub>Last updated: January 12, 2026 at 15:05:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 12, 2026 at 19:19:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
