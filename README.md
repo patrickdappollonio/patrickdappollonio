@@ -59,10 +59,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  21.8K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  144 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  14 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  433 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
-|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  207 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  116 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  263 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  28.10K :star:  |
+|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  207 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  117 :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  265 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  29.1K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  148 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.5K :star:  |
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  142 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
@@ -73,7 +74,6 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.5K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  33 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  137 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.4K :star:  |
 |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
-|  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  144 :star:  |  [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)  |  1.5K :star:  |
 
-<sup><sub>Last updated: January 14, 2026 at 07:08:46 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 14, 2026 at 11:07:20 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
