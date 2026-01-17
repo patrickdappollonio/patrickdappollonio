@@ -59,7 +59,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  25.9K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  145 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  26K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  145 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  14 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  435 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  212 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  119 :star:  |
@@ -73,7 +73,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |  [CybercentreCanada/cart-rs](https://github.com/CybercentreCanada/cart-rs)  |  34 :star:  |
 |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  138 :star:  |  [kavishdevar/librepods](https://github.com/kavishdevar/librepods)  |  24.5K :star:  |
-|  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.9K :star:  |
+|  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |  [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)  |  3.10K :star:  |
 
-<sup><sub>Last updated: January 16, 2026 at 15:05:41 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 16, 2026 at 19:21:25 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
