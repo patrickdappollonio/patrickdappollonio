@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  1.4K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |
-|  [steveyegge/beads](https://github.com/steveyegge/beads)  |  11.10K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  139 :star:  |
-|  [blader/humanizer](https://github.com/blader/humanizer)  |  2.1K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  33K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  152 :star:  |
+|  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  1.6K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |
+|  [steveyegge/beads](https://github.com/steveyegge/beads)  |  12K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  139 :star:  |
+|  [blader/humanizer](https://github.com/blader/humanizer)  |  2.2K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  33.2K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  152 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  15 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  439 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  217 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  125 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  505 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.1K :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  510 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.1K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  149 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.6K :star:  |
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  143 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
-|  [coder/httpjail](https://github.com/coder/httpjail)  |  812 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1.1K :star:  |
+|  [coder/httpjail](https://github.com/coder/httpjail)  |  813 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1.1K :star:  |
 |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.7K :star:  |
 |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  300 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  270 :star:  |
 |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.5K :star:  |  [nathan-nicholson/note](https://github.com/nathan-nicholson/note)  |  1 :star:  |
 
-<sup><sub>Last updated: January 22, 2026 at 07:09:23 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 22, 2026 at 11:08:54 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
