@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#54: Add support for custom file path instead of...](https://github.com/patrickdappollonio/dotenv/pull/54) | [`dotenv`](https://github.com/patrickdappollonio/dotenv) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=299&del=129&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=299&del=129&height=18"><img src="https://diff-counter.patrickdap.dev/?add=299&del=129&height=18" alt="+299 -129"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-merged.png" width="12" height="12" alt="merged"></picture> merged |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -59,15 +59,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  23.2K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.6K :star:  |
+|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  23.3K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.6K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.1K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  12.6K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  139 :star:  |
 |  [blader/humanizer](https://github.com/blader/humanizer)  |  2.8K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  35.3K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  153 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  35.4K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  153 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  15 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  439 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
-|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  219 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  133 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  574 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.5K :star:  |
+|  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  219 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  135 :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  576 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.5K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  149 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.6K :star:  |
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  146 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.8K :star:  |
 |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  302 :star:  |  [grigio/network-monitor](https://github.com/grigio/network-monitor)  |  270 :star:  |
 
-<sup><sub>Last updated: January 24, 2026 at 19:24:59 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 24, 2026 at 23:26:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
