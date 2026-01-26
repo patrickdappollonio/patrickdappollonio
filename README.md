@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  41 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  303 :star:  |
-|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  23.10K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.6K :star:  |
+|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  51 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  303 :star:  |
+|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  24.1K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.6K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.2K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  12.8K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  140 :star:  |
-|  [blader/humanizer](https://github.com/blader/humanizer)  |  3K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  36.2K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  155 :star:  |
+|  [blader/humanizer](https://github.com/blader/humanizer)  |  3.1K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  36.4K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  155 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  15 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  439 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  220 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  137 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  591 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.7K :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  594 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  31.8K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  149 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.6K :star:  |
 |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  146 :star:  |  [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)  |  2.3K :star:  |
 |  [coder/httpjail](https://github.com/coder/httpjail)  |  815 :star:  |  [tractordev/apptron](https://github.com/tractordev/apptron)  |  1.1K :star:  |
 |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |  [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)  |  15.8K :star:  |
 
-<sup><sub>Last updated: January 25, 2026 at 23:27:45 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 26, 2026 at 03:08:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
