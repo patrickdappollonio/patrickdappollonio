@@ -60,9 +60,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  18.5K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  148 :star:  |
-|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  169 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  816 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  132.5K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |
-|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  134 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  306 :star:  |
+|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  174 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  816 :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  134.1K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.4K :star:  |
+|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  137 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  306 :star:  |
 |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  26.6K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.4K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.6K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  13.9K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  141 :star:  |
@@ -71,9 +71,9 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  17 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  439 :star:  |
 |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  248 :star:  |  [ardanlabs/kronk](https://github.com/ardanlabs/kronk)  |  145 :star:  |
-|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  668 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  32.6K :star:  |
+|  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  671 :star:  |  [tw93/Mole](https://github.com/tw93/Mole)  |  32.7K :star:  |
 |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |  [ibaryshnikov/android-iced-exam...](https://github.com/ibaryshnikov/android-iced-example)  |  150 :star:  |
 |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |  [zensical/zensical](https://github.com/zensical/zensical)  |  2.8K :star:  |
 
-<sup><sub>Last updated: January 31, 2026 at 19:30:55 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: January 31, 2026 at 23:45:37 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
