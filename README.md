@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  779 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  306 :star:  |
-|  [j178/prek](https://github.com/j178/prek)  |  6K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  781 :star:  |
+|  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  1.2K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
+|  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  780 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  309 :star:  |
+|  [j178/prek](https://github.com/j178/prek)  |  6K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  785 :star:  |
 |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.2K :star:  |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |
 |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  486 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.5K :star:  |
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  18.8K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  153 :star:  |
-|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  388 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  898 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  182.4K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
-|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  154 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  311 :star:  |
-|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  30.2K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
+|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  390 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  898 :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  182.7K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
+|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  156 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  311 :star:  |
+|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  30.3K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.6K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.7K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  15.8K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  149 :star:  |
 |  [blader/humanizer](https://github.com/blader/humanizer)  |  4.6K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  49.1K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  158 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  49.2K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  158 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  19 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  440 :star:  |
-|  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |  [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)  |  1.3K :star:  |
 
-<sup><sub>Last updated: February 10, 2026 at 15:15:26 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 10, 2026 at 19:32:17 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
