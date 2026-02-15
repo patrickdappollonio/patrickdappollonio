@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  1.9K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 |  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  807 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  317 :star:  |
-|  [j178/prek](https://github.com/j178/prek)  |  6.2K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  888 :star:  |
+|  [j178/prek](https://github.com/j178/prek)  |  6.2K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  895 :star:  |
 |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.3K :star:  |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |
-|  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  516 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.6K :star:  |
+|  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  521 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.6K :star:  |
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  18.9K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  153 :star:  |
-|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  425 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  902 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  196.1K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
-|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  159 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  315 :star:  |
+|  [loft-sh/vind](https://github.com/loft-sh/vind)  |  426 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  902 :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  196.6K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
+|  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  160 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  315 :star:  |
 |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  31.6K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.6K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.7K :star:  |
-|  [steveyegge/beads](https://github.com/steveyegge/beads)  |  16.3K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  150 :star:  |
+|  [steveyegge/beads](https://github.com/steveyegge/beads)  |  16.3K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  151 :star:  |
 |  [blader/humanizer](https://github.com/blader/humanizer)  |  4.8K :star:  |  [orange-framework/orange-js](https://github.com/orange-framework/orange-js)  |  260 :star:  |
-|  [obra/superpowers](https://github.com/obra/superpowers)  |  51.9K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  159 :star:  |
+|  [obra/superpowers](https://github.com/obra/superpowers)  |  52K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  159 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  19 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  443 :star:  |
 
-<sup><sub>Last updated: February 15, 2026 at 11:06:47 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 15, 2026 at 15:05:52 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
