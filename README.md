@@ -66,7 +66,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  523 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.6K :star:  |
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  153 :star:  |
 |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  437 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  903 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  201.6K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  202.2K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
 |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  162 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  315 :star:  |
 |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  31.8K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [obra/superpowers](https://github.com/obra/superpowers)  |  52.9K :star:  |  [Lulzx/zs3](https://github.com/Lulzx/zs3)  |  159 :star:  |
 |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  19 :star:  |  [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk)  |  443 :star:  |
 
-<sup><sub>Last updated: February 16, 2026 at 19:28:21 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 16, 2026 at 23:38:44 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
