@@ -59,8 +59,8 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [majorcontext/moat](https://github.com/majorcontext/moat)  |  2 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  5.8K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  4.9K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  57.1K :star:  |
+|  [majorcontext/moat](https://github.com/majorcontext/moat)  |  2 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  5.9K :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  4.9K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  57.3K :star:  |
 |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  1.1K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  1.10K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 |  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  834 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  320 :star:  |
@@ -69,11 +69,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  539 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.6K :star:  |
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.1K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  153 :star:  |
 |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  484 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  904 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  216.6K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  216.10K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
 |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  165 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  318 :star:  |
 |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  32.9K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.8K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  16.9K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  153 :star:  |
 
-<sup><sub>Last updated: February 21, 2026 at 23:37:13 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 22, 2026 at 03:08:23 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
