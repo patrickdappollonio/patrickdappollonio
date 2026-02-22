@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#1: Add support for grep only.](https://github.com/patrickdappollonio/vsc-replacer/pull/1) | [`vsc-replacer`](https://github.com/patrickdappollonio/vsc-replacer) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18"><img src="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18" alt="+224 -95"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12" alt="open"></picture> open |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -60,7 +60,7 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  2 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  5.8K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  4.8K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  56.10K :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  4.9K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  57.1K :star:  |
 |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  1.1K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  1.10K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 |  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  834 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  320 :star:  |
@@ -69,11 +69,11 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  539 :star:  |  [xtool-org/xtool](https://github.com/xtool-org/xtool)  |  4.6K :star:  |
 |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.1K :star:  |  [alexykn/sps2](https://github.com/alexykn/sps2)  |  153 :star:  |
 |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  484 :star:  |  [coder/httpjail](https://github.com/coder/httpjail)  |  904 :star:  |
-|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  216.3K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
+|  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  216.6K :star:  |  [spegel-org/spegel](https://github.com/spegel-org/spegel)  |  3.5K :star:  |
 |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  165 :star:  |  [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)  |  318 :star:  |
-|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  32.8K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
+|  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  32.9K :star:  |  [maxpert/marmot](https://github.com/maxpert/marmot)  |  2.7K :star:  |
 |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |  [uutils/coreutils](https://github.com/uutils/coreutils)  |  22.8K :star:  |
 |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  16.9K :star:  |  [rust-mcp-stack/rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk)  |  153 :star:  |
 
-<sup><sub>Last updated: February 21, 2026 at 19:27:30 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 21, 2026 at 23:37:13 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
