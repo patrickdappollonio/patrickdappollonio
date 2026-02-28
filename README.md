@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  39 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  566 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  300 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.2K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  842 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  533 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  5.7K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  238.5K :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  306 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.3K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  534 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  5.7K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  239.2K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  516 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  167 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  26.6K :star:  |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  35.3K :star:  |
-|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  18.4K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  26.8K :star:  |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  35.4K :star:  |
+|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  18.6K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |
 |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  43 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  17.6K :star:  |
 |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  3 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  7.2K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  5.8K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  65.3K :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  5.9K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  65.5K :star:  |
 |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  1.4K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
-|  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  2.3K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
+|  [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)  |  2.4K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 |  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  860 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  328 :star:  |
 |  [j178/prek](https://github.com/j178/prek)  |  6.5K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  1.1K :star:  |
 |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.4K :star:  |  [foyer-rs/foyer](https://github.com/foyer-rs/foyer)  |  1.6K :star:  |
 
-<sup><sub>Last updated: February 28, 2026 at 03:07:06 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: February 28, 2026 at 07:09:12 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
