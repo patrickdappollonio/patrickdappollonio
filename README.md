@@ -37,7 +37,7 @@ My personal favourite projects are :pushpin: pinned below!
 | [#1: Add support for grep only.](https://github.com/patrickdappollonio/vsc-replacer/pull/1) | [`vsc-replacer`](https://github.com/patrickdappollonio/vsc-replacer) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18"><source media="(prefers-color-scheme: light)" srcset="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18"><img src="https://diff-counter.patrickdap.dev/?add=224&del=95&height=18" alt="+224 -95"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12"><img src="https://raw.githubusercontent.com/patrickdappollonio/patrickdappollonio/refs/heads/main/images/statuses/github-open.png" width="12" height="12" alt="open"></picture> open |
 
 
-Overall, my most recent contributions (besides my own repos) have gone to [@konstructio](https://github.com/konstructio) and [@predicatelabs](https://github.com/predicatelabs).
+Overall, my most recent contributions (besides my own repos) have gone to [@predicatelabs](https://github.com/predicatelabs) and [@konstructio](https://github.com/konstructio).
 ### :books: Latest Blog Posts
 
 *(Some content might be written in Spanish)*
@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |------------|-------|------------|-------|
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  553 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.5K :star:  |
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  573 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  358 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.3K :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  363 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.3K :star:  |
 |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  550 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  5.8K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  247.7K :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  5.8K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  249.3K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  516 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  167 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  27.8K :star:  |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  36.2K :star:  |
-|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  20.1K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.7K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  27.9K :star:  |  [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)  |  36.3K :star:  |
+|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  20.2K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
 |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  45 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  17.9K :star:  |
 |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  3 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  7.5K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.1K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  68.1K :star:  |
-|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  2.9K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.2K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  68.4K :star:  |
+|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  2.10K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.5K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 |  [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)  |  868 :star:  |  [apify/mcp-cli](https://github.com/apify/mcp-cli)  |  331 :star:  |
-|  [j178/prek](https://github.com/j178/prek)  |  6.6K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  1.2K :star:  |
+|  [j178/prek](https://github.com/j178/prek)  |  6.7K :star:  |  [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber)  |  1.2K :star:  |
 
-<sup><sub>Last updated: March 02, 2026 at 19:28:00 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 02, 2026 at 23:35:38 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
