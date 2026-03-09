@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  1.10K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  893 :star:  |
+|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  1.10K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  894 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.8K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  553 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.7K :star:  |
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  618 :star:  |
 |  [flamestro/deff](https://github.com/flamestro/deff)  |  453 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.4K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  699 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.1K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  280K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  701 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.1K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  280.4K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  167 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  30.5K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  38.1K :star:  |
-|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  26.1K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  30.6K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  38.1K :star:  |
+|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  26.3K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
 |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  50 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.5K :star:  |
 |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  15 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  7.10K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.8K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  73.8K :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.8K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  73.9K :star:  |
 |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  5.6K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.6K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 
-<sup><sub>Last updated: March 08, 2026 at 16:05:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 08, 2026 at 20:27:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
