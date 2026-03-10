@@ -62,18 +62,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  907 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.8K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  553 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.7K :star:  |
-|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  625 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  456 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.4K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  716 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.2K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  296.1K :star:  |
+|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  624 :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  457 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.4K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  717 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.2K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  297.5K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  167 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  31.8K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  38.7K :star:  |
-|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  27.8K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  31.9K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  38.8K :star:  |
+|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  27.10K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
 |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  50 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.7K :star:  |
 |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  15 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  8.3K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.10K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  75.9K :star:  |
-|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  6.1K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  6.10K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  76.2K :star:  |
+|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  6.2K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.6K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 
-<sup><sub>Last updated: March 10, 2026 at 08:13:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 10, 2026 at 12:23:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
