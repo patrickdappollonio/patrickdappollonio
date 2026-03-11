@@ -62,18 +62,18 @@ Overall, my most recent contributions (besides my own repos) have gone to [@kons
 |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  910 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.8K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  553 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.7K :star:  |
-|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  628 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  460 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.4K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  725 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.2K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  301.2K :star:  |
+|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  630 :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  460 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  728 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.2K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  302.4K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  166 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  32.2K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  38.10K :star:  |
-|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  28.3K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
-|  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  50 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.7K :star:  |
-|  [majorcontext/moat](https://github.com/majorcontext/moat)  |  17 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  8.5K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  77.1K :star:  |
-|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  6.4K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  32.3K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  39K :star:  |
+|  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  28.4K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
+|  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  50 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.8K :star:  |
+|  [majorcontext/moat](https://github.com/majorcontext/moat)  |  17 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  8.6K :star:  |
+|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  77.4K :star:  |
+|  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  6.5K :star:  |  [joshprk/vtui](https://github.com/joshprk/vtui)  |  20 :star:  |
 |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.6K :star:  |  [Canop/termimad](https://github.com/Canop/termimad)  |  1.1K :star:  |
 
-<sup><sub>Last updated: March 11, 2026 at 04:13:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 11, 2026 at 08:14:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
