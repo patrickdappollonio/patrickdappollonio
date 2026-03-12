@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.6K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  7K :star:  |
-|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  15.1K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.6K :star:  |
-|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  920 :star:  |
+|  [willswire/union](https://github.com/willswire/union)  |  30 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  18 :star:  |
+|  [jrswab/axe](https://github.com/jrswab/axe)  |  123 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.1K :star:  |
+|  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.6K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  7.1K :star:  |
+|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  15.3K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.6K :star:  |
+|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  921 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.8K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  555 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.8K :star:  |
-|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  634 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  492 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  749 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.3K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  306.5K :star:  |
+|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  635 :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  496 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  753 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.3K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  307.2K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  165 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  32.8K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  39.3K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  32.8K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  39.4K :star:  |
 |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  28.8K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
-|  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  51 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.8K :star:  |
-|  [majorcontext/moat](https://github.com/majorcontext/moat)  |  18 :star:  |  [blader/humanizer](https://github.com/blader/humanizer)  |  8.8K :star:  |
-|  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.1K :star:  |  [obra/superpowers](https://github.com/obra/superpowers)  |  79.1K :star:  |
+|  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  51 :star:  |  [steveyegge/beads](https://github.com/steveyegge/beads)  |  18.9K :star:  |
 
-<sup><sub>Last updated: March 12, 2026 at 08:12:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 12, 2026 at 12:24:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
