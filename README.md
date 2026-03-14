@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.4K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  51 :star:  |
 |  [willswire/union](https://github.com/willswire/union)  |  30 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  21 :star:  |
-|  [jrswab/axe](https://github.com/jrswab/axe)  |  544 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.2K :star:  |
+|  [jrswab/axe](https://github.com/jrswab/axe)  |  554 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.2K :star:  |
 |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.7K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  7.5K :star:  |
-|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  16.3K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.7K :star:  |
+|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  16.4K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.7K :star:  |
 |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.1K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  928 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.9K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  555 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.8K :star:  |
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  41 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  648 :star:  |
 |  [flamestro/deff](https://github.com/flamestro/deff)  |  513 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  843 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  781 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.3K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  311.2K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  844 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  782 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.3K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  311.6K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  165 :star:  |
-|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  33.3K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  39.8K :star:  |
+|  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  33.3K :star:  |  [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  |  39.9K :star:  |
 |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  29.4K :star:  |  [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)  |  2.8K :star:  |
 
-<sup><sub>Last updated: March 14, 2026 at 00:34:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 14, 2026 at 04:09:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
