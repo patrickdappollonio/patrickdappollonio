@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.7K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  33.10K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  8.5K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  30.2K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  8.6K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  30.3K :star:  |
 |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.5K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  51 :star:  |
 |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  23 :star:  |
-|  [jrswab/axe](https://github.com/jrswab/axe)  |  620 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.2K :star:  |
+|  [jrswab/axe](https://github.com/jrswab/axe)  |  622 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.3K :star:  |
 |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.7K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  7.8K :star:  |
-|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  17.2K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.7K :star:  |
+|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  17.3K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.7K :star:  |
 |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.1K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  935 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.9K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  555 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.8K :star:  |
-|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  40 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  657 :star:  |
-|  [flamestro/deff](https://github.com/flamestro/deff)  |  542 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
-|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  844 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  802 :star:  |
-|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.5K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  316.10K :star:  |
+|  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  40 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  658 :star:  |
+|  [flamestro/deff](https://github.com/flamestro/deff)  |  543 :star:  |  [fosrl/pangolin](https://github.com/fosrl/pangolin)  |  19.5K :star:  |
+|  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  844 :star:  |  [loft-sh/vind](https://github.com/loft-sh/vind)  |  804 :star:  |
+|  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  6.5K :star:  |  [openclaw/openclaw](https://github.com/openclaw/openclaw)  |  317.2K :star:  |
 |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  517 :star:  |  [hjertefolger/cortex](https://github.com/hjertefolger/cortex)  |  165 :star:  |
 
-<sup><sub>Last updated: March 16, 2026 at 12:24:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 16, 2026 at 16:12:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
