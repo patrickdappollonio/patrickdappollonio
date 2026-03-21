@@ -61,19 +61,19 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  314 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  548 :star:  |
 |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.3K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  847 :star:  |
-|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  381 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.1K :star:  |
+|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  405 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.1K :star:  |
 |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  1.9K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  519 :star:  |
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  35.2K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  11.5K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  31.6K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  11.6K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  31.6K :star:  |
 |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.7K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  52 :star:  |
 |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  25 :star:  |
 |  [jrswab/axe](https://github.com/jrswab/axe)  |  693 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.5K :star:  |
 |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.7K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  8K :star:  |
 |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  18.2K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.8K :star:  |
-|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  947 :star:  |
+|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  948 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  6.10K :star:  |
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  556 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.9K :star:  |
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  675 :star:  |
 
-<sup><sub>Last updated: March 21, 2026 at 04:08:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 21, 2026 at 08:09:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
