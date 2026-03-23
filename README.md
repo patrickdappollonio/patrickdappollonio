@@ -61,10 +61,10 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |------------|-------|------------|-------|
 |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  316 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  548 :star:  |
 |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.6K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  847 :star:  |
-|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  502 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.1K :star:  |
+|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  505 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.1K :star:  |
 |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.1K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  519 :star:  |
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  35.6K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  12.1K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  31.9K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  12.2K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  31.10K :star:  |
 |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.8K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  52 :star:  |
 |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  26 :star:  |
 |  [jrswab/axe](https://github.com/jrswab/axe)  |  711 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.5K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  556 :star:  |  [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)  |  1.9K :star:  |
 |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |  [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)  |  676 :star:  |
 
-<sup><sub>Last updated: March 23, 2026 at 00:46:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 23, 2026 at 04:21:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
