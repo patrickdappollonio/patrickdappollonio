@@ -63,17 +63,17 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  5.7K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
 |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  317 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  550 :star:  |
 |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.7K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  848 :star:  |
-|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  557 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
+|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  559 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
 |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.4K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  519 :star:  |
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  35.10K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  12.7K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.5K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  12.8K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.6K :star:  |
 |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.8K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  53 :star:  |
-|  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  26 :star:  |
-|  [jrswab/axe](https://github.com/jrswab/axe)  |  713 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.6K :star:  |
+|  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  28 :star:  |
+|  [jrswab/axe](https://github.com/jrswab/axe)  |  714 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.6K :star:  |
 |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  8.1K :star:  |
-|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  18.10K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.9K :star:  |
+|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.9K :star:  |
 |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  954 :star:  |
 |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  7K :star:  |
 
-<sup><sub>Last updated: March 24, 2026 at 12:25:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 24, 2026 at 16:13:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
