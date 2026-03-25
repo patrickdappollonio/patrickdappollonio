@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  301 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.8K :star:  |
+|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  412 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
+|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  189 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  718 :star:  |
+|  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.5K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
+|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  806 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.1K :star:  |
+|  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |
+|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  133 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.3K :star:  |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  556 :star:  |
 |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  5.8K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
 |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  317 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  551 :star:  |
-|  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.8K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  848 :star:  |
-|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  573 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
-|  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.5K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  519 :star:  |
+|  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.8K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  849 :star:  |
+|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  577 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
+|  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.6K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  520 :star:  |
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  36.2K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  13.1K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.7K :star:  |
-|  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.8K :star:  |  [obot-platform/discobot](https://github.com/obot-platform/discobot)  |  53 :star:  |
-|  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |  [majorcontext/moat](https://github.com/majorcontext/moat)  |  28 :star:  |
-|  [jrswab/axe](https://github.com/jrswab/axe)  |  716 :star:  |  [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)  |  7.6K :star:  |
-|  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |  [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)  |  8.1K :star:  |
-|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.1K :star:  |  [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)  |  2.9K :star:  |
-|  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |  [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills)  |  957 :star:  |
-|  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |  [j178/prek](https://github.com/j178/prek)  |  7K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  13.3K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.8K :star:  |
 
-<sup><sub>Last updated: March 25, 2026 at 08:18:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 25, 2026 at 16:13:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
