@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  334 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.9K :star:  |
-|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  412 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  341 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.9K :star:  |
+|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  414 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
 |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  191 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  717 :star:  |
 |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.5K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
 |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  806 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.2K :star:  |
-|  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.2K :star:  |
-|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  143 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
+|  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
+|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  147 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.3K :star:  |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  556 :star:  |
 |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  5.9K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
 |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  317 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  551 :star:  |
 |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.9K :star:  |  [FairwindsOps/nova](https://github.com/FairwindsOps/nova)  |  849 :star:  |
-|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  583 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
-|  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.7K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  520 :star:  |
+|  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  585 :star:  |  [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)  |  7.2K :star:  |
+|  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.8K :star:  |  [k8tz/k8tz](https://github.com/k8tz/k8tz)  |  520 :star:  |
 |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |  [HKUDS/nanobot](https://github.com/HKUDS/nanobot)  |  36.4K :star:  |
-|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  13.6K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.9K :star:  |
+|  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  13.8K :star:  |  [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  |  32.10K :star:  |
 
-<sup><sub>Last updated: March 26, 2026 at 04:20:11 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 26, 2026 at 08:21:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
