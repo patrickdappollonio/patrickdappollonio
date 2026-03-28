@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  432 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  318 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.4K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  1.10K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  591 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  143 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.9K :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  148 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  2.10K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
 |  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  1.5K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  14.6K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  423 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.9K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  429 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.9K :star:  |
 |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  418 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
-|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  197 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  722 :star:  |
+|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  198 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  722 :star:  |
 |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
-|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  809 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.4K :star:  |
+|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  809 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.5K :star:  |
 |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
-|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  169 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
+|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  171 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.4K :star:  |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  556 :star:  |
 |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.1K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
-|  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  318 :star:  |  [flamestro/deff](https://github.com/flamestro/deff)  |  553 :star:  |
 
-<sup><sub>Last updated: March 28, 2026 at 00:39:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 28, 2026 at 04:13:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
