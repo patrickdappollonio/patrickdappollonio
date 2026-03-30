@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  482 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  317 :star:  |
-|  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.5K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  484 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  318 :star:  |
+|  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.6K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  594 :star:  |
 |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  177 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
-|  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  1.9K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  15.1K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  659 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.10K :star:  |
+|  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  1.9K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  15.2K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  682 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.10K :star:  |
 |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  420 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
 |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  201 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  731 :star:  |
 |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
-|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  812 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.10K :star:  |
+|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  813 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  19.10K :star:  |
 |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
 |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  184 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.5K :star:  |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  557 :star:  |
-|  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.3K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
+|  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.4K :star:  |  [puremachinery/carapace](https://github.com/puremachinery/carapace)  |  42 :star:  |
 
-<sup><sub>Last updated: March 29, 2026 at 16:08:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 29, 2026 at 20:32:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
