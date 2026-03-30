@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  141 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.4K :star:  |
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  495 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  318 :star:  |
+|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  160 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.4K :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  501 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  318 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.6K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  594 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  182 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.1K :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  186 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.1K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
-|  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  1.9K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  15.3K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  702 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.10K :star:  |
-|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  420 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
-|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  201 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  731 :star:  |
+|  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  1.10K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  15.4K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  727 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  2.10K :star:  |
+|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  421 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
+|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  201 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  732 :star:  |
 |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
-|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  813 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  20K :star:  |
+|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  813 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  20.1K :star:  |
 |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
-|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  184 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
+|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  186 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.5K :star:  |  [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)  |  557 :star:  |
 
-<sup><sub>Last updated: March 30, 2026 at 00:58:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 30, 2026 at 04:34:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
