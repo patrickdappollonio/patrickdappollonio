@@ -59,15 +59,15 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  3.5K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
-|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  194 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.5K :star:  |
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  515 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  319 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  4.3K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  195 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.5K :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  520 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  319 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.8K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
-|  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  594 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  197 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.1K :star:  |
+|  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  595 :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  202 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.2K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
 |  [alvinunreal/awesome-opensource...](https://github.com/alvinunreal/awesome-opensource-ai)  |  2.1K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  15.9K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  838 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  849 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
 |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  421 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
 |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  203 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  739 :star:  |
 |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.8K :star:  |
@@ -75,5 +75,5 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
 |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  190 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
 
-<sup><sub>Last updated: March 31, 2026 at 04:25:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: March 31, 2026 at 08:22:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
