@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  5.7K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
-|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  198 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.7K :star:  |
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  528 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  321 :star:  |
+|  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  784 :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  203 :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  280 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |
+|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  813 :star:  |
+|  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
+|  [instructkr/claw-code](https://github.com/instructkr/claw-code)  |  78.7K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  192 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  6.2K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  199 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.7K :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  529 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  321 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.9K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  596 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  209 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.2K :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  213 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.3K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
-|  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  16.1K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  869 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
-|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  427 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
-|  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  203 :star:  |  [jrswab/axe](https://github.com/jrswab/axe)  |  741 :star:  |
-|  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |  [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)  |  30.9K :star:  |
-|  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  814 :star:  |  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  |  20.5K :star:  |
-|  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |  [RichardAtCT/claude-code-telegr...](https://github.com/RichardAtCT/claude-code-telegram)  |  2.3K :star:  |
-|  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  192 :star:  |  [txn2/kubefwd](https://github.com/txn2/kubefwd)  |  4.1K :star:  |
+|  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  16.2K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  878 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
+|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  426 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
 
-<sup><sub>Last updated: March 31, 2026 at 20:34:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 01, 2026 at 00:59:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
