@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  204 :star:  |
-|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  281 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |
+|  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.1K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  204 :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  282 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |
 |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  815 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [instructkr/claw-code](https://github.com/instructkr/claw-code)  |  98.6K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  192 :star:  |
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  6.10K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [instructkr/claw-code](https://github.com/instructkr/claw-code)  |  107.4K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  192 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  7.7K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
 |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  201 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.7K :star:  |
 |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  535 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  322 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.9K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  597 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  213 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.3K :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  216 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.3K :star:  |
 |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |  [MadAppGang/dingo](https://github.com/MadAppGang/dingo)  |  1.8K :star:  |
-|  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  16.3K :star:  |
-|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  888 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
-|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  427 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
+|  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |  [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  |  16.4K :star:  |
+|  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  899 :star:  |  [dmno-dev/varlock](https://github.com/dmno-dev/varlock)  |  3K :star:  |
+|  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  428 :star:  |  [willswire/union](https://github.com/willswire/union)  |  31 :star:  |
 
-<sup><sub>Last updated: April 01, 2026 at 08:22:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 01, 2026 at 12:22:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
