@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  219 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |
-|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  4.5K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  13.8K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  917 :star:  |
-|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  2.1K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  427 :star:  |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  228 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |
+|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  4.6K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  14.2K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  925 :star:  |
+|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  2.5K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  427 :star:  |
 |  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.2K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  204 :star:  |
 |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  283 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |
 |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  817 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  128.7K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  192 :star:  |
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  8.10K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  135.1K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  193 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  9.5K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
 |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  202 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.8K :star:  |
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  536 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  323 :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  539 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  323 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.9K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  599 :star:  |
-|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  219 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.4K :star:  |
+|  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  220 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.4K :star:  |
 
-<sup><sub>Last updated: April 02, 2026 at 00:46:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 02, 2026 at 04:23:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
