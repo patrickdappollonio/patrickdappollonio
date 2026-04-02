@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  236 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.3K :star:  |
-|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  4.7K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  14.5K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  930 :star:  |
-|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  3K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  428 :star:  |
-|  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.3K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  208 :star:  |
-|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  283 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.6K :star:  |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  240 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
+|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  4.8K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.2K :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  14.9K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  936 :star:  |
+|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  3.6K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  428 :star:  |
+|  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.3K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  212 :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  283 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
 |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  818 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  139.7K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  193 :star:  |
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  9.9K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
-|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  203 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.8K :star:  |
-|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  543 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  324 :star:  |
+|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  144.6K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  194 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  10.4K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  204 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.8K :star:  |
+|  [anthropics/buffa](https://github.com/anthropics/buffa)  |  544 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  324 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.9K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.1K :star:  |
-|  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  600 :star:  |
+|  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  601 :star:  |
 |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  220 :star:  |  [VoltAgent/awesome-codex-subage...](https://github.com/VoltAgent/awesome-codex-subagents)  |  3.4K :star:  |
 
-<sup><sub>Last updated: April 02, 2026 at 08:21:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 02, 2026 at 12:22:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
