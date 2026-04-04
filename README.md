@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.7K :star:  |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |
-|  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  222 :star:  |
+|  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  223 :star:  |
 |  [justrach/codedb](https://github.com/justrach/codedb)  |  257 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
 |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  5.1K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.3K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  18.8K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  970 :star:  |
-|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  6.7K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  432 :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  19.1K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  971 :star:  |
+|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  6.8K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  432 :star:  |
 |  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.5K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  221 :star:  |
-|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  284 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
-|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  827 :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  285 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
+|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  830 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  164.7K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
+|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  165.8K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
 |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  11.5K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
 |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  207 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.10K :star:  |
 |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  552 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  327 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.10K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.2K :star:  |
 
-<sup><sub>Last updated: April 04, 2026 at 08:12:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 04, 2026 at 12:10:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
