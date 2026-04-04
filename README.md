@@ -60,20 +60,20 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  1.10K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  222 :star:  |
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  256 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  257 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
 |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  5.1K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.3K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  18.2K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  963 :star:  |
-|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  6.1K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  431 :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  18.4K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  966 :star:  |
+|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  6.3K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  431 :star:  |
 |  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.5K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  220 :star:  |
 |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  284 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
-|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  822 :star:  |
+|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  823 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  162.2K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
-|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  11.3K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
-|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  207 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.9K :star:  |
+|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  163.1K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
+|  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  11.4K :star:  |  [onecli/onecli](https://github.com/onecli/onecli)  |  1.6K :star:  |
+|  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  207 :star:  |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  |  6.10K :star:  |
 |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  550 :star:  |  [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs)  |  326 :star:  |
 |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  3.10K :star:  |  [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)  |  2.2K :star:  |
 |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |  [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel)  |  604 :star:  |
 
-<sup><sub>Last updated: April 03, 2026 at 20:29:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 04, 2026 at 00:37:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
