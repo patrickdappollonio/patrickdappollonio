@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.7K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  12.7K :star:  |
+|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.7K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  12.8K :star:  |
 |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  6.8K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  214 :star:  |
-|  [wshm-dev/wshm-tools](https://github.com/wshm-dev/wshm-tools)  |  11 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  569 :star:  |
-|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  31.4K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4K :star:  |
+|  [wshm-dev/wshm-tools](https://github.com/wshm-dev/wshm-tools)  |  11 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  571 :star:  |
+|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  32.5K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4K :star:  |
 |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |
-|  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.1K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  228 :star:  |
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  596 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
+|  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  229 :star:  |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  599 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
 |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  5.5K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.4K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  25.3K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  1.1K :star:  |
-|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  8.2K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  440 :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  25.5K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  1.1K :star:  |
+|  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  8.3K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  440 :star:  |
 |  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.7K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  227 :star:  |
-|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  469 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  478 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
 |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  2 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  835 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
-|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  176.8K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
+|  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  177.2K :star:  |  [nikolic-milos/ratatui-hypertil...](https://github.com/nikolic-milos/ratatui-hypertile)  |  197 :star:  |
 
-<sup><sub>Last updated: April 08, 2026 at 00:51:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 08, 2026 at 04:28:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
