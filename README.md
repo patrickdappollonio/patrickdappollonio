@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to [@pred
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  179.2K :star:  |
+|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  179.5K :star:  |
 |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.8K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  13.1K :star:  |
 |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  6.9K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  216 :star:  |
-|  [wshm-dev/wshm-tools](https://github.com/wshm-dev/wshm-tools)  |  11 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  574 :star:  |
-|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  36.10K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
+|  [wshm-dev/wshm-tools](https://github.com/wshm-dev/wshm-tools)  |  11 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  575 :star:  |
+|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  37.7K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
 |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |
 |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  230 :star:  |
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  613 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
-|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  6.4K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.4K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  26.6K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  1.1K :star:  |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  630 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.4K :star:  |
+|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  6.7K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.4K :star:  |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  26.8K :star:  |  [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)  |  1.1K :star:  |
 |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  8.6K :star:  |  [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)  |  444 :star:  |
 |  [Nahuel990/ministack](https://github.com/Nahuel990/ministack)  |  1.8K :star:  |  [kubara-io/kubara](https://github.com/kubara-io/kubara)  |  228 :star:  |
-|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  540 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
-|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  838 :star:  |
+|  [sivchari/kumo](https://github.com/sivchari/kumo)  |  555 :star:  |  [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)  |  1.7K :star:  |
+|  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |  [tombi-toml/tombi](https://github.com/tombi-toml/tombi)  |  839 :star:  |
 |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |  [huseyinbabal/taws](https://github.com/huseyinbabal/taws)  |  2.2K :star:  |
 
-<sup><sub>Last updated: April 09, 2026 at 08:24:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 09, 2026 at 12:32:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
