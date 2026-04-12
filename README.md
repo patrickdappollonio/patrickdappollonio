@@ -64,16 +64,16 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  643 :star:  |
 |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.4K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
 |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  509 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
-|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  181.7K :star:  |
-|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.9K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  13.6K :star:  |
+|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  181.9K :star:  |
+|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.9K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  13.7K :star:  |
 |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  216 :star:  |
-|  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  11 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  579 :star:  |
-|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  44.1K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
+|  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  12 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  579 :star:  |
+|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  44.4K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
 |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |
 |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  232 :star:  |
 |  [justrach/codedb](https://github.com/justrach/codedb)  |  676 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.5K :star:  |
 |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.6K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.5K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  28.3K :star:  |    |    |
+|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  28.4K :star:  |    |    |
 
-<sup><sub>Last updated: April 12, 2026 at 00:59:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 12, 2026 at 04:19:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
