@@ -59,21 +59,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  199 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.6K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  41 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  28.8K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.1K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  1.9K :star:  |
-|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  660 :star:  |
+|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  663 :star:  |
 |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.5K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
-|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  513 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
-|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  182.4K :star:  |
-|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.9K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  13.8K :star:  |
-|  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.1K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  218 :star:  |
-|  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  13 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  579 :star:  |
-|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  45.4K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
+|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  515 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
+|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  182.5K :star:  |
+|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  8.10K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  13.8K :star:  |
+|  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.1K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  219 :star:  |
+|  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  13 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  580 :star:  |
+|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  45.6K :star:  |  [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)  |  4.1K :star:  |
 |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |  [DoodleScheduling/kubectl-del-n...](https://github.com/DoodleScheduling/kubectl-del-namespace)  |  1 :star:  |
 |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |  [RecoLabs/gnata](https://github.com/RecoLabs/gnata)  |  233 :star:  |
-|  [justrach/codedb](https://github.com/justrach/codedb)  |  678 :star:  |  [bin456789/reinstall](https://github.com/bin456789/reinstall)  |  11.5K :star:  |
-|  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.6K :star:  |  [alvinreal/awesome-opensource-a...](https://github.com/alvinreal/awesome-opensource-ai)  |  2.5K :star:  |
-|  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  28.7K :star:  |    |    |
+|  [justrach/codedb](https://github.com/justrach/codedb)  |  678 :star:  |    |    |
 
-<sup><sub>Last updated: April 12, 2026 at 16:10:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 12, 2026 at 20:35:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
