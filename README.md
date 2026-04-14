@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  15.9K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
-|  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.5K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |
-|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  688 :star:  |
-|  [smhanov/auth](https://github.com/smhanov/auth)  |  281 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.8K :star:  |
-|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  59 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  29.5K :star:  |
-|  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.2K :star:  |
+|  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.6K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |
+|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  690 :star:  |
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  282 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.8K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  60 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  29.6K :star:  |
+|  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.3K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  1.9K :star:  |
-|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  675 :star:  |
-|  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.5K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
-|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  531 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
-|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  183.8K :star:  |
+|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  677 :star:  |
+|  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.6K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
+|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  532 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
+|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  183.9K :star:  |
 |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  14.2K :star:  |
 |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.2K :star:  |  [DavidHavoc/ayaFlow](https://github.com/DavidHavoc/ayaFlow)  |  219 :star:  |
 |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  16 :star:  |  [anthropics/buffa](https://github.com/anthropics/buffa)  |  580 :star:  |
-|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  49.2K :star:  |    |    |
+|  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  49.7K :star:  |    |    |
 
-<sup><sub>Last updated: April 14, 2026 at 04:36:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 14, 2026 at 08:24:40 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
