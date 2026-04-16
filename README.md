@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  17 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  2.8K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  54.8K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  2.8K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  55.4K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.2K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.8K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.2K :star:  |
-|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  715 :star:  |
+|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  716 :star:  |
 |  [smhanov/auth](https://github.com/smhanov/auth)  |  315 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  7.9K :star:  |
 |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  71 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  30.3K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.4K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  2K :star:  |
-|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  724 :star:  |
+|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  757 :star:  |
 |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.7K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
-|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  544 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
-|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  185K :star:  |
-|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.1K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  14.6K :star:  |
-|  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.3K :star:  |    |    |
+|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  545 :star:  |  [algesten/ureq](https://github.com/algesten/ureq)  |  2.1K :star:  |
+|  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |  [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)  |  185.1K :star:  |
+|  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.1K :star:  |  [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  |  14.7K :star:  |
+|  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.4K :star:  |    |    |
 
-<sup><sub>Last updated: April 16, 2026 at 04:36:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 16, 2026 at 08:26:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
