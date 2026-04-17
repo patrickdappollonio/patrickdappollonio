@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  35.7K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  250 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.1K :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  36.1K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  4 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  278 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.1K :star:  |
 |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.4K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  17 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.2K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  57.3K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.2K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  57.6K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.4K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.8K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
-|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  726 :star:  |
-|  [smhanov/auth](https://github.com/smhanov/auth)  |  343 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  8.1K :star:  |
-|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  81 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  30.6K :star:  |
+|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  727 :star:  |
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  345 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  8.1K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  81 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  30.7K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.6K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  2.1K :star:  |
-|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  795 :star:  |
+|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  799 :star:  |
 |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.7K :star:  |  [Vastar-AI/vastar](https://github.com/Vastar-AI/vastar)  |  3 :star:  |
-|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  561 :star:  |    |    |
+|  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  564 :star:  |    |    |
 
-<sup><sub>Last updated: April 17, 2026 at 04:36:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 17, 2026 at 08:23:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
