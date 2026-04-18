@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  1.5K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  570 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  37.5K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  5 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  356 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
-|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.6K :star:  |
+|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  475 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.8K :star:  |
+|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  1.7K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  571 :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  37.7K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  5 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  362 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
+|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.7K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  18 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.6K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  59.1K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.6K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  59.3K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.4K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.8K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
-|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  728 :star:  |
-|  [smhanov/auth](https://github.com/smhanov/auth)  |  371 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  8.3K :star:  |
-|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  88 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31K :star:  |
+|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  729 :star:  |
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  373 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  8.4K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  88 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.1K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.7K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  2.1K :star:  |
-|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |  [sivchari/kumo](https://github.com/sivchari/kumo)  |  831 :star:  |
-|  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.8K :star:  |    |    |
+|  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |    |    |
 
-<sup><sub>Last updated: April 18, 2026 at 12:12:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 18, 2026 at 16:10:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
