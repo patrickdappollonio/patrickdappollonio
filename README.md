@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  604 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.8K :star:  |
-|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  584 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  38.8K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  8 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  384 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
-|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.9K :star:  |
+|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  613 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.8K :star:  |
+|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  585 :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  38.10K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  8 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  390 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
+|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  7.10K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  19 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.7K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  60.3K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.8K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  60.4K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.5K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.9K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
 |  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  734 :star:  |
-|  [smhanov/auth](https://github.com/smhanov/auth)  |  383 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  9.4K :star:  |
-|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  92 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.3K :star:  |
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  384 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  9.5K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  93 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.3K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.8K :star:  |
 |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |  [ministackorg/ministack](https://github.com/ministackorg/ministack)  |  2.1K :star:  |
 |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |    |    |
 
-<sup><sub>Last updated: April 19, 2026 at 16:11:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 19, 2026 at 20:36:00 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
