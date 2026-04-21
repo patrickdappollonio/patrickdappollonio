@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  176 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
-|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  668 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.8K :star:  |
-|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.2K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  591 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  40.7K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  405 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
-|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  8.4K :star:  |
+|  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  156 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
+|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  179 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
+|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  675 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
+|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.3K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  591 :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  40.9K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  406 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
+|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  8.5K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  19 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.9K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  61.5K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  3.10K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  61.7K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.6K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.9K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
 |  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  735 :star:  |
-|  [smhanov/auth](https://github.com/smhanov/auth)  |  392 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  9.10K :star:  |
-|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  96 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.6K :star:  |
-|  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |  [emdash-cms/emdash](https://github.com/emdash-cms/emdash)  |  9.8K :star:  |
-|  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |    |    |
+|  [smhanov/auth](https://github.com/smhanov/auth)  |  396 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  10K :star:  |
+|  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  96 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.7K :star:  |
+|  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |    |    |
 
-<sup><sub>Last updated: April 20, 2026 at 20:36:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 21, 2026 at 01:01:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
