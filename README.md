@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.5K :star:  |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  98 :star:  |
-|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  2.2K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
+|  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.6K :star:  |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  98 :star:  |
+|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  2.3K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
 |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  157 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
 |  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  200 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
 |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  709 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
-|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.4K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  596 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  43.3K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  419 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
-|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  8.9K :star:  |
+|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.4K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  597 :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  43.5K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  420 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
+|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  8.10K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  20 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.2K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  63.1K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.2K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  63.2K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.6K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  2K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
 |  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  744 :star:  |
 |  [smhanov/auth](https://github.com/smhanov/auth)  |  404 :star:  |    |    |
 
-<sup><sub>Last updated: April 22, 2026 at 12:25:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 22, 2026 at 16:21:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
