@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  157 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
-|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  192 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
-|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  693 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
-|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.4K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  593 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  42.1K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
+|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  195 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
+|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  695 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
+|  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.4K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  594 :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  42.3K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
 |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  414 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.2K :star:  |
 |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  8.6K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  19 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.1K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  62.3K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.1K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  62.4K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.6K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
 |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  1.10K :star:  |  [tokio-rs/toasty](https://github.com/tokio-rs/toasty)  |  2.3K :star:  |
-|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  742 :star:  |
+|  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |  [justrach/codedb](https://github.com/justrach/codedb)  |  743 :star:  |
 |  [smhanov/auth](https://github.com/smhanov/auth)  |  401 :star:  |  [webadderall/Recordly](https://github.com/webadderall/Recordly)  |  10.2K :star:  |
 |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  97 :star:  |  [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)  |  31.9K :star:  |
 |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |    |    |
 
-<sup><sub>Last updated: April 21, 2026 at 16:19:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 21, 2026 at 20:33:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
