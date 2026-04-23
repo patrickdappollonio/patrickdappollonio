@@ -50,18 +50,18 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |  [jaemk/cached](https://github.com/jaemk/cached)  |  1.10K :star:  |
 |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |  [smhanov/auth](https://github.com/smhanov/auth)  |  405 :star:  |
 |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.7K :star:  |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  98 :star:  |
-|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  2.6K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
-|  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  157 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
-|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  203 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
-|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  716 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
+|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  2.8K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
+|  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  158 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
+|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  204 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
+|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  722 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  9.9K :star:  |
 |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.5K :star:  |  [proxysoul/soulforge](https://github.com/proxysoul/soulforge)  |  598 :star:  |
-|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  43.9K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
-|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  422 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.3K :star:  |
-|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  9K :star:  |
+|  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  44.1K :star:  |  [marjoballabani/hypergrep](https://github.com/marjoballabani/hypergrep)  |  10 :star:  |
+|  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  424 :star:  |  [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)  |  9.3K :star:  |
+|  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  6.9K :star:  |  [mksglu/context-mode](https://github.com/mksglu/context-mode)  |  9.1K :star:  |
 |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |  [wshm-dev/wshm](https://github.com/wshm-dev/wshm)  |  20 :star:  |
-|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.2K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  63.7K :star:  |
+|  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.3K :star:  |  [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)  |  63.8K :star:  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.6K :star:  |  [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  |  7.8K :star:  |
-|  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  2K :star:  |    |    |
+|  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  2.1K :star:  |    |    |
 
-<sup><sub>Last updated: April 23, 2026 at 04:38:59 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 23, 2026 at 08:25:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
