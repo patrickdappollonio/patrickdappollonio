@@ -47,10 +47,11 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  7.1K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.10K :star:  |
-|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.5K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  51.1K :star:  |
-|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  5.6K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  444 :star:  |
-|  [openai/symphony](https://github.com/openai/symphony)  |  19.9K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7K :star:  |
+|  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  26.8K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  753 :star:  |
+|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  7.8K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  2.10K :star:  |
+|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.6K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  51.3K :star:  |
+|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  5.7K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  446 :star:  |
+|  [openai/symphony](https://github.com/openai/symphony)  |  19.10K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7K :star:  |
 |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  111 :star:  |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |
 |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  384 :star:  |  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.6K :star:  |
 |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.3K :star:  |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.10K :star:  |
@@ -60,8 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.9K :star:  |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  98 :star:  |
 |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  4.8K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
 |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  172 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
-|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  673 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
-|  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  752 :star:  |  [superset-sh/superset](https://github.com/superset-sh/superset)  |  10.2K :star:  |
+|  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  726 :star:  |  [felipesere/everdiff](https://github.com/felipesere/everdiff)  |  5 :star:  |
 
-<sup><sub>Last updated: April 30, 2026 at 12:33:39 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: April 30, 2026 at 16:26:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
