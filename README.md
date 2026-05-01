@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [zackham/aloop](https://github.com/zackham/aloop)  |  13 :star:  |  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  724 :star:  |
 |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  26.8K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  753 :star:  |
-|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  8.8K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3K :star:  |
-|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.6K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  51.5K :star:  |
+|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  9.3K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3K :star:  |
+|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.7K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  51.6K :star:  |
 |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  5.8K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  446 :star:  |
-|  [openai/symphony](https://github.com/openai/symphony)  |  20.1K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7K :star:  |
+|  [openai/symphony](https://github.com/openai/symphony)  |  20.2K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7K :star:  |
 |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  113 :star:  |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |
 |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  388 :star:  |  [Cocoon-AI/architecture-diagram...](https://github.com/Cocoon-AI/architecture-diagram-generator)  |  4.6K :star:  |
 |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.3K :star:  |  [lyogavin/airllm](https://github.com/lyogavin/airllm)  |  16.10K :star:  |
-|  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.5K :star:  |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  2.5K :star:  |
+|  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.6K :star:  |  [tonhowtf/omniget](https://github.com/tonhowtf/omniget)  |  2.5K :star:  |
 |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |  [jaemk/cached](https://github.com/jaemk/cached)  |  2K :star:  |
 |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |  [smhanov/auth](https://github.com/smhanov/auth)  |  418 :star:  |
 |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.9K :star:  |  [smhanov/llmhub](https://github.com/smhanov/llmhub)  |  99 :star:  |
-|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  4.8K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
+|  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  4.9K :star:  |  [cybozu-go/accurate](https://github.com/cybozu-go/accurate)  |  76 :star:  |
 |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  172 :star:  |  [lapce/floem](https://github.com/lapce/floem)  |  4.1K :star:  |
 
-<sup><sub>Last updated: May 01, 2026 at 01:18:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 01, 2026 at 04:42:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
