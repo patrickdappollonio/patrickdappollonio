@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  8 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  447 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  28.7K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  28.8K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.1K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.8K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  60.9K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  43.3K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  61.4K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  43.4K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  63 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.9K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  393 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5K :star:  |
-|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  668 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  177 :star:  |
+|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  681 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  178 :star:  |
 |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  705 :star:  |
-|  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.1K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  767 :star:  |
-|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  27.6K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3.2K :star:  |
-|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.10K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  54.5K :star:  |
-|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  6.4K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  453 :star:  |
-|  [openai/symphony](https://github.com/openai/symphony)  |  21.7K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7.1K :star:  |
-|  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  123 :star:  |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.1K :star:  |
+|  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.1K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  768 :star:  |
+|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  28.3K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3.2K :star:  |
+|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  12.10K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  54.7K :star:  |
+|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  6.4K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  454 :star:  |
+|  [openai/symphony](https://github.com/openai/symphony)  |  21.8K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7.1K :star:  |
+|  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  124 :star:  |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.2K :star:  |
 
-<sup><sub>Last updated: May 05, 2026 at 20:38:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 06, 2026 at 01:08:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
