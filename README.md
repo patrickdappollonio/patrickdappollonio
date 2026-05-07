@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  11 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  453 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  31.8K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  32.2K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.1K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.8K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  63.8K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  44.1K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  64.1K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  44.2K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  63 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.9K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  396 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5.1K :star:  |
-|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  722 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  178 :star:  |
+|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  726 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  178 :star:  |
 |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  1K :star:  |
 |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.2K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  771 :star:  |
-|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  31.3K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3.2K :star:  |
-|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  55.6K :star:  |
-|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  6.7K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  458 :star:  |
-|  [openai/symphony](https://github.com/openai/symphony)  |  22.2K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7.1K :star:  |
+|  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  31.5K :star:  |  [smol-machines/smolvm](https://github.com/smol-machines/smolvm)  |  3.2K :star:  |
+|  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13K :star:  |  [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  |  55.8K :star:  |
+|  [browser-use/video-use](https://github.com/browser-use/video-use)  |  6.7K :star:  |  [dropbox/witchcraft](https://github.com/dropbox/witchcraft)  |  460 :star:  |
+|  [openai/symphony](https://github.com/openai/symphony)  |  22.3K :star:  |  [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)  |  7.1K :star:  |
 |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  126 :star:  |  [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard)  |  5.2K :star:  |
 
-<sup><sub>Last updated: May 07, 2026 at 04:56:31 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 07, 2026 at 08:41:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
