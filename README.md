@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  519 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  39.9K :star:  |
-|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  10.3K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.3K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  520 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  40.2K :star:  |
+|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  10.5K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.3K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  7.5K :star:  |
-|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.1K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  23.7K :star:  |
+|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.1K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  23.8K :star:  |
 |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.4K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  142 :star:  |
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  465 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  41.4K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  41.5K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.1K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.9K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  80.8K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  81.6K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
 |  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  47.9K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  63 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  1.10K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  415 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5.6K :star:  |
-|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  813 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  188 :star:  |
+|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  815 :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  188 :star:  |
 |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |  [fluffypony/yojam](https://github.com/fluffypony/yojam)  |  1.1K :star:  |
 |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.8K :star:  |  [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)  |  798 :star:  |
 
-<sup><sub>Last updated: May 14, 2026 at 08:40:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 14, 2026 at 12:42:23 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
