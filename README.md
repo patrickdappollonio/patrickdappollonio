@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  31.5K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
-|  [tailscale/hujson](https://github.com/tailscale/hujson)  |  818 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.9K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  528 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  43.9K :star:  |
-|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  14.1K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.5K :star:  |
+|  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  31.6K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
+|  [tailscale/hujson](https://github.com/tailscale/hujson)  |  818 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  27.10K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  528 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  44.2K :star:  |
+|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  14.3K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.5K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  7.8K :star:  |
-|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.3K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24K :star:  |
+|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.4K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24K :star:  |
 |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.8K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  150 :star:  |
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  468 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  42.10K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  43.1K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.1K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  1.10K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  89.6K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  48.8K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  90.3K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.1K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  48.9K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  63 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  2K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  420 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5.7K :star:  |
-|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  1.5K :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  202 :star:  |
+|  [MinishLab/semble](https://github.com/MinishLab/semble)  |  1.8K :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  203 :star:  |
 
-<sup><sub>Last updated: May 18, 2026 at 01:25:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 18, 2026 at 05:15:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
