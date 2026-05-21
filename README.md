@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  33.1K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
 |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  820 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.1K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  533 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  48.6K :star:  |
-|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  18K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  533 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  48.7K :star:  |
+|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  18.1K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.1K :star:  |
 |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.6K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.4K :star:  |
 |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.9K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  155 :star:  |
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  470 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  44.4K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  44.5K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  2.1K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  98.2K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  50.5K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  98.6K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  50.6K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  63 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  2K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  421 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5.8K :star:  |
 |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.5K :star:  |  [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)  |  219 :star:  |
 
-<sup><sub>Last updated: May 21, 2026 at 09:11:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 21, 2026 at 12:55:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
