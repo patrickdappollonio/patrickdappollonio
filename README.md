@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  686 :star:  |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  422 :star:  |
-|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  171 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.7K :star:  |
-|  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  33.6K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
-|  [tailscale/hujson](https://github.com/tailscale/hujson)  |  820 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.1K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  535 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  50.1K :star:  |
-|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  18.8K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
-|  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.2K :star:  |
+|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  174 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.8K :star:  |
+|  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  33.7K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
+|  [tailscale/hujson](https://github.com/tailscale/hujson)  |  821 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.1K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  535 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  50.2K :star:  |
+|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  18.10K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
+|  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.3K :star:  |
 |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.8K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.5K :star:  |
 |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.10K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  158 :star:  |
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  471 :star:  |
-|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  44.10K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
+|  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  45K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  2.1K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  101.3K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  51.9K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.7K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  101.5K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  52K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.7K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  64 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  2K :star:  |
 
-<sup><sub>Last updated: May 23, 2026 at 01:17:13 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 23, 2026 at 04:44:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
