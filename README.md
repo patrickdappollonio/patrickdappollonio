@@ -47,10 +47,10 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  159 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.7K :star:  |
+|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  167 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.7K :star:  |
 |  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  33.5K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
 |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  820 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.1K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  534 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  49.8K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  535 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  49.9K :star:  |
 |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  18.7K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.2K :star:  |
 |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.7K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.4K :star:  |
@@ -58,10 +58,10 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  471 :star:  |
 |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  44.9K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
 |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  2.1K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  100.9K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  51.7K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  101K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  51.8K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.6K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  64 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  2K :star:  |
 |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  422 :star:  |  [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)  |  5.9K :star:  |
 
-<sup><sub>Last updated: May 22, 2026 at 16:34:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 22, 2026 at 20:46:24 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
