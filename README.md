@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  687 :star:  |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  422 :star:  |
-|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  187 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.9K :star:  |
-|  [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)  |  33.8K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
+|  [FuJacob/tabby](https://github.com/FuJacob/tabby)  |  199 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  3.9K :star:  |
+|  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  33.8K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
 |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  821 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.2K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  535 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  50.4K :star:  |
-|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  19.3K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  535 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  50.5K :star:  |
+|  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  19.5K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.6K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.3K :star:  |
-|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.8K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.5K :star:  |
-|  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.10K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  158 :star:  |
+|  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  3.9K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.5K :star:  |
+|  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  3.10K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  159 :star:  |
 |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  472 :star:  |
 |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  45.1K :star:  |  [mfontanini/presenterm](https://github.com/mfontanini/presenterm)  |  8.4K :star:  |
-|  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  2.1K :star:  |
-|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  102.1K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
-|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  52.3K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.7K :star:  |
+|  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |  [mutonby/openshorts](https://github.com/mutonby/openshorts)  |  2.2K :star:  |
+|  [mattpocock/skills](https://github.com/mattpocock/skills)  |  102.2K :star:  |  [squidowl/halloy](https://github.com/squidowl/halloy)  |  4.2K :star:  |
+|  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  52.4K :star:  |  [yewstack/yew](https://github.com/yewstack/yew)  |  32.7K :star:  |
 |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  64 :star:  |  [cloudflare/kumo](https://github.com/cloudflare/kumo)  |  2K :star:  |
 
-<sup><sub>Last updated: May 23, 2026 at 12:22:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 23, 2026 at 16:19:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
