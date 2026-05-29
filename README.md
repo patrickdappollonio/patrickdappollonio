@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  346 :star:  |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  46.8K :star:  |
 |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |
-|  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.3K :star:  |  [mattpocock/skills](https://github.com/mattpocock/skills)  |  111K :star:  |
-|  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  196 :star:  |  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  55.9K :star:  |
+|  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.3K :star:  |  [mattpocock/skills](https://github.com/mattpocock/skills)  |  111.3K :star:  |
+|  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  196 :star:  |  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  56K :star:  |
 |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  59 :star:  |  [chipsenkbeil/typed-path](https://github.com/chipsenkbeil/typed-path)  |  65 :star:  |
-|  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  699 :star:  |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  425 :star:  |
-|  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  548 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  4.5K :star:  |
+|  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  699 :star:  |  [calfonso/rusternetes](https://github.com/calfonso/rusternetes)  |  426 :star:  |
+|  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  549 :star:  |  [MinishLab/semble](https://github.com/MinishLab/semble)  |  4.5K :star:  |
 |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  35.9K :star:  |  [zackham/aloop](https://github.com/zackham/aloop)  |  16 :star:  |
 |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  824 :star:  |  [sgl-project/sglang](https://github.com/sgl-project/sglang)  |  28.4K :star:  |
-|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  537 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  55.2K :star:  |
+|  [pion/rtwatch](https://github.com/pion/rtwatch)  |  537 :star:  |  [nexu-io/open-design](https://github.com/nexu-io/open-design)  |  55.3K :star:  |
 |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  22.3K :star:  |  [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)  |  13.7K :star:  |
 |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |  [browser-use/video-use](https://github.com/browser-use/video-use)  |  8.6K :star:  |
 |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.1K :star:  |  [openai/symphony](https://github.com/openai/symphony)  |  24.8K :star:  |
 |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4K :star:  |  [benvinegar/termdraw](https://github.com/benvinegar/termdraw)  |  160 :star:  |
-|  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  491 :star:  |
+|  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |  [microsoft/ghqr](https://github.com/microsoft/ghqr)  |  492 :star:  |
 
-<sup><sub>Last updated: May 29, 2026 at 09:09:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: May 29, 2026 at 13:11:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
