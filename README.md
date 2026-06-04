@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  661 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  61 :star:  |
+|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  711 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  61 :star:  |
 |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  502 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  746 :star:  |
-|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  696 :star:  |
+|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  699 :star:  |
 |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  789 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  37K :star:  |
 |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  40 :star:  |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  826 :star:  |
-|  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.6K :star:  |  [pion/rtwatch](https://github.com/pion/rtwatch)  |  540 :star:  |
+|  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.6K :star:  |  [pion/rtwatch](https://github.com/pion/rtwatch)  |  541 :star:  |
 |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  23.9K :star:  |
 |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  6.7K :star:  |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |
-|  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  53.6K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.2K :star:  |
-|  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  180.6K :star:  |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4.1K :star:  |
+|  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  53.7K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.2K :star:  |
+|  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  180.8K :star:  |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4.1K :star:  |
 |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |
-|  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  347 :star:  |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  48.2K :star:  |
+|  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  347 :star:  |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  48.3K :star:  |
 |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |  [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)  |  3.2K :star:  |
-|  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.4K :star:  |  [mattpocock/skills](https://github.com/mattpocock/skills)  |  117.4K :star:  |
-|  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  200 :star:  |  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  59.2K :star:  |
+|  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.4K :star:  |  [mattpocock/skills](https://github.com/mattpocock/skills)  |  117.5K :star:  |
+|  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  200 :star:  |  [safishamsi/graphify](https://github.com/safishamsi/graphify)  |  59.3K :star:  |
 
-<sup><sub>Last updated: June 04, 2026 at 13:05:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 04, 2026 at 16:44:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
