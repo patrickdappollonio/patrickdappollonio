@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  175 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
-|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.5K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.5K :star:  |
-|  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.1K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  204 :star:  |
+|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  180 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
+|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.6K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.5K :star:  |
+|  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.2K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  204 :star:  |
 |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  813 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  63 :star:  |
-|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  555 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  753 :star:  |
-|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  728 :star:  |
+|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  556 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  753 :star:  |
+|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  729 :star:  |
 |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  795 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  37.5K :star:  |
 |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  40 :star:  |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  825 :star:  |
 |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |  [pion/rtwatch](https://github.com/pion/rtwatch)  |  541 :star:  |
-|  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  24.7K :star:  |
+|  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  24.8K :star:  |
 |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  6.9K :star:  |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |
-|  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  54.9K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.3K :star:  |
-|  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  186.3K :star:  |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4.1K :star:  |
+|  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  54.10K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.3K :star:  |
+|  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  186.6K :star:  |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4.1K :star:  |
 |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |
-|  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  48.10K :star:  |
+|  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |  [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  |  49K :star:  |
 
-<sup><sub>Last updated: June 08, 2026 at 01:37:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 08, 2026 at 05:39:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
