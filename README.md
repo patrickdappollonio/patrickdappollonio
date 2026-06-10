@@ -47,11 +47,13 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  188.8K :star:  |
+|  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  4 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  208 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
-|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.7K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.6K :star:  |
-|  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.5K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  204 :star:  |
-|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  817 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  63 :star:  |
+|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  209 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
+|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.8K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.6K :star:  |
+|  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.6K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  204 :star:  |
+|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  818 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  63 :star:  |
 |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  561 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  754 :star:  |
 |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  734 :star:  |
 |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  799 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  37.7K :star:  |
@@ -60,8 +62,6 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  25.2K :star:  |
 |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  6.9K :star:  |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |
 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.2K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.3K :star:  |
-|  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  188.7K :star:  |  [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)  |  4.1K :star:  |
-|  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |  [databus23/kubectl-diff-watch](https://github.com/databus23/kubectl-diff-watch)  |  13 :star:  |
 
-<sup><sub>Last updated: June 09, 2026 at 16:42:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 09, 2026 at 20:53:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
