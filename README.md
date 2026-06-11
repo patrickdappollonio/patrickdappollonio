@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  190.6K :star:  |
-|  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.1K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  190.8K :star:  |
+|  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.2K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  4 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
 |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  218 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
 |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.9K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.6K :star:  |
 |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.7K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  206 :star:  |
 |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  820 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  64 :star:  |
-|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  564 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  756 :star:  |
-|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  743 :star:  |
-|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  826 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  37.10K :star:  |
+|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  564 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  757 :star:  |
+|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  746 :star:  |
+|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  828 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38K :star:  |
 |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  42 :star:  |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  827 :star:  |
 |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |  [pion/rtwatch](https://github.com/pion/rtwatch)  |  541 :star:  |
 |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  25.5K :star:  |
 |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  6.10K :star:  |  [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder)  |  1.1K :star:  |
 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.4K :star:  |  [domcyrus/rustnet](https://github.com/domcyrus/rustnet)  |  4.4K :star:  |
 
-<sup><sub>Last updated: June 11, 2026 at 09:22:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 11, 2026 at 13:17:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
