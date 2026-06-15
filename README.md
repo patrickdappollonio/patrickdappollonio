@@ -47,12 +47,13 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [joske/yserver](https://github.com/joske/yserver)  |  274 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.1K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  453 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.7K :star:  |
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  193.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  9.2K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [joske/yserver](https://github.com/joske/yserver)  |  290 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.1K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  487 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.7K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  193.7K :star:  |
 |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.4K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  4 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  405 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
+|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  419 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
 |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  1.10K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.7K :star:  |
 |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  5.9K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  208 :star:  |
 |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  822 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  64 :star:  |
@@ -61,7 +62,6 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  835 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38.3K :star:  |
 |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  44 :star:  |  [tailscale/hujson](https://github.com/tailscale/hujson)  |  828 :star:  |
 |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |  [pion/rtwatch](https://github.com/pion/rtwatch)  |  541 :star:  |
-|  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |  [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)  |  26.1K :star:  |
 
-<sup><sub>Last updated: June 14, 2026 at 20:57:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 15, 2026 at 01:50:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
