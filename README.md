@@ -47,12 +47,12 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [aidenybai/million](https://github.com/aidenybai/million)  |  17.6K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  44 :star:  |
-|  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  1.10K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  23K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
-|  [joske/yserver](https://github.com/joske/yserver)  |  365 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.1K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  633 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.9K :star:  |
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  195.2K :star:  |
+|  [aidenybai/million](https://github.com/aidenybai/million)  |  17.6K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  45 :star:  |
+|  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  24.10K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [joske/yserver](https://github.com/joske/yserver)  |  376 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.1K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  639 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  55.9K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  195.4K :star:  |
 |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.5K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  4 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
 |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  454 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
@@ -60,8 +60,8 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  210 :star:  |
 |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  822 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  64 :star:  |
 |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  572 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  771 :star:  |
-|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  775 :star:  |
-|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  835 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38.5K :star:  |
+|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  777 :star:  |
+|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  836 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38.5K :star:  |
 
-<sup><sub>Last updated: June 16, 2026 at 13:44:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 16, 2026 at 20:56:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
