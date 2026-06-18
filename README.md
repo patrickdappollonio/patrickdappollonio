@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  45 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.1K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  34.6K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
-|  [joske/yserver](https://github.com/joske/yserver)  |  390 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.2K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  658 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  56.9K :star:  |
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  196.7K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  35.5K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [joske/yserver](https://github.com/joske/yserver)  |  392 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.2K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  661 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  57.1K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  196.8K :star:  |
 |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.6K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  474 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
-|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.8K :star:  |
+|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  479 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
+|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.8K :star:  |
 |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.1K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  210 :star:  |
-|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  822 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  65 :star:  |
-|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  610 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  775 :star:  |
-|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  784 :star:  |
-|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  839 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38.6K :star:  |
+|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  822 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  66 :star:  |
+|  [anomalyco/rift](https://github.com/anomalyco/rift)  |  615 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  775 :star:  |
+|  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |  [FuJacob/cotabby](https://github.com/FuJacob/cotabby)  |  785 :star:  |
+|  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  840 :star:  |  [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)  |  38.7K :star:  |
 
-<sup><sub>Last updated: June 18, 2026 at 09:13:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 18, 2026 at 13:05:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
