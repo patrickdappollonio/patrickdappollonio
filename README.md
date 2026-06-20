@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [tontinton/maki](https://github.com/tontinton/maki)  |  554 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
-|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.2K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  843 :star:  |
+|  [tontinton/maki](https://github.com/tontinton/maki)  |  558 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
+|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.2K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  845 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  46 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  40.1K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  40.4K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 |  [joske/yserver](https://github.com/joske/yserver)  |  400 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.2K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  676 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  58.2K :star:  |
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  197.7K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  677 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  58.2K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  197.8K :star:  |
 |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
 |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  484 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
+|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  485 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
 |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.8K :star:  |
 |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.1K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  210 :star:  |
 |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  823 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  66 :star:  |
 |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  622 :star:  |  [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)  |  779 :star:  |
 
-<sup><sub>Last updated: June 19, 2026 at 20:51:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 20, 2026 at 01:32:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
