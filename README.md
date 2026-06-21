@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  9 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  623 :star:  |
+|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  143 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
+|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  485 :star:  |
+|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  64.3K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
+|  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  619 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.1K :star:  |
+|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  132 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  824 :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  10 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  623 :star:  |
 |  [tontinton/maki](https://github.com/tontinton/maki)  |  565 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
-|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.2K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  845 :star:  |
+|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.2K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  846 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  46 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.7K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  42.8K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
-|  [joske/yserver](https://github.com/joske/yserver)  |  410 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.2K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  682 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  58.4K :star:  |
-|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  198.2K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  43.3K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [joske/yserver](https://github.com/joske/yserver)  |  411 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.2K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  682 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  58.5K :star:  |
+|  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |  [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)  |  198.3K :star:  |
 |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |  [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)  |  2.2K :star:  |
-|  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |  [superradcompany/rxtui](https://github.com/superradcompany/rxtui)  |  348 :star:  |
-|  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  485 :star:  |  [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)  |  1.2K :star:  |
-|  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |  [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)  |  2.8K :star:  |
-|  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.1K :star:  |  [kreuzberg-dev/liter-llm](https://github.com/kreuzberg-dev/liter-llm)  |  211 :star:  |
-|  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  824 :star:  |  [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese)  |  66 :star:  |
 
-<sup><sub>Last updated: June 20, 2026 at 16:30:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 20, 2026 at 20:56:49 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
