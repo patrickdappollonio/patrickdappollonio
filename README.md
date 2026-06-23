@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  80 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  371 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
-|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  173 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  97 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  373 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  174 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
 |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  504 :star:  |
-|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  65K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
+|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  65.1K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  620 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.2K :star:  |
-|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  143 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  827 :star:  |
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  12 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  636 :star:  |
-|  [tontinton/maki](https://github.com/tontinton/maki)  |  587 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
-|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.3K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  851 :star:  |
+|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  153 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  827 :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  12 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  640 :star:  |
+|  [tontinton/maki](https://github.com/tontinton/maki)  |  589 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
+|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.3K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  852 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  47 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  51.9K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
-|  [joske/yserver](https://github.com/joske/yserver)  |  424 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.3K :star:  |
-|  [coder/boo](https://github.com/coder/boo)  |  696 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  59.1K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  52.2K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [joske/yserver](https://github.com/joske/yserver)  |  427 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.3K :star:  |
+|  [coder/boo](https://github.com/coder/boo)  |  696 :star:  |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)  |  59.2K :star:  |
 
-<sup><sub>Last updated: June 23, 2026 at 12:51:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 23, 2026 at 16:45:35 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
