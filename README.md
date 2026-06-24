@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  447 :star:  |  [coder/boo](https://github.com/coder/boo)  |  698 :star:  |
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  133 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  388 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
-|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  184 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
-|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  508 :star:  |
-|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  65.2K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
+|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  448 :star:  |  [coder/boo](https://github.com/coder/boo)  |  699 :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  145 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  394 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  185 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
+|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  509 :star:  |
+|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  65.3K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  620 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.2K :star:  |
-|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  168 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  828 :star:  |
+|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  171 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
 |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  12 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  644 :star:  |
-|  [tontinton/maki](https://github.com/tontinton/maki)  |  595 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
+|  [tontinton/maki](https://github.com/tontinton/maki)  |  597 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
 |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.3K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  852 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  48 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  53.5K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  53.9K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 |  [joske/yserver](https://github.com/joske/yserver)  |  430 :star:  |  [crynta/terax-ai](https://github.com/crynta/terax-ai)  |  7.3K :star:  |
 
-<sup><sub>Last updated: June 24, 2026 at 05:09:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 24, 2026 at 08:47:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
