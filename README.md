@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [joshka/betamax](https://github.com/joshka/betamax)  |  30 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  430 :star:  |
 |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  450 :star:  |  [coder/boo](https://github.com/coder/boo)  |  701 :star:  |
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  168 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  403 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
-|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  189 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
-|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  510 :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  172 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.4K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  405 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  191 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
+|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  512 :star:  |
 |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  65.4K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  620 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.2K :star:  |
-|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  176 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  12 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  647 :star:  |
-|  [tontinton/maki](https://github.com/tontinton/maki)  |  600 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
+|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  177 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  12 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  648 :star:  |
+|  [tontinton/maki](https://github.com/tontinton/maki)  |  603 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
 |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.3K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  852 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  48 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.2K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  55.2K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  55.9K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 
-<sup><sub>Last updated: June 24, 2026 at 20:50:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 25, 2026 at 01:23:50 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
