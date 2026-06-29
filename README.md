@@ -47,8 +47,8 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [joshka/betamax](https://github.com/joshka/betamax)  |  30 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  436 :star:  |
-|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  454 :star:  |  [coder/boo](https://github.com/coder/boo)  |  709 :star:  |
+|  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  436 :star:  |
+|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  454 :star:  |  [coder/boo](https://github.com/coder/boo)  |  710 :star:  |
 |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  227 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
 |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  441 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
 |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  213 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
@@ -61,7 +61,7 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.4K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  860 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  48 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  64K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  64.4K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 
-<sup><sub>Last updated: June 28, 2026 at 16:28:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 28, 2026 at 20:52:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
