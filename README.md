@@ -53,15 +53,15 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  445 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
 |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  215 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
 |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  545 :star:  |
-|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.4K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
+|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.5K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  621 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.3K :star:  |
 |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  190 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  13 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  729 :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  729 :star:  |
 |  [tontinton/maki](https://github.com/tontinton/maki)  |  636 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
-|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  861 :star:  |
+|  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  862 :star:  |
 |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  48 :star:  |
 |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  66.4K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
+|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  66.9K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 
-<sup><sub>Last updated: June 29, 2026 at 09:32:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 29, 2026 at 13:03:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
