@@ -47,6 +47,9 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  3.8K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
+|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  778 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |
+|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.8K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  67.3K :star:  |
 |  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  436 :star:  |
 |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  456 :star:  |  [coder/boo](https://github.com/coder/boo)  |  711 :star:  |
 |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  230 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
@@ -55,13 +58,10 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  545 :star:  |
 |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.5K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  621 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.3K :star:  |
-|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  191 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
+|  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  192 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
 |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  729 :star:  |
 |  [tontinton/maki](https://github.com/tontinton/maki)  |  638 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
 |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |  [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)  |  862 :star:  |
-|  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |  [praxis-proxy/praxis](https://github.com/praxis-proxy/praxis)  |  48 :star:  |
-|  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |  [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)  |  4.8K :star:  |
-|  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  67.1K :star:  |  [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS)  |  1.5K :star:  |
 
-<sup><sub>Last updated: June 29, 2026 at 16:38:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 29, 2026 at 20:49:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
