@@ -49,19 +49,19 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |------------|-------|------------|-------|
 |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |
 |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  3.9K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
-|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  784 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |
-|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.9K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  68.1K :star:  |
+|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  786 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |
+|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.9K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  68.4K :star:  |
 |  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  437 :star:  |
-|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  457 :star:  |  [coder/boo](https://github.com/coder/boo)  |  711 :star:  |
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  231 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  448 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  459 :star:  |  [coder/boo](https://github.com/coder/boo)  |  711 :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  232 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  449 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
 |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  214 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
 |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  546 :star:  |
-|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.6K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
+|  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.7K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  621 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.3K :star:  |
 |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  192 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  740 :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  743 :star:  |
 |  [tontinton/maki](https://github.com/tontinton/maki)  |  640 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
 
-<sup><sub>Last updated: June 30, 2026 at 05:09:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: June 30, 2026 at 08:44:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
