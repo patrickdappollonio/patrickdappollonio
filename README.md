@@ -50,18 +50,18 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |
 |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.1K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
 |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  789 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.3K :star:  |
-|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.9K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  69.10K :star:  |
+|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.9K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  70.2K :star:  |
 |  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  438 :star:  |
 |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  458 :star:  |  [coder/boo](https://github.com/coder/boo)  |  712 :star:  |
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  234 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  451 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  235 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  453 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
 |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  217 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
-|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  552 :star:  |
+|  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |  [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)  |  553 :star:  |
 |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  66.9K :star:  |  [microsoft/pg_durable](https://github.com/microsoft/pg_durable)  |  2.1K :star:  |
 |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  625 :star:  |  [anthropics/defending-code-refe...](https://github.com/anthropics/defending-code-reference-harness)  |  6.3K :star:  |
 |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  191 :star:  |  [Kikobeats/untracked](https://github.com/Kikobeats/untracked)  |  829 :star:  |
-|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  755 :star:  |
-|  [tontinton/maki](https://github.com/tontinton/maki)  |  646 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
+|  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |  [anomalyco/rift](https://github.com/anomalyco/rift)  |  756 :star:  |
+|  [tontinton/maki](https://github.com/tontinton/maki)  |  647 :star:  |  [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)  |  1.4K :star:  |
 
-<sup><sub>Last updated: July 01, 2026 at 09:00:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 01, 2026 at 12:48:25 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
