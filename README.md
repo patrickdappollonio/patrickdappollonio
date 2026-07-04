@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.4K :star:  |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |
-|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  70 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.6K :star:  |
-|  [t8y2/dbx](https://github.com/t8y2/dbx)  |  8.5K :star:  |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  626 :star:  |
-|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  37.5K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  194 :star:  |
-|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  32.8K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
-|  [lance0/ttl](https://github.com/lance0/ttl)  |  1.2K :star:  |  [tontinton/maki](https://github.com/tontinton/maki)  |  652 :star:  |
+|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  71 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.6K :star:  |
+|  [t8y2/dbx](https://github.com/t8y2/dbx)  |  8.6K :star:  |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  626 :star:  |
+|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  37.6K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  195 :star:  |
+|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  32.10K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
+|  [lance0/ttl](https://github.com/lance0/ttl)  |  1.2K :star:  |  [tontinton/maki](https://github.com/tontinton/maki)  |  653 :star:  |
 |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |
 |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.6K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
-|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  800 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.4K :star:  |
-|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.10K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  73.5K :star:  |
-|  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  464 :star:  |
-|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  460 :star:  |  [coder/boo](https://github.com/coder/boo)  |  717 :star:  |
-|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  239 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
-|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  496 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
+|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  801 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.4K :star:  |
+|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.10K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  73.7K :star:  |
+|  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  465 :star:  |
+|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  461 :star:  |  [coder/boo](https://github.com/coder/boo)  |  716 :star:  |
+|  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  241 :star:  |  [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  |  14.5K :star:  |
+|  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  499 :star:  |  [deeplethe/forkd](https://github.com/deeplethe/forkd)  |  2.7K :star:  |
 |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  217 :star:  |  [milan0x/MicGuard](https://github.com/milan0x/MicGuard)  |  5 :star:  |
 
-<sup><sub>Last updated: July 04, 2026 at 09:21:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 04, 2026 at 13:02:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
