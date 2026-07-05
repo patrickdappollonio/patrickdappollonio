@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  576 :star:  |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  242 :star:  |
-|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  511 :star:  |
+|  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  589 :star:  |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  243 :star:  |
+|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  515 :star:  |
 |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  176 :star:  |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  218 :star:  |
 |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.4K :star:  |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |
-|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  81 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.7K :star:  |
+|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  83 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.8K :star:  |
 |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  8.6K :star:  |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  626 :star:  |
-|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  37.8K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  197 :star:  |
-|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  33.3K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
+|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  37.9K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  197 :star:  |
+|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  33.4K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
 |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.2K :star:  |  [tontinton/maki](https://github.com/tontinton/maki)  |  653 :star:  |
-|  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.5K :star:  |
-|  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.7K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
-|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  809 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.4K :star:  |
-|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.10K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  74.2K :star:  |
-|  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  466 :star:  |
-|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  461 :star:  |  [coder/boo](https://github.com/coder/boo)  |  716 :star:  |
+|  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.6K :star:  |
+|  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.8K :star:  |  [aidenybai/million](https://github.com/aidenybai/million)  |  17.7K :star:  |
+|  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  813 :star:  |  [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)  |  2.4K :star:  |
+|  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  30.10K :star:  |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  |  74.4K :star:  |
+|  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |  [joske/yserver](https://github.com/joske/yserver)  |  467 :star:  |
+|  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  462 :star:  |  [coder/boo](https://github.com/coder/boo)  |  716 :star:  |
 
-<sup><sub>Last updated: July 05, 2026 at 06:10:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 05, 2026 at 09:27:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
