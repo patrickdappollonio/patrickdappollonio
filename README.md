@@ -47,21 +47,21 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  751 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.8K :star:  |
+|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  756 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  4.9K :star:  |
 |  [gofrs/flock](https://github.com/gofrs/flock)  |  741 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  822 :star:  |
 |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  3.8K :star:  |  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  31K :star:  |
 |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.5K :star:  |  [joshka/betamax](https://github.com/joshka/betamax)  |  29 :star:  |
-|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  202 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  463 :star:  |
-|  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  630 :star:  |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  243 :star:  |
-|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  521 :star:  |
+|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  339 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  464 :star:  |
+|  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  642 :star:  |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  245 :star:  |
+|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  522 :star:  |
 |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  176 :star:  |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  218 :star:  |
 |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.5K :star:  |  [kenforthewin/atomic](https://github.com/kenforthewin/atomic)  |  1.6K :star:  |
-|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  91 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.9K :star:  |
+|  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  93 :star:  |  [earendil-works/pi](https://github.com/earendil-works/pi)  |  67.9K :star:  |
 |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  8.8K :star:  |  [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs)  |  626 :star:  |
-|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  38K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  197 :star:  |
-|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  33.7K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
+|  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  38.1K :star:  |  [saiyam1814/kiac](https://github.com/saiyam1814/kiac)  |  197 :star:  |
+|  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  33.9K :star:  |  [gleicon/devskills](https://github.com/gleicon/devskills)  |  14 :star:  |
 |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.3K :star:  |  [tontinton/maki](https://github.com/tontinton/maki)  |  654 :star:  |
 |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |  [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)  |  3.6K :star:  |
 
-<sup><sub>Last updated: July 05, 2026 at 23:23:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 06, 2026 at 04:18:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
