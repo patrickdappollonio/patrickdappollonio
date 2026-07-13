@@ -48,20 +48,20 @@ Overall, my most recent contributions (besides my own repos) have gone to .
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  2.7K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.6K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  346 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  166 :star:  |
-|  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  426 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  9.9K :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  346 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  172 :star:  |
+|  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  432 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  9.9K :star:  |
 |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.1K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  40.10K :star:  |
-|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  7.7K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  37.8K :star:  |
+|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  7.7K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  37.9K :star:  |
 |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.3K :star:  |
-|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  104.10K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
+|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  105K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
 |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  884 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  5.7K :star:  |
 |  [gofrs/flock](https://github.com/gofrs/flock)  |  743 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  848 :star:  |
-|  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.3K :star:  |  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  31.1K :star:  |
+|  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.4K :star:  |  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  31.1K :star:  |
 |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.6K :star:  |  [joshka/betamax](https://github.com/joshka/betamax)  |  30 :star:  |
-|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  850 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  476 :star:  |
+|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  852 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  476 :star:  |
 |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  884 :star:  |  [KovaMD/Kova](https://github.com/KovaMD/Kova)  |  263 :star:  |
-|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  554 :star:  |
+|  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |  [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)  |  555 :star:  |
 |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  182 :star:  |  [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)  |  223 :star:  |
 
-<sup><sub>Last updated: July 13, 2026 at 07:08:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 13, 2026 at 10:29:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
