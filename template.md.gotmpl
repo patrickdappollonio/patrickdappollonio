@@ -21,8 +21,6 @@ My personal favourite projects are :pushpin: pinned below!
 {{ range . }}| [#{{ .ID }}: {{ .Title | ellipsize 8 }}]({{ .URL }}) | [`{{ .RepositoryName }}`]({{ .RepositoryURL }}) | {{ .GetPRMetrics }} | {{ .StatusImageHTML 12 }} |
 {{ end }}
 
-Overall, my most recent contributions (besides my own repos) have gone to {{ $contributed_orgs | contributedOrgsMarkdown }}.
-
 {{- end }}
 
 {{- with .Articles }}
