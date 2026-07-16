@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  4.10K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  912 :star:  |
-|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  231 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
-|  [watzon/goshot](https://github.com/watzon/goshot)  |  230 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  183 :star:  |
-|  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.1K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.7K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  369 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  212 :star:  |
+|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  913 :star:  |
+|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  234 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
+|  [watzon/goshot](https://github.com/watzon/goshot)  |  236 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  183 :star:  |
+|  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.2K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.7K :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  370 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  212 :star:  |
 |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  466 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  10.2K :star:  |
 |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.4K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  41.8K :star:  |
 |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.1K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  39.2K :star:  |
 |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.3K :star:  |
-|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  106.4K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
-|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  932 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  5.10K :star:  |
-|  [gofrs/flock](https://github.com/gofrs/flock)  |  744 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  861 :star:  |
+|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  106.5K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
+|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  937 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  6K :star:  |
+|  [gofrs/flock](https://github.com/gofrs/flock)  |  744 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  862 :star:  |
 |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.4K :star:  |  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  31.1K :star:  |
 |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.7K :star:  |  [joshka/betamax](https://github.com/joshka/betamax)  |  30 :star:  |
-|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  883 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  479 :star:  |
+|  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  884 :star:  |  [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)  |  479 :star:  |
 
-<sup><sub>Last updated: July 16, 2026 at 09:46:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 16, 2026 at 13:13:26 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
