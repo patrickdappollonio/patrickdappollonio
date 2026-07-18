@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  300 :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  892 :star:  |
-|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.1K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  920 :star:  |
-|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  240 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  391 :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  893 :star:  |
+|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.1K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  921 :star:  |
+|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  242 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
 |  [watzon/goshot](https://github.com/watzon/goshot)  |  251 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  183 :star:  |
 |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.4K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.7K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  375 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  215 :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  377 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  215 :star:  |
 |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  471 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  10.2K :star:  |
-|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.4K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  42.2K :star:  |
-|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.2K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  39.6K :star:  |
+|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.4K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  42.3K :star:  |
+|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.3K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  39.6K :star:  |
 |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.3K :star:  |
 |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  107.1K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
-|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  956 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  6K :star:  |
+|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  958 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  6K :star:  |
 |  [gofrs/flock](https://github.com/gofrs/flock)  |  744 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  865 :star:  |
 |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.4K :star:  |  [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)  |  31.1K :star:  |
 |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.8K :star:  |  [joshka/betamax](https://github.com/joshka/betamax)  |  30 :star:  |
 
-<sup><sub>Last updated: July 18, 2026 at 02:03:20 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 18, 2026 at 05:22:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
