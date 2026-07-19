@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  1.7K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.4K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  2.3K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.4K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  14.10K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.9K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  932 :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  898 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  1K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  900 :star:  |
 |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.1K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  931 :star:  |
-|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  248 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
+|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  249 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
 |  [watzon/goshot](https://github.com/watzon/goshot)  |  256 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  186 :star:  |
 |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.5K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.7K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  380 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  219 :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  381 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  219 :star:  |
 |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  474 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  10.3K :star:  |
-|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.5K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  43K :star:  |
-|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.3K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  40K :star:  |
+|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.5K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  43.2K :star:  |
+|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.3K :star:  |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)  |  40.1K :star:  |
 |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |  [lance0/ttl](https://github.com/lance0/ttl)  |  1.3K :star:  |
-|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  107.6K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
-|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  975 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  6.1K :star:  |
-|  [gofrs/flock](https://github.com/gofrs/flock)  |  744 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  873 :star:  |
+|  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  107.7K :star:  |  [jairoFernandez/knock](https://github.com/jairoFernandez/knock)  |  4 :star:  |
+|  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  979 :star:  |  [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)  |  6.2K :star:  |
+|  [gofrs/flock](https://github.com/gofrs/flock)  |  744 :star:  |  [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM)  |  875 :star:  |
 
-<sup><sub>Last updated: July 19, 2026 at 09:13:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 19, 2026 at 12:56:11 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
