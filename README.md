@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  24.6K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
-|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.3K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  108.8K :star:  |
+|  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  24.7K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
+|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.3K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  108.9K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  678 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.2K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  749 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  7.7K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.5K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  7.9K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.5K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  3.10K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  2.2K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  909 :star:  |
-|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.3K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  947 :star:  |
-|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  252 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
-|  [watzon/goshot](https://github.com/watzon/goshot)  |  260 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  187 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  2.2K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  910 :star:  |
+|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.3K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  948 :star:  |
+|  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  253 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
+|  [watzon/goshot](https://github.com/watzon/goshot)  |  261 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  187 :star:  |
 |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.7K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.7K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  392 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  233 :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  393 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  238 :star:  |
 |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  480 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  11.2K :star:  |
-|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.6K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  45.4K :star:  |
-|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.5K :star:  |    |    |
+|  [shadcn/improve](https://github.com/shadcn/improve)  |  8.6K :star:  |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  |  45.6K :star:  |
+|  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.6K :star:  |    |    |
 
-<sup><sub>Last updated: July 22, 2026 at 09:48:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 22, 2026 at 13:16:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
