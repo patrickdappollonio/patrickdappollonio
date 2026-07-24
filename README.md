@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  69.7K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.7K :star:  |
+|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  69.8K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.8K :star:  |
 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  24.7K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
-|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.3K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  109.6K :star:  |
+|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.3K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  109.7K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  678 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.2K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  750 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  9.4K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.5K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  9.5K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.5K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.1K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  4.1K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  2.9K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  915 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  2.10K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  915 :star:  |
 |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.4K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  956 :star:  |
 |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  257 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
 |  [watzon/goshot](https://github.com/watzon/goshot)  |  264 :star:  |  [microsoft/duroxide](https://github.com/microsoft/duroxide)  |  187 :star:  |
 |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.8K :star:  |  [BuilderIO/skills](https://github.com/BuilderIO/skills)  |  3.8K :star:  |
-|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  401 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  252 :star:  |
+|  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  402 :star:  |  [ckissi/kinetics](https://github.com/ckissi/kinetics)  |  252 :star:  |
 |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  485 :star:  |  [t8y2/dbx](https://github.com/t8y2/dbx)  |  11.6K :star:  |
 |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.6K :star:  |    |    |
 
-<sup><sub>Last updated: July 24, 2026 at 06:14:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 24, 2026 at 09:41:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
