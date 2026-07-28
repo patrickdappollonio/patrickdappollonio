@@ -54,12 +54,12 @@ My personal favourite projects are :pushpin: pinned below!
 |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  110.8K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  679 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1.1K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.3K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  751 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  11.3K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  11.5K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.1K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  4.2K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.4K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  926 :star:  |
-|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.4K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  974 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.4K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  927 :star:  |
+|  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.4K :star:  |  [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)  |  977 :star:  |
 |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  260 :star:  |  [jondot/groundtruth](https://github.com/jondot/groundtruth)  |  3 :star:  |
 |  [watzon/goshot](https://github.com/watzon/goshot)  |  269 :star:  |    |    |
 
-<sup><sub>Last updated: July 27, 2026 at 17:07:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 27, 2026 at 22:24:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
