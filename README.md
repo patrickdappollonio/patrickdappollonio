@@ -46,20 +46,20 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.1K :star:  |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  261 :star:  |
-|  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  6.8K :star:  |  [watzon/goshot](https://github.com/watzon/goshot)  |  269 :star:  |
+|  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  6.9K :star:  |  [watzon/goshot](https://github.com/watzon/goshot)  |  269 :star:  |
 |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.9K :star:  |
 |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  413 :star:  |
 |  [goware/flow](https://github.com/goware/flow)  |  2 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  492 :star:  |
-|  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  62 :star:  |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.7K :star:  |
-|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.1K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  8.10K :star:  |
+|  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  63 :star:  |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.7K :star:  |
+|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.2K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  9K :star:  |
 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  24.9K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
-|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  110.10K :star:  |
+|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  111K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  679 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1.1K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.3K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  751 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  11.10K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  12.2K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.1K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  4.2K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.5K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  927 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.5K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  928 :star:  |
 |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.4K :star:  |    |    |
 
-<sup><sub>Last updated: July 28, 2026 at 06:32:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 28, 2026 at 10:02:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
