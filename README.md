@@ -53,13 +53,13 @@ My personal favourite projects are :pushpin: pinned below!
 |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  63 :star:  |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.7K :star:  |
 |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.2K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  9K :star:  |
 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  24.9K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
-|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  111K :star:  |
+|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  111.1K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  679 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1.1K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.3K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  751 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  12.2K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  12.5K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.1K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  4.2K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.5K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  928 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.6K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  929 :star:  |
 |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.4K :star:  |    |    |
 
-<sup><sub>Last updated: July 28, 2026 at 10:02:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 28, 2026 at 13:24:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
