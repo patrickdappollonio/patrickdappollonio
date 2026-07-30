@@ -56,10 +56,10 @@ My personal favourite projects are :pushpin: pinned below!
 |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  111.7K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  683 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1.2K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.3K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  751 :star:  |
-|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  13.8K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
+|  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  13.10K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.6K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.1K :star:  |  [rivet-dev/agentos](https://github.com/rivet-dev/agentos)  |  4.2K :star:  |
-|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.9K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  932 :star:  |
+|  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  3.9K :star:  |  [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)  |  933 :star:  |
 |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.5K :star:  |    |    |
 
-<sup><sub>Last updated: July 30, 2026 at 06:22:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: July 30, 2026 at 09:55:41 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
