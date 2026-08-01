@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  532 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4K :star:  |
+|  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  571 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4.1K :star:  |
 |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.7K :star:  |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.5K :star:  |
 |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.1K :star:  |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  260 :star:  |
 |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  6.10K :star:  |  [watzon/goshot](https://github.com/watzon/goshot)  |  269 :star:  |
 |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  3.9K :star:  |
 |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  416 :star:  |
-|  [goware/flow](https://github.com/goware/flow)  |  4 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  504 :star:  |
+|  [goware/flow](https://github.com/goware/flow)  |  4 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  505 :star:  |
 |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  64 :star:  |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.7K :star:  |
 |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.5K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  9.2K :star:  |
 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25K :star:  |  [armink/FlashDB](https://github.com/armink/FlashDB)  |  2.8K :star:  |
-|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.4K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  112.2K :star:  |
+|  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |  [nextlevelbuilder/ui-ux-pro-max...](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  |  112.3K :star:  |
 |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  687 :star:  |  [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)  |  1.2K :star:  |
 |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.4K :star:  |  [gofrs/flock](https://github.com/gofrs/flock)  |  751 :star:  |
 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  14.9K :star:  |  [kenn-io/agentsview](https://github.com/kenn-io/agentsview)  |  4.7K :star:  |
 |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.2K :star:  |    |    |
 
-<sup><sub>Last updated: August 01, 2026 at 02:27:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 01, 2026 at 05:56:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
