@@ -45,11 +45,11 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  336 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  401 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  342 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  692 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  426 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.4K :star:  |
-|  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  17.1K :star:  |
-|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  268 :star:  |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.2K :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  436 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.4K :star:  |
+|  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  17.2K :star:  |
+|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  270 :star:  |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.2K :star:  |
 |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  839 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4.3K :star:  |
 |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.7K :star:  |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.6K :star:  |
 |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  264 :star:  |
@@ -58,8 +58,8 @@ My personal favourite projects are :pushpin: pinned below!
 |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  423 :star:  |
 |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  529 :star:  |
 |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  66 :star:  |  [shadcn/improve](https://github.com/shadcn/improve)  |  8.8K :star:  |
-|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.8K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  9.3K :star:  |
+|  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.9K :star:  |  [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)  |  9.3K :star:  |
 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.1K :star:  |    |    |
 
-<sup><sub>Last updated: August 05, 2026 at 10:04:23 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 05, 2026 at 13:27:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
