@@ -47,19 +47,19 @@ My personal favourite projects are :pushpin: pinned below!
 |------------|-------|------------|-------|
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  71.9K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  104 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.1K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  469 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
-|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  343 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  695 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  519 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.4K :star:  |
-|  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36.1K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  17.4K :star:  |
-|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  275 :star:  |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.2K :star:  |
-|  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  847 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4.3K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  477 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  343 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  693 :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  527 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.4K :star:  |
+|  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36.1K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  17.5K :star:  |
+|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  277 :star:  |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.2K :star:  |
+|  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  849 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4.3K :star:  |
 |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.7K :star:  |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.6K :star:  |
 |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  265 :star:  |
 |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.1K :star:  |  [watzon/goshot](https://github.com/watzon/goshot)  |  278 :star:  |
 |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |  [malisper/pgrust](https://github.com/malisper/pgrust)  |  4K :star:  |
-|  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  423 :star:  |
-|  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  529 :star:  |
+|  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |  [tiliondev/fortress](https://github.com/tiliondev/fortress)  |  425 :star:  |
+|  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |  [rayfish/rayfish](https://github.com/rayfish/rayfish)  |  530 :star:  |
 |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  67 :star:  |    |    |
 
-<sup><sub>Last updated: August 06, 2026 at 02:28:06 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 06, 2026 at 06:35:52 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
