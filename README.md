@@ -51,15 +51,15 @@ My personal favourite projects are :pushpin: pinned below!
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  108.4K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.2K :star:  |
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  77.4K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
-|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  12.2K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
-|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  236 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
+|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  12.3K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
+|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  237 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.1K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  126 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.2K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  792 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  793 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  347 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  696 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  775 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.5K :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  780 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.5K :star:  |
 |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36.2K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  18.6K :star:  |
 |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  290 :star:  |    |    |
 
-<sup><sub>Last updated: August 09, 2026 at 01:01:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 09, 2026 at 04:39:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
