@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  886 :star:  |
+|  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.8K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.8K :star:  |
+|  [apify/crawlee](https://github.com/apify/crawlee)  |  25.3K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
+|  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  108.4K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.2K :star:  |
+|  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  77.4K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
-|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  12K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
-|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  232 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
+|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  12.1K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
+|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  236 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.1K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  126 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.2K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  779 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
-|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  346 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  695 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  769 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.5K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  785 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  347 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  696 :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  773 :star:  |  [longbridge/gpui-component](https://github.com/longbridge/gpui-component)  |  12.5K :star:  |
 |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36.2K :star:  |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)  |  18.5K :star:  |
-|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  290 :star:  |  [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)  |  15.3K :star:  |
-|  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  885 :star:  |  [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)  |  4.3K :star:  |
-|  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.8K :star:  |  [Dicklesworthstone/destructive_...](https://github.com/Dicklesworthstone/destructive_command_guard)  |  5.7K :star:  |
-|  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |  [Moh4696/freecut](https://github.com/Moh4696/freecut)  |  266 :star:  |
-|  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.1K :star:  |  [watzon/goshot](https://github.com/watzon/goshot)  |  279 :star:  |
-|  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |    |    |
+|  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  290 :star:  |    |    |
 
-<sup><sub>Last updated: August 08, 2026 at 16:26:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 08, 2026 at 21:36:29 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
