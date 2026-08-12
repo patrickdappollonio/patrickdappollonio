@@ -46,20 +46,20 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.3K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  36.8K :star:  |
-|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  16 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  293 :star:  |
-|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  937 :star:  |
-|  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.8K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.8K :star:  |
+|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  17 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  293 :star:  |
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  943 :star:  |
+|  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.8K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.9K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  108.9K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.3K :star:  |
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  77.9K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
-|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  14.8K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
-|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  309 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
+|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  14.9K :star:  |  [goware/flow](https://github.com/goware/flow)  |  5 :star:  |
+|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  312 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.3K :star:  |
-|  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  127 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.2K :star:  |
+|  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  127 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
 |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  832 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
-|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  361 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  697 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  858 :star:  |    |    |
+|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  361 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  696 :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  861 :star:  |    |    |
 
-<sup><sub>Last updated: August 12, 2026 at 05:08:40 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 12, 2026 at 09:04:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
