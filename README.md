@@ -45,9 +45,9 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.4K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.1K :star:  |
-|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  18 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  292 :star:  |
-|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  976 :star:  |
+|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.5K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.1K :star:  |
+|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  18 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  293 :star:  |
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  978 :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.8K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.9K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  109.1K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.3K :star:  |
@@ -57,9 +57,9 @@ My personal favourite projects are :pushpin: pinned below!
 |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  335 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.4K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  127 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  840 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
-|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  364 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  698 :star:  |
-|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  873 :star:  |    |    |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  842 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  364 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  697 :star:  |
+|  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  875 :star:  |    |    |
 
-<sup><sub>Last updated: August 13, 2026 at 12:54:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 13, 2026 at 16:39:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
