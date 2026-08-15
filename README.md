@@ -45,8 +45,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.6K :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  892 :star:  |
-|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  19 :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.2K :star:  |
+|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.6K :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  903 :star:  |
+|  [ahmetb/limac](https://github.com/ahmetb/limac)  |  19 :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.3K :star:  |
 |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  296 :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  1K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.9K :star:  |
@@ -60,5 +60,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  849 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  366 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 
-<sup><sub>Last updated: August 15, 2026 at 08:32:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 15, 2026 at 12:21:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
