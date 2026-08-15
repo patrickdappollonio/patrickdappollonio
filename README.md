@@ -58,8 +58,8 @@ My personal favourite projects are :pushpin: pinned below!
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.5K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  127 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
 |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  849 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
-|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  364 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  697 :star:  |
+|  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  365 :star:  |  [maddada/Ghostex](https://github.com/maddada/Ghostex)  |  697 :star:  |
 |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  887 :star:  |    |    |
 
-<sup><sub>Last updated: August 14, 2026 at 21:06:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 15, 2026 at 00:27:57 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
