@@ -45,20 +45,20 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.6K :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  914 :star:  |
+|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  17.7K :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  915 :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  19 :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.3K :star:  |
 |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.8K :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  296 :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  1K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.9K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  109.4K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
-|  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  78.2K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.3K :star:  |
+|  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  78.3K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.3K :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  16.3K :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
 |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  334 :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  128 :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.6K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  849 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  850 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  366 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 
-<sup><sub>Last updated: August 15, 2026 at 21:10:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 16, 2026 at 00:33:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
