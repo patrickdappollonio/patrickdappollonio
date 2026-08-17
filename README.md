@@ -52,14 +52,14 @@ My personal favourite projects are :pushpin: pinned below!
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.9K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  109.5K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.4K :star:  |
-|  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  78.4K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
+|  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  78.5K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
 |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  16.6K :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
-|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  334 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
-|  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.6K :star:  |
+|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  333 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
+|  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.7K :star:  |
 |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  128 :star:  |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)  |  25.3K :star:  |
-|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  855 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
+|  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  856 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  366 :star:  |    |    |
 
-<sup><sub>Last updated: August 17, 2026 at 04:39:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 17, 2026 at 08:39:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
