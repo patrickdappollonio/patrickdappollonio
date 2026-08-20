@@ -48,7 +48,7 @@ My personal favourite projects are :pushpin: pinned below!
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.1K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.6K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  20 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  298 :star:  |
-|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  1.1K :star:  |
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  1.2K :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.10K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.4K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  109.8K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.4K :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  862 :star:  |  [chattocorp/chatto](https://github.com/chattocorp/chatto)  |  2.5K :star:  |
 |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  369 :star:  |    |    |
 
-<sup><sub>Last updated: August 19, 2026 at 16:24:05 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 19, 2026 at 21:06:37 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
