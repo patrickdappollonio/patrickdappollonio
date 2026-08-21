@@ -45,6 +45,7 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
+|  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.8K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  868 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  374 :star:  |
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.2K :star:  |
@@ -56,10 +57,9 @@ My personal favourite projects are :pushpin: pinned below!
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  109.9K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.5K :star:  |
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  78.8K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
-|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  17.6K :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
+|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  17.7K :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
 |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
-|  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |  [ComposioHQ/awesome-claude-skil...](https://github.com/ComposioHQ/awesome-claude-skills)  |  72.9K :star:  |
-|  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |    |    |
+|  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |    |    |
 
-<sup><sub>Last updated: August 21, 2026 at 00:34:56 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 21, 2026 at 04:37:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
