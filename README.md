@@ -57,9 +57,9 @@ My personal favourite projects are :pushpin: pinned below!
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  110.2K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.5K :star:  |
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  79.2K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |  [goware/pgkit](https://github.com/goware/pgkit)  |  13 :star:  |
-|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  17.10K :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
-|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  335 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
+|  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  18K :star:  |  [goware/flow](https://github.com/goware/flow)  |  6 :star:  |
+|  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |    |    |
 
-<sup><sub>Last updated: August 23, 2026 at 04:26:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 23, 2026 at 08:35:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
