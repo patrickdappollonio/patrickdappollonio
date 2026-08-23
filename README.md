@@ -47,7 +47,7 @@ My personal favourite projects are :pushpin: pinned below!
 |------------|-------|------------|-------|
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.8K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  870 :star:  |
-|  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  378 :star:  |
+|  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  379 :star:  |
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.4K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.3K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.8K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  21 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  300 :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |    |    |
 
-<sup><sub>Last updated: August 23, 2026 at 08:35:04 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 23, 2026 at 12:21:46 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
