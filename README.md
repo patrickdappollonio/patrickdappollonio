@@ -48,10 +48,10 @@ My personal favourite projects are :pushpin: pinned below!
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.8K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  870 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  378 :star:  |
-|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.3K :star:  |
+|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.4K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.3K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.8K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  21 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  300 :star:  |
-|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  1.10K :star:  |
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  2K :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  5.10K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.5K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  110.2K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.5K :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  335 :star:  |  [Brostoffed/writemark](https://github.com/Brostoffed/writemark)  |  68 :star:  |
 |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |    |    |
 
-<sup><sub>Last updated: August 23, 2026 at 00:34:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 23, 2026 at 04:26:32 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
