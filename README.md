@@ -45,9 +45,9 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  15.5K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  18.2K :star:  |
+|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  15.6K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  18.2K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.2K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |
-|  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  835 :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
+|  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  1.3K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.8K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  873 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  378 :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  79.3K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |    |    |
 
-<sup><sub>Last updated: August 24, 2026 at 08:44:54 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 24, 2026 at 12:34:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
