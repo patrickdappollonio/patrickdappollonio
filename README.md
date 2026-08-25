@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  15.9K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  18.3K :star:  |
+|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  15.10K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  18.3K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.2K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |
-|  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  1.7K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
+|  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  1.10K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.8K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  129 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  872 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  378 :star:  |
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.5K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.5K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  37.9K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  33 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  299 :star:  |
-|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  2.1K :star:  |
+|  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  2.2K :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  6K :star:  |
 |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.5K :star:  |  [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills)  |  1.2K :star:  |
-|  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  110.4K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.5K :star:  |
+|  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  110.4K :star:  |  [maximhq/bifrost](https://github.com/maximhq/bifrost)  |  7.6K :star:  |
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  79.4K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |    |    |
 
-<sup><sub>Last updated: August 24, 2026 at 21:08:18 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 25, 2026 at 00:36:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
