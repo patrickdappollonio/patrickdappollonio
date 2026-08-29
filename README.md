@@ -45,14 +45,14 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  17.4K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  19K :star:  |
+|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  17.4K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  19.1K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.4K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |
 |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.4K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.9K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  130 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  873 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.5K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  385 :star:  |
-|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.6K :star:  |
-|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.7K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  38K :star:  |
+|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  1.8K :star:  |
+|  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.8K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  38.1K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  45 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  299 :star:  |
 |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  2.4K :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |  [vale-cli/vale](https://github.com/vale-cli/vale)  |  6K :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  79.7K :star:  |  [goware/breaker](https://github.com/goware/breaker)  |  4 :star:  |
 |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |    |    |
 
-<sup><sub>Last updated: August 28, 2026 at 15:53:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 28, 2026 at 22:42:21 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
