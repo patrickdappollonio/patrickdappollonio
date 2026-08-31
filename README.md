@@ -46,20 +46,20 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  1.7K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.6K :star:  |
-|  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  111.8K :star:  |
+|  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  111.9K :star:  |
 |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.1K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  80.6K :star:  |
 |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  15.7K :star:  |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |
-|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  18.1K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  19.6K :star:  |
+|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  18.2K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  19.7K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.6K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  337 :star:  |
 |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.9K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  130 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  889 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  388 :star:  |
-|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  3.2K :star:  |
+|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  3.3K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.9K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  38.2K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  46 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  303 :star:  |
 |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |  [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)  |  2.5K :star:  |
 |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |    |    |
 
-<sup><sub>Last updated: August 31, 2026 at 14:46:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: August 31, 2026 at 19:36:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
