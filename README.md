@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  1K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |
+|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  1.4K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |
 |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  1.7K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.6K :star:  |
 |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  111.9K :star:  |
-|  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.2K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  80.6K :star:  |
-|  [every-app/open-seo](https://github.com/every-app/open-seo)  |  15.9K :star:  |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |
+|  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.2K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  80.7K :star:  |
+|  [every-app/open-seo](https://github.com/every-app/open-seo)  |  16K :star:  |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |
 |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  18.3K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  19.8K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.6K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  337 :star:  |
 |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.9K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  131 :star:  |
-|  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  891 :star:  |
+|  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  892 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  388 :star:  |
-|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  3.6K :star:  |
+|  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |  [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)  |  3.7K :star:  |
 |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  18.9K :star:  |  [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)  |  38.3K :star:  |
 |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  46 :star:  |  [nakasyou/local-mcp](https://github.com/nakasyou/local-mcp)  |  303 :star:  |
 |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |    |    |
 
-<sup><sub>Last updated: September 01, 2026 at 05:10:09 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 01, 2026 at 12:04:22 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
