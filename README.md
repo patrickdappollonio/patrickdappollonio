@@ -48,7 +48,7 @@ My personal favourite projects are :pushpin: pinned below!
 |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  119.9K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19K :star:  |
 |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.3K :star:  |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  46 :star:  |
 |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.6K :star:  |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.9K :star:  |
-|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  1.10K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |
+|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  2.1K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.9K :star:  |
 |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  1.7K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.6K :star:  |
 |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  112.1K :star:  |
 |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.5K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  81.1K :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  388 :star:  |
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |    |    |
 
-<sup><sub>Last updated: September 02, 2026 at 15:20:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 02, 2026 at 18:21:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
