@@ -54,12 +54,12 @@ My personal favourite projects are :pushpin: pinned below!
 |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.6K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  81.3K :star:  |
 |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  17K :star:  |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |
 |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  19.3K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  20.3K :star:  |
-|  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.8K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |
+|  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.9K :star:  |  [stanuwu/d2-prebl-explorer-info](https://github.com/stanuwu/d2-prebl-explorer-info)  |  336 :star:  |
 |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  3.10K :star:  |  [mrinalwadhwa/unramble](https://github.com/mrinalwadhwa/unramble)  |  133 :star:  |
 |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.2K :star:  |  [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)  |  900 :star:  |
 |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |  [adamallcock/codex-chatgpt-cont...](https://github.com/adamallcock/codex-chatgpt-control)  |  390 :star:  |
 |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |    |    |
 
-<sup><sub>Last updated: September 04, 2026 at 18:06:42 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 04, 2026 at 23:00:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
