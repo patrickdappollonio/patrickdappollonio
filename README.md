@@ -46,7 +46,7 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  1.8K :star:  |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.3K :star:  |
-|  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  978 :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
+|  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  983 :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
 |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  1.7K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |
 |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  121.9K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.4K :star:  |
 |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.4K :star:  |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  47 :star:  |
@@ -61,5 +61,5 @@ My personal favourite projects are :pushpin: pinned below!
 |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |  [felixge/httpsnoop](https://github.com/felixge/httpsnoop)  |  1.2K :star:  |
 |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4K :star:  |    |    |
 
-<sup><sub>Last updated: September 09, 2026 at 11:56:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 09, 2026 at 15:07:15 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
