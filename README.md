@@ -48,18 +48,18 @@ My personal favourite projects are :pushpin: pinned below!
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  4.6K :star:  |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4K :star:  |
 |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  1.9K :star:  |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.3K :star:  |
-|  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  996 :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
+|  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1K :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
 |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  1.7K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |
-|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  122.1K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.4K :star:  |
+|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  122.2K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.4K :star:  |
 |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.4K :star:  |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  47 :star:  |
 |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.7K :star:  |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  6.10K :star:  |
-|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  3.7K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.10K :star:  |
-|  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.7K :star:  |
+|  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  3.8K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.10K :star:  |
+|  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.1K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.7K :star:  |
 |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  114K :star:  |
 |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.9K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  82.1K :star:  |
 |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  18.2K :star:  |  [dtolnay-contrib/crossfire-rs](https://github.com/dtolnay-contrib/crossfire-rs)  |  1 :star:  |
-|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  20.4K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  21K :star:  |
+|  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  20.5K :star:  |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)  |  21.1K :star:  |
 |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  1.10K :star:  |    |    |
 
-<sup><sub>Last updated: September 10, 2026 at 04:39:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 10, 2026 at 11:51:11 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
