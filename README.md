@@ -45,7 +45,8 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  494 :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  20.9K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  23.4K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  18.6K :star:  |
+|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  560 :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  20.9K :star:  |
 |  [testdouble/han](https://github.com/testdouble/han)  |  263 :star:  |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  2K :star:  |
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  4.8K :star:  |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4.1K :star:  |
@@ -58,8 +59,7 @@ My personal favourite projects are :pushpin: pinned below!
 |  [crmne/fastpotify](https://github.com/crmne/fastpotify)  |  3.9K :star:  |  [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  |  7.10K :star:  |
 |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.1K :star:  |  [apify/crawlee](https://github.com/apify/crawlee)  |  25.8K :star:  |
 |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |  [browser-use/browser-use](https://github.com/browser-use/browser-use)  |  114.5K :star:  |
-|  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.10K :star:  |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)  |  83.1K :star:  |
-|  [every-app/open-seo](https://github.com/every-app/open-seo)  |  18.6K :star:  |    |    |
+|  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  2.10K :star:  |    |    |
 
-<sup><sub>Last updated: September 13, 2026 at 14:32:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 13, 2026 at 18:06:36 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
