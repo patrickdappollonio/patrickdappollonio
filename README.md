@@ -46,20 +46,20 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  2.10K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.2K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  184 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
-|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  5.3K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.1K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  29.8K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  18.8K :star:  |
-|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.1K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  21.3K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  243 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
+|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  6.2K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.1K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  30.10K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  18.8K :star:  |
+|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.2K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  21.3K :star:  |
 |  [testdouble/han](https://github.com/testdouble/han)  |  267 :star:  |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  2K :star:  |
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  4.10K :star:  |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4.1K :star:  |
 |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.2K :star:  |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.3K :star:  |
 |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.2K :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
 |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  2.8K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |
-|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  124.1K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.8K :star:  |
-|  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.4K :star:  |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  47 :star:  |
-|  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.8K :star:  |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  7K :star:  |
-|  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.2K :star:  |    |    |
+|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  124.2K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.8K :star:  |
+|  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.4K :star:  |  [ahmetb/limac](https://github.com/ahmetb/limac)  |  48 :star:  |
+|  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.9K :star:  |  [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)  |  7K :star:  |
+|  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.3K :star:  |    |    |
 
-<sup><sub>Last updated: September 16, 2026 at 05:04:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 16, 2026 at 12:09:43 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
