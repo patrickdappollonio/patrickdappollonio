@@ -46,12 +46,12 @@ My personal favourite projects are :pushpin: pinned below!
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
 |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  55 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.9K :star:  |
-|  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  272 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.5K :star:  |
+|  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  273 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.5K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  3.2K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  653 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
-|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  17.9K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.3K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  38.3K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  19.7K :star:  |
-|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.3K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  21.7K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  664 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
+|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  18.2K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.3K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  38.5K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  19.7K :star:  |
+|  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.3K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  21.8K :star:  |
 |  [testdouble/han](https://github.com/testdouble/han)  |  268 :star:  |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  2.1K :star:  |
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.2K :star:  |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4.2K :star:  |
@@ -59,7 +59,7 @@ My personal favourite projects are :pushpin: pinned below!
 |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.3K :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
 |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  3.4K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |
 |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  124.9K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  19.9K :star:  |
-|  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.4K :star:  |    |    |
+|  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |    |    |
 
-<sup><sub>Last updated: September 20, 2026 at 18:11:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 20, 2026 at 23:23:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
