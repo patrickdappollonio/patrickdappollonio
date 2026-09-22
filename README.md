@@ -48,9 +48,9 @@ My personal favourite projects are :pushpin: pinned below!
 |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  57 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.10K :star:  |
 |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  273 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.5K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  3.2K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  710 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
-|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  19.4K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.3K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  39.4K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  19.9K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  728 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
+|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  19.9K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.3K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  39.6K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  19.10K :star:  |
 |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.4K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  21.9K :star:  |
 |  [testdouble/han](https://github.com/testdouble/han)  |  270 :star:  |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  2.1K :star:  |
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
@@ -58,8 +58,8 @@ My personal favourite projects are :pushpin: pinned below!
 |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.3K :star:  |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.3K :star:  |
 |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.4K :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
 |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  3.8K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  56 :star:  |
-|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  125K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  20K :star:  |
+|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  125.1K :star:  |  [1jehuang/jcode](https://github.com/1jehuang/jcode)  |  20K :star:  |
 |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |    |    |
 
-<sup><sub>Last updated: September 22, 2026 at 05:00:33 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 22, 2026 at 12:18:03 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
