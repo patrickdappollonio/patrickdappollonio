@@ -1,10 +1,10 @@
 module github.com/patrickdappollonio/patrickdappollonio
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.23.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
