@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [google/ax](https://github.com/google/ax)  |  11.9K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  126.1K :star:  |
+|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  231 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.5K :star:  |
+|  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  82 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.1K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  12K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  126.2K :star:  |
 |  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  139 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
 |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  73 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  3.10K :star:  |
-|  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  274 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.6K :star:  |
+|  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  274 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.7K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  3.6K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  865 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  871 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.1K :star:  |
 |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  22.1K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.6K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  41.6K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  21.3K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  41.7K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  21.3K :star:  |
 |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.7K :star:  |  [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)  |  22.3K :star:  |
 |  [testdouble/han](https://github.com/testdouble/han)  |  273 :star:  |  [fayazara/Screendrop](https://github.com/fayazara/Screendrop)  |  2.1K :star:  |
 |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |  [b-nnett/grok-bot-0.18-reconstr...](https://github.com/b-nnett/grok-bot-0.18-reconstructed)  |  3.5K :star:  |
 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.6K :star:  |  [nolabs-ai/nono](https://github.com/nolabs-ai/nono)  |  4.2K :star:  |
 |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.3K :star:  |  [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)  |  1.3K :star:  |
-|  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.5K :star:  |  [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)  |  3.6K :star:  |
-|  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.1K :star:  |  [cafkafk/serde-norway](https://github.com/cafkafk/serde-norway)  |  57 :star:  |
 
-<sup><sub>Last updated: September 26, 2026 at 23:45:14 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 27, 2026 at 05:48:58 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
