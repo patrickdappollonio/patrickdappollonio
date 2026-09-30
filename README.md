@@ -47,19 +47,19 @@ My personal favourite projects are :pushpin: pinned below!
 |------------|-------|------------|-------|
 |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  40 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.7K :star:  |
 |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  3.4K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  276 :star:  |
-|  [germondai/trawl](https://github.com/germondai/trawl)  |  926 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
+|  [germondai/trawl](https://github.com/germondai/trawl)  |  927 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
 |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.2K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.8K :star:  |
-|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  95.1K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
-|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  321 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
+|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  95.2K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
+|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  322 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
 |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  82 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
-|  [google/ax](https://github.com/google/ax)  |  12.6K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  127.3K :star:  |
-|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  164 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  12.7K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  127.5K :star:  |
+|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  166 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
 |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  79 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4K :star:  |
 |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  276 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.8K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  3.8K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  942 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.2K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  947 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.2K :star:  |
 |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  23.4K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.8K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  42.8K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  21.9K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  42.9K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  21.9K :star:  |
 
-<sup><sub>Last updated: September 30, 2026 at 10:36:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: September 30, 2026 at 16:32:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
