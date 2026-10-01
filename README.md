@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  42 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.7K :star:  |
+|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  44 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.7K :star:  |
 |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  3.5K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  276 :star:  |
-|  [germondai/trawl](https://github.com/germondai/trawl)  |  929 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
+|  [germondai/trawl](https://github.com/germondai/trawl)  |  930 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
 |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.2K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.8K :star:  |
-|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  95.4K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
-|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  324 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
+|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  95.6K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
+|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  328 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
 |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  82 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
-|  [google/ax](https://github.com/google/ax)  |  12.7K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  127.6K :star:  |
-|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  168 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
-|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  80 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  12.8K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  127.9K :star:  |
+|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  169 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
+|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  82 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4K :star:  |
 |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  276 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.8K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  3.9K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  952 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.2K :star:  |
-|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  23.5K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.8K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  42.10K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  21.10K :star:  |
+|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  962 :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.2K :star:  |
+|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  23.6K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  3.8K :star:  |
+|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  43.1K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  22.1K :star:  |
 
-<sup><sub>Last updated: October 01, 2026 at 00:14:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 01, 2026 at 11:05:45 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
