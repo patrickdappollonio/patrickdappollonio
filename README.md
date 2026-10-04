@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  67 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
-|  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  3.8K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  277 :star:  |
-|  [germondai/trawl](https://github.com/germondai/trawl)  |  939 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
-|  [firelex/jeff](https://github.com/firelex/jeff)  |  1.3K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.10K :star:  |
-|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  96.7K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
+|  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.4K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  28 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  23.9K :star:  |
+|  [nuta/ftl](https://github.com/nuta/ftl)  |  195 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  43.6K :star:  |
+|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  68 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
+|  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  3.9K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  277 :star:  |
+|  [germondai/trawl](https://github.com/germondai/trawl)  |  941 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
+|  [firelex/jeff](https://github.com/firelex/jeff)  |  1.4K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  5.10K :star:  |
+|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  96.8K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
 |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  328 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
 |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  83 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
-|  [google/ax](https://github.com/google/ax)  |  12.10K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  128.3K :star:  |
-|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  175 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
-|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  84 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4.1K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  13K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  128.3K :star:  |
+|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  177 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
+|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  84 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4K :star:  |
 |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  277 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  4.10K :star:  |
 |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4K :star:  |  [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)  |  2.3K :star:  |
-|  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.4K :star:  |  [wilwaldon/Claude-Code-Frontend...](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit)  |  1.2K :star:  |
-|  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  23.9K :star:  |  [hieunc229/mailflare](https://github.com/hieunc229/mailflare)  |  4.2K :star:  |
-|  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  43.5K :star:  |  [every-app/open-seo](https://github.com/every-app/open-seo)  |  22.3K :star:  |
 
-<sup><sub>Last updated: October 03, 2026 at 18:41:07 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 04, 2026 at 00:22:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
