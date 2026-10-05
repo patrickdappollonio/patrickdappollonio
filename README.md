@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  76.2K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4K :star:  |
-|  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.4K :star:  |
-|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  24.2K :star:  |
-|  [nuta/ftl](https://github.com/nuta/ftl)  |  251 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  43.7K :star:  |
-|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  74 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  76.4K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4K :star:  |
+|  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.5K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  24.4K :star:  |
+|  [nuta/ftl](https://github.com/nuta/ftl)  |  253 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  43.7K :star:  |
+|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  75 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
 |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  3.9K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  277 :star:  |
-|  [germondai/trawl](https://github.com/germondai/trawl)  |  944 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
+|  [germondai/trawl](https://github.com/germondai/trawl)  |  945 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
 |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.4K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  6K :star:  |
 |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  97.2K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
 |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  328 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.6K :star:  |
 |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  83 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
-|  [google/ax](https://github.com/google/ax)  |  13.1K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  128.4K :star:  |
-|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  183 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
-|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  84 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4.1K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  13.1K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  128.5K :star:  |
+|  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  185 :star:  |  [ovg-project/kvcached](https://github.com/ovg-project/kvcached)  |  1.5K :star:  |
+|  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  85 :star:  |  [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)  |  4.1K :star:  |
 |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  277 :star:  |  [crmne/spotifast](https://github.com/crmne/spotifast)  |  5.1K :star:  |
 
-<sup><sub>Last updated: October 04, 2026 at 18:44:27 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 05, 2026 at 00:08:16 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
