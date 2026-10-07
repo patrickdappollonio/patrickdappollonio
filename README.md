@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  1.2K :star:  |  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  190 :star:  |
-|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  1.4K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  85 :star:  |
-|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  8.3K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  277 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  77.8K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4.1K :star:  |
-|  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.6K :star:  |
-|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  25.4K :star:  |
-|  [nuta/ftl](https://github.com/nuta/ftl)  |  283 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  44.1K :star:  |
-|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  127 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
+|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  1.7K :star:  |  [deepakness/cogsend](https://github.com/deepakness/cogsend)  |  192 :star:  |
+|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  2.3K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  85 :star:  |
+|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  13.7K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  277 :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  78.1K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4.1K :star:  |
+|  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.7K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  25.7K :star:  |
+|  [nuta/ftl](https://github.com/nuta/ftl)  |  285 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  44.2K :star:  |
+|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  136 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
 |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  4.1K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  279 :star:  |
-|  [germondai/trawl](https://github.com/germondai/trawl)  |  948 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
-|  [firelex/jeff](https://github.com/firelex/jeff)  |  1.4K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  6.1K :star:  |
-|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  98.1K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
-|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  331 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.7K :star:  |
-|  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  84 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
-|  [google/ax](https://github.com/google/ax)  |  13.2K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  128.9K :star:  |
+|  [germondai/trawl](https://github.com/germondai/trawl)  |  951 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.4K :star:  |
+|  [firelex/jeff](https://github.com/firelex/jeff)  |  1.4K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  6.2K :star:  |
+|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  98.3K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
+|  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  332 :star:  |  [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)  |  1.7K :star:  |
+|  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |  [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)  |  4.2K :star:  |
+|  [google/ax](https://github.com/google/ax)  |  13.2K :star:  |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)  |  129.1K :star:  |
 
-<sup><sub>Last updated: October 07, 2026 at 00:23:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 07, 2026 at 11:04:38 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
