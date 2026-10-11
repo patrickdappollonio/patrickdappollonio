@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [morluto/rea](https://github.com/morluto/rea)  |  76.3K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  334 :star:  |
-|  [p10node/k10s](https://github.com/p10node/k10s)  |  296 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  569 :star:  |  [google/ax](https://github.com/google/ax)  |  13.4K :star:  |
-|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  6.3K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  219 :star:  |
-|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  9.2K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  88 :star:  |
-|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  42.8K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  281 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  79.5K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4.4K :star:  |
+|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  166 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  100.1K :star:  |
+|  [morluto/rea](https://github.com/morluto/rea)  |  90.5K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  335 :star:  |
+|  [p10node/k10s](https://github.com/p10node/k10s)  |  301 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
+|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  591 :star:  |  [google/ax](https://github.com/google/ax)  |  13.4K :star:  |
+|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  6.7K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  221 :star:  |
+|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  9.7K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  89 :star:  |
+|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  45.3K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  281 :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  79.7K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  4.5K :star:  |
 |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.8K :star:  |
-|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  27.9K :star:  |
-|  [nuta/ftl](https://github.com/nuta/ftl)  |  298 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  45.9K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  29 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  28.2K :star:  |
+|  [nuta/ftl](https://github.com/nuta/ftl)  |  298 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  46.1K :star:  |
 |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  158 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.8K :star:  |
 |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  4.6K :star:  |  [testdouble/han](https://github.com/testdouble/han)  |  281 :star:  |
 |  [germondai/trawl](https://github.com/germondai/trawl)  |  971 :star:  |  [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)  |  1.5K :star:  |
 |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.5K :star:  |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)  |  6.3K :star:  |
-|  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  99.8K :star:  |  [redhat-et/ripwire](https://github.com/redhat-et/ripwire)  |  2.4K :star:  |
 
-<sup><sub>Last updated: October 11, 2026 at 00:05:28 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 11, 2026 at 10:38:19 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
