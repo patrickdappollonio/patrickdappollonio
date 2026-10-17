@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  707 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.2K :star:  |
+|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  711 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.2K :star:  |
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  494 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  998 :star:  |
 |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  16.4K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.5K :star:  |
-|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  173 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  103.3K :star:  |
-|  [morluto/rea](https://github.com/morluto/rea)  |  296K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  337 :star:  |
+|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  173 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  103.4K :star:  |
+|  [morluto/rea](https://github.com/morluto/rea)  |  301.6K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  337 :star:  |
 |  [p10node/k10s](https://github.com/p10node/k10s)  |  319 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  743 :star:  |  [google/ax](https://github.com/google/ax)  |  13.8K :star:  |
-|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  9.5K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  230 :star:  |
-|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  13.3K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  91 :star:  |
-|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  65.4K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  289 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  82.1K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5K :star:  |
+|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  747 :star:  |  [google/ax](https://github.com/google/ax)  |  13.9K :star:  |
+|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  9.6K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  231 :star:  |
+|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  13.4K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  91 :star:  |
+|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  65.8K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  290 :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  82.2K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5K :star:  |
 |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  1.10K :star:  |
-|  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  30.4K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  30.5K :star:  |
 |  [nuta/ftl](https://github.com/nuta/ftl)  |  302 :star:  |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)  |  47.5K :star:  |
-|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  174 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.9K :star:  |
+|  [crmne/fastframe](https://github.com/crmne/fastframe)  |  175 :star:  |  [px0-ai/px0](https://github.com/px0-ai/px0)  |  1.9K :star:  |
 
-<sup><sub>Last updated: October 17, 2026 at 04:15:08 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 17, 2026 at 10:58:39 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
