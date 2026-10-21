@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  1.9K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  307 :star:  |
-|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  99 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  187 :star:  |
+|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  1.10K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  307 :star:  |
+|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  99 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  189 :star:  |
 |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  740 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.4K :star:  |
-|  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  508 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1K :star:  |
+|  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  509 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1K :star:  |
 |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  17.3K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.5K :star:  |
-|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  173 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  105.6K :star:  |
-|  [morluto/rea](https://github.com/morluto/rea)  |  355.4K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  340 :star:  |
-|  [p10node/k10s](https://github.com/p10node/k10s)  |  326 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  781 :star:  |  [google/ax](https://github.com/google/ax)  |  14K :star:  |
+|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  174 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  105.7K :star:  |
+|  [morluto/rea](https://github.com/morluto/rea)  |  357.4K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  341 :star:  |
+|  [p10node/k10s](https://github.com/p10node/k10s)  |  327 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
+|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  782 :star:  |  [google/ax](https://github.com/google/ax)  |  14K :star:  |
 |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.3K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  233 :star:  |
 |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.2K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  93 :star:  |
-|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  70.4K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  293 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  84.3K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.3K :star:  |
+|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  70.6K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  293 :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  84.4K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.4K :star:  |
 |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |  [crmne/zapfast](https://github.com/crmne/zapfast)  |  2.1K :star:  |
-|  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  35.4K :star:  |
+|  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |  [cloudflare/security-audit-skil...](https://github.com/cloudflare/security-audit-skill)  |  36.3K :star:  |
 
-<sup><sub>Last updated: October 21, 2026 at 12:37:47 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 21, 2026 at 19:00:44 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
