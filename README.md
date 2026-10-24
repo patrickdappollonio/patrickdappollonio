@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  29K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  30.5K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
 |  [av/skills](https://github.com/av/skills)  |  27 :star:  |  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |
-|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  2.8K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
-|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  103 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  196 :star:  |
-|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  751 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.5K :star:  |
+|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  2.9K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
+|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  104 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  196 :star:  |
+|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  753 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.5K :star:  |
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  511 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1.1K :star:  |
-|  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  18.2K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.6K :star:  |
-|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  175 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  106.7K :star:  |
-|  [morluto/rea](https://github.com/morluto/rea)  |  374.9K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  342 :star:  |
-|  [p10node/k10s](https://github.com/p10node/k10s)  |  328 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  802 :star:  |  [google/ax](https://github.com/google/ax)  |  14.1K :star:  |
-|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.5K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  236 :star:  |
+|  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  18.3K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.6K :star:  |
+|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  175 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  106.8K :star:  |
+|  [morluto/rea](https://github.com/morluto/rea)  |  376.7K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  342 :star:  |
+|  [p10node/k10s](https://github.com/p10node/k10s)  |  326 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
+|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  804 :star:  |  [google/ax](https://github.com/google/ax)  |  14.1K :star:  |
+|  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.6K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  236 :star:  |
 |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.5K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  94 :star:  |
-|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  72.1K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  295 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  85.7K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.5K :star:  |
+|  [storytold/photocraft](https://github.com/storytold/photocraft)  |  72.2K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  295 :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  86K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.5K :star:  |
 
-<sup><sub>Last updated: October 24, 2026 at 04:38:48 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 24, 2026 at 11:23:55 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
