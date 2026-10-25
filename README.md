@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  31.5K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  32.1K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
 |  [av/skills](https://github.com/av/skills)  |  27 :star:  |  [velox-io/json](https://github.com/velox-io/json)  |  30 :star:  |
-|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
-|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  104 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  198 :star:  |
-|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  754 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.5K :star:  |
+|  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.1K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
+|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  106 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  199 :star:  |
+|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  755 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.5K :star:  |
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  511 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1.1K :star:  |
 |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  18.4K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.6K :star:  |
-|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  175 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  106.9K :star:  |
-|  [morluto/rea](https://github.com/morluto/rea)  |  378.3K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  342 :star:  |
+|  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  175 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  107K :star:  |
+|  [morluto/rea](https://github.com/morluto/rea)  |  379.2K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  342 :star:  |
 |  [p10node/k10s](https://github.com/p10node/k10s)  |  326 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  806 :star:  |  [google/ax](https://github.com/google/ax)  |  14.1K :star:  |
+|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  808 :star:  |  [google/ax](https://github.com/google/ax)  |  14.1K :star:  |
 |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.6K :star:  |  [cogsend/cogsend](https://github.com/cogsend/cogsend)  |  238 :star:  |
-|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.5K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  98 :star:  |
+|  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.6K :star:  |  [discobox-ai/discobox](https://github.com/discobox-ai/discobox)  |  99 :star:  |
 |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  72.4K :star:  |  [microsoft/tui-test](https://github.com/microsoft/tui-test)  |  295 :star:  |
-|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  86.3K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.6K :star:  |
+|  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  86.5K :star:  |  [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)  |  5.6K :star:  |
 
-<sup><sub>Last updated: October 24, 2026 at 18:14:30 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 24, 2026 at 23:16:01 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
