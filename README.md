@@ -45,11 +45,14 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  38.4K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.8K :star:  |
-|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  900 :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.8K :star:  |
-|  [antirez/youcam](https://github.com/antirez/youcam)  |  23 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  73.3K :star:  |
-|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.2K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  89.1K :star:  |
-|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  39.1K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  592 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  392.5K :star:  |
+|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  149 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  326 :star:  |
+|  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  820 :star:  |
+|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  38.6K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.8K :star:  |
+|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  908 :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.8K :star:  |
+|  [antirez/youcam](https://github.com/antirez/youcam)  |  23 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  73.5K :star:  |
+|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.2K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  89.4K :star:  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  39.6K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
 |  [av/skills](https://github.com/av/skills)  |  28 :star:  |  [velox-io/json](https://github.com/velox-io/json)  |  31 :star:  |
 |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.4K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
 |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  106 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  203 :star:  |
@@ -57,9 +60,6 @@ My personal favourite projects are :pushpin: pinned below!
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  510 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1.1K :star:  |
 |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  18.9K :star:  |  [firelex/jeff](https://github.com/firelex/jeff)  |  1.6K :star:  |
 |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  175 :star:  |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  |  107.7K :star:  |
-|  [morluto/rea](https://github.com/morluto/rea)  |  391.4K :star:  |  [wong2/cf-mailroom](https://github.com/wong2/cf-mailroom)  |  343 :star:  |
-|  [p10node/k10s](https://github.com/p10node/k10s)  |  326 :star:  |  [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)  |  85 :star:  |
-|  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  820 :star:  |  [google/ax](https://github.com/google/ax)  |  14.1K :star:  |
 
-<sup><sub>Last updated: October 26, 2026 at 19:34:02 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 26, 2026 at 23:46:17 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
