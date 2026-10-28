@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.5K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  19.2K :star:  |
-|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  1.6K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  176 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  674 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  400.7K :star:  |
-|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  316 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  327 :star:  |
+|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.5K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  19.3K :star:  |
+|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  1.7K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  176 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  678 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  401.10K :star:  |
+|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  329 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  327 :star:  |
 |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  1K :star:  |
 |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  39.9K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  10.9K :star:  |
-|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  971 :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.9K :star:  |
-|  [antirez/youcam](https://github.com/antirez/youcam)  |  31 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  74.2K :star:  |
-|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.4K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  91.7K :star:  |
-|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  43.2K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
+|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  992 :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  14.10K :star:  |
+|  [antirez/youcam](https://github.com/antirez/youcam)  |  33 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  74.3K :star:  |
+|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.4K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  92.4K :star:  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  43.6K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
 |  [av/skills](https://github.com/av/skills)  |  28 :star:  |  [velox-io/json](https://github.com/velox-io/json)  |  32 :star:  |
 |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.6K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  310 :star:  |
 |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  106 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  208 :star:  |
 |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  768 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.8K :star:  |
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  513 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1.1K :star:  |
 
-<sup><sub>Last updated: October 28, 2026 at 10:51:10 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 28, 2026 at 16:45:53 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
