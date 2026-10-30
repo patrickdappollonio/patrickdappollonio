@@ -47,19 +47,19 @@ My personal favourite projects are :pushpin: pinned below!
 |------------|-------|------------|-------|
 |  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.6K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  19.6K :star:  |
 |  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  1.8K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  176 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  725 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  410.8K :star:  |
-|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  392 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  328 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  727 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  411.8K :star:  |
+|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  394 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  328 :star:  |
 |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  1.1K :star:  |
-|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  40.2K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  11K :star:  |
-|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  1K :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  15.1K :star:  |
-|  [antirez/youcam](https://github.com/antirez/youcam)  |  37 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  75.1K :star:  |
-|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.4K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  96.6K :star:  |
-|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  46.2K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
+|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  40.2K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  11.1K :star:  |
+|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  1.1K :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  15.1K :star:  |
+|  [antirez/youcam](https://github.com/antirez/youcam)  |  37 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  75.2K :star:  |
+|  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.5K :star:  |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  |  96.9K :star:  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  46.6K :star:  |  [arkiecompany/crosspost-rs](https://github.com/arkiecompany/crosspost-rs)  |  3 :star:  |
 |  [av/skills](https://github.com/av/skills)  |  28 :star:  |  [velox-io/json](https://github.com/velox-io/json)  |  32 :star:  |
 |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.7K :star:  |  [nuta/ftl](https://github.com/nuta/ftl)  |  312 :star:  |
-|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  107 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  209 :star:  |
-|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  770 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.10K :star:  |
+|  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  107 :star:  |  [crmne/fastframe](https://github.com/crmne/fastframe)  |  210 :star:  |
+|  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  771 :star:  |  [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  |  5.10K :star:  |
 |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  514 :star:  |  [germondai/trawl](https://github.com/germondai/trawl)  |  1.1K :star:  |
 
-<sup><sub>Last updated: October 30, 2026 at 10:49:12 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: October 30, 2026 at 16:23:51 EDT. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
