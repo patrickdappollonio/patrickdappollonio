@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  862 :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.7K :star:  |
-|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  5K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  50.5K :star:  |
+|  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  923 :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.7K :star:  |
+|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  5.4K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  50.8K :star:  |
 |  [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)  |  2.2K :star:  |  [av/skills](https://github.com/av/skills)  |  28 :star:  |
-|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  4.5K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.9K :star:  |
-|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  4.1K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  109 :star:  |
-|  [firezone/sanstun](https://github.com/firezone/sanstun)  |  95 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  775 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  6.3K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  516 :star:  |
-|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.7K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  20.1K :star:  |
+|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  4.6K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  3.9K :star:  |
+|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  4.2K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  109 :star:  |
+|  [firezone/sanstun](https://github.com/firezone/sanstun)  |  101 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  775 :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  6.9K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  516 :star:  |
+|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.8K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  20.1K :star:  |
 |  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  1.9K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  752 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  423.1K :star:  |
-|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  454 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  329 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  756 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  425K :star:  |
+|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  465 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  329 :star:  |
 |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  1.1K :star:  |
-|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  40.7K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  11.2K :star:  |
-|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  1.1K :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  15.3K :star:  |
-|  [antirez/youcam](https://github.com/antirez/youcam)  |  42 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  76.2K :star:  |
+|  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  40.8K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  11.3K :star:  |
+|  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  1.1K :star:  |  [storytold/lightcraft](https://github.com/storytold/lightcraft)  |  15.4K :star:  |
+|  [antirez/youcam](https://github.com/antirez/youcam)  |  42 :star:  |  [storytold/photocraft](https://github.com/storytold/photocraft)  |  76.4K :star:  |
 
-<sup><sub>Last updated: November 02, 2026 at 20:59:39 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 03, 2026 at 06:37:29 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
