@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  84 :star:  |  [mantrakp04/ardia](https://github.com/mantrakp04/ardia)  |  1.7K :star:  |
+|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  87 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  1.8K :star:  |
 |  [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)  |  1.9K :star:  |  [antirez/youcam](https://github.com/antirez/youcam)  |  47 :star:  |
 |  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.3K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.8K :star:  |
-|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  8.5K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  56.3K :star:  |
+|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  8.6K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  56.5K :star:  |
 |  [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)  |  2.3K :star:  |  [av/skills](https://github.com/av/skills)  |  28 :star:  |
-|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  5.7K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.1K :star:  |
-|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  6.3K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  110 :star:  |
+|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  5.7K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.2K :star:  |
+|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  6.4K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  110 :star:  |
 |  [firezone/sanstun](https://github.com/firezone/sanstun)  |  109 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  790 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  14.4K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  598 :star:  |
-|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  21K :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  14.5K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  598 :star:  |
+|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  21.1K :star:  |
 |  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.1K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  780 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  451.9K :star:  |
-|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  526 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  330 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  780 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  452.6K :star:  |
+|  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  530 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  330 :star:  |
 |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |  [openqodex/openqodex](https://github.com/openqodex/openqodex)  |  1.1K :star:  |
 |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.4K :star:  |  [storytold/vectorcraft](https://github.com/storytold/vectorcraft)  |  11.6K :star:  |
 
-<sup><sub>Last updated: November 11, 2026 at 10:51:14 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 11, 2026 at 17:28:18 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
