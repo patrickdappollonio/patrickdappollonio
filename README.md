@@ -45,9 +45,9 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  517 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
-|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  1.2K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.5K :star:  |
-|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  195 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.2K :star:  |
+|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  518 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
+|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  1.3K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.5K :star:  |
+|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  198 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.2K :star:  |
 |  [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)  |  1.9K :star:  |  [antirez/youcam](https://github.com/antirez/youcam)  |  47 :star:  |
 |  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.4K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.8K :star:  |
 |  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  8.9K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  57.4K :star:  |
@@ -55,11 +55,11 @@ My personal favourite projects are :pushpin: pinned below!
 |  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  6.1K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.2K :star:  |
 |  [anomalyco/hex](https://github.com/anomalyco/hex)  |  6.6K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  110 :star:  |
 |  [firezone/sanstun](https://github.com/firezone/sanstun)  |  109 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  791 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  15.6K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  600 :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  15.7K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  600 :star:  |
 |  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  21.4K :star:  |
-|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.3K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  784 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  457.3K :star:  |
+|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.4K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  785 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  457.7K :star:  |
 |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  535 :star:  |  [p10node/k10s](https://github.com/p10node/k10s)  |  333 :star:  |
 
-<sup><sub>Last updated: November 13, 2026 at 14:13:16 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 13, 2026 at 19:39:28 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
