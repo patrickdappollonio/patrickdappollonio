@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  8.5K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  548 :star:  |
-|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  528 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
-|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  1.8K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.7K :star:  |
-|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  241 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.4K :star:  |
+|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  9.1K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  549 :star:  |
+|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  529 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
+|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  1.9K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.8K :star:  |
+|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  244 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.4K :star:  |
 |  [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)  |  1.9K :star:  |  [antirez/youcam](https://github.com/antirez/youcam)  |  47 :star:  |
-|  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.4K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.8K :star:  |
-|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.2K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  58.6K :star:  |
+|  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.4K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  1.9K :star:  |
+|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.2K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  58.7K :star:  |
 |  [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)  |  2.3K :star:  |  [av/skills](https://github.com/av/skills)  |  28 :star:  |
-|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  7.1K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.3K :star:  |
+|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  7.2K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.3K :star:  |
 |  [anomalyco/hex](https://github.com/anomalyco/hex)  |  7.1K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  110 :star:  |
 |  [firezone/sanstun](https://github.com/firezone/sanstun)  |  109 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  789 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  17.2K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  601 :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  17.3K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  601 :star:  |
 |  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  21.7K :star:  |
 |  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.4K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
-|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  785 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  463.7K :star:  |
+|  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  785 :star:  |  [morluto/rea](https://github.com/morluto/rea)  |  464.3K :star:  |
 
-<sup><sub>Last updated: November 16, 2026 at 12:56:43 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 16, 2026 at 21:46:08 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
