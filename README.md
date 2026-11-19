@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [leostera/git-twig](https://github.com/leostera/git-twig)  |  264 :star:  |  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  788 :star:  |
-|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  11K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  554 :star:  |
-|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  537 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
-|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  2.5K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  41.10K :star:  |
-|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  264 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.6K :star:  |
+|  [leostera/git-twig](https://github.com/leostera/git-twig)  |  265 :star:  |  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  789 :star:  |
+|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  11.2K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  554 :star:  |
+|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  538 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
+|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  2.6K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  42K :star:  |
+|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  264 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.7K :star:  |
 |  [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)  |  1.9K :star:  |  [antirez/youcam](https://github.com/antirez/youcam)  |  47 :star:  |
 |  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.4K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  2.1K :star:  |
-|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.5K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  59.5K :star:  |
+|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.5K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  59.6K :star:  |
 |  [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)  |  2.3K :star:  |  [av/skills](https://github.com/av/skills)  |  28 :star:  |
-|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  7.7K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.4K :star:  |
-|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  7.5K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  111 :star:  |
+|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  7.8K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.4K :star:  |
+|  [anomalyco/hex](https://github.com/anomalyco/hex)  |  7.6K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  111 :star:  |
 |  [firezone/sanstun](https://github.com/firezone/sanstun)  |  109 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  790 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  18.5K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  602 :star:  |
-|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  21.10K :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  18.7K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  603 :star:  |
+|  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  1.9K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  22K :star:  |
 |  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.4K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
 
-<sup><sub>Last updated: November 19, 2026 at 07:29:37 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 19, 2026 at 17:53:51 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
