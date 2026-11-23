@@ -45,21 +45,21 @@ My personal favourite projects are :pushpin: pinned below!
 
 | Repository | Stars | Repository | Stars |
 |------------|-------|------------|-------|
-|  [leostera/git-twig](https://github.com/leostera/git-twig)  |  283 :star:  |  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  792 :star:  |
-|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  12.4K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  557 :star:  |
-|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  539 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
-|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  2.10K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  42.2K :star:  |
-|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  281 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.9K :star:  |
+|  [leostera/git-twig](https://github.com/leostera/git-twig)  |  286 :star:  |  [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)  |  792 :star:  |
+|  [libracoder/kiri](https://github.com/libracoder/kiri)  |  12.6K :star:  |  [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)  |  559 :star:  |
+|  [scosman/Biscotti](https://github.com/scosman/Biscotti)  |  540 :star:  |  [LDNOOBW/List-of-Dirty-Naughty-...](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)  |  3.5K :star:  |
+|  [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)  |  3.1K :star:  |  [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)  |  42.2K :star:  |
+|  [PDG-Global/rVPN-core](https://github.com/PDG-Global/rVPN-core)  |  283 :star:  |  [ardia-browser/ardia](https://github.com/ardia-browser/ardia)  |  2.9K :star:  |
 |  [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)  |  1.9K :star:  |  [antirez/youcam](https://github.com/antirez/youcam)  |  47 :star:  |
 |  [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)  |  1.5K :star:  |  [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)  |  2.1K :star:  |
-|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.9K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  60.4K :star:  |
+|  [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)  |  9.10K :star:  |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)  |  60.5K :star:  |
 |  [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)  |  2.3K :star:  |  [av/skills](https://github.com/av/skills)  |  28 :star:  |
-|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  7.10K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.4K :star:  |
+|  [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  |  8K :star:  |  [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)  |  4.4K :star:  |
 |  [anomalyco/hex](https://github.com/anomalyco/hex)  |  8.2K :star:  |  [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)  |  111 :star:  |
-|  [firezone/sanstun](https://github.com/firezone/sanstun)  |  110 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  789 :star:  |
-|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  20.4K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  606 :star:  |
+|  [firezone/sanstun](https://github.com/firezone/sanstun)  |  110 :star:  |  [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)  |  791 :star:  |
+|  [heydamir/unslop](https://github.com/heydamir/unslop)  |  20.8K :star:  |  [gholtzap/lintapple](https://github.com/gholtzap/lintapple)  |  606 :star:  |
 |  [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio)  |  2.1K :star:  |  [latent-spaces/brag](https://github.com/latent-spaces/brag)  |  22.3K :star:  |
-|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.4K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
+|  [indexable-inc/blaze](https://github.com/indexable-inc/blaze)  |  2.5K :star:  |  [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)  |  179 :star:  |
 
-<sup><sub>Last updated: November 23, 2026 at 00:50:26 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
+<sup><sub>Last updated: November 23, 2026 at 14:50:25 EST. The content here updates twice daily or when manually triggered. Want this? [**Check how to do it here!**](./HOWTO.md)</sup></sub>
 
